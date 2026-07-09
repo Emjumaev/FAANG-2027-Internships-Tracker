@@ -1,0 +1,88 @@
+name: Update internship listings
+
+# Two-branch layout: `main` holds only README.md + these workflows; all
+# scraper source and data history live on the `scraper` branch. This workflow
+# (cron only reads workflows from the default branch) checks out the scraper
+# branch to run, pushes data changes back to `scraper`, and publishes the
+# regenerated README to `main`.
+
+on:
+  schedule:
+    - cron: "17 */6 * * *" # every 6 hours (offset to avoid the top-of-hour rush)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: update-listings
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: scraper
+
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: site
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Scrape careers pages
+        id: scrape
+        run: python -m scraper.main
+
+      - name: Push data history to scraper branch
+        run: |
+          git config user.name "internship-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "no data changes"
+          else
+            git commit -m "update data (+${{ steps.scrape.outputs.added }} / -${{ steps.scrape.outputs.closed }})"
+            git push origin scraper
+          fi
+
+      - name: Publish README to main
+        run: |
+          cp README.md site/README.md
+          cd site
+          git config user.name "internship-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "no README changes"
+            exit 0
+          fi
+          MSG="update listings"
+          if [ "${{ steps.scrape.outputs.added }}" != "0" ]; then
+            MSG="🆕 ${{ steps.scrape.outputs.added }} new internship(s)"
+          fi
+          git commit -m "$MSG (+${{ steps.scrape.outputs.added }} / -${{ steps.scrape.outputs.closed }})"
+          git push origin main
+
+      - name: Open an issue if a scraper broke
+        if: steps.scrape.outputs.failed != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TITLE="scraper failure: $(python -c "import json;d=json.load(open('data/health.json'));print(', '.join(sorted(d['failed'])))")"
+          BODY=$(python -c "import json;d=json.load(open('data/health.json'));print('\n'.join('- **%s**: %s' % kv for kv in sorted(d['failed'].items())))")
+          gh label create scraper-health --color D93F0B --description "a careers-API scraper is failing" 2>/dev/null || true
+          # avoid duplicate issues for the same breakage
+          if ! gh issue list --state open --search "$TITLE in:title" --json title -q '.[].title' | grep -qF "$TITLE"; then
+            gh issue create --title "$TITLE" --body "$BODY
+
+          A company careers API changed or is temporarily down. Existing listings for it are preserved until it scrapes successfully again. The scraper source lives on the \`scraper\` branch." --label scraper-health || true
+          fi

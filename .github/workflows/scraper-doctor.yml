@@ -1,0 +1,60 @@
+# AI self-healing: when the update workflow opens a scraper-health issue,
+# Claude investigates the broken company API and opens a PR with a fix.
+#
+# Requires the ANTHROPIC_API_KEY repository secret (Settings → Secrets →
+# Actions). Without it this workflow skips silently — the pipeline still
+# works, you just fix broken scrapers by hand.
+name: Scraper doctor
+
+on:
+  issues:
+    types: [opened, labeled]
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+jobs:
+  diagnose:
+    if: contains(github.event.issue.labels.*.name, 'scraper-health')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check for API key
+        id: key
+        run: |
+          if [ -n "${{ secrets.ANTHROPIC_API_KEY }}" ]; then
+            echo "present=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.key.outputs.present == 'true'
+        with:
+          ref: scraper
+
+      - uses: anthropics/claude-code-action@v1
+        if: steps.key.outputs.present == 'true'
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          prompt: |
+            A company careers-API scraper in this repo is failing. The issue
+            describes which company and the error:
+
+            Title: ${{ github.event.issue.title }}
+            Body: ${{ github.event.issue.body }}
+
+            Investigate why. Curl the company's current careers site to see
+            whether the API moved, changed shape, or now needs different
+            params/headers (scraper configs live in scraper/companies.py,
+            fetch logic in scraper/adapters/). Fix the scraper, verify your
+            fix by running: python -m scraper.main "<Company Name>"
+            (it must print an [ok] line with a plausible posting count), then
+            open a pull request with the fix that references issue
+            #${{ github.event.issue.number }}. The scraper source lives on the
+            'scraper' branch (you are checked out on it) — base your PR on the
+            'scraper' branch, NOT main. If the site now requires a real
+            browser or is otherwise unscrapeable, instead comment your
+            findings on the issue and move the company to the UNSUPPORTED
+            dict in scraper/companies.py via a PR.
+          claude_args: "--allowedTools Bash,Read,Write,Edit,Glob,Grep"

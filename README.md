@@ -303,14 +303,14 @@ GitHub Actions.
 
 ## How this works
 
-A [Python scraper](scraper/) queries each company's official careers API
-(Greenhouse, Ashby, Workday, Eightfold or their in-house endpoints), filters
-titles matching *intern / internship / co-op*, keeps only software-engineering
-roles ([scraper/categories.py](scraper/categories.py)), and diffs against
-[`data/jobs.json`](data/jobs.json). A GitHub Actions
-[workflow](.github/workflows/update.yml) runs it on a cron schedule and commits
-only when something changed. Positions that disappear from a careers page are
-closed automatically.
+A [Python scraper](https://github.com/Emjumaev/FAANG-2027-Internships-Tracker/tree/scraper/scraper) (kept on the `scraper` branch
+so this page stays front and center) queries each company's official careers
+API (Greenhouse, Ashby, Workday, Eightfold or their in-house endpoints),
+filters titles matching *intern / internship / co-op*, keeps only
+software-engineering roles ([categories.py](https://github.com/Emjumaev/FAANG-2027-Internships-Tracker/blob/scraper/scraper/categories.py)),
+and diffs against [`data/jobs.json`](https://github.com/Emjumaev/FAANG-2027-Internships-Tracker/blob/scraper/data/jobs.json).
+A GitHub Actions [workflow](https://github.com/Emjumaev/FAANG-2027-Internships-Tracker/blob/main/.github/workflows/update.yml)
+runs it on a cron schedule and commits only when something changed. Positions
+that disappear from a careers page are closed automatically.
 
 Found a problem or want another company added? Open an issue or PR.
-# FAANG-2027-Internships-Tracker
