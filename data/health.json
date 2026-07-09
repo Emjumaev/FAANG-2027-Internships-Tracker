@@ -1,0 +1,33 @@
+{
+  "failed": {},
+  "succeeded": [
+    "Adobe",
+    "Airbnb",
+    "Amazon",
+    "Anthropic",
+    "Apple",
+    "Bloomberg",
+    "Cisco",
+    "Cloudflare",
+    "Databricks",
+    "GitHub",
+    "Google",
+    "Hudson River Trading",
+    "Intel",
+    "Jane Street",
+    "Meta",
+    "Microsoft",
+    "NVIDIA",
+    "Netflix",
+    "OpenAI",
+    "Oracle",
+    "PayPal",
+    "Pinterest",
+    "Salesforce",
+    "Snap",
+    "Snowflake",
+    "Spotify",
+    "Stripe",
+    "Uber"
+  ]
+}
