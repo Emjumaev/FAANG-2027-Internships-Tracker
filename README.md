@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-10 10:00:54 UTC** · 📌 **173** open internships
+> 🕐 Last updated: **2026-07-10 15:11:28 UTC** · 📌 **173** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -18,7 +18,7 @@ GitHub Actions.
 | Anthropic | — |
 | [Apple](#apple) | 11 |
 | Bloomberg | — |
-| [Cisco](#cisco) | 2 |
+| [Cisco](#cisco) | 1 |
 | [Cloudflare](#cloudflare) | 3 |
 | [Databricks](#databricks) | 1 |
 | GitHub | — |
@@ -26,7 +26,7 @@ GitHub Actions.
 | Hudson River Trading | — |
 | [Intel](#intel) | 14 |
 | [Jane Street](#jane-street) | 10 |
-| [Meta](#meta) | 14 |
+| [Meta](#meta) | 15 |
 | [Microsoft](#microsoft) | 10 |
 | [NVIDIA](#nvidia) | 21 |
 | [Netflix](#netflix) | 2 |
@@ -142,7 +142,6 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Development Intern (Cracow, Poland)](https://careers.cisco.com/global/en/job/2015133) 🆕 | Software | Krakow, Poland | 2026-05-18 | 2026-07-09 |
 | [ML Researcher Intern - Prague - Czechia](https://careers.cisco.com/global/en/job/2005347) 🆕 | AI/ML | Prague, Praha, Czechia | 2026-04-29 | 2026-07-09 |
 
 ## Cloudflare
@@ -208,6 +207,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Research Scientist Intern, Monetization Computer Vision (PhD)](https://www.metacareers.com/jobs/2281218542616482) 🆕 | AI/ML | Menlo Park, CA | — | 2026-07-10 |
 | [Research Scientist Intern, State Estimation for Dexterous Manipulation (PhD)](https://www.metacareers.com/jobs/2774289902955470) 🆕 | AI/ML | Redmond, WA | — | 2026-07-09 |
 | [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/2022109075207025) 🆕 | AI/ML | Pittsburgh, PA; Redmond, WA; Sausalito, CA | — | 2026-07-09 |
 | [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/924149567345400) 🆕 | AI/ML | London, UK | — | 2026-07-09 |
