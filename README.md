@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-10 15:11:28 UTC** · 📌 **173** open internships
+> 🕐 Last updated: **2026-07-10 20:00:20 UTC** · 📌 **168** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -24,10 +24,10 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 6 |
 | Hudson River Trading | — |
-| [Intel](#intel) | 14 |
+| [Intel](#intel) | 12 |
 | [Jane Street](#jane-street) | 10 |
 | [Meta](#meta) | 15 |
-| [Microsoft](#microsoft) | 10 |
+| [Microsoft](#microsoft) | 7 |
 | [NVIDIA](#nvidia) | 21 |
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
@@ -173,7 +173,6 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Silicon Performance Validation and Characterization Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310) 🆕 | QA | US, Arizona, Phoenix | — | 2026-07-09 |
 | [Pre-Silicon IP System Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Pre-Silicon-IP-System-Validation-Intern_JR0285538-1) 🆕 | QA | Malaysia, Penang | 2026-07-09 | 2026-07-09 |
 | [Pre-Silicon IP System Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Pre-Silicon-IP-System-Validation-Intern_JR0285543) 🆕 | QA | Malaysia, Penang | 2026-07-09 | 2026-07-09 |
 | [Memory Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Memory-Validation-Intern_JR0283301) 🆕 | QA | Mexico, Guadalajara | — | 2026-07-09 |
@@ -181,7 +180,6 @@ GitHub Actions.
 | [AI Algorithm Research Intern – Neuromorphic Computing](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/AI-Algorithm-Research-Intern---Neuromorphic-Computing_JR0283303) 🆕 | AI/ML | Mexico, Guadalajara | — | 2026-07-09 |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0285471) 🆕 | AI/ML | Poland, Gdansk | 2026-07-08 | 2026-07-09 |
 | [Electrical Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Electrical-Validation-Intern_JR0285377) 🆕 | QA | Mexico, Guadalajara | 2026-07-07 | 2026-07-09 |
-| [DTCO Data Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341) 🆕 | Data | US, Texas, Austin | 2026-07-07 | 2026-07-09 |
 | [Development Tools Software Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Development-Tools-Software-Intern_JR0285211) 🆕 | Software | Mexico, Guadalajara | 2026-07-02 | 2026-07-09 |
 | [Software Engineering Intern for Debug Tools](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Engineering-Intern-for-Debug-Tools_JR0285205) 🆕 | Software | Mexico, Guadalajara | 2026-07-01 | 2026-07-09 |
 | [Software Development Intern (Automation and AI Enablement)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Development-Intern--Automation-and-AI-Enablement-_JR0285207) 🆕 | AI/ML | Mexico, Guadalajara | 2026-06-30 | 2026-07-09 |
@@ -234,9 +232,6 @@ GitHub Actions.
 | [Applied Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556917519) 🆕 | AI/ML | India, Multiple Locations, Multiple Locations | 2026-06-30 | 2026-07-09 |
 | [Research Intern - Self-Improving AI](https://apply.careers.microsoft.com/careers/job/1970393556867858) 🆕 | AI/ML | United States, Massachusetts, Cambridge; United States, New York, New York | 2026-05-18 | 2026-07-09 |
 | [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556641091) 🆕 | AI/ML | India, Multiple Locations, Multiple Locations | 2026-02-27 | 2026-07-09 |
-| [Applied Science Intern](https://apply.careers.microsoft.com/careers/job/1970393556627170) 🆕 | AI/ML | United Kingdom, London, London | 2026-01-29 | 2026-07-09 |
-| [Applied Science Intern](https://apply.careers.microsoft.com/careers/job/1970393556627173) 🆕 | AI/ML | United Kingdom, London, London | 2026-01-29 | 2026-07-09 |
-| [Applied Sciences Internship](https://apply.careers.microsoft.com/careers/job/1970393556625311) 🆕 | AI/ML | Switzerland, Zürich, Zürich | 2026-01-28 | 2026-07-09 |
 
 ## NVIDIA
 
