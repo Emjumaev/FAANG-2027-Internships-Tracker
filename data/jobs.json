@@ -1345,8 +1345,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/AI-Algorithm-Research-Intern---Neuromorphic-Computing_JR0283303"
     },
     "intel:JR0284310": {
-      "active": true,
+      "active": false,
       "category": "QA",
+      "closed": "2026-07-10",
       "company": "Intel",
       "external_id": "JR0284310",
       "first_seen": "2026-07-09",
@@ -1429,8 +1430,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Development-Tools-Software-Intern_JR0285211"
     },
     "intel:JR0285341": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-07-10",
       "company": "Intel",
       "external_id": "JR0285341",
       "first_seen": "2026-07-09",
@@ -1863,8 +1865,9 @@
       "url": "https://www.metacareers.com/jobs/924149567345400"
     },
     "microsoft:1970393556625311": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-10",
       "company": "Microsoft",
       "external_id": "1970393556625311",
       "first_seen": "2026-07-09",
@@ -1877,8 +1880,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556625311"
     },
     "microsoft:1970393556627170": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-10",
       "company": "Microsoft",
       "external_id": "1970393556627170",
       "first_seen": "2026-07-09",
@@ -1891,8 +1895,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556627170"
     },
     "microsoft:1970393556627173": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-10",
       "company": "Microsoft",
       "external_id": "1970393556627173",
       "first_seen": "2026-07-09",
@@ -2526,5 +2531,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8031833"
     }
   },
-  "updated_at": "2026-07-10T15:11:28Z"
+  "updated_at": "2026-07-10T20:00:20Z"
 }
