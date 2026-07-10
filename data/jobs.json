@@ -1107,8 +1107,9 @@
       "url": "https://careers.cisco.com/global/en/job/2005347"
     },
     "cisco:2015133": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-07-10",
       "company": "Cisco",
       "external_id": "2015133",
       "first_seen": "2026-07-09",
@@ -1728,6 +1729,20 @@
       "posted": null,
       "title": "Research Scientist Intern, Embedded Contextual AI on Wearables (PhD)",
       "url": "https://www.metacareers.com/jobs/2160167211413098"
+    },
+    "meta:2281218542616482": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "external_id": "2281218542616482",
+      "first_seen": "2026-07-10",
+      "last_seen": "2026-07-10",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Monetization Computer Vision (PhD)",
+      "url": "https://www.metacareers.com/jobs/2281218542616482"
     },
     "meta:24536664159369645": {
       "active": true,
@@ -2511,5 +2526,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8031833"
     }
   },
-  "updated_at": "2026-07-10T10:00:54Z"
+  "updated_at": "2026-07-10T15:11:28Z"
 }
