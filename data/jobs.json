@@ -575,8 +575,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech"
     },
     "amazon:3122111": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-07-12",
       "company": "Amazon",
       "external_id": "3122111",
       "first_seen": "2026-07-09",
@@ -1938,8 +1939,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556641091"
     },
     "microsoft:1970393556768751": {
-      "active": true,
+      "active": false,
       "category": "Security",
+      "closed": "2026-07-12",
       "company": "Microsoft",
       "external_id": "1970393556768751",
       "first_seen": "2026-07-09",
@@ -2545,5 +2547,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8031833"
     }
   },
-  "updated_at": "2026-07-12T08:38:27Z"
+  "updated_at": "2026-07-12T14:04:05Z"
 }
