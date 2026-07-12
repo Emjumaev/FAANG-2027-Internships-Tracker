@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-12 08:38:27 UTC** · 📌 **169** open internships
+> 🕐 Last updated: **2026-07-12 14:04:05 UTC** · 📌 **167** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -14,7 +14,7 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 2 |
 | Airbnb | — |
-| [Amazon](#amazon) | 65 |
+| [Amazon](#amazon) | 64 |
 | Anthropic | — |
 | [Apple](#apple) | 11 |
 | Bloomberg | — |
@@ -27,7 +27,7 @@ GitHub Actions.
 | [Intel](#intel) | 13 |
 | [Jane Street](#jane-street) | 10 |
 | [Meta](#meta) | 15 |
-| [Microsoft](#microsoft) | 7 |
+| [Microsoft](#microsoft) | 6 |
 | [NVIDIA](#nvidia) | 21 |
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
@@ -111,7 +111,6 @@ GitHub Actions.
 | [2026 Data Scientist Internship , Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3125279/2026-data-scientist-internship-amazon-university-talent-acquisition) 🆕 | Data | Luxembourg, LUX | 2025-11-12 | 2026-07-09 |
 | [Software Development Engineer Internship, Mexico City](https://www.amazon.jobs/en/jobs/3123246/software-development-engineer-internship-mexico-city) 🆕 | Software | Mexico City, Mexico City, MEX | 2025-11-07 | 2026-07-09 |
 | [Software Development Engineer Internship, Guadalajara](https://www.amazon.jobs/en/jobs/3123243/software-development-engineer-internship-guadalajara) 🆕 | Software | Zapopan, Jalisco, MEX | 2025-11-07 | 2026-07-09 |
-| [2026 Software Dev Engineer Intern - Tel-Aviv, Israel](https://www.amazon.jobs/en/jobs/3122111/2026-software-dev-engineer-intern-tel-aviv-israel) 🆕 | Software | Tel Aviv-Yafo, Tel Aviv, ISR | 2025-11-06 | 2026-07-09 |
 | [Software Development Intern, Intech](https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech) 🆕 | Software | BRA | 2025-11-04 | 2026-07-09 |
 | [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition) 🆕 | AI/ML | Barcelona, Catalonia, ESP | 2025-11-03 | 2026-07-09 |
 | [Software Development Engineer Internship - Fall 2026 (US)](https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us) 🆕 | Software | Seattle, Washington, USA | 2025-10-27 | 2026-07-09 |
@@ -226,7 +225,6 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Security Research Intern](https://apply.careers.microsoft.com/careers/job/1970393556768751) 🆕 | Security | Israel, Multiple Locations, Multiple Locations | 2026-07-05 | 2026-07-09 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556875247) 🆕 | Software | Brazil, Multiple Locations, Multiple Locations | 2026-07-02 | 2026-07-09 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556911730) 🆕 | Software | India, Multiple Locations, Multiple Locations | 2026-07-01 | 2026-07-09 |
 | [Data Science INTERN](https://apply.careers.microsoft.com/careers/job/1970393556917520) 🆕 | Data | India, Multiple Locations, Multiple Locations | 2026-06-30 | 2026-07-09 |
