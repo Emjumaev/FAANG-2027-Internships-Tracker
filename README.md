@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-13 09:55:17 UTC** · 📌 **167** open internships
+> 🕐 Last updated: **2026-07-13 15:20:57 UTC** · 📌 **165** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -24,14 +24,14 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 6 |
 | Hudson River Trading | — |
-| [Intel](#intel) | 13 |
+| [Intel](#intel) | 12 |
 | [Jane Street](#jane-street) | 10 |
 | [Meta](#meta) | 15 |
 | [Microsoft](#microsoft) | 6 |
 | [NVIDIA](#nvidia) | 21 |
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
-| [Oracle](#oracle) | 6 |
+| [Oracle](#oracle) | 5 |
 | PayPal | — |
 | [Pinterest](#pinterest) | 1 |
 | Salesforce | — |
@@ -184,7 +184,6 @@ GitHub Actions.
 | [Software Engineering Intern for Debug Tools](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Engineering-Intern-for-Debug-Tools_JR0285205) 🆕 | Software | Mexico, Guadalajara | 2026-07-01 | 2026-07-09 |
 | [Software Development Intern (Automation and AI Enablement)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Development-Intern--Automation-and-AI-Enablement-_JR0285207) 🆕 | AI/ML | Mexico, Guadalajara | 2026-06-30 | 2026-07-09 |
 | [Silicon Validation Eng Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Silicon-Validation-Eng-Undergraduate-Intern_JR0284892) 🆕 | QA | Malaysia, Penang | 2026-06-24 | 2026-07-09 |
-| [Middleware Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0284874) 🆕 | Software | Poland, Gdansk | 2026-06-19 | 2026-07-09 |
 
 ## Jane Street
 
@@ -274,7 +273,6 @@ GitHub Actions.
 | [OCI Software Engineer Intern - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334325) 🆕 | Software | Santa Clara, CA, United States; Seattle, WA, United States; United States | 2026-05-22 | 2026-07-09 |
 | [OCI Software Engineer Intern - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334333) 🆕 | Software | Austin, TX, United States; Nashville, TN, United States; United States | 2026-05-22 | 2026-07-09 |
 | [GDI Information Security Analyst Intern - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334389) 🆕 | Security | Austin, TX, United States; Reston, VA, United States; United States | 2026-05-20 | 2026-07-09 |
-| [OCI Network Development Engineer Intern - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334335) 🆕 | Backend/Infra | Austin, TX, United States; Nashville, TN, United States; United States | 2026-05-19 | 2026-07-09 |
 
 ## Pinterest
 
