@@ -1376,8 +1376,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Silicon-Performance-Validation-and-Characterization-Intern_JR0284310"
     },
     "intel:JR0284874": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-07-13",
       "company": "Intel",
       "external_id": "JR0284874",
       "first_seen": "2026-07-09",
@@ -2409,8 +2410,9 @@
       "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334333"
     },
     "oracle:334335": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-07-13",
       "company": "Oracle",
       "external_id": "334335",
       "first_seen": "2026-07-09",
@@ -2562,5 +2564,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8031833"
     }
   },
-  "updated_at": "2026-07-13T09:55:17Z"
+  "updated_at": "2026-07-13T15:20:57Z"
 }
