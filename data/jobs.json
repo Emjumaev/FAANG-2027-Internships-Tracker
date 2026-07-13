@@ -183,8 +183,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10385882/2026-applied-scientist-intern-amazon-university-talent-acquisition"
     },
     "amazon:10387163": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-07-13",
       "company": "Amazon",
       "external_id": "10387163",
       "first_seen": "2026-07-09",
@@ -1317,6 +1318,23 @@
       "posted": "2025-09-29",
       "title": "Student Researcher, PhD, Winter/Summer 2026",
       "url": "https://www.google.com/about/careers/applications/jobs/results/97480706799608518"
+    },
+    "hudson-river-trading:8052083": {
+      "active": true,
+      "category": "Software",
+      "company": "Hudson River Trading",
+      "external_id": "8052083",
+      "first_seen": "2026-07-13",
+      "last_seen": "2026-07-13",
+      "locations": [
+        "Austin, TX, United States",
+        "Chicago, Illinois, United States",
+        "New York, NY, United States",
+        "Singapore"
+      ],
+      "posted": "2026-07-13",
+      "title": "Software Engineering Internship (C++ or Python) \u2013 Summer 2027",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083"
     },
     "intel:JR0283292": {
       "active": true,
@@ -2564,5 +2582,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8031833"
     }
   },
-  "updated_at": "2026-07-13T15:20:57Z"
+  "updated_at": "2026-07-13T19:58:20Z"
 }
