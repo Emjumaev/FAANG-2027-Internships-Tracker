@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-13 15:20:57 UTC** · 📌 **165** open internships
+> 🕐 Last updated: **2026-07-13 19:58:20 UTC** · 📌 **165** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -14,7 +14,7 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 2 |
 | Airbnb | — |
-| [Amazon](#amazon) | 64 |
+| [Amazon](#amazon) | 63 |
 | Anthropic | — |
 | [Apple](#apple) | 11 |
 | Bloomberg | — |
@@ -23,7 +23,7 @@ GitHub Actions.
 | [Databricks](#databricks) | 1 |
 | GitHub | — |
 | [Google](#google) | 6 |
-| Hudson River Trading | — |
+| [Hudson River Trading](#hudson-river-trading) | 1 |
 | [Intel](#intel) | 12 |
 | [Jane Street](#jane-street) | 10 |
 | [Meta](#meta) | 15 |
@@ -73,7 +73,6 @@ GitHub Actions.
 | [2026 Fall Applied Science Internship - Automated Reasoning - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10394156/2026-fall-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting) 🆕 | AI/ML | Seattle, Washington, USA | 2026-04-16 | 2026-07-09 |
 | [2026 Fall Applied Science Internship - Computer Vision - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10391901/2026-fall-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting) 🆕 | AI/ML | Seattle, Washington, USA | 2026-04-14 | 2026-07-09 |
 | [2026  Fall Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10391774/2026-fall-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) 🆕 | AI/ML | Seattle, Washington, USA | 2026-04-14 | 2026-07-09 |
-| [Software Development Engineer Internship - Fall 2026 (Canada)](https://www.amazon.jobs/en/jobs/10387163/software-development-engineer-internship-fall-2026-canada) 🆕 | Software | Vancouver, British Columbia, CAN | 2026-04-09 | 2026-07-09 |
 | [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10385882/2026-applied-scientist-intern-amazon-university-talent-acquisition) 🆕 | AI/ML | Cairo, EGY | 2026-04-08 | 2026-07-09 |
 | [Software Dev Engineer Intern, (Manufacturing &Ops) 2026 Shenzhen](https://www.amazon.jobs/en/jobs/10377845/software-dev-engineer-intern-manufacturing-ops-2026-shenzhen) 🆕 | Software | Shenzhen, CHN | 2026-03-27 | 2026-07-09 |
 | [Software Dev Engineer Intern, (Sustaining Operations) 2026 Shanghai](https://www.amazon.jobs/en/jobs/10376736/software-dev-engineer-intern-sustaining-operations-2026-shanghai) 🆕 | Software | Shanghai, CHN | 2026-03-26 | 2026-07-09 |
@@ -167,6 +166,12 @@ GitHub Actions.
 | [Student Researcher, PhD, Winter/Summer 2026](https://www.google.com/about/careers/applications/jobs/results/97480706799608518) 🆕 | AI/ML | Montreal, QC, Canada; Toronto, ON, Canada; Waterloo, ON, Canada | 2025-09-29 | 2026-07-09 |
 | [Student Researcher, BS/MS, Winter/Summer 2026](https://www.google.com/about/careers/applications/jobs/results/123358125276177094) 🆕 | AI/ML | Montreal, QC, Canada; Toronto, ON, Canada; Waterloo, ON, Canada | 2025-09-29 | 2026-07-09 |
 | [Student Researcher, BS/MS, Winter/Summer 2026](https://www.google.com/about/careers/applications/jobs/results/140245524367188678) 🆕 | AI/ML | Ann Arbor, MI, USA; Atlanta, GA, USA; Austin, TX, USA *(+16 more)* | 2025-09-29 | 2026-07-09 |
+
+## Hudson River Trading
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [Software Engineering Internship (C++ or Python) – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) 🆕 | Software | Austin, TX, United States; Chicago, Illinois, United States; New York, NY, United States *(+1 more)* | 2026-07-13 | 2026-07-13 |
 
 ## Intel
 
