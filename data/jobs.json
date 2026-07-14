@@ -634,8 +634,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3123246/software-development-engineer-internship-mexico-city"
     },
     "amazon:3125279": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-07-14",
       "company": "Amazon",
       "external_id": "3125279",
       "first_seen": "2026-07-09",
@@ -662,8 +663,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3126072/software-development-engineer-internship-costa-rica"
     },
     "amazon:3126153": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-14",
       "company": "Amazon",
       "external_id": "3126153",
       "first_seen": "2026-07-09",
@@ -2533,8 +2535,9 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7255640"
     },
     "salesforce:JR337715": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-07-14",
       "company": "Salesforce",
       "external_id": "JR337715",
       "first_seen": "2026-07-14",
@@ -2632,5 +2635,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8031833"
     }
   },
-  "updated_at": "2026-07-14T14:22:32Z"
+  "updated_at": "2026-07-14T19:52:20Z"
 }
