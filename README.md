@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-14 08:35:45 UTC** · 📌 **161** open internships
+> 🕐 Last updated: **2026-07-14 14:22:32 UTC** · 📌 **160** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -28,15 +28,15 @@ GitHub Actions.
 | [Jane Street](#jane-street) | 11 |
 | [Meta](#meta) | 15 |
 | [Microsoft](#microsoft) | 6 |
-| [NVIDIA](#nvidia) | 16 |
+| [NVIDIA](#nvidia) | 15 |
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
 | [Oracle](#oracle) | 5 |
 | PayPal | — |
 | [Pinterest](#pinterest) | 1 |
-| Salesforce | — |
+| [Salesforce](#salesforce) | 1 |
 | Snap | — |
-| [Snowflake](#snowflake) | 5 |
+| [Snowflake](#snowflake) | 4 |
 | Spotify | — |
 | [Stripe](#stripe) | 1 |
 | Uber | — |
@@ -250,7 +250,6 @@ GitHub Actions.
 | [Machine Learning Intern - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern---2026_JR2016445) 🆕 | AI/ML | Hong Kong, STP | — | 2026-07-09 |
 | [DGX Cloud Kubernetes Runtime Intern - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DGX-Cloud-Kubernetes-Runtime-Intern---Fall-2026_JR2009619) 🆕 | Backend/Infra | US, CA, Santa Clara | — | 2026-07-09 |
 | [Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) 🆕 | AI/ML | US, CA, Santa Clara | — | 2026-07-09 |
-| [Solution Architecture Intern, AI in Industry - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Solution-Architecture-Intern--AI-in-Industry---2026_JR2014186) 🆕 | AI/ML | 3 Locations | 2026-07-06 | 2026-07-09 |
 | [Performance Engineer Intern, Systems Software-  Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779) 🆕 | Software | US, MO, St. Louis | 2026-07-06 | 2026-07-09 |
 | [Applied Research Intern, NLP - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) 🆕 | AI/ML | US, CA, Santa Clara | 2026-07-01 | 2026-07-09 |
 | [Java Engineering Intern - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769) 🆕 | Software | US, CA, Santa Clara | 2026-06-29 | 2026-07-09 |
@@ -280,6 +279,12 @@ GitHub Actions.
 |---|---|---|---|---|
 | [PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) 🆕 | AI/ML | New York, NY, US; Palo Alto, CA, US; San Francisco, CA, US *(+1 more)* | 2026-04-20 | 2026-07-09 |
 
+## Salesforce
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) 🆕 | Software | 2 Locations | 2026-07-14 | 2026-07-14 |
+
 ## Snowflake
 
 | Role | Category | Location | Posted | First seen |
@@ -287,7 +292,6 @@ GitHub Actions.
 | [AI-Powered BI Intern: Fall 2026](https://careers.snowflake.com/us/en/job/37e886ab-e05b-4f2a-9a41-61bfd89e660f) 🆕 | AI/ML | Menlo Park, California, United States | 2026-07-14 | 2026-07-14 |
 | [Software Engineer Intern - Berlin (2026)](https://careers.snowflake.com/us/en/job/3a9baeaf-b107-41fb-a9b3-a98ab78275ed) 🆕 | Software | Berlin, Germany | 2026-06-02 | 2026-07-09 |
 | [Software Engineer Intern (AI/ML) - 2026](https://careers.snowflake.com/us/en/job/4298e941-d129-4d7f-a965-faa68e6e599e) 🆕 | AI/ML | Warsaw, Poland | 2026-06-02 | 2026-07-09 |
-| [Research Intern (AI) - 2026](https://careers.snowflake.com/us/en/job/e70a0f78-05d9-4adc-873e-0ac43bf549d2) 🆕 | AI/ML | Warsaw, Poland | 2026-06-02 | 2026-07-09 |
 | [Software Engineer Intern - Zurich (2026)](https://careers.snowflake.com/us/en/job/a92a900c-56c2-4cf6-8c2e-fcd183a84e58) 🆕 | Software | Zurich, Switzerland | 2026-05-12 | 2026-07-09 |
 
 ## Stripe
