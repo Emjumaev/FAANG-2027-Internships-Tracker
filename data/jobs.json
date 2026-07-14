@@ -2217,8 +2217,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398"
     },
     "nvidia:JR2014186": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-14",
       "company": "NVIDIA",
       "external_id": "JR2014186",
       "first_seen": "2026-07-09",
@@ -2531,6 +2532,20 @@
       "title": "PhD Fall Machine Learning Intern (ATG \u2014 Visual, Multimodal, and Recommender Systems)",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7255640"
     },
+    "salesforce:JR337715": {
+      "active": true,
+      "category": "Software",
+      "company": "Salesforce",
+      "external_id": "JR337715",
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-14",
+      "locations": [
+        "2 Locations"
+      ],
+      "posted": "2026-07-14",
+      "title": "Summer 2027 Intern - Software Engineer",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715"
+    },
     "snowflake:37e886ab-e05b-4f2a-9a41-61bfd89e660f": {
       "active": true,
       "category": "AI/ML",
@@ -2588,8 +2603,9 @@
       "url": "https://careers.snowflake.com/us/en/job/a92a900c-56c2-4cf6-8c2e-fcd183a84e58"
     },
     "snowflake:e70a0f78-05d9-4adc-873e-0ac43bf549d2": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-14",
       "company": "Snowflake",
       "external_id": "e70a0f78-05d9-4adc-873e-0ac43bf549d2",
       "first_seen": "2026-07-09",
@@ -2616,5 +2632,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8031833"
     }
   },
-  "updated_at": "2026-07-14T08:35:45Z"
+  "updated_at": "2026-07-14T14:22:32Z"
 }
