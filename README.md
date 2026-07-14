@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-14 14:22:32 UTC** · 📌 **160** open internships
+> 🕐 Last updated: **2026-07-14 19:52:20 UTC** · 📌 **157** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -14,7 +14,7 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 2 |
 | Airbnb | — |
-| [Amazon](#amazon) | 63 |
+| [Amazon](#amazon) | 61 |
 | Anthropic | — |
 | [Apple](#apple) | 11 |
 | Bloomberg | — |
@@ -34,7 +34,7 @@ GitHub Actions.
 | [Oracle](#oracle) | 5 |
 | PayPal | — |
 | [Pinterest](#pinterest) | 1 |
-| [Salesforce](#salesforce) | 1 |
+| Salesforce | — |
 | Snap | — |
 | [Snowflake](#snowflake) | 4 |
 | Spotify | — |
@@ -105,8 +105,6 @@ GitHub Actions.
 | [2026 Applied Science Internship - United States, PhD Student Science Recruiting, Frontier AI & Robotics](https://www.amazon.jobs/en/jobs/3127861/2026-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics) 🆕 | AI/ML | San Francisco, California, USA | 2025-11-17 | 2026-07-09 |
 | [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3126764/2026-applied-scientist-intern-amazon-university-talent-acquisition) 🆕 | AI/ML | London, England, GBR | 2025-11-14 | 2026-07-09 |
 | [Software Development Engineer Internship, Costa Rica](https://www.amazon.jobs/en/jobs/3126072/software-development-engineer-internship-costa-rica) 🆕 | Software | San Jose, San Jose, CRI | 2025-11-13 | 2026-07-09 |
-| [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3126153/2026-applied-scientist-intern-amazon-university-talent-acquisition) 🆕 | AI/ML | Turin, Piedmont, ITA | 2025-11-13 | 2026-07-09 |
-| [2026 Data Scientist Internship , Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3125279/2026-data-scientist-internship-amazon-university-talent-acquisition) 🆕 | Data | Luxembourg, LUX | 2025-11-12 | 2026-07-09 |
 | [Software Development Engineer Internship, Mexico City](https://www.amazon.jobs/en/jobs/3123246/software-development-engineer-internship-mexico-city) 🆕 | Software | Mexico City, Mexico City, MEX | 2025-11-07 | 2026-07-09 |
 | [Software Development Engineer Internship, Guadalajara](https://www.amazon.jobs/en/jobs/3123243/software-development-engineer-internship-guadalajara) 🆕 | Software | Zapopan, Jalisco, MEX | 2025-11-07 | 2026-07-09 |
 | [Software Development Intern, Intech](https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech) 🆕 | Software | BRA | 2025-11-04 | 2026-07-09 |
@@ -278,12 +276,6 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) 🆕 | AI/ML | New York, NY, US; Palo Alto, CA, US; San Francisco, CA, US *(+1 more)* | 2026-04-20 | 2026-07-09 |
-
-## Salesforce
-
-| Role | Category | Location | Posted | First seen |
-|---|---|---|---|---|
-| [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) 🆕 | Software | 2 Locations | 2026-07-14 | 2026-07-14 |
 
 ## Snowflake
 
