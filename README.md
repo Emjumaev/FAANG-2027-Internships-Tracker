@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-15 08:43:46 UTC** · 📌 **157** open internships
+> 🕐 Last updated: **2026-07-15 14:19:47 UTC** · 📌 **160** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -27,7 +27,7 @@ GitHub Actions.
 | [Intel](#intel) | 11 |
 | [Jane Street](#jane-street) | 11 |
 | [Meta](#meta) | 15 |
-| [Microsoft](#microsoft) | 6 |
+| [Microsoft](#microsoft) | 7 |
 | [NVIDIA](#nvidia) | 15 |
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
@@ -39,7 +39,7 @@ GitHub Actions.
 | [Snowflake](#snowflake) | 4 |
 | Spotify | — |
 | [Stripe](#stripe) | 1 |
-| Uber | — |
+| [Uber](#uber) | 2 |
 | Citadel Securities | *no API — entire site behind a Cloudflare browser challenge; needs a headless browser* |
 | LinkedIn | *careers site only links to linkedin.com/jobs, which is authwalled and prohibits scraping* |
 
@@ -227,6 +227,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Research Science: Internship opportunities](https://apply.careers.microsoft.com/careers/job/1970393556630821) 🆕 | AI/ML | China, Beijing, Beijing; China, Shanghai, Shanghai | 2026-07-15 | 2026-07-15 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556875247) 🆕 | Software | Brazil, Multiple Locations, Multiple Locations | 2026-07-02 | 2026-07-09 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556911730) 🆕 | Software | India, Multiple Locations, Multiple Locations | 2026-07-01 | 2026-07-09 |
 | [Data Science INTERN](https://apply.careers.microsoft.com/careers/job/1970393556917520) 🆕 | Data | India, Multiple Locations, Multiple Locations | 2026-06-30 | 2026-07-09 |
@@ -291,6 +292,13 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833) 🆕 | Software | Bengaluru | 2026-07-10 | 2026-07-10 |
+
+## Uber
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [2026 Software Engineering Internship, Brazil](https://www.uber.com/global/en/careers/list/301623/) 🆕 | Software | Sao Paulo, Brazil | 2026-07-13 | 2026-07-15 |
+| [2026 Data Scientist Internship, Brazil](https://www.uber.com/global/en/careers/list/301541/) 🆕 | Data | Sao Paulo, Brazil | 2026-07-13 | 2026-07-15 |
 
 
 ---
