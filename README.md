@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-15 14:19:47 UTC** · 📌 **160** open internships
+> 🕐 Last updated: **2026-07-15 19:44:37 UTC** · 📌 **161** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -14,7 +14,7 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 2 |
 | Airbnb | — |
-| [Amazon](#amazon) | 61 |
+| [Amazon](#amazon) | 62 |
 | Anthropic | — |
 | [Apple](#apple) | 10 |
 | Bloomberg | — |
@@ -24,8 +24,8 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 6 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
-| [Intel](#intel) | 11 |
-| [Jane Street](#jane-street) | 11 |
+| [Intel](#intel) | 10 |
+| [Jane Street](#jane-street) | 12 |
 | [Meta](#meta) | 15 |
 | [Microsoft](#microsoft) | 7 |
 | [NVIDIA](#nvidia) | 15 |
@@ -62,6 +62,7 @@ GitHub Actions.
 | [2026 Fall Quantum Applied Science Internship, Center for Quantum Computing](https://www.amazon.jobs/en/jobs/10419240/2026-fall-quantum-applied-science-internship-center-for-quantum-computing) 🆕 | AI/ML | Pasadena, California, USA | 2026-05-13 | 2026-07-09 |
 | [2026 Data Scientist Internship , Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10417108/2026-data-scientist-internship-amazon-university-talent-acquisition) 🆕 | Data | Tel Aviv-Yafo, Tel Aviv, ISR | 2026-05-12 | 2026-07-09 |
 | [Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) 🆕 | Data | Seattle, Washington, USA | 2026-05-06 | 2026-07-09 |
+| [Quality Assurance Engineer Fall Internship – 2026 (US)](https://www.amazon.jobs/en/jobs/10405581/quality-assurance-engineer-fall-internship-2026-us) 🆕 | QA | Seattle, Washington, USA | 2026-04-28 | 2026-07-15 |
 | [(Fall 2026) Annapurna Labs at AWS Internship (US) - Machine Learning Systems & Silicon Innovation](https://www.amazon.jobs/en/jobs/10400153/fall-2026-annapurna-labs-at-aws-internship-us-machine-learning-systems-silicon-innovation) 🆕 | AI/ML | Cupertino, California, USA | 2026-04-22 | 2026-07-09 |
 | [2026 Fall Research Science Internship - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10398392/2026-fall-research-science-internship-united-states-phd-student-science-recruiting) 🆕 | AI/ML | Seattle, Washington, USA | 2026-04-21 | 2026-07-09 |
 | [Software Dev Engineer Intern, (Devices) 2026 Beijing](https://www.amazon.jobs/en/jobs/10395459/software-dev-engineer-intern-devices-2026-beijing) 🆕 | Software | Beijing, CHN | 2026-04-19 | 2026-07-09 |
@@ -179,7 +180,6 @@ GitHub Actions.
 | [Pre-Silicon IP System Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Pre-Silicon-IP-System-Validation-Intern_JR0285538-1) 🆕 | QA | Malaysia, Penang | 2026-07-09 | 2026-07-09 |
 | [Pre-Silicon IP System Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Pre-Silicon-IP-System-Validation-Intern_JR0285543) 🆕 | QA | Malaysia, Penang | 2026-07-09 | 2026-07-09 |
 | [Memory Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Memory-Validation-Intern_JR0283301) 🆕 | QA | Mexico, Guadalajara | — | 2026-07-09 |
-| [AI Tools Development Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/AI-Tools-Development-Intern_JR0283292) 🆕 | AI/ML | Mexico, Guadalajara | — | 2026-07-09 |
 | [AI Algorithm Research Intern – Neuromorphic Computing](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/AI-Algorithm-Research-Intern---Neuromorphic-Computing_JR0283303) 🆕 | AI/ML | Mexico, Guadalajara | — | 2026-07-09 |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0285471) 🆕 | AI/ML | Poland, Gdansk | 2026-07-08 | 2026-07-09 |
 | [Electrical Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Electrical-Validation-Intern_JR0285377) 🆕 | QA | Mexico, Guadalajara | 2026-07-07 | 2026-07-09 |
@@ -191,6 +191,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Linux Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8626260002/) 🆕 | Backend/Infra | NYC | — | 2026-07-15 |
 | [Data Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8631973002/) 🆕 | Data | NYC | — | 2026-07-14 |
 | [Tools and Compilers Research and Development (Summer Internship)](https://www.janestreet.com/join-jane-street/position/5869205002/) 🆕 | Backend/Infra | NYC | — | 2026-07-09 |
 | [Tools & Compilers Research and Development (Summer Internship)](https://www.janestreet.com/join-jane-street/position/5866838002/) 🆕 | Backend/Infra | LDN | — | 2026-07-09 |
