@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-14 19:52:20 UTC** · 📌 **157** open internships
+> 🕐 Last updated: **2026-07-15 03:45:19 UTC** · 📌 **157** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -16,10 +16,10 @@ GitHub Actions.
 | Airbnb | — |
 | [Amazon](#amazon) | 61 |
 | Anthropic | — |
-| [Apple](#apple) | 11 |
+| [Apple](#apple) | 10 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 1 |
-| [Cloudflare](#cloudflare) | 3 |
+| [Cloudflare](#cloudflare) | 4 |
 | [Databricks](#databricks) | 1 |
 | GitHub | — |
 | [Google](#google) | 6 |
@@ -132,7 +132,6 @@ GitHub Actions.
 | [SoC Performance Modeling Internship - Platform Architecture](https://jobs.apple.com/en-us/details/200629965/soc-performance-modeling-internship-platform-architecture) 🆕 | Backend/Infra | London | 2025-11-04 | 2026-07-09 |
 | [SoC Performance Modeling Internship - Platform Architecture (m/f/d)](https://jobs.apple.com/en-us/details/200622296/soc-performance-modeling-internship-platform-architecture-m-f-d) 🆕 | Backend/Infra | Munich | 2025-09-22 | 2026-07-09 |
 | [GPU Internship - Platform Architecture](https://jobs.apple.com/en-us/details/200617616/gpu-internship-platform-architecture) 🆕 | Backend/Infra | Saint Albans | 2025-08-26 | 2026-07-09 |
-| [Machine Learning Engineer - Intern](https://jobs.apple.com/en-us/details/200607882/machine-learning-engineer-intern) 🆕 | AI/ML | Beijing | 2025-07-03 | 2026-07-09 |
 
 ## Cisco
 
@@ -144,6 +143,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) 🆕 | Software | In-Office | 2026-07-14 | 2026-07-15 |
 | [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) 🆕 | Backend/Infra | In-Office | 2026-07-01 | 2026-07-09 |
 | [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) 🆕 | Backend/Infra | In-Office | 2026-06-26 | 2026-07-09 |
 | [People Team Intern - HR Operations & AI Innovation (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240) 🆕 | AI/ML | In-Office | 2026-02-11 | 2026-07-09 |
@@ -175,17 +175,17 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [System Validation Intern (Power and Performance)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/System-Validation-Intern--Power-and-Performance-_JR0285548) 🆕 | QA | Mexico, Guadalajara | 2026-07-10 | 2026-07-11 |
-| [Pre-Silicon IP System Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Pre-Silicon-IP-System-Validation-Intern_JR0285538-1) 🆕 | QA | Malaysia, Penang | 2026-07-09 | 2026-07-09 |
-| [Pre-Silicon IP System Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Pre-Silicon-IP-System-Validation-Intern_JR0285543) 🆕 | QA | Malaysia, Penang | 2026-07-09 | 2026-07-09 |
+| [System Validation Intern (Power and Performance)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/System-Validation-Intern--Power-and-Performance-_JR0285548) 🆕 | QA | Mexico, Guadalajara | 2026-07-11 | 2026-07-11 |
+| [Pre-Silicon IP System Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Pre-Silicon-IP-System-Validation-Intern_JR0285538-1) 🆕 | QA | Malaysia, Penang | 2026-07-10 | 2026-07-09 |
+| [Pre-Silicon IP System Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Pre-Silicon-IP-System-Validation-Intern_JR0285543) 🆕 | QA | Malaysia, Penang | 2026-07-10 | 2026-07-09 |
 | [Memory Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Memory-Validation-Intern_JR0283301) 🆕 | QA | Mexico, Guadalajara | — | 2026-07-09 |
 | [AI Tools Development Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/AI-Tools-Development-Intern_JR0283292) 🆕 | AI/ML | Mexico, Guadalajara | — | 2026-07-09 |
+| [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0285471) 🆕 | AI/ML | Poland, Gdansk | 2026-07-09 | 2026-07-09 |
 | [AI Algorithm Research Intern – Neuromorphic Computing](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/AI-Algorithm-Research-Intern---Neuromorphic-Computing_JR0283303) 🆕 | AI/ML | Mexico, Guadalajara | — | 2026-07-09 |
-| [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0285471) 🆕 | AI/ML | Poland, Gdansk | 2026-07-08 | 2026-07-09 |
-| [Electrical Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Electrical-Validation-Intern_JR0285377) 🆕 | QA | Mexico, Guadalajara | 2026-07-07 | 2026-07-09 |
-| [Development Tools Software Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Development-Tools-Software-Intern_JR0285211) 🆕 | Software | Mexico, Guadalajara | 2026-07-02 | 2026-07-09 |
-| [Software Development Intern (Automation and AI Enablement)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Development-Intern--Automation-and-AI-Enablement-_JR0285207) 🆕 | AI/ML | Mexico, Guadalajara | 2026-06-30 | 2026-07-09 |
-| [Silicon Validation Eng Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Silicon-Validation-Eng-Undergraduate-Intern_JR0284892) 🆕 | QA | Malaysia, Penang | 2026-06-24 | 2026-07-09 |
+| [Electrical Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Electrical-Validation-Intern_JR0285377) 🆕 | QA | Mexico, Guadalajara | 2026-07-08 | 2026-07-09 |
+| [Development Tools Software Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Development-Tools-Software-Intern_JR0285211) 🆕 | Software | Mexico, Guadalajara | 2026-07-03 | 2026-07-09 |
+| [Software Development Intern (Automation and AI Enablement)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Development-Intern--Automation-and-AI-Enablement-_JR0285207) 🆕 | AI/ML | Mexico, Guadalajara | 2026-07-01 | 2026-07-09 |
+| [Silicon Validation Eng Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Silicon-Validation-Eng-Undergraduate-Intern_JR0284892) 🆕 | QA | Malaysia, Penang | 2026-06-25 | 2026-07-09 |
 
 ## Jane Street
 
@@ -215,7 +215,7 @@ GitHub Actions.
 | [Research Scientist Intern, NMR Analysis Automation](https://www.metacareers.com/jobs/1418337243438665) 🆕 | AI/ML | Redmond, WA | — | 2026-07-09 |
 | [Research Scientist Intern, Monetization Generative AI - LLM (PhD)](https://www.metacareers.com/jobs/2916726525182155) 🆕 | AI/ML | Bellevue, WA; Menlo Park, CA; Seattle, WA | — | 2026-07-09 |
 | [Research Scientist Intern, Machine Perception for Input and Interaction (PhD)](https://www.metacareers.com/jobs/779670167783218) 🆕 | AI/ML | Redmond, WA; Seattle, WA | — | 2026-07-09 |
-| [Research Scientist Intern, FAIR - Language & Multimodal Foundations (PhD)](https://www.metacareers.com/jobs/24536664159369645) 🆕 | AI/ML | Menlo Park, CA; New York, NY; Seattle, WA | — | 2026-07-09 |
+| [Research Scientist Intern, FAIR - Language & Multimodal Foundations (PhD)](https://www.metacareers.com/jobs/24536664159369645) 🆕 | AI/ML | Menlo Park, CA; New York, NY | — | 2026-07-09 |
 | [Research Scientist Intern, Embedded Contextual AI on Wearables (PhD)](https://www.metacareers.com/jobs/2160167211413098) 🆕 | AI/ML | Redmond, WA; Sunnyvale, CA | — | 2026-07-09 |
 | [Research Scientist Intern, Applied Vision and Image Quality (PhD)](https://www.metacareers.com/jobs/1422892385992613) 🆕 | AI/ML | Redmond, WA | — | 2026-07-09 |
 | [Research Scientist Intern, AI/ML, Core Ads Growth (PhD)](https://www.metacareers.com/jobs/771948392580541) 🆕 | AI/ML | London, UK; Zurich, Switzerland | — | 2026-07-09 |
@@ -248,11 +248,11 @@ GitHub Actions.
 | [Machine Learning Intern - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern---2026_JR2016445) 🆕 | AI/ML | Hong Kong, STP | — | 2026-07-09 |
 | [DGX Cloud Kubernetes Runtime Intern - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/DGX-Cloud-Kubernetes-Runtime-Intern---Fall-2026_JR2009619) 🆕 | Backend/Infra | US, CA, Santa Clara | — | 2026-07-09 |
 | [Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) 🆕 | AI/ML | US, CA, Santa Clara | — | 2026-07-09 |
-| [Performance Engineer Intern, Systems Software-  Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779) 🆕 | Software | US, MO, St. Louis | 2026-07-06 | 2026-07-09 |
-| [Applied Research Intern, NLP - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) 🆕 | AI/ML | US, CA, Santa Clara | 2026-07-01 | 2026-07-09 |
-| [Java Engineering Intern - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769) 🆕 | Software | US, CA, Santa Clara | 2026-06-29 | 2026-07-09 |
-| [Robotics Software Intern, Deployment and Humanoids - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Robotics-Software-Intern--Deployment-and-Humanoids---2026_JR2019641) 🆕 | AI/ML | China, Shanghai | 2026-06-25 | 2026-07-09 |
-| [PhD Research Intern, System Software and I/O Architecture - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667) 🆕 | Software | 3 Locations | 2026-06-24 | 2026-07-09 |
+| [Performance Engineer Intern, Systems Software-  Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779) 🆕 | Software | US, MO, St. Louis | 2026-07-07 | 2026-07-09 |
+| [Applied Research Intern, NLP - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) 🆕 | AI/ML | US, CA, Santa Clara | 2026-07-02 | 2026-07-09 |
+| [Java Engineering Intern - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769) 🆕 | Software | US, CA, Santa Clara | 2026-06-30 | 2026-07-09 |
+| [Robotics Software Intern, Deployment and Humanoids - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Robotics-Software-Intern--Deployment-and-Humanoids---2026_JR2019641) 🆕 | AI/ML | China, Shanghai | 2026-06-26 | 2026-07-09 |
+| [PhD Research Intern, System Software and I/O Architecture - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667) 🆕 | Software | 3 Locations | 2026-06-25 | 2026-07-09 |
 
 ## Netflix
 
