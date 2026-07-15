@@ -366,6 +366,20 @@
       "title": "Software Dev Engineer Intern Machine Learning, Amazon Robotics",
       "url": "https://www.amazon.jobs/en/jobs/10401402/software-dev-engineer-intern-machine-learning-amazon-robotics"
     },
+    "amazon:10405581": {
+      "active": true,
+      "category": "QA",
+      "company": "Amazon",
+      "external_id": "10405581",
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "posted": "2026-04-28",
+      "title": "Quality Assurance Engineer Fall Internship \u2013 2026 (US)",
+      "url": "https://www.amazon.jobs/en/jobs/10405581/quality-assurance-engineer-fall-internship-2026-us"
+    },
     "amazon:10412530": {
       "active": true,
       "category": "Data",
@@ -1354,8 +1368,9 @@
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083"
     },
     "intel:JR0283292": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-15",
       "company": "Intel",
       "external_id": "JR0283292",
       "first_seen": "2026-07-09",
@@ -1706,6 +1721,20 @@
       "posted": null,
       "title": "Network Engineer (Summer Internship)",
       "url": "https://www.janestreet.com/join-jane-street/position/8620793002/"
+    },
+    "jane-street:8626260002": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Jane Street",
+      "external_id": "8626260002",
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "locations": [
+        "NYC"
+      ],
+      "posted": null,
+      "title": "Linux Engineer (Summer Internship)",
+      "url": "https://www.janestreet.com/join-jane-street/position/8626260002/"
     },
     "jane-street:8631973002": {
       "active": true,
@@ -2692,5 +2721,5 @@
       "url": "https://www.uber.com/global/en/careers/list/301623/"
     }
   },
-  "updated_at": "2026-07-15T14:19:47Z"
+  "updated_at": "2026-07-15T19:44:37Z"
 }
