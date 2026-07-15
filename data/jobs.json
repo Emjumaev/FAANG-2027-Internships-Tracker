@@ -1989,6 +1989,21 @@
       "title": "Applied Science Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556627173"
     },
+    "microsoft:1970393556630821": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "external_id": "1970393556630821",
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "locations": [
+        "China, Beijing, Beijing",
+        "China, Shanghai, Shanghai"
+      ],
+      "posted": "2026-07-15",
+      "title": "Research Science: Internship opportunities",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556630821"
+    },
     "microsoft:1970393556641091": {
       "active": true,
       "category": "AI/ML",
@@ -2647,7 +2662,35 @@
       "posted": "2026-07-10",
       "title": "Software Engineer, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8031833"
+    },
+    "uber:301541": {
+      "active": true,
+      "category": "Data",
+      "company": "Uber",
+      "external_id": "301541",
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "locations": [
+        "Sao Paulo, Brazil"
+      ],
+      "posted": "2026-07-13",
+      "title": "2026 Data Scientist Internship, Brazil",
+      "url": "https://www.uber.com/global/en/careers/list/301541/"
+    },
+    "uber:301623": {
+      "active": true,
+      "category": "Software",
+      "company": "Uber",
+      "external_id": "301623",
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-07-15",
+      "locations": [
+        "Sao Paulo, Brazil"
+      ],
+      "posted": "2026-07-13",
+      "title": "2026 Software Engineering Internship, Brazil",
+      "url": "https://www.uber.com/global/en/careers/list/301623/"
     }
   },
-  "updated_at": "2026-07-15T08:43:46Z"
+  "updated_at": "2026-07-15T14:19:47Z"
 }
