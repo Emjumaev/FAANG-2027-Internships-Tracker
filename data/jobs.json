@@ -1764,6 +1764,20 @@
       "title": "Data Engineer (Summer Internship)",
       "url": "https://www.janestreet.com/join-jane-street/position/8631973002/"
     },
+    "meta:1029177790044680": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "external_id": "1029177790044680",
+      "first_seen": "2026-07-16",
+      "last_seen": "2026-07-16",
+      "locations": [
+        "Zurich, Switzerland"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, 3D Scene Understanding (PhD)",
+      "url": "https://www.metacareers.com/jobs/1029177790044680"
+    },
     "meta:1418337243438665": {
       "active": true,
       "category": "AI/ML",
@@ -2161,6 +2175,20 @@
       "posted": "2026-06-30",
       "title": "Data Science INTERN",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556917520"
+    },
+    "microsoft:1970393556939161": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "external_id": "1970393556939161",
+      "first_seen": "2026-07-16",
+      "last_seen": "2026-07-16",
+      "locations": [
+        "Israel, Multiple Locations, Multiple Locations"
+      ],
+      "posted": "2026-07-16",
+      "title": "Applied Sciences INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556939161"
     },
     "netflix:790313241540": {
       "active": true,
@@ -2736,5 +2764,5 @@
       "url": "https://www.uber.com/global/en/careers/list/301623/"
     }
   },
-  "updated_at": "2026-07-16T14:32:40Z"
+  "updated_at": "2026-07-16T19:41:51Z"
 }
