@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-16 14:32:40 UTC** · 📌 **161** open internships
+> 🕐 Last updated: **2026-07-16 19:41:51 UTC** · 📌 **163** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -26,8 +26,8 @@ GitHub Actions.
 | [Hudson River Trading](#hudson-river-trading) | 1 |
 | [Intel](#intel) | 10 |
 | [Jane Street](#jane-street) | 12 |
-| [Meta](#meta) | 15 |
-| [Microsoft](#microsoft) | 7 |
+| [Meta](#meta) | 16 |
+| [Microsoft](#microsoft) | 8 |
 | [NVIDIA](#nvidia) | 14 |
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
@@ -209,6 +209,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Research Scientist Intern, 3D Scene Understanding (PhD)](https://www.metacareers.com/jobs/1029177790044680) 🆕 | AI/ML | Zurich, Switzerland | — | 2026-07-16 |
 | [Research Scientist Intern, Monetization Computer Vision (PhD)](https://www.metacareers.com/jobs/2281218542616482) 🆕 | AI/ML | Menlo Park, CA | — | 2026-07-10 |
 | [Research Scientist Intern, State Estimation for Dexterous Manipulation (PhD)](https://www.metacareers.com/jobs/2774289902955470) 🆕 | AI/ML | Redmond, WA | — | 2026-07-09 |
 | [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/2022109075207025) 🆕 | AI/ML | Pittsburgh, PA; Redmond, WA; Sausalito, CA | — | 2026-07-09 |
@@ -229,6 +230,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Applied Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556939161) 🆕 | AI/ML | Israel, Multiple Locations, Multiple Locations | 2026-07-16 | 2026-07-16 |
 | [Research Science: Internship opportunities](https://apply.careers.microsoft.com/careers/job/1970393556630821) 🆕 | AI/ML | China, Beijing, Beijing; China, Shanghai, Shanghai | 2026-07-15 | 2026-07-15 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556875247) 🆕 | Software | Brazil, Multiple Locations, Multiple Locations | 2026-07-02 | 2026-07-09 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556911730) 🆕 | Software | India, Multiple Locations, Multiple Locations | 2026-07-01 | 2026-07-09 |
