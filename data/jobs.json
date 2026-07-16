@@ -2191,8 +2191,9 @@
       "url": "https://explore.jobs.netflix.net/careers/job/790316547536"
     },
     "nvidia:JR2006824": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-07-16",
       "company": "NVIDIA",
       "external_id": "JR2006824",
       "first_seen": "2026-07-09",
@@ -2735,5 +2736,5 @@
       "url": "https://www.uber.com/global/en/careers/list/301623/"
     }
   },
-  "updated_at": "2026-07-16T08:42:16Z"
+  "updated_at": "2026-07-16T14:32:40Z"
 }
