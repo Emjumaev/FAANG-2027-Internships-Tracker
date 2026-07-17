@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-17 14:12:48 UTC** · 📌 **163** open internships
+> 🕐 Last updated: **2026-07-17 19:41:29 UTC** · 📌 **162** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -14,17 +14,17 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 2 |
 | Airbnb | — |
-| [Amazon](#amazon) | 62 |
+| [Amazon](#amazon) | 61 |
 | Anthropic | — |
 | [Apple](#apple) | 10 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 1 |
-| [Cloudflare](#cloudflare) | 5 |
+| [Cloudflare](#cloudflare) | 4 |
 | [Databricks](#databricks) | 1 |
 | GitHub | — |
 | [Google](#google) | 6 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
-| [Intel](#intel) | 10 |
+| [Intel](#intel) | 12 |
 | [Jane Street](#jane-street) | 12 |
 | [Meta](#meta) | 16 |
 | [Microsoft](#microsoft) | 8 |
@@ -34,7 +34,7 @@ GitHub Actions.
 | [Oracle](#oracle) | 5 |
 | PayPal | — |
 | [Pinterest](#pinterest) | 1 |
-| [Salesforce](#salesforce) | 1 |
+| Salesforce | — |
 | Snap | — |
 | [Snowflake](#snowflake) | 3 |
 | Spotify | — |
@@ -62,7 +62,6 @@ GitHub Actions.
 | [2026 Fall Quantum Applied Science Internship, Center for Quantum Computing](https://www.amazon.jobs/en/jobs/10419240/2026-fall-quantum-applied-science-internship-center-for-quantum-computing) | AI/ML | Pasadena, California, USA | 2026-05-13 | 2026-07-09 |
 | [2026 Data Scientist Internship , Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10417108/2026-data-scientist-internship-amazon-university-talent-acquisition) | Data | Tel Aviv-Yafo, Tel Aviv, ISR | 2026-05-12 | 2026-07-09 |
 | [Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) | Data | Seattle, Washington, USA | 2026-05-06 | 2026-07-09 |
-| [Quality Assurance Engineer Fall Internship – 2026 (US)](https://www.amazon.jobs/en/jobs/10405581/quality-assurance-engineer-fall-internship-2026-us) 🆕 | QA | Seattle, Washington, USA | 2026-04-28 | 2026-07-15 |
 | [(Fall 2026) Annapurna Labs at AWS Internship (US) - Machine Learning Systems & Silicon Innovation](https://www.amazon.jobs/en/jobs/10400153/fall-2026-annapurna-labs-at-aws-internship-us-machine-learning-systems-silicon-innovation) | AI/ML | Cupertino, California, USA | 2026-04-22 | 2026-07-09 |
 | [2026 Fall Research Science Internship - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10398392/2026-fall-research-science-internship-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-21 | 2026-07-09 |
 | [Software Dev Engineer Intern, (Devices) 2026 Beijing](https://www.amazon.jobs/en/jobs/10395459/software-dev-engineer-intern-devices-2026-beijing) | Software | Beijing, CHN | 2026-04-19 | 2026-07-09 |
@@ -144,7 +143,6 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Security Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8060959?gh_jid=8060959) 🆕 | Security | In-Office | 2026-07-15 | 2026-07-16 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) 🆕 | Software | In-Office | 2026-07-14 | 2026-07-15 |
 | [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | Backend/Infra | In-Office | 2026-07-01 | 2026-07-09 |
 | [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | Backend/Infra | In-Office | 2026-06-26 | 2026-07-09 |
@@ -177,6 +175,8 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) 🆕 | AI/ML | 2 Locations | 2026-07-17 | 2026-07-17 |
+| [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) 🆕 | AI/ML | US, Arizona, Phoenix | 2026-07-17 | 2026-07-17 |
 | [System Validation Intern (Power and Performance)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/System-Validation-Intern--Power-and-Performance-_JR0285548) 🆕 | QA | Mexico, Guadalajara | 2026-07-10 | 2026-07-11 |
 | [Pre-Silicon IP System Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Pre-Silicon-IP-System-Validation-Intern_JR0285538-1) | QA | Malaysia, Penang | 2026-07-09 | 2026-07-09 |
 | [Pre-Silicon IP System Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Pre-Silicon-IP-System-Validation-Intern_JR0285543) | QA | Malaysia, Penang | 2026-07-09 | 2026-07-09 |
@@ -280,12 +280,6 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) | AI/ML | New York, NY, US; Palo Alto, CA, US; San Francisco, CA, US *(+1 more)* | 2026-04-20 | 2026-07-09 |
-
-## Salesforce
-
-| Role | Category | Location | Posted | First seen |
-|---|---|---|---|---|
-| [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) 🆕 | Software | 2 Locations | 2026-07-17 | 2026-07-14 |
 
 ## Snowflake
 
