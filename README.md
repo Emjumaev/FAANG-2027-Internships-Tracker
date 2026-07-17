@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-17 08:35:55 UTC** · 📌 **162** open internships
+> 🕐 Last updated: **2026-07-17 14:12:48 UTC** · 📌 **163** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -34,12 +34,12 @@ GitHub Actions.
 | [Oracle](#oracle) | 5 |
 | PayPal | — |
 | [Pinterest](#pinterest) | 1 |
-| Salesforce | — |
+| [Salesforce](#salesforce) | 1 |
 | Snap | — |
-| [Snowflake](#snowflake) | 4 |
+| [Snowflake](#snowflake) | 3 |
 | Spotify | — |
 | [Stripe](#stripe) | 1 |
-| [Uber](#uber) | 1 |
+| [Uber](#uber) | 2 |
 | Citadel Securities | *no API — entire site behind a Cloudflare browser challenge; needs a headless browser* |
 | LinkedIn | *careers site only links to linkedin.com/jobs, which is authwalled and prohibits scraping* |
 
@@ -281,13 +281,18 @@ GitHub Actions.
 |---|---|---|---|---|
 | [PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) | AI/ML | New York, NY, US; Palo Alto, CA, US; San Francisco, CA, US *(+1 more)* | 2026-04-20 | 2026-07-09 |
 
+## Salesforce
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) 🆕 | Software | 2 Locations | 2026-07-17 | 2026-07-14 |
+
 ## Snowflake
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [AI-Powered BI Intern: Fall 2026](https://careers.snowflake.com/us/en/job/37e886ab-e05b-4f2a-9a41-61bfd89e660f) 🆕 | AI/ML | Menlo Park, California, United States | 2026-07-14 | 2026-07-14 |
 | [Software Engineer Intern - Berlin (2026)](https://careers.snowflake.com/us/en/job/3a9baeaf-b107-41fb-a9b3-a98ab78275ed) | Software | Berlin, Germany | 2026-06-02 | 2026-07-09 |
-| [Software Engineer Intern (AI/ML) - 2026](https://careers.snowflake.com/us/en/job/4298e941-d129-4d7f-a965-faa68e6e599e) | AI/ML | Warsaw, Poland | 2026-06-02 | 2026-07-09 |
 | [Software Engineer Intern - Zurich (2026)](https://careers.snowflake.com/us/en/job/a92a900c-56c2-4cf6-8c2e-fcd183a84e58) | Software | Zurich, Switzerland | 2026-05-12 | 2026-07-09 |
 
 ## Stripe
@@ -301,6 +306,7 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [2026 Software Engineering Internship, Brazil](https://www.uber.com/global/en/careers/list/301623/) 🆕 | Software | Sao Paulo, Brazil | 2026-07-13 | 2026-07-15 |
+| [2026 Data Scientist Internship, Brazil](https://www.uber.com/global/en/careers/list/301541/) 🆕 | Data | Sao Paulo, Brazil | 2026-07-13 | 2026-07-15 |
 
 
 ---
