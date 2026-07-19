@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-19 08:41:44 UTC** · 📌 **146** open internships
+> 🕐 Last updated: **2026-07-19 14:01:36 UTC** · 📌 **162** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -26,7 +26,7 @@ GitHub Actions.
 | [Hudson River Trading](#hudson-river-trading) | 1 |
 | [Intel](#intel) | 12 |
 | [Jane Street](#jane-street) | 12 |
-| Meta | — |
+| [Meta](#meta) | 16 |
 | [Microsoft](#microsoft) | 8 |
 | [NVIDIA](#nvidia) | 14 |
 | [Netflix](#netflix) | 2 |
@@ -203,6 +203,27 @@ GitHub Actions.
 | [Machine Learning Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8384490002/) | AI/ML | NYC | — | 2026-07-09 |
 | [Machine Learning Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8611307002/) | AI/ML | NYC | — | 2026-07-09 |
 | [Linux Engineer (Summer Internship (December-February))](https://www.janestreet.com/join-jane-street/position/8377832002/) | Backend/Infra | HKG | — | 2026-07-09 |
+
+## Meta
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [Research Scientist Intern, 3D Scene Understanding (PhD)](https://www.metacareers.com/jobs/1029177790044680) 🆕 | AI/ML | Zurich, Switzerland | — | 2026-07-16 |
+| [Research Scientist Intern, Monetization Computer Vision (PhD)](https://www.metacareers.com/jobs/2281218542616482) | AI/ML | Menlo Park, CA | — | 2026-07-10 |
+| [Research Scientist Intern, State Estimation for Dexterous Manipulation (PhD)](https://www.metacareers.com/jobs/2774289902955470) | AI/ML | Redmond, WA | — | 2026-07-09 |
+| [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/2022109075207025) | AI/ML | Pittsburgh, PA; Redmond, WA; Sausalito, CA | — | 2026-07-09 |
+| [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/924149567345400) | AI/ML | London, UK | — | 2026-07-09 |
+| [Research Scientist Intern, Optical System Design (PhD)](https://www.metacareers.com/jobs/1710381673750348) | AI/ML | Redmond, WA | — | 2026-07-09 |
+| [Research Scientist Intern, NMR Analysis Automation](https://www.metacareers.com/jobs/1418337243438665) | AI/ML | Redmond, WA | — | 2026-07-09 |
+| [Research Scientist Intern, Monetization Generative AI - LLM (PhD)](https://www.metacareers.com/jobs/2916726525182155) | AI/ML | Bellevue, WA; Menlo Park, CA; Seattle, WA | — | 2026-07-09 |
+| [Research Scientist Intern, Machine Perception for Input and Interaction (PhD)](https://www.metacareers.com/jobs/779670167783218) | AI/ML | Redmond, WA; Seattle, WA | — | 2026-07-09 |
+| [Research Scientist Intern, FAIR - Language & Multimodal Foundations (PhD)](https://www.metacareers.com/jobs/24536664159369645) | AI/ML | Menlo Park, CA; New York, NY | — | 2026-07-09 |
+| [Research Scientist Intern, Embedded Contextual AI on Wearables (PhD)](https://www.metacareers.com/jobs/2160167211413098) | AI/ML | Redmond, WA; Sunnyvale, CA | — | 2026-07-09 |
+| [Research Scientist Intern, Applied Vision and Image Quality (PhD)](https://www.metacareers.com/jobs/1422892385992613) | AI/ML | Redmond, WA | — | 2026-07-09 |
+| [Research Scientist Intern, AI/ML, Core Ads Growth (PhD)](https://www.metacareers.com/jobs/771948392580541) | AI/ML | London, UK; Zurich, Switzerland | — | 2026-07-09 |
+| [Research Scientist Intern, AI Alignment](https://www.metacareers.com/jobs/1782902493113620) | AI/ML | Bellevue, WA; Boston, MA; Menlo Park, CA *(+3 more)* | — | 2026-07-09 |
+| [Research Scientist Intern, 3D Vision & World Simulation (PhD)](https://www.metacareers.com/jobs/2839011673109571) | AI/ML | Redmond, WA | — | 2026-07-09 |
+| [Research Scientist Intern PhD,  Applied Research](https://www.metacareers.com/jobs/2633206137040139) | AI/ML | Menlo Park, CA | — | 2026-07-09 |
 
 ## Microsoft
 
