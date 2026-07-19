@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-19 14:01:36 UTC** · 📌 **162** open internships
+> 🕐 Last updated: **2026-07-19 19:41:14 UTC** · 📌 **160** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -26,7 +26,7 @@ GitHub Actions.
 | [Hudson River Trading](#hudson-river-trading) | 1 |
 | [Intel](#intel) | 12 |
 | [Jane Street](#jane-street) | 12 |
-| [Meta](#meta) | 16 |
+| [Meta](#meta) | 15 |
 | [Microsoft](#microsoft) | 8 |
 | [NVIDIA](#nvidia) | 14 |
 | [Netflix](#netflix) | 2 |
@@ -34,7 +34,7 @@ GitHub Actions.
 | [Oracle](#oracle) | 5 |
 | PayPal | — |
 | [Pinterest](#pinterest) | 1 |
-| [Salesforce](#salesforce) | 1 |
+| Salesforce | — |
 | Snap | — |
 | [Snowflake](#snowflake) | 3 |
 | Spotify | — |
@@ -208,7 +208,6 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Research Scientist Intern, 3D Scene Understanding (PhD)](https://www.metacareers.com/jobs/1029177790044680) 🆕 | AI/ML | Zurich, Switzerland | — | 2026-07-16 |
 | [Research Scientist Intern, Monetization Computer Vision (PhD)](https://www.metacareers.com/jobs/2281218542616482) | AI/ML | Menlo Park, CA | — | 2026-07-10 |
 | [Research Scientist Intern, State Estimation for Dexterous Manipulation (PhD)](https://www.metacareers.com/jobs/2774289902955470) | AI/ML | Redmond, WA | — | 2026-07-09 |
 | [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/2022109075207025) | AI/ML | Pittsburgh, PA; Redmond, WA; Sausalito, CA | — | 2026-07-09 |
@@ -279,12 +278,6 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) | AI/ML | New York, NY, US; Palo Alto, CA, US; San Francisco, CA, US *(+1 more)* | 2026-04-20 | 2026-07-09 |
-
-## Salesforce
-
-| Role | Category | Location | Posted | First seen |
-|---|---|---|---|---|
-| [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) 🆕 | Software | 2 Locations | 2026-07-19 | 2026-07-14 |
 
 ## Snowflake
 
