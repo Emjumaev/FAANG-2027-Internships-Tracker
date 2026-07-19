@@ -1796,7 +1796,7 @@
       "url": "https://www.janestreet.com/join-jane-street/position/8631973002/"
     },
     "meta:1029177790044680": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
       "closed": "2026-07-19",
       "company": "Meta",
@@ -2683,9 +2683,9 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7255640"
     },
     "salesforce:JR337715": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-07-17",
+      "closed": "2026-07-19",
       "company": "Salesforce",
       "external_id": "JR337715",
       "first_seen": "2026-07-14",
@@ -2813,5 +2813,5 @@
       "url": "https://www.uber.com/global/en/careers/list/301623/"
     }
   },
-  "updated_at": "2026-07-19T14:01:36Z"
+  "updated_at": "2026-07-19T19:41:14Z"
 }
