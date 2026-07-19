@@ -1796,7 +1796,7 @@
       "url": "https://www.janestreet.com/join-jane-street/position/8631973002/"
     },
     "meta:1029177790044680": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-07-19",
       "company": "Meta",
@@ -1811,7 +1811,7 @@
       "url": "https://www.metacareers.com/jobs/1029177790044680"
     },
     "meta:1418337243438665": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-07-19",
       "company": "Meta",
@@ -1826,7 +1826,7 @@
       "url": "https://www.metacareers.com/jobs/1418337243438665"
     },
     "meta:1422892385992613": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-07-19",
       "company": "Meta",
@@ -1841,7 +1841,7 @@
       "url": "https://www.metacareers.com/jobs/1422892385992613"
     },
     "meta:1710381673750348": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-07-19",
       "company": "Meta",
@@ -1856,7 +1856,7 @@
       "url": "https://www.metacareers.com/jobs/1710381673750348"
     },
     "meta:1782902493113620": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-07-19",
       "company": "Meta",
@@ -1876,7 +1876,7 @@
       "url": "https://www.metacareers.com/jobs/1782902493113620"
     },
     "meta:2022109075207025": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-07-19",
       "company": "Meta",
@@ -1893,7 +1893,7 @@
       "url": "https://www.metacareers.com/jobs/2022109075207025"
     },
     "meta:2160167211413098": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-07-19",
       "company": "Meta",
@@ -1909,7 +1909,7 @@
       "url": "https://www.metacareers.com/jobs/2160167211413098"
     },
     "meta:2281218542616482": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-07-19",
       "company": "Meta",
@@ -1924,7 +1924,7 @@
       "url": "https://www.metacareers.com/jobs/2281218542616482"
     },
     "meta:24536664159369645": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-07-19",
       "company": "Meta",
@@ -1940,7 +1940,7 @@
       "url": "https://www.metacareers.com/jobs/24536664159369645"
     },
     "meta:2633206137040139": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-07-19",
       "company": "Meta",
@@ -1955,7 +1955,7 @@
       "url": "https://www.metacareers.com/jobs/2633206137040139"
     },
     "meta:2774289902955470": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-07-19",
       "company": "Meta",
@@ -1970,7 +1970,7 @@
       "url": "https://www.metacareers.com/jobs/2774289902955470"
     },
     "meta:2839011673109571": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-07-19",
       "company": "Meta",
@@ -1985,7 +1985,7 @@
       "url": "https://www.metacareers.com/jobs/2839011673109571"
     },
     "meta:2916726525182155": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-07-19",
       "company": "Meta",
@@ -2002,7 +2002,7 @@
       "url": "https://www.metacareers.com/jobs/2916726525182155"
     },
     "meta:771948392580541": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-07-19",
       "company": "Meta",
@@ -2018,7 +2018,7 @@
       "url": "https://www.metacareers.com/jobs/771948392580541"
     },
     "meta:779670167783218": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-07-19",
       "company": "Meta",
@@ -2034,7 +2034,7 @@
       "url": "https://www.metacareers.com/jobs/779670167783218"
     },
     "meta:924149567345400": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-07-19",
       "company": "Meta",
@@ -2813,5 +2813,5 @@
       "url": "https://www.uber.com/global/en/careers/list/301623/"
     }
   },
-  "updated_at": "2026-07-19T08:41:44Z"
+  "updated_at": "2026-07-19T14:01:36Z"
 }
