@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-20 14:40:49 UTC** · 📌 **155** open internships
+> 🕐 Last updated: **2026-07-20 20:04:26 UTC** · 📌 **166** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -22,7 +22,7 @@ GitHub Actions.
 | [Cloudflare](#cloudflare) | 3 |
 | [Databricks](#databricks) | 1 |
 | GitHub | — |
-| [Google](#google) | 2 |
+| [Google](#google) | 12 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
 | [Intel](#intel) | 12 |
 | [Jane Street](#jane-street) | 13 |
@@ -39,7 +39,7 @@ GitHub Actions.
 | [Snowflake](#snowflake) | 3 |
 | Spotify | — |
 | [Stripe](#stripe) | 1 |
-| [Uber](#uber) | 2 |
+| [Uber](#uber) | 3 |
 | Citadel Securities | *no API — entire site behind a Cloudflare browser challenge; needs a headless browser* |
 | LinkedIn | *careers site only links to linkedin.com/jobs, which is authwalled and prohibits scraping* |
 
@@ -157,6 +157,16 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Student Researcher, PhD, Fall 2026](https://www.google.com/about/careers/applications/jobs/results/83535564552184518) 🆕 | AI/ML | Ann Arbor, MI, USA; Atlanta, GA, USA; Austin, TX, USA *(+16 more)* | 2026-07-20 | 2026-07-20 |
+| [Student Researcher, PhD, Fall 2026](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) 🆕 | AI/ML | Toronto, ON, Canada; Waterloo, ON, Canada | 2026-07-20 | 2026-07-20 |
+| [Student Researcher, BS/MS, Fall 2026](https://www.google.com/about/careers/applications/jobs/results/132362676918461126) 🆕 | AI/ML | Ann Arbor, MI, USA; Atlanta, GA, USA; Austin, TX, USA *(+16 more)* | 2026-07-20 | 2026-07-20 |
+| [Student Researcher, BS/MS, Fall 2026](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) 🆕 | AI/ML | Toronto, ON, Canada; Waterloo, ON, Canada | 2026-07-20 | 2026-07-20 |
+| [Software Engineering Intern, MS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/95141459539174086) 🆕 | Software | Atlanta, GA, USA; Austin, TX, USA; Bellevue, WA, USA *(+27 more)* | 2026-07-20 | 2026-07-20 |
+| [Software Engineering Intern, BS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/85564713261245126) 🆕 | Software | Atlanta, GA, USA; Austin, TX, USA; Bellevue, WA, USA *(+27 more)* | 2026-07-20 | 2026-07-20 |
+| [Software Developer Intern, MS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/95423484271698630) 🆕 | Software | Montreal, QC, Canada; Toronto, ON, Canada; Waterloo, ON, Canada | 2026-07-20 | 2026-07-20 |
+| [Software Developer Intern, BS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/76982475250639558) 🆕 | Software | Montreal, QC, Canada; Toronto, ON, Canada; Waterloo, ON, Canada | 2026-07-20 | 2026-07-20 |
+| [Software Application Development Apprenticeship, March 2027 Start](https://www.google.com/about/careers/applications/jobs/results/123243602355593926) 🆕 | Software | Bengaluru, Karnataka, India; Gurgaon, Haryana, India; Hyderabad, Telangana, India *(+1 more)* | 2026-07-20 | 2026-07-20 |
+| [Data Analytics Apprenticeship, March 2027 Start](https://www.google.com/about/careers/applications/jobs/results/114421121054319302) 🆕 | Data | Bengaluru, Karnataka, India; Gurgaon, Haryana, India; Hyderabad, Telangana, India *(+1 more)* | 2026-07-20 | 2026-07-20 |
 | [Apprenticeship in Application Development, Informatiker:in EFZ Applikationsentwicklung, August 2027](https://www.google.com/about/careers/applications/jobs/results/135233176434811590) | Software | Zürich, Switzerland | 2026-07-01 | 2026-07-09 |
 | [Software Engineer, gReach Program for People with Disabilities (残障人士岗位) (English, Mandarin)](https://www.google.com/about/careers/applications/jobs/results/107900969756304070) | Software | Beijing, China; Shanghai, China | 2026-03-24 | 2026-07-09 |
 
@@ -292,6 +302,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [2027 Software Engineering Internship, Uber Career Prep](https://www.uber.com/global/en/careers/list/302133/) 🆕 | Software | San Francisco, United States; Seattle, United States; Sunnyvale, United States | 2026-07-17 | 2026-07-20 |
 | [2026 Software Engineering Internship, Brazil](https://www.uber.com/global/en/careers/list/301623/) 🆕 | Software | Sao Paulo, Brazil | 2026-07-13 | 2026-07-15 |
 | [2026 Data Scientist Internship, Brazil](https://www.uber.com/global/en/careers/list/301541/) 🆕 | Data | Sao Paulo, Brazil | 2026-07-13 | 2026-07-15 |
 
