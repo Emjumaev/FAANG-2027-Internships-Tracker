@@ -735,6 +735,20 @@
       "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
       "url": "https://www.amazon.jobs/en/jobs/3128215/2026-applied-scientist-intern-amazon-university-talent-acquisition"
     },
+    "amazon:3130528": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Amazon",
+      "external_id": "3130528",
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "locations": [
+        "Dresden, Saxony, DEU"
+      ],
+      "posted": "2025-11-21",
+      "title": "Software Dev Engineer Internship - Embedded Development (Linux)",
+      "url": "https://www.amazon.jobs/en/jobs/3130528/software-dev-engineer-internship-embedded-development-linux"
+    },
     "amazon:3131315": {
       "active": true,
       "category": "AI/ML",
@@ -1259,8 +1273,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/107900969756304070"
     },
     "google:123358125276177094": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-20",
       "company": "Google",
       "external_id": "123358125276177094",
       "first_seen": "2026-07-09",
@@ -1322,8 +1337,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/138166347879064262"
     },
     "google:140245524367188678": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-20",
       "company": "Google",
       "external_id": "140245524367188678",
       "first_seen": "2026-07-09",
@@ -1354,8 +1370,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/140245524367188678"
     },
     "google:97480706799608518": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-20",
       "company": "Google",
       "external_id": "97480706799608518",
       "first_seen": "2026-07-09",
@@ -1797,6 +1814,20 @@
       "title": "Data Engineer (Summer Internship)",
       "url": "https://www.janestreet.com/join-jane-street/position/8631973002/"
     },
+    "jane-street:8632723002": {
+      "active": true,
+      "category": "Security",
+      "company": "Jane Street",
+      "external_id": "8632723002",
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "locations": [
+        "NYC"
+      ],
+      "posted": null,
+      "title": "Cybersecurity Analyst (Summer Internship)",
+      "url": "https://www.janestreet.com/join-jane-street/position/8632723002/"
+    },
     "meta:1029177790044680": {
       "active": false,
       "category": "AI/ML",
@@ -2138,6 +2169,20 @@
       "posted": "2026-07-05",
       "title": "Security Research Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556768751"
+    },
+    "microsoft:1970393556866895": {
+      "active": true,
+      "category": "Software",
+      "company": "Microsoft",
+      "external_id": "1970393556866895",
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-07-20",
+      "locations": [
+        "Egypt, Cairo, Cairo"
+      ],
+      "posted": "2026-07-20",
+      "title": "Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556866895"
     },
     "microsoft:1970393556867858": {
       "active": true,
@@ -2515,8 +2560,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Robot-Learning-Platform---2026_JR2018629"
     },
     "nvidia:JR2018845": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-20",
       "company": "NVIDIA",
       "external_id": "JR2018845",
       "first_seen": "2026-07-09",
@@ -2817,5 +2863,5 @@
       "url": "https://www.uber.com/global/en/careers/list/301623/"
     }
   },
-  "updated_at": "2026-07-20T09:42:54Z"
+  "updated_at": "2026-07-20T14:40:49Z"
 }
