@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-21 14:32:16 UTC** · 📌 **165** open internships
+> 🕐 Last updated: **2026-07-21 20:00:39 UTC** · 📌 **165** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -25,8 +25,8 @@ GitHub Actions.
 | [Google](#google) | 12 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
 | [Intel](#intel) | 8 |
-| [Jane Street](#jane-street) | 15 |
-| [Meta](#meta) | 15 |
+| [Jane Street](#jane-street) | 16 |
+| [Meta](#meta) | 14 |
 | [Microsoft](#microsoft) | 9 |
 | [NVIDIA](#nvidia) | 11 |
 | [Netflix](#netflix) | 2 |
@@ -196,6 +196,7 @@ GitHub Actions.
 |---|---|---|---|---|
 | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8617298002/) 🆕 | Software | HKG | — | 2026-07-21 |
 | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8632392002/) 🆕 | Software | SGP | — | 2026-07-21 |
+| [Linux Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8625946002/) 🆕 | Backend/Infra | HKG | — | 2026-07-21 |
 | [Cybersecurity Analyst (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8632723002/) 🆕 | Security | NYC | — | 2026-07-20 |
 | [Linux Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8626260002/) 🆕 | Backend/Infra | NYC | — | 2026-07-15 |
 | [Data Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8631973002/) 🆕 | Data | NYC | — | 2026-07-14 |
@@ -218,7 +219,6 @@ GitHub Actions.
 | [Research Scientist Intern, State Estimation for Dexterous Manipulation (PhD)](https://www.metacareers.com/jobs/2774289902955470) | AI/ML | Redmond, WA | — | 2026-07-09 |
 | [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/2022109075207025) | AI/ML | Pittsburgh, PA; Redmond, WA; Sausalito, CA | — | 2026-07-09 |
 | [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/924149567345400) | AI/ML | London, UK | — | 2026-07-09 |
-| [Research Scientist Intern, Optical System Design (PhD)](https://www.metacareers.com/jobs/1710381673750348) | AI/ML | Redmond, WA | — | 2026-07-09 |
 | [Research Scientist Intern, NMR Analysis Automation](https://www.metacareers.com/jobs/1418337243438665) | AI/ML | Redmond, WA | — | 2026-07-09 |
 | [Research Scientist Intern, Monetization Generative AI - LLM (PhD)](https://www.metacareers.com/jobs/2916726525182155) | AI/ML | Bellevue, WA; Menlo Park, CA; Seattle, WA | — | 2026-07-09 |
 | [Research Scientist Intern, Machine Perception for Input and Interaction (PhD)](https://www.metacareers.com/jobs/779670167783218) | AI/ML | Redmond, WA; Seattle, WA | — | 2026-07-09 |
