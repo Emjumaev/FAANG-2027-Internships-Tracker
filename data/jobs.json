@@ -1882,8 +1882,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Pre-Silicon-IP-System-Validation-Intern_JR0285538-1"
     },
     "intel:JR0285543": {
-      "active": true,
+      "active": false,
       "category": "QA",
+      "closed": "2026-07-21",
       "company": "Intel",
       "external_id": "JR0285543",
       "first_seen": "2026-07-09",
@@ -3170,5 +3171,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-07-21T09:09:37Z"
+  "updated_at": "2026-07-21T14:32:16Z"
 }
