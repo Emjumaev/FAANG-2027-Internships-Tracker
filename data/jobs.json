@@ -1309,6 +1309,7 @@
       "first_seen": "2026-07-20",
       "last_seen": "2026-07-22",
       "locations": [
+        "Montreal, QC, Canada",
         "Toronto, ON, Canada",
         "Waterloo, ON, Canada"
       ],
@@ -1375,6 +1376,7 @@
       "first_seen": "2026-07-20",
       "last_seen": "2026-07-22",
       "locations": [
+        "Montreal, QC, Canada",
         "Toronto, ON, Canada",
         "Waterloo, ON, Canada"
       ],
@@ -1722,8 +1724,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/AI-Tools-Development-Intern_JR0283292"
     },
     "intel:JR0283301": {
-      "active": true,
+      "active": false,
       "category": "QA",
+      "closed": "2026-07-22",
       "company": "Intel",
       "external_id": "JR0283301",
       "first_seen": "2026-07-09",
@@ -2448,8 +2451,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556627173"
     },
     "microsoft:1970393556630821": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-22",
       "company": "Microsoft",
       "external_id": "1970393556630821",
       "first_seen": "2026-07-15",
@@ -2521,17 +2525,17 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867858"
     },
     "microsoft:1970393556868271": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-07-10",
       "company": "Microsoft",
       "external_id": "1970393556868271",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-10",
+      "last_seen": "2026-07-22",
       "locations": [
         "United States, Washington, Redmond"
       ],
-      "posted": "2026-06-11",
+      "posted": "2026-07-22",
       "title": "Applied Science: PhD Microsoft AI Internship Opportunities - Redmond",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556868271"
     },
@@ -2924,8 +2928,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667"
     },
     "nvidia:JR2019769": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-07-22",
       "company": "NVIDIA",
       "external_id": "JR2019769",
       "first_seen": "2026-07-09",
@@ -3200,5 +3205,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-07-22T14:32:48Z"
+  "updated_at": "2026-07-22T19:52:41Z"
 }
