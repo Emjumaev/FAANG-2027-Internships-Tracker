@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-23 14:41:26 UTC** · 📌 **162** open internships
+> 🕐 Last updated: **2026-07-23 19:54:42 UTC** · 📌 **159** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -24,7 +24,7 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 12 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
-| [Intel](#intel) | 7 |
+| [Intel](#intel) | 5 |
 | [Jane Street](#jane-street) | 16 |
 | [Meta](#meta) | 13 |
 | [Microsoft](#microsoft) | 9 |
@@ -34,7 +34,7 @@ GitHub Actions.
 | [Oracle](#oracle) | 5 |
 | PayPal | — |
 | [Pinterest](#pinterest) | 1 |
-| [Salesforce](#salesforce) | 1 |
+| Salesforce | — |
 | Snap | — |
 | [Snowflake](#snowflake) | 2 |
 | Spotify | — |
@@ -181,8 +181,6 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) 🆕 | AI/ML | 2 Locations | 2026-07-17 | 2026-07-17 |
-| [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) 🆕 | AI/ML | US, Arizona, Phoenix | 2026-07-17 | 2026-07-17 |
 | [System Validation Intern (Power and Performance)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/System-Validation-Intern--Power-and-Performance-_JR0285548) | QA | Mexico, Guadalajara | 2026-07-10 | 2026-07-11 |
 | [AI Algorithm Research Intern – Neuromorphic Computing](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/AI-Algorithm-Research-Intern---Neuromorphic-Computing_JR0283303) | AI/ML | Mexico, Guadalajara | — | 2026-07-09 |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0285471) | AI/ML | Poland, Gdansk | 2026-07-08 | 2026-07-09 |
@@ -279,12 +277,6 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) | AI/ML | New York, NY, US; Palo Alto, CA, US; San Francisco, CA, US *(+1 more)* | 2026-04-20 | 2026-07-09 |
-
-## Salesforce
-
-| Role | Category | Location | Posted | First seen |
-|---|---|---|---|---|
-| [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) | Software | 2 Locations | 2026-07-22 | 2026-07-14 |
 
 ## Snowflake
 
