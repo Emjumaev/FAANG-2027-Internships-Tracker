@@ -1690,7 +1690,7 @@
       "locations": [
         "2 Locations"
       ],
-      "posted": "2026-07-18",
+      "posted": "2026-07-17",
       "title": "AI Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639"
     },
@@ -1704,7 +1704,7 @@
       "locations": [
         "US, Arizona, Phoenix"
       ],
-      "posted": "2026-07-18",
+      "posted": "2026-07-17",
       "title": "AI Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641"
     },
@@ -1837,7 +1837,7 @@
       "locations": [
         "Mexico, Guadalajara"
       ],
-      "posted": "2026-07-03",
+      "posted": "2026-07-02",
       "title": "Development Tools Software Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Development-Tools-Software-Intern_JR0285211"
     },
@@ -1866,7 +1866,7 @@
       "locations": [
         "Mexico, Guadalajara"
       ],
-      "posted": "2026-07-08",
+      "posted": "2026-07-07",
       "title": "Electrical Validation Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Electrical-Validation-Intern_JR0285377"
     },
@@ -1880,7 +1880,7 @@
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-07-09",
+      "posted": "2026-07-08",
       "title": "AI Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0285471"
     },
@@ -1924,7 +1924,7 @@
       "locations": [
         "Mexico, Guadalajara"
       ],
-      "posted": "2026-07-11",
+      "posted": "2026-07-10",
       "title": "System Validation Intern (Power and Performance)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/System-Validation-Intern--Power-and-Performance-_JR0285548"
     },
@@ -2691,7 +2691,7 @@
       "locations": [
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-07-02",
+      "posted": "2026-07-01",
       "title": "Applied Research Intern, NLP - Fall 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488"
     },
@@ -2763,7 +2763,7 @@
       "locations": [
         "US, MO, St. Louis"
       ],
-      "posted": "2026-07-07",
+      "posted": "2026-07-06",
       "title": "Performance Engineer Intern, Systems Software-  Fall 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779"
     },
@@ -2909,7 +2909,7 @@
       "locations": [
         "China, Shanghai"
       ],
-      "posted": "2026-06-26",
+      "posted": "2026-06-25",
       "title": "Robotics Software Intern, Deployment and Humanoids - 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Robotics-Software-Intern--Deployment-and-Humanoids---2026_JR2019641"
     },
@@ -2923,7 +2923,7 @@
       "locations": [
         "3 Locations"
       ],
-      "posted": "2026-06-25",
+      "posted": "2026-06-24",
       "title": "PhD Research Intern, System Software and I/O Architecture - Fall 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667"
     },
@@ -3069,7 +3069,7 @@
       "locations": [
         "2 Locations"
       ],
-      "posted": "2026-07-23",
+      "posted": "2026-07-22",
       "title": "Summer 2027 Intern - Software Engineer",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715"
     },
@@ -3117,8 +3117,9 @@
       "url": "https://careers.snowflake.com/us/en/job/4298e941-d129-4d7f-a965-faa68e6e599e"
     },
     "snowflake:a92a900c-56c2-4cf6-8c2e-fcd183a84e58": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-07-23",
       "company": "Snowflake",
       "external_id": "a92a900c-56c2-4cf6-8c2e-fcd183a84e58",
       "first_seen": "2026-07-09",
@@ -3205,5 +3206,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-07-23T03:55:41Z"
+  "updated_at": "2026-07-23T08:52:23Z"
 }
