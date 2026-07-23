@@ -1681,8 +1681,9 @@
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083"
     },
     "intel:JR0282639": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-23",
       "company": "Intel",
       "external_id": "JR0282639",
       "first_seen": "2026-07-17",
@@ -1695,8 +1696,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639"
     },
     "intel:JR0282641": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-23",
       "company": "Intel",
       "external_id": "JR0282641",
       "first_seen": "2026-07-17",
@@ -3059,9 +3061,9 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7255640"
     },
     "salesforce:JR337715": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-07-19",
+      "closed": "2026-07-23",
       "company": "Salesforce",
       "external_id": "JR337715",
       "first_seen": "2026-07-14",
@@ -3206,5 +3208,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-07-23T14:41:26Z"
+  "updated_at": "2026-07-23T19:54:42Z"
 }
