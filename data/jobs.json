@@ -367,13 +367,13 @@
       "url": "https://www.amazon.jobs/en/jobs/10400153/fall-2026-annapurna-labs-at-aws-internship-us-machine-learning-systems-silicon-innovation"
     },
     "amazon:10401402": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-07-13",
       "company": "Amazon",
       "external_id": "10401402",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-13",
+      "last_seen": "2026-07-24",
       "locations": [
         "Berlin, Berlin, DEU"
       ],
@@ -2958,6 +2958,20 @@
       "title": "Java Engineering Intern - Fall 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769"
     },
+    "nvidia:JR2021783": {
+      "active": true,
+      "category": "QA",
+      "company": "NVIDIA",
+      "external_id": "JR2021783",
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "locations": [
+        "Taiwan, Taipei"
+      ],
+      "posted": "2026-07-24",
+      "title": "System Design Validation Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Intern---2027_JR2021783"
+    },
     "oracle:334325": {
       "active": true,
       "category": "Software",
@@ -3224,5 +3238,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-07-24T08:50:40Z"
+  "updated_at": "2026-07-24T14:22:10Z"
 }
