@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-24 14:22:10 UTC** · 📌 **160** open internships
+> 🕐 Last updated: **2026-07-24 19:55:18 UTC** · 📌 **158** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -33,13 +33,13 @@ GitHub Actions.
 | OpenAI | — |
 | [Oracle](#oracle) | 5 |
 | PayPal | — |
-| [Pinterest](#pinterest) | 1 |
+| Pinterest | — |
 | Salesforce | — |
 | Snap | — |
 | [Snowflake](#snowflake) | 2 |
 | Spotify | — |
 | [Stripe](#stripe) | 1 |
-| [Uber](#uber) | 1 |
+| Uber | — |
 | Citadel Securities | *no API — entire site behind a Cloudflare browser challenge; needs a headless browser* |
 | LinkedIn | *careers site only links to linkedin.com/jobs, which is authwalled and prohibits scraping* |
 
@@ -275,12 +275,6 @@ GitHub Actions.
 | [OCI Software Engineer Intern - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334333) | Software | Austin, TX, United States; Nashville, TN, United States; United States | 2026-05-22 | 2026-07-09 |
 | [GDI Information Security Analyst Intern - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334389) | Security | Austin, TX, United States; Reston, VA, United States; United States | 2026-05-20 | 2026-07-09 |
 
-## Pinterest
-
-| Role | Category | Location | Posted | First seen |
-|---|---|---|---|---|
-| [PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) | AI/ML | New York, NY, US; Palo Alto, CA, US; San Francisco, CA, US *(+1 more)* | 2026-04-20 | 2026-07-09 |
-
 ## Snowflake
 
 | Role | Category | Location | Posted | First seen |
@@ -293,12 +287,6 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833) | Software | Bengaluru | 2026-07-10 | 2026-07-10 |
-
-## Uber
-
-| Role | Category | Location | Posted | First seen |
-|---|---|---|---|---|
-| [2026 Data Scientist Internship, Brazil](https://www.uber.com/global/en/careers/list/301541/) | Data | Sao Paulo, Brazil | 2026-07-13 | 2026-07-15 |
 
 
 ---
