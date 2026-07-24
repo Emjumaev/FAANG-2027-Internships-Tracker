@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-24 08:50:40 UTC** · 📌 **158** open internships
+> 🕐 Last updated: **2026-07-24 14:22:10 UTC** · 📌 **160** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -14,7 +14,7 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 2 |
 | Airbnb | — |
-| [Amazon](#amazon) | 61 |
+| [Amazon](#amazon) | 62 |
 | Anthropic | — |
 | [Apple](#apple) | 11 |
 | Bloomberg | — |
@@ -28,7 +28,7 @@ GitHub Actions.
 | [Jane Street](#jane-street) | 16 |
 | [Meta](#meta) | 13 |
 | [Microsoft](#microsoft) | 9 |
-| [NVIDIA](#nvidia) | 10 |
+| [NVIDIA](#nvidia) | 11 |
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
 | [Oracle](#oracle) | 5 |
@@ -62,6 +62,7 @@ GitHub Actions.
 | [2026 Fall Quantum Applied Science Internship, Center for Quantum Computing](https://www.amazon.jobs/en/jobs/10419240/2026-fall-quantum-applied-science-internship-center-for-quantum-computing) | AI/ML | Pasadena, California, USA | 2026-05-13 | 2026-07-09 |
 | [2026 Data Scientist Internship , Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10417108/2026-data-scientist-internship-amazon-university-talent-acquisition) | Data | Tel Aviv-Yafo, Tel Aviv, ISR | 2026-05-12 | 2026-07-09 |
 | [Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) | Data | Seattle, Washington, USA | 2026-05-06 | 2026-07-09 |
+| [Software Dev Engineer Intern Machine Learning, Amazon Robotics](https://www.amazon.jobs/en/jobs/10401402/software-dev-engineer-intern-machine-learning-amazon-robotics) | AI/ML | Berlin, Berlin, DEU | 2026-04-23 | 2026-07-09 |
 | [2026 Fall Research Science Internship - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10398392/2026-fall-research-science-internship-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-21 | 2026-07-09 |
 | [Software Dev Engineer Intern, (Devices) 2026 Beijing](https://www.amazon.jobs/en/jobs/10395459/software-dev-engineer-intern-devices-2026-beijing) | Software | Beijing, CHN | 2026-04-19 | 2026-07-09 |
 | [Technical Business Developer Intern, 2026 Hong Kong](https://www.amazon.jobs/en/jobs/10394507/technical-business-developer-intern-2026-hong-kong) 🆕 | Software | Hong Kong, Hong Kong SAR, HKG | 2026-04-17 | 2026-07-24 |
@@ -245,6 +246,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [System Design Validation Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Intern---2027_JR2021783) 🆕 | QA | Taiwan, Taipei | 2026-07-24 | 2026-07-24 |
 | [Software Engineering Intern, Robot Learning Platform - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Robot-Learning-Platform---2026_JR2018629) | Backend/Infra | China, Shanghai | — | 2026-07-09 |
 | [PhD Software Engineering Intern, Decision Intelligence - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | Software | US, CA, Santa Clara | — | 2026-07-09 |
 | [PhD Research Intern, Security and Privacy - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1) | Security | US, CA, Santa Clara | — | 2026-07-09 |
