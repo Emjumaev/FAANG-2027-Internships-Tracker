@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-27 10:17:04 UTC** · 📌 **153** open internships
+> 🕐 Last updated: **2026-07-27 15:23:13 UTC** · 📌 **151** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -22,7 +22,7 @@ GitHub Actions.
 | [Cloudflare](#cloudflare) | 3 |
 | [Databricks](#databricks) | 1 |
 | GitHub | — |
-| [Google](#google) | 10 |
+| [Google](#google) | 8 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
 | [Intel](#intel) | 5 |
 | [Jane Street](#jane-street) | 16 |
@@ -163,8 +163,6 @@ GitHub Actions.
 | [Student Researcher, PhD, Fall 2026](https://www.google.com/about/careers/applications/jobs/results/83535564552184518) 🆕 | AI/ML | Ann Arbor, MI, USA; Atlanta, GA, USA; Austin, TX, USA *(+16 more)* | 2026-07-20 | 2026-07-20 |
 | [Student Researcher, BS/MS, Fall 2026](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) 🆕 | AI/ML | Montreal, QC, Canada; Toronto, ON, Canada; Waterloo, ON, Canada | 2026-07-20 | 2026-07-20 |
 | [Student Researcher, BS/MS, Fall 2026](https://www.google.com/about/careers/applications/jobs/results/132362676918461126) 🆕 | AI/ML | Ann Arbor, MI, USA; Atlanta, GA, USA; Austin, TX, USA *(+16 more)* | 2026-07-20 | 2026-07-20 |
-| [Software Engineering Intern, MS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/95141459539174086) 🆕 | Software | Atlanta, GA, USA; Austin, TX, USA; Bellevue, WA, USA *(+27 more)* | 2026-07-20 | 2026-07-20 |
-| [Software Engineering Intern, BS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/85564713261245126) 🆕 | Software | Atlanta, GA, USA; Austin, TX, USA; Bellevue, WA, USA *(+27 more)* | 2026-07-20 | 2026-07-20 |
 | [Software Application Development Apprenticeship, March 2027 Start](https://www.google.com/about/careers/applications/jobs/results/123243602355593926) 🆕 | Software | Bengaluru, Karnataka, India; Gurgaon, Haryana, India; Hyderabad, Telangana, India *(+1 more)* | 2026-07-20 | 2026-07-20 |
 | [Data Analytics Apprenticeship, March 2027 Start](https://www.google.com/about/careers/applications/jobs/results/114421121054319302) 🆕 | Data | Bengaluru, Karnataka, India; Gurgaon, Haryana, India; Hyderabad, Telangana, India *(+1 more)* | 2026-07-20 | 2026-07-20 |
 | [Apprenticeship in Application Development, Informatiker:in EFZ Applikationsentwicklung, August 2027](https://www.google.com/about/careers/applications/jobs/results/135233176434811590) | Software | Zürich, Switzerland | 2026-07-01 | 2026-07-09 |
