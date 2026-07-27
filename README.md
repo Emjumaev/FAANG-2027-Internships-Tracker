@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-27 15:23:13 UTC** · 📌 **151** open internships
+> 🕐 Last updated: **2026-07-27 20:03:58 UTC** · 📌 **151** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -24,9 +24,9 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 8 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
-| [Intel](#intel) | 5 |
+| [Intel](#intel) | 6 |
 | [Jane Street](#jane-street) | 16 |
-| [Meta](#meta) | 13 |
+| [Meta](#meta) | 12 |
 | [Microsoft](#microsoft) | 9 |
 | [NVIDIA](#nvidia) | 11 |
 | [Netflix](#netflix) | 1 |
@@ -178,6 +178,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [AI Applied intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916) 🆕 | AI/ML | US, Oregon, Hillsboro | 2026-07-27 | 2026-07-27 |
 | [System Validation Intern (Power and Performance)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/System-Validation-Intern--Power-and-Performance-_JR0285548) | QA | Mexico, Guadalajara | 2026-07-10 | 2026-07-11 |
 | [AI Algorithm Research Intern – Neuromorphic Computing](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/AI-Algorithm-Research-Intern---Neuromorphic-Computing_JR0283303) | AI/ML | Mexico, Guadalajara | — | 2026-07-09 |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0285471) | AI/ML | Poland, Gdansk | 2026-07-08 | 2026-07-09 |
@@ -211,7 +212,6 @@ GitHub Actions.
 |---|---|---|---|---|
 | [Research Scientist Intern, Monetization Computer Vision (PhD)](https://www.metacareers.com/jobs/2281218542616482) | AI/ML | Menlo Park, CA | — | 2026-07-10 |
 | [Research Scientist Intern, State Estimation for Dexterous Manipulation (PhD)](https://www.metacareers.com/jobs/2774289902955470) | AI/ML | Redmond, WA | — | 2026-07-09 |
-| [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/2022109075207025) | AI/ML | Pittsburgh, PA; Redmond, WA; Sausalito, CA | — | 2026-07-09 |
 | [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/924149567345400) | AI/ML | London, UK | — | 2026-07-09 |
 | [Research Scientist Intern, NMR Analysis Automation](https://www.metacareers.com/jobs/1418337243438665) | AI/ML | Redmond, WA | — | 2026-07-09 |
 | [Research Scientist Intern, Monetization Generative AI - LLM (PhD)](https://www.metacareers.com/jobs/2916726525182155) | AI/ML | Bellevue, WA; Menlo Park, CA; Seattle, WA | — | 2026-07-09 |
