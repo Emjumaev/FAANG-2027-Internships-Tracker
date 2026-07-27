@@ -1964,6 +1964,20 @@
       "title": "System Validation Intern (Power and Performance)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/System-Validation-Intern--Power-and-Performance-_JR0285548"
     },
+    "intel:JR0285916": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Intel",
+      "external_id": "JR0285916",
+      "first_seen": "2026-07-27",
+      "last_seen": "2026-07-27",
+      "locations": [
+        "US, Oregon, Hillsboro"
+      ],
+      "posted": "2026-07-27",
+      "title": "AI Applied intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916"
+    },
     "jane-street:5866838002": {
       "active": true,
       "category": "Backend/Infra",
@@ -2269,9 +2283,9 @@
       "url": "https://www.metacareers.com/jobs/1782902493113620"
     },
     "meta:2022109075207025": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-07-19",
+      "closed": "2026-07-27",
       "company": "Meta",
       "external_id": "2022109075207025",
       "first_seen": "2026-07-09",
@@ -3261,5 +3275,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-07-27T15:23:13Z"
+  "updated_at": "2026-07-27T20:03:58Z"
 }
