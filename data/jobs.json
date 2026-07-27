@@ -1576,8 +1576,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/83535564552184518"
     },
     "google:85564713261245126": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-07-27",
       "company": "Google",
       "external_id": "85564713261245126",
       "first_seen": "2026-07-20",
@@ -1619,8 +1620,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126"
     },
     "google:95141459539174086": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-07-27",
       "company": "Google",
       "external_id": "95141459539174086",
       "first_seen": "2026-07-20",
@@ -3259,5 +3261,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-07-27T10:17:04Z"
+  "updated_at": "2026-07-27T15:23:13Z"
 }
