@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-28 14:48:27 UTC** · 📌 **153** open internships
+> 🕐 Last updated: **2026-07-28 20:01:07 UTC** · 📌 **154** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -19,14 +19,14 @@ GitHub Actions.
 | [Apple](#apple) | 12 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 2 |
-| [Cloudflare](#cloudflare) | 3 |
+| [Cloudflare](#cloudflare) | 5 |
 | [Databricks](#databricks) | 1 |
 | GitHub | — |
 | [Google](#google) | 8 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
 | [Intel](#intel) | 6 |
 | [Jane Street](#jane-street) | 16 |
-| [Meta](#meta) | 12 |
+| [Meta](#meta) | 11 |
 | [Microsoft](#microsoft) | 9 |
 | [NVIDIA](#nvidia) | 11 |
 | [Netflix](#netflix) | 1 |
@@ -146,6 +146,8 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) 🆕 | AI/ML | In-Office | 2026-07-28 | 2026-07-28 |
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) 🆕 | AI/ML | In-Office | 2026-07-28 | 2026-07-28 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | Software | In-Office | 2026-07-14 | 2026-07-15 |
 | [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | Backend/Infra | In-Office | 2026-07-01 | 2026-07-09 |
 | [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | Backend/Infra | In-Office | 2026-06-26 | 2026-07-09 |
@@ -222,7 +224,6 @@ GitHub Actions.
 | [Research Scientist Intern, Applied Vision and Image Quality (PhD)](https://www.metacareers.com/jobs/1422892385992613) | AI/ML | Redmond, WA | — | 2026-07-09 |
 | [Research Scientist Intern, AI/ML, Core Ads Growth (PhD)](https://www.metacareers.com/jobs/771948392580541) | AI/ML | London, UK; Zurich, Switzerland | — | 2026-07-09 |
 | [Research Scientist Intern, AI Alignment](https://www.metacareers.com/jobs/1782902493113620) | AI/ML | Bellevue, WA; Boston, MA; Menlo Park, CA *(+3 more)* | — | 2026-07-09 |
-| [Research Scientist Intern PhD,  Applied Research](https://www.metacareers.com/jobs/2633206137040139) | AI/ML | Menlo Park, CA | — | 2026-07-09 |
 
 ## Microsoft
 
