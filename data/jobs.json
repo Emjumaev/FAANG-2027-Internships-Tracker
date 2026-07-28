@@ -1302,6 +1302,34 @@
       "title": "Security Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8060959?gh_jid=8060959"
     },
+    "cloudflare:8089379": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Cloudflare",
+      "external_id": "8089379",
+      "first_seen": "2026-07-28",
+      "last_seen": "2026-07-28",
+      "locations": [
+        "In-Office"
+      ],
+      "posted": "2026-07-28",
+      "title": "Research Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379"
+    },
+    "cloudflare:8089400": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Cloudflare",
+      "external_id": "8089400",
+      "first_seen": "2026-07-28",
+      "last_seen": "2026-07-28",
+      "locations": [
+        "In-Office"
+      ],
+      "posted": "2026-07-28",
+      "title": "Research Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400"
+    },
     "databricks:7011263002": {
       "active": true,
       "category": "AI/ML",
@@ -2362,9 +2390,9 @@
       "url": "https://www.metacareers.com/jobs/24536664159369645"
     },
     "meta:2633206137040139": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-07-19",
+      "closed": "2026-07-28",
       "company": "Meta",
       "external_id": "2633206137040139",
       "first_seen": "2026-07-09",
@@ -3290,5 +3318,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-07-28T14:48:27Z"
+  "updated_at": "2026-07-28T20:01:07Z"
 }
