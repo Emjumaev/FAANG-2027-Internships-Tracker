@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-28 09:14:01 UTC** · 📌 **151** open internships
+> 🕐 Last updated: **2026-07-28 14:48:27 UTC** · 📌 **153** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -18,7 +18,7 @@ GitHub Actions.
 | Anthropic | — |
 | [Apple](#apple) | 12 |
 | Bloomberg | — |
-| [Cisco](#cisco) | 1 |
+| [Cisco](#cisco) | 2 |
 | [Cloudflare](#cloudflare) | 3 |
 | [Databricks](#databricks) | 1 |
 | GitHub | — |
@@ -34,7 +34,7 @@ GitHub Actions.
 | [Oracle](#oracle) | 5 |
 | PayPal | — |
 | Pinterest | — |
-| Salesforce | — |
+| [Salesforce](#salesforce) | 1 |
 | Snap | — |
 | [Snowflake](#snowflake) | 1 |
 | Spotify | — |
@@ -139,6 +139,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Development Intern (Cracow, Poland)](https://careers.cisco.com/global/en/job/2015133) | Software | Krakow, Poland | 2026-07-28 | 2026-07-09 |
 | [Test Engineer Intern, Vietnam](https://careers.cisco.com/global/en/job/2011415) 🆕 | QA | Hanoi, Hà Nội, Vietnam | 2026-07-22 | 2026-07-22 |
 
 ## Cloudflare
@@ -268,6 +269,12 @@ GitHub Actions.
 | [OCI Software Engineer Intern - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334325) | Software | Santa Clara, CA, United States; Seattle, WA, United States; United States | 2026-05-22 | 2026-07-09 |
 | [OCI Software Engineer Intern - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334333) | Software | Austin, TX, United States; Nashville, TN, United States; United States | 2026-05-22 | 2026-07-09 |
 | [GDI Information Security Analyst Intern - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334389) | Security | Austin, TX, United States; Reston, VA, United States; United States | 2026-05-20 | 2026-07-09 |
+
+## Salesforce
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) | Software | 2 Locations | 2026-07-28 | 2026-07-14 |
 
 ## Snowflake
 
