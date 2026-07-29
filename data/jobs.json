@@ -566,8 +566,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition"
     },
     "amazon:3115055": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-29",
       "company": "Amazon",
       "external_id": "3115055",
       "first_seen": "2026-07-09",
@@ -1329,6 +1330,20 @@
       "posted": "2026-07-28",
       "title": "Research Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400"
+    },
+    "cloudflare:8089407": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Cloudflare",
+      "external_id": "8089407",
+      "first_seen": "2026-07-29",
+      "last_seen": "2026-07-29",
+      "locations": [
+        "In-Office"
+      ],
+      "posted": "2026-07-29",
+      "title": "Research Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407"
     },
     "databricks:7011263002": {
       "active": true,
@@ -3319,5 +3334,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-07-29T14:39:34Z"
+  "updated_at": "2026-07-29T19:53:17Z"
 }
