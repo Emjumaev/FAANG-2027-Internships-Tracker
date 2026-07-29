@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-29 14:39:34 UTC** · 📌 **155** open internships
+> 🕐 Last updated: **2026-07-29 19:53:17 UTC** · 📌 **155** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -14,12 +14,12 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 2 |
 | Airbnb | — |
-| [Amazon](#amazon) | 61 |
+| [Amazon](#amazon) | 60 |
 | Anthropic | — |
 | [Apple](#apple) | 12 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 2 |
-| [Cloudflare](#cloudflare) | 5 |
+| [Cloudflare](#cloudflare) | 6 |
 | [Databricks](#databricks) | 1 |
 | GitHub | — |
 | [Google](#google) | 8 |
@@ -112,7 +112,6 @@ GitHub Actions.
 | [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition) | AI/ML | Barcelona, Catalonia, ESP | 2025-11-03 | 2026-07-09 |
 | [Software Development Engineer Internship - Fall 2026 (US)](https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us) | Software | Seattle, Washington, USA | 2025-10-27 | 2026-07-09 |
 | [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition) | AI/ML | Berlin, Berlin, DEU | 2025-10-24 | 2026-07-09 |
-| [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3115055/2026-applied-scientist-intern-amazon-university-talent-acquisition) | AI/ML | Tel Aviv-Yafo, TA, ISR | 2025-10-24 | 2026-07-09 |
 | [Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | AI/ML | North Reading, Massachusetts, USA | 2025-10-08 | 2026-07-09 |
 | [2026 Software Dev Engineer Intern - Germany](https://www.amazon.jobs/en/jobs/3074226/2026-software-dev-engineer-intern-germany) | Software | Berlin, Berlin, DEU | 2025-09-05 | 2026-07-13 |
 | [2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics](https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics) | AI/ML | San Francisco, California, USA | 2025-09-02 | 2026-07-09 |
@@ -146,6 +145,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) 🆕 | AI/ML | In-Office | 2026-07-29 | 2026-07-29 |
 | [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) 🆕 | AI/ML | In-Office | 2026-07-28 | 2026-07-28 |
 | [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) 🆕 | AI/ML | In-Office | 2026-07-28 | 2026-07-28 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | Software | In-Office | 2026-07-14 | 2026-07-15 |
