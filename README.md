@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-30 14:43:37 UTC** · 📌 **155** open internships
+> 🕐 Last updated: **2026-07-30 20:00:45 UTC** · 📌 **155** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -14,7 +14,7 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 2 |
 | Airbnb | — |
-| [Amazon](#amazon) | 60 |
+| [Amazon](#amazon) | 59 |
 | Anthropic | — |
 | [Apple](#apple) | 12 |
 | Bloomberg | — |
@@ -28,7 +28,7 @@ GitHub Actions.
 | [Jane Street](#jane-street) | 16 |
 | [Meta](#meta) | 11 |
 | [Microsoft](#microsoft) | 9 |
-| [NVIDIA](#nvidia) | 10 |
+| [NVIDIA](#nvidia) | 11 |
 | [Netflix](#netflix) | 1 |
 | OpenAI | — |
 | [Oracle](#oracle) | 5 |
@@ -105,7 +105,6 @@ GitHub Actions.
 | [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3128215/2026-applied-scientist-intern-amazon-university-talent-acquisition) | AI/ML | Luxembourg, LUX | 2025-11-18 | 2026-07-09 |
 | [2026 Applied Science Internship - United States, PhD Student Science Recruiting, Frontier AI & Robotics](https://www.amazon.jobs/en/jobs/3127861/2026-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics) | AI/ML | San Francisco, California, USA | 2025-11-17 | 2026-07-09 |
 | [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3126764/2026-applied-scientist-intern-amazon-university-talent-acquisition) | AI/ML | London, England, GBR | 2025-11-14 | 2026-07-09 |
-| [Software Development Engineer Internship, Costa Rica](https://www.amazon.jobs/en/jobs/3126072/software-development-engineer-internship-costa-rica) | Software | San Jose, San Jose, CRI | 2025-11-13 | 2026-07-09 |
 | [Software Development Engineer Internship, Mexico City](https://www.amazon.jobs/en/jobs/3123246/software-development-engineer-internship-mexico-city) | Software | Mexico City, Mexico City, MEX | 2025-11-07 | 2026-07-09 |
 | [Software Development Engineer Internship, Guadalajara](https://www.amazon.jobs/en/jobs/3123243/software-development-engineer-internship-guadalajara) | Software | Zapopan, Jalisco, MEX | 2025-11-07 | 2026-07-09 |
 | [Software Development Intern, Intech](https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech) | Software | BRA | 2025-11-04 | 2026-07-09 |
@@ -245,6 +244,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineering Intern — Replay Tooling & Test Automation, Autonomous Driving](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086) 🆕 | AI/ML | Germany, Munich | 2026-07-30 | 2026-07-30 |
 | [System Design Validation Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Intern---2027_JR2021783) 🆕 | QA | Taiwan, Taipei | 2026-07-24 | 2026-07-24 |
 | [Software Engineering Intern, Robot Learning Platform - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Robot-Learning-Platform---2026_JR2018629) | Backend/Infra | China, Shanghai | — | 2026-07-09 |
 | [PhD Software Engineering Intern, Decision Intelligence - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | Software | US, CA, Santa Clara | — | 2026-07-09 |
