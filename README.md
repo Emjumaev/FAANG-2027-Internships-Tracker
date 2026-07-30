@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-30 09:12:05 UTC** · 📌 **155** open internships
+> 🕐 Last updated: **2026-07-30 14:43:37 UTC** · 📌 **155** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
