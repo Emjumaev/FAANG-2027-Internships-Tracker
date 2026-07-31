@@ -2009,8 +2009,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/System-Validation-Intern--Power-and-Performance-_JR0285548"
     },
     "intel:JR0285848": {
-      "active": true,
+      "active": false,
       "category": "QA",
+      "closed": "2026-07-31",
       "company": "Intel",
       "external_id": "JR0285848",
       "first_seen": "2026-07-31",
@@ -2732,6 +2733,48 @@
       "title": "Applied Sciences INTERN",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556939161"
     },
+    "microsoft:1970393556942310": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Microsoft",
+      "external_id": "1970393556942310",
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "locations": [
+        "Qatar, Ad-Daw?ah, Doha"
+      ],
+      "posted": "2026-07-31",
+      "title": "Cloud Solution Architect - Erada Internship",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556942310"
+    },
+    "microsoft:1970393556942312": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Microsoft",
+      "external_id": "1970393556942312",
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "locations": [
+        "Saudi Arabia, Riyadh, Riyadh"
+      ],
+      "posted": "2026-07-31",
+      "title": "Cloud Solution Architect - Ru'aa Internship",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556942312"
+    },
+    "microsoft:1970393556944017": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Microsoft",
+      "external_id": "1970393556944017",
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-07-31",
+      "locations": [
+        "Kuwait, Al 'Asimah, Kuwait"
+      ],
+      "posted": "2026-07-31",
+      "title": "Cloud Solution Architect - Kuwait Nationalization Internship",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556944017"
+    },
     "netflix:790313241540": {
       "active": true,
       "category": "Software",
@@ -3083,8 +3126,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Intern---2027_JR2021783"
     },
     "nvidia:JR2022086": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-31",
       "company": "NVIDIA",
       "external_id": "JR2022086",
       "first_seen": "2026-07-30",
@@ -3364,5 +3408,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-07-31T09:25:18Z"
+  "updated_at": "2026-07-31T14:45:36Z"
 }
