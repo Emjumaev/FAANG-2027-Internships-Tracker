@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-31 14:45:36 UTC** · 📌 **156** open internships
+> 🕐 Last updated: **2026-07-31 20:01:51 UTC** · 📌 **155** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -16,7 +16,7 @@ GitHub Actions.
 | Airbnb | — |
 | [Amazon](#amazon) | 59 |
 | Anthropic | — |
-| [Apple](#apple) | 12 |
+| [Apple](#apple) | 11 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 2 |
 | [Cloudflare](#cloudflare) | 6 |
@@ -120,7 +120,6 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Applied Data Solutions Program (Internships)](https://jobs.apple.com/en-us/details/200673612/applied-data-solutions-program-internships) 🆕 | Data | Cupertino | 2026-07-26 | 2026-07-26 |
 | [Software Engineer Intern(Core OS)-Shanghai](https://jobs.apple.com/en-us/details/200494844/software-engineer-intern-core-os-shanghai) | Software | Shanghai | 2026-07-21 | 2026-07-21 |
 | [Machine Learning Engineer Intern - Shanghai](https://jobs.apple.com/en-us/details/200609538/machine-learning-engineer-intern-shanghai) | AI/ML | Shanghai | 2026-06-29 | 2026-07-09 |
 | [Machine Learning and Artificial Intelligence PhD Internships](https://jobs.apple.com/en-us/details/200664223/machine-learning-and-artificial-intelligence-phd-internships) | AI/ML | United States | 2026-05-22 | 2026-07-09 |
