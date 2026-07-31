@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-07-31 09:25:18 UTC** · 📌 **155** open internships
+> 🕐 Last updated: **2026-07-31 14:45:36 UTC** · 📌 **156** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -24,11 +24,11 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 8 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
-| [Intel](#intel) | 9 |
+| [Intel](#intel) | 8 |
 | [Jane Street](#jane-street) | 16 |
 | [Meta](#meta) | 11 |
-| [Microsoft](#microsoft) | 9 |
-| [NVIDIA](#nvidia) | 10 |
+| [Microsoft](#microsoft) | 12 |
+| [NVIDIA](#nvidia) | 9 |
 | [Netflix](#netflix) | 1 |
 | OpenAI | — |
 | [Oracle](#oracle) | 5 |
@@ -180,7 +180,6 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [SoC Validation Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/India-Bangalore/SoC-Validation-Engineer-Intern_JR0285848) 🆕 | QA | India, Bangalore | 2026-07-31 | 2026-07-31 |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | AI/ML | 2 Locations | 2026-07-29 | 2026-07-17 |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) | AI/ML | US, Arizona, Phoenix | 2026-07-29 | 2026-07-17 |
 | [Pre-Silicon IP System Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Pre-Silicon-IP-System-Validation-Intern_JR0286047) 🆕 | QA | Malaysia, Penang | 2026-07-28 | 2026-07-28 |
@@ -231,6 +230,9 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Cloud Solution Architect - Ru'aa Internship](https://apply.careers.microsoft.com/careers/job/1970393556942312) 🆕 | Backend/Infra | Saudi Arabia, Riyadh, Riyadh | 2026-07-31 | 2026-07-31 |
+| [Cloud Solution Architect - Kuwait Nationalization Internship](https://apply.careers.microsoft.com/careers/job/1970393556944017) 🆕 | Backend/Infra | Kuwait, Al 'Asimah, Kuwait | 2026-07-31 | 2026-07-31 |
+| [Cloud Solution Architect - Erada Internship](https://apply.careers.microsoft.com/careers/job/1970393556942310) 🆕 | Backend/Infra | Qatar, Ad-Daw?ah, Doha | 2026-07-31 | 2026-07-31 |
 | [Applied Science: PhD Microsoft AI Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556868271) | AI/ML | United States, Washington, Redmond | 2026-07-22 | 2026-07-09 |
 | [Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities](https://apply.careers.microsoft.com/careers/job/1970393556866895) | Software | Egypt, Cairo, Cairo | 2026-07-20 | 2026-07-20 |
 | [Applied Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556939161) | AI/ML | Israel, Multiple Locations, Multiple Locations | 2026-07-16 | 2026-07-16 |
@@ -245,7 +247,6 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineering Intern — Replay Tooling & Test Automation, Autonomous Driving](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086) 🆕 | AI/ML | Germany, Munich | 2026-07-30 | 2026-07-30 |
 | [System Design Validation Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Intern---2027_JR2021783) 🆕 | QA | Taiwan, Taipei | 2026-07-24 | 2026-07-24 |
 | [PhD Software Engineering Intern, Decision Intelligence - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | Software | US, CA, Santa Clara | — | 2026-07-09 |
 | [PhD Research Intern, Security and Privacy - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1) | Security | US, CA, Santa Clara | — | 2026-07-09 |
