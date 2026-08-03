@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-03 10:14:16 UTC** · 📌 **157** open internships
+> 🕐 Last updated: **2026-08-03 15:26:09 UTC** · 📌 **159** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -25,9 +25,9 @@ GitHub Actions.
 | [Google](#google) | 8 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
 | [Intel](#intel) | 9 |
-| [Jane Street](#jane-street) | 18 |
+| [Jane Street](#jane-street) | 19 |
 | [Meta](#meta) | 11 |
-| [Microsoft](#microsoft) | 12 |
+| [Microsoft](#microsoft) | 13 |
 | [NVIDIA](#nvidia) | 9 |
 | [Netflix](#netflix) | 1 |
 | OpenAI | — |
@@ -172,7 +172,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineering Internship (C++ or Python) – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) | Software | Austin, TX, United States; Chicago, Illinois, United States; New York, NY, United States *(+1 more)* | 2026-07-13 | 2026-07-13 |
+| [Software Engineering Internship (C++ or Python) – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) | Software | Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom *(+2 more)* | 2026-07-13 | 2026-07-13 |
 
 ## Intel
 
@@ -194,6 +194,7 @@ GitHub Actions.
 |---|---|---|---|---|
 | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8589868002/) 🆕 | Software | LDN | — | 2026-08-03 |
 | [Machine Learning Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8648474002/) 🆕 | AI/ML | LDN | — | 2026-08-03 |
+| [Linux Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8626146002/) 🆕 | Backend/Infra | LDN | — | 2026-08-03 |
 | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8617298002/) | Software | HKG | — | 2026-07-21 |
 | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8632392002/) | Software | SGP | — | 2026-07-21 |
 | [Linux Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8625946002/) | Backend/Infra | HKG | — | 2026-07-21 |
@@ -232,6 +233,7 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Software Engineer: Intern Opportunities for University Students - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556951950) 🆕 | Software | United States, Washington, Redmond | 2026-08-03 | 2026-08-03 |
+| [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556638637) 🆕 | AI/ML | India, Karnataka, Bangalore | 2026-08-03 | 2026-08-03 |
 | [Software Engineer - Gears of War - The Coalition: Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393556951951) 🆕 | Software | Canada, British Columbia, Vancouver | 2026-08-02 | 2026-08-03 |
 | [Cloud Solution Architect - Ru'aa Internship](https://apply.careers.microsoft.com/careers/job/1970393556942312) 🆕 | Backend/Infra | Saudi Arabia, Riyadh, Riyadh | 2026-07-31 | 2026-07-31 |
 | [Cloud Solution Architect - Kuwait Nationalization Internship](https://apply.careers.microsoft.com/careers/job/1970393556944017) 🆕 | Backend/Infra | Kuwait, Al 'Asimah, Kuwait | 2026-07-31 | 2026-07-31 |
