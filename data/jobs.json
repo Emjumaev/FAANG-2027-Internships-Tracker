@@ -1753,6 +1753,7 @@
       "locations": [
         "Austin, TX, United States",
         "Chicago, Illinois, United States",
+        "London, United Kingdom",
         "New York, NY, United States",
         "Singapore"
       ],
@@ -2250,6 +2251,20 @@
       "title": "Linux Engineer (Summer Internship)",
       "url": "https://www.janestreet.com/join-jane-street/position/8625946002/"
     },
+    "jane-street:8626146002": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Jane Street",
+      "external_id": "8626146002",
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03",
+      "locations": [
+        "LDN"
+      ],
+      "posted": null,
+      "title": "Linux Engineer (Summer Internship)",
+      "url": "https://www.janestreet.com/join-jane-street/position/8626146002/"
+    },
     "jane-street:8626260002": {
       "active": true,
       "category": "Backend/Infra",
@@ -2633,6 +2648,20 @@
       "posted": "2026-07-15",
       "title": "Research Science: Internship opportunities",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556630821"
+    },
+    "microsoft:1970393556638637": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "external_id": "1970393556638637",
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03",
+      "locations": [
+        "India, Karnataka, Bangalore"
+      ],
+      "posted": "2026-08-03",
+      "title": "Research Sciences INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556638637"
     },
     "microsoft:1970393556641091": {
       "active": true,
@@ -3481,5 +3510,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-03T10:14:16Z"
+  "updated_at": "2026-08-03T15:26:09Z"
 }
