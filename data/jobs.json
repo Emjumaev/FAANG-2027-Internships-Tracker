@@ -881,8 +881,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3139827/software-development-engineer-internship-vaga-para-mulheres-ies-latech"
     },
     "amazon:3147202": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-08-04",
       "company": "Amazon",
       "external_id": "3147202",
       "first_seen": "2026-07-09",
@@ -1955,8 +1956,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Electrical-Validation-Intern_JR0285377"
     },
     "intel:JR0285471": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-08-04",
       "company": "Intel",
       "external_id": "JR0285471",
       "first_seen": "2026-07-09",
@@ -3598,5 +3600,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-04T09:18:38Z"
+  "updated_at": "2026-08-04T14:48:55Z"
 }
