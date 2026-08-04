@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-04 14:48:55 UTC** · 📌 **158** open internships
+> 🕐 Last updated: **2026-08-04 20:06:04 UTC** · 📌 **157** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -27,7 +27,7 @@ GitHub Actions.
 | [Intel](#intel) | 9 |
 | [Jane Street](#jane-street) | 19 |
 | [Meta](#meta) | 10 |
-| [Microsoft](#microsoft) | 17 |
+| [Microsoft](#microsoft) | 16 |
 | [NVIDIA](#nvidia) | 8 |
 | [Netflix](#netflix) | 1 |
 | OpenAI | — |
@@ -176,7 +176,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [AI Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) 🆕 | AI/ML | Virtual US | 2026-08-03 | 2026-08-03 |
+| [AI Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) 🆕 | AI/ML | Virtual US | 2026-08-04 | 2026-08-03 |
 | [AI Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/AI-Engineer-Intern_JR0286108) 🆕 | AI/ML | Vietnam, Ho_Chi_Minh_City | 2026-08-03 | 2026-08-03 |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | AI/ML | 2 Locations | 2026-07-29 | 2026-07-17 |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) | AI/ML | US, Arizona, Phoenix | 2026-07-29 | 2026-07-17 |
@@ -235,7 +235,6 @@ GitHub Actions.
 | [Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond](https://apply.careers.microsoft.com/careers/job/1970393556922923) 🆕 | Backend/Infra | United States, Washington, Redmond | 2026-08-04 | 2026-08-04 |
 | [Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond](https://apply.careers.microsoft.com/careers/job/1970393556922929) 🆕 | AI/ML | United States, Washington, Redmond | 2026-08-04 | 2026-08-04 |
 | [Software Engineer: Intern Opportunities for University Students - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556951950) 🆕 | Software | United States, Washington, Redmond | 2026-08-03 | 2026-08-03 |
-| [Software Engineer - Gears of War - The Coalition: Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393556951951) 🆕 | Software | Canada, British Columbia, Vancouver | 2026-08-02 | 2026-08-03 |
 | [Cloud Solution Architect - Ru'aa Internship](https://apply.careers.microsoft.com/careers/job/1970393556942312) 🆕 | Backend/Infra | Saudi Arabia, Riyadh, Riyadh | 2026-07-31 | 2026-07-31 |
 | [Cloud Solution Architect - Kuwait Nationalization Internship](https://apply.careers.microsoft.com/careers/job/1970393556944017) 🆕 | Backend/Infra | Kuwait, Al 'Asimah, Kuwait | 2026-07-31 | 2026-07-31 |
 | [Cloud Solution Architect - Erada Internship](https://apply.careers.microsoft.com/careers/job/1970393556942310) 🆕 | Backend/Infra | Qatar, Ad-Daw?ah, Doha | 2026-07-31 | 2026-07-31 |
