@@ -1192,6 +1192,20 @@
       "title": "Applied Data Solutions Program (Internships)",
       "url": "https://jobs.apple.com/en-us/details/200673612/applied-data-solutions-program-internships"
     },
+    "apple:200675600": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Apple",
+      "external_id": "200675600",
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "locations": [
+        "Shanghai"
+      ],
+      "posted": "2026-08-05",
+      "title": "Software Engineering Intern - AI Tools for Hardware Engineering PM",
+      "url": "https://jobs.apple.com/en-us/details/200675600/software-engineering-intern-ai-tools-for-hardware-engineering-pm"
+    },
     "cisco:2005347": {
       "active": false,
       "category": "AI/ML",
@@ -1410,8 +1424,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/113855697199735494"
     },
     "google:114421121054319302": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-08-05",
       "company": "Google",
       "external_id": "114421121054319302",
       "first_seen": "2026-07-20",
@@ -1427,8 +1442,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/114421121054319302"
     },
     "google:123243602355593926": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-08-05",
       "company": "Google",
       "external_id": "123243602355593926",
       "first_seen": "2026-07-20",
@@ -1788,7 +1804,7 @@
       "locations": [
         "2 Locations"
       ],
-      "posted": "2026-07-30",
+      "posted": "2026-07-29",
       "title": "AI Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639"
     },
@@ -1803,7 +1819,7 @@
       "locations": [
         "US, Arizona, Phoenix"
       ],
-      "posted": "2026-07-30",
+      "posted": "2026-07-29",
       "title": "AI Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641"
     },
@@ -1965,7 +1981,7 @@
       "locations": [
         "Mexico, Guadalajara"
       ],
-      "posted": "2026-07-08",
+      "posted": "2026-07-07",
       "title": "Electrical Validation Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Electrical-Validation-Intern_JR0285377"
     },
@@ -2024,7 +2040,7 @@
       "locations": [
         "Mexico, Guadalajara"
       ],
-      "posted": "2026-07-11",
+      "posted": "2026-07-10",
       "title": "System Validation Intern (Power and Performance)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/System-Validation-Intern--Power-and-Performance-_JR0285548"
     },
@@ -2068,7 +2084,7 @@
       "locations": [
         "Virtual US"
       ],
-      "posted": "2026-08-05",
+      "posted": "2026-08-04",
       "title": "AI Software Engineer Graduate Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989"
     },
@@ -2082,7 +2098,7 @@
       "locations": [
         "Mexico, Guadalajara"
       ],
-      "posted": "2026-08-05",
+      "posted": "2026-08-04",
       "title": "SoC Functional Validation Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/SoC-Functional-Validation-Intern_JR0286018"
     },
@@ -2096,7 +2112,7 @@
       "locations": [
         "Malaysia, Penang"
       ],
-      "posted": "2026-07-29",
+      "posted": "2026-07-28",
       "title": "Pre-Silicon IP System Validation Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Pre-Silicon-IP-System-Validation-Intern_JR0286047"
     },
@@ -2110,7 +2126,7 @@
       "locations": [
         "Vietnam, Ho_Chi_Minh_City"
       ],
-      "posted": "2026-08-04",
+      "posted": "2026-08-03",
       "title": "AI Engineer Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/AI-Engineer-Intern_JR0286108"
     },
@@ -3369,7 +3385,7 @@
       "locations": [
         "Taiwan, Taipei"
       ],
-      "posted": "2026-07-25",
+      "posted": "2026-07-24",
       "title": "System Design Validation Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Intern---2027_JR2021783"
     },
@@ -3517,7 +3533,7 @@
       "locations": [
         "2 Locations"
       ],
-      "posted": "2026-07-29",
+      "posted": "2026-07-28",
       "title": "Summer 2027 Intern - Software Engineer",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715"
     },
@@ -3657,5 +3673,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-05T03:43:36Z"
+  "updated_at": "2026-08-05T09:15:37Z"
 }
