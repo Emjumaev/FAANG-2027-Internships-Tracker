@@ -1,7 +1,6 @@
 {
   "failed": {
-    "GitHub": "request failed after 3 attempts: GET https://www.github.careers/api/jobs (403 Client Error: Forbidden for url: https://www.github.careers/api/jobs?page=1&limit=100)",
-    "Snowflake": "request failed after 3 attempts: POST https://careers.snowflake.com/widgets (403 Client Error: Forbidden for url: https://careers.snowflake.com/widgets)"
+    "Microsoft": "request failed after 3 attempts: GET https://apply.careers.microsoft.com/api/pcsx/search (HTTP 429)"
   },
   "succeeded": [
     "Adobe",
@@ -13,12 +12,12 @@
     "Cisco",
     "Cloudflare",
     "Databricks",
+    "GitHub",
     "Google",
     "Hudson River Trading",
     "Intel",
     "Jane Street",
     "Meta",
-    "Microsoft",
     "NVIDIA",
     "Netflix",
     "OpenAI",
@@ -27,6 +26,7 @@
     "Pinterest",
     "Salesforce",
     "Snap",
+    "Snowflake",
     "Spotify",
     "Stripe",
     "Uber"

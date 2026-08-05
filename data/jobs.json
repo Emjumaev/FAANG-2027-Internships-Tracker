@@ -3404,6 +3404,20 @@
       "title": "Software Engineering Intern \u2014 Replay Tooling & Test Automation, Autonomous Driving",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086"
     },
+    "nvidia:JR2022295": {
+      "active": true,
+      "category": "Software",
+      "company": "NVIDIA",
+      "external_id": "JR2022295",
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "locations": [
+        "US, CA, Santa Clara"
+      ],
+      "posted": "2026-08-05",
+      "title": "Software Engineering Intern, Dynamo - Fall 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295"
+    },
     "oracle:334325": {
       "active": true,
       "category": "Software",
@@ -3536,6 +3550,20 @@
       "posted": "2026-07-28",
       "title": "Summer 2027 Intern - Software Engineer",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715"
+    },
+    "snowflake:3045856c-74a4-469e-ba81-a176cc0bef8f": {
+      "active": true,
+      "category": "Security",
+      "company": "Snowflake",
+      "external_id": "3045856c-74a4-469e-ba81-a176cc0bef8f",
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "locations": [
+        "Warsaw, Poland"
+      ],
+      "posted": "2026-08-05",
+      "title": "Software Engineer Intern - Warsaw Security",
+      "url": "https://careers.snowflake.com/us/en/job/3045856c-74a4-469e-ba81-a176cc0bef8f"
     },
     "snowflake:37e886ab-e05b-4f2a-9a41-61bfd89e660f": {
       "active": false,
@@ -3673,5 +3701,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-05T14:42:54Z"
+  "updated_at": "2026-08-05T20:03:49Z"
 }
