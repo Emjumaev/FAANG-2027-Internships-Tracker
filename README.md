@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-07 07:51:06 UTC** · 📌 **160** open internships
+> 🕐 Last updated: **2026-08-07 13:48:08 UTC** · 📌 **161** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -27,7 +27,7 @@ GitHub Actions.
 | [Intel](#intel) | 10 |
 | [Jane Street](#jane-street) | 19 |
 | [Meta](#meta) | 10 |
-| [Microsoft](#microsoft) | 18 |
+| [Microsoft](#microsoft) | 19 |
 | [NVIDIA](#nvidia) | 9 |
 | [Netflix](#netflix) | 1 |
 | OpenAI | — |
@@ -223,6 +223,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556957962) 🆕 | Software | Israel, Multiple Locations, Multiple Locations | 2026-08-07 | 2026-08-07 |
 | [Software Engineer - Gears of War - The Coalition: Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393556956276) 🆕 | Software | Canada, British Columbia, Vancouver | 2026-08-06 | 2026-08-07 |
 | [Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond](https://apply.careers.microsoft.com/careers/job/1970393556922930) 🆕 | Security | United States, Washington, Redmond | 2026-08-04 | 2026-08-04 |
 | [Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,](https://apply.careers.microsoft.com/careers/job/1970393556922922) 🆕 | Software | United States, Washington, Redmond | 2026-08-04 | 2026-08-04 |
