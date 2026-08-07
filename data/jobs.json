@@ -3055,6 +3055,20 @@
       "title": "Software Engineer - Gears of War - The Coalition: Internship Opportunities",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556956276"
     },
+    "microsoft:1970393556957962": {
+      "active": true,
+      "category": "Software",
+      "company": "Microsoft",
+      "external_id": "1970393556957962",
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "locations": [
+        "Israel, Multiple Locations, Multiple Locations"
+      ],
+      "posted": "2026-08-07",
+      "title": "Software Engineering INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556957962"
+    },
     "netflix:790313241540": {
       "active": true,
       "category": "Software",
@@ -3718,5 +3732,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-07T07:51:06Z"
+  "updated_at": "2026-08-07T13:48:08Z"
 }
