@@ -1,7 +1,5 @@
 {
-  "failed": {
-    "Uber": "request failed after 3 attempts: POST https://www.uber.com/api/loadSearchJobsResults?localeCode=en (404 Client Error: Not Found for url: https://www.uber.com/api/loadSearchJobsResults?localeCode=en)"
-  },
+  "failed": {},
   "succeeded": [
     "Adobe",
     "Airbnb",
@@ -29,6 +27,7 @@
     "Snap",
     "Snowflake",
     "Spotify",
-    "Stripe"
+    "Stripe",
+    "Uber"
   ]
 }
