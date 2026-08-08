@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-08 02:29:39 UTC** · 📌 **158** open internships
+> 🕐 Last updated: **2026-08-08 07:22:44 UTC** · 📌 **158** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -258,7 +258,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)](https://explore.jobs.netflix.net/careers/job/790313241540) | Software | Los Gatos,California,United States of America | 2025-12-10 | 2026-07-09 |
+| [Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)](https://explore.jobs.netflix.net/careers/job/790313241540) | Software | — | 2025-12-10 | 2026-07-09 |
 
 ## Oracle
 
@@ -273,7 +273,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) | Software | 2 Locations | 2026-07-29 | 2026-07-14 |
+| [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) | Software | 2 Locations | 2026-07-28 | 2026-07-14 |
 
 ## Snowflake
 
