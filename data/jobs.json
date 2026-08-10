@@ -1208,6 +1208,20 @@
       "title": "Software Engineering Intern - AI Tools for Hardware Engineering PM",
       "url": "https://jobs.apple.com/en-us/details/200675600/software-engineering-intern-ai-tools-for-hardware-engineering-pm"
     },
+    "apple:200676912": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Apple",
+      "external_id": "200676912",
+      "first_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
+      "locations": [
+        "Shanghai"
+      ],
+      "posted": "2026-08-10",
+      "title": "Software Engineering Intern \u2013 AI Tools for Hardware Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200676912/software-engineering-intern-ai-tools-for-hardware-engineering"
+    },
     "cisco:2005347": {
       "active": false,
       "category": "AI/ML",
@@ -3751,5 +3765,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-10T13:54:06Z"
+  "updated_at": "2026-08-10T19:28:28Z"
 }
