@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-10 13:54:06 UTC** · 📌 **156** open internships
+> 🕐 Last updated: **2026-08-10 19:28:28 UTC** · 📌 **157** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -16,7 +16,7 @@ GitHub Actions.
 | Airbnb | — |
 | [Amazon](#amazon) | 56 |
 | Anthropic | — |
-| [Apple](#apple) | 12 |
+| [Apple](#apple) | 13 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 2 |
 | [Cloudflare](#cloudflare) | 7 |
@@ -110,6 +110,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineering Intern – AI Tools for Hardware Engineering](https://jobs.apple.com/en-us/details/200676912/software-engineering-intern-ai-tools-for-hardware-engineering) 🆕 | AI/ML | Shanghai | 2026-08-10 | 2026-08-10 |
 | [Software Engineering Intern - AI Tools for Hardware Engineering PM](https://jobs.apple.com/en-us/details/200675600/software-engineering-intern-ai-tools-for-hardware-engineering-pm) 🆕 | AI/ML | Shanghai | 2026-08-05 | 2026-08-05 |
 | [Software Engineer Intern(Core OS)-Shanghai](https://jobs.apple.com/en-us/details/200494844/software-engineer-intern-core-os-shanghai) | Software | Shanghai | 2026-07-21 | 2026-07-21 |
 | [Machine Learning Engineer Intern - Shanghai](https://jobs.apple.com/en-us/details/200609538/machine-learning-engineer-intern-shanghai) | AI/ML | Shanghai | 2026-06-29 | 2026-07-09 |
