@@ -2107,8 +2107,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Applied-intern_JR0285916"
     },
     "intel:JR0285989": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-08-11",
       "company": "Intel",
       "external_id": "JR0285989",
       "first_seen": "2026-08-03",
@@ -2572,9 +2573,9 @@
       "url": "https://www.metacareers.com/jobs/2160167211413098"
     },
     "meta:2281218542616482": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-07-19",
+      "closed": "2026-08-11",
       "company": "Meta",
       "external_id": "2281218542616482",
       "first_seen": "2026-07-10",
@@ -3788,5 +3789,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-11T13:52:22Z"
+  "updated_at": "2026-08-11T19:34:17Z"
 }
