@@ -1394,6 +1394,20 @@
       "title": "U.S. Public Policy and AI Innovation Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728"
     },
+    "cloudflare:8118845": {
+      "active": true,
+      "category": "Software",
+      "company": "Cloudflare",
+      "external_id": "8118845",
+      "first_seen": "2026-08-11",
+      "last_seen": "2026-08-11",
+      "locations": [
+        "In-Office"
+      ],
+      "posted": "2026-08-10",
+      "title": "Software Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845"
+    },
     "databricks:7011263002": {
       "active": true,
       "category": "AI/ML",
@@ -1820,7 +1834,7 @@
       "locations": [
         "2 Locations"
       ],
-      "posted": "2026-07-30",
+      "posted": "2026-07-29",
       "title": "AI Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639"
     },
@@ -1835,7 +1849,7 @@
       "locations": [
         "US, Arizona, Phoenix"
       ],
-      "posted": "2026-07-30",
+      "posted": "2026-07-29",
       "title": "AI Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641"
     },
@@ -2102,7 +2116,7 @@
       "locations": [
         "Virtual US"
       ],
-      "posted": "2026-08-05",
+      "posted": "2026-08-04",
       "title": "AI Software Engineer Graduate Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989"
     },
@@ -2122,8 +2136,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/SoC-Functional-Validation-Intern_JR0286018"
     },
     "intel:JR0286047": {
-      "active": true,
+      "active": false,
       "category": "QA",
+      "closed": "2026-08-11",
       "company": "Intel",
       "external_id": "JR0286047",
       "first_seen": "2026-07-28",
@@ -2145,7 +2160,7 @@
       "locations": [
         "Vietnam, Ho_Chi_Minh_City"
       ],
-      "posted": "2026-08-04",
+      "posted": "2026-08-03",
       "title": "AI Engineer Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/AI-Engineer-Intern_JR0286108"
     },
@@ -2159,7 +2174,7 @@
       "locations": [
         "Vietnam, Ho_Chi_Minh_City"
       ],
-      "posted": "2026-08-06",
+      "posted": "2026-08-05",
       "title": "Module Engineering Intern \u2013 AI/ML, Data Science, Robotics, Electrical, and Mechatronics Engineering Disciplines",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/Module-Engineering-Intern---AI-ML--Data-Science--Robotics--Electrical--and-Mechatronics-Engineering-Disciplines_JR0286119-1"
     },
@@ -2173,7 +2188,7 @@
       "locations": [
         "Mexico, Guadalajara"
       ],
-      "posted": "2026-08-08",
+      "posted": "2026-08-07",
       "title": "Software Engineer (Intern)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Engineer--Intern-_JR0286207-1"
     },
@@ -2875,8 +2890,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556911730"
     },
     "microsoft:1970393556917519": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-08-11",
       "company": "Microsoft",
       "external_id": "1970393556917519",
       "first_seen": "2026-07-09",
@@ -2889,8 +2905,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556917519"
     },
     "microsoft:1970393556917520": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-08-11",
       "company": "Microsoft",
       "external_id": "1970393556917520",
       "first_seen": "2026-07-09",
@@ -2903,8 +2920,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556917520"
     },
     "microsoft:1970393556922922": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-08-11",
       "company": "Microsoft",
       "external_id": "1970393556922922",
       "first_seen": "2026-08-04",
@@ -2917,8 +2935,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922"
     },
     "microsoft:1970393556922923": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-08-11",
       "company": "Microsoft",
       "external_id": "1970393556922923",
       "first_seen": "2026-08-04",
@@ -2931,8 +2950,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923"
     },
     "microsoft:1970393556922929": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-08-11",
       "company": "Microsoft",
       "external_id": "1970393556922929",
       "first_seen": "2026-08-04",
@@ -2945,8 +2965,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929"
     },
     "microsoft:1970393556922930": {
-      "active": true,
+      "active": false,
       "category": "Security",
+      "closed": "2026-08-11",
       "company": "Microsoft",
       "external_id": "1970393556922930",
       "first_seen": "2026-08-04",
@@ -2959,8 +2980,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930"
     },
     "microsoft:1970393556922931": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-08-11",
       "company": "Microsoft",
       "external_id": "1970393556922931",
       "first_seen": "2026-08-04",
@@ -3450,7 +3472,7 @@
       "locations": [
         "Taiwan, Taipei"
       ],
-      "posted": "2026-07-25",
+      "posted": "2026-07-24",
       "title": "System Design Validation Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Intern---2027_JR2021783"
     },
@@ -3479,7 +3501,7 @@
       "locations": [
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-08-06",
+      "posted": "2026-08-05",
       "title": "Software Engineering Intern, Dynamo - Fall 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295"
     },
@@ -3612,7 +3634,7 @@
       "locations": [
         "2 Locations"
       ],
-      "posted": "2026-07-29",
+      "posted": "2026-07-28",
       "title": "Summer 2027 Intern - Software Engineer",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715"
     },
@@ -3766,5 +3788,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-11T02:36:19Z"
+  "updated_at": "2026-08-11T07:46:30Z"
 }
