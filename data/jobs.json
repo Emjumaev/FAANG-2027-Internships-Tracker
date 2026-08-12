@@ -2475,9 +2475,9 @@
       "url": "https://www.metacareers.com/jobs/1029177790044680"
     },
     "meta:1418337243438665": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-07-19",
+      "closed": "2026-08-12",
       "company": "Meta",
       "external_id": "1418337243438665",
       "first_seen": "2026-07-09",
@@ -3083,8 +3083,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556951951"
     },
     "microsoft:1970393556955518": {
-      "active": true,
+      "active": false,
       "category": "Security",
+      "closed": "2026-08-12",
       "company": "Microsoft",
       "external_id": "1970393556955518",
       "first_seen": "2026-08-05",
@@ -3097,8 +3098,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556955518"
     },
     "microsoft:1970393556956276": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-08-12",
       "company": "Microsoft",
       "external_id": "1970393556956276",
       "first_seen": "2026-08-07",
@@ -3640,8 +3642,9 @@
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715"
     },
     "salesforce:JR355842": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-08-12",
       "company": "Salesforce",
       "external_id": "JR355842",
       "first_seen": "2026-08-12",
@@ -3803,5 +3806,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-12T13:56:56Z"
+  "updated_at": "2026-08-12T19:35:57Z"
 }
