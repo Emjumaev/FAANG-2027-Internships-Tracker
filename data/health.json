@@ -1,9 +1,9 @@
 {
   "failed": {
-    "Adobe": "request failed after 3 attempts: POST https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs (HTTPSConnectionPool(host='adobe.wd5.myworkdayjobs.com', port=443): Read timed out. (read timeout=30))",
     "Uber": "request failed after 3 attempts: POST https://www.uber.com/api/loadSearchJobsResults?localeCode=en (404 Client Error: Not Found for url: https://www.uber.com/api/loadSearchJobsResults?localeCode=en)"
   },
   "succeeded": [
+    "Adobe",
     "Airbnb",
     "Amazon",
     "Anthropic",
