@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-17 13:14:58 UTC** · 📌 **146** open internships
+> 🕐 Last updated: **2026-08-17 19:07:01 UTC** · 📌 **152** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -14,7 +14,7 @@ GitHub Actions.
 |---|---|
 | Adobe | — |
 | Airbnb | — |
-| [Amazon](#amazon) | 56 |
+| [Amazon](#amazon) | 57 |
 | Anthropic | — |
 | [Apple](#apple) | 13 |
 | Bloomberg | — |
@@ -22,9 +22,9 @@ GitHub Actions.
 | [Cloudflare](#cloudflare) | 7 |
 | [Databricks](#databricks) | 1 |
 | GitHub | — |
-| [Google](#google) | 9 |
+| [Google](#google) | 15 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
-| [Intel](#intel) | 8 |
+| [Intel](#intel) | 7 |
 | [Jane Street](#jane-street) | 19 |
 | [Meta](#meta) | 7 |
 | [Microsoft](#microsoft) | 8 |
@@ -49,6 +49,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [【Class of 2028 & 2029／Internship】Software Development Engineers , Amazon International Stores](https://www.amazon.jobs/en/jobs/10503558/class-of-2028-2029-internship-software-development-engineers-amazon-international-stores) 🆕 | Software | Tokyo, JPN | 2026-08-17 | 2026-08-17 |
 | [2027 Applied Science Intern (Computer Vision), Amazon International Machine Learning](https://www.amazon.jobs/en/jobs/10459543/2027-applied-science-intern-computer-vision-amazon-international-machine-learning) | AI/ML | Melbourne, Victoria, AUS | 2026-06-26 | 2026-07-09 |
 | [2027 Applied Science Intern (Machine Learning, Recommender Systems), Amazon International Machine Learning](https://www.amazon.jobs/en/jobs/10456239/2027-applied-science-intern-machine-learning-recommender-systems-amazon-international-machine-learning) | AI/ML | Melbourne, Victoria, AUS | 2026-06-23 | 2026-07-09 |
 | [2027 Software Dev Engineer Intern](https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern) | Software | Dublin, IRL | 2026-05-13 | 2026-07-09 |
@@ -154,8 +155,14 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Software Engineering or SRE, PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/80037545080955590) 🆕 | Backend/Infra | London, UK | 2026-08-17 | 2026-08-17 |
+| [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/107087730147500742) 🆕 | Software | Kraków, Poland; Warsaw, Poland | 2026-08-17 | 2026-08-17 |
 | [Research Scientist PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/111285665542349510) 🆕 | AI/ML | Munich, Germany; Paris, France; Zürich, Switzerland | 2026-08-17 | 2026-08-17 |
+| [Research Scientist PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/134795423167455942) 🆕 | AI/ML | London, UK | 2026-08-17 | 2026-08-17 |
+| [Part-Time Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/74922616988541638) 🆕 | Software | Tel Aviv, Israel | 2026-08-17 | 2026-08-17 |
+| [Part-Time Research Scientist PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/88486192428786374) 🆕 | AI/ML | Haifa, Israel; Tel Aviv, Israel | 2026-08-17 | 2026-08-17 |
 | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/132149998191026886) 🆕 | Data | Warsaw, Poland | 2026-08-17 | 2026-08-17 |
+| [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/73321728058499782) 🆕 | Data | London, UK | 2026-08-17 | 2026-08-17 |
+| [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/77684590197514950) 🆕 | Data | Zürich, Switzerland | 2026-08-17 | 2026-08-17 |
 | [Student Researcher, PhD, Fall 2026](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) | AI/ML | Montreal, QC, Canada; Toronto, ON, Canada; Waterloo, ON, Canada | 2026-07-20 | 2026-07-20 |
 | [Student Researcher, PhD, Fall 2026](https://www.google.com/about/careers/applications/jobs/results/83535564552184518) | AI/ML | Ann Arbor, MI, USA; Atlanta, GA, USA; Austin, TX, USA *(+16 more)* | 2026-07-20 | 2026-07-20 |
 | [Student Researcher, BS/MS, Fall 2026](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) | AI/ML | Montreal, QC, Canada; Toronto, ON, Canada; Waterloo, ON, Canada | 2026-07-20 | 2026-07-20 |
@@ -179,7 +186,6 @@ GitHub Actions.
 | [AI Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/AI-Engineer-Intern_JR0286108) | AI/ML | Vietnam, Ho_Chi_Minh_City | 2026-08-03 | 2026-08-03 |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | AI/ML | 2 Locations | 2026-07-29 | 2026-07-17 |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) | AI/ML | US, Arizona, Phoenix | 2026-07-29 | 2026-07-17 |
-| [Electrical Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Electrical-Validation-Intern_JR0285377) | QA | Mexico, Guadalajara | 2026-07-08 | 2026-07-09 |
 | [Development Tools Software Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Development-Tools-Software-Intern_JR0285211) | Software | Mexico, Guadalajara | 2026-07-03 | 2026-07-09 |
 
 ## Jane Street
