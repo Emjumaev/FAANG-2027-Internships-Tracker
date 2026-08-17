@@ -483,6 +483,20 @@
       "title": "2027 Applied Science Intern (Computer Vision), Amazon International Machine Learning",
       "url": "https://www.amazon.jobs/en/jobs/10459543/2027-applied-science-intern-computer-vision-amazon-international-machine-learning"
     },
+    "amazon:10503558": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10503558",
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "locations": [
+        "Tokyo, JPN"
+      ],
+      "posted": "2026-08-17",
+      "title": "\u3010Class of 2028 & 2029\uff0fInternship\u3011Software Development Engineers , Amazon International Stores",
+      "url": "https://www.amazon.jobs/en/jobs/10503558/class-of-2028-2029-internship-software-development-engineers-amazon-international-stores"
+    },
     "amazon:3063220": {
       "active": true,
       "category": "Software",
@@ -1423,6 +1437,21 @@
       "title": "PhD GenAI Research Scientist Intern",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002"
     },
+    "google:107087730147500742": {
+      "active": true,
+      "category": "Software",
+      "company": "Google",
+      "external_id": "107087730147500742",
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "locations": [
+        "Krak\u00f3w, Poland",
+        "Warsaw, Poland"
+      ],
+      "posted": "2026-08-17",
+      "title": "Software Engineering PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/107087730147500742"
+    },
     "google:107900969756304070": {
       "active": true,
       "category": "Software",
@@ -1585,6 +1614,20 @@
       "title": "Student Researcher, BS/MS, Fall 2026",
       "url": "https://www.google.com/about/careers/applications/jobs/results/132362676918461126"
     },
+    "google:134795423167455942": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Google",
+      "external_id": "134795423167455942",
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "locations": [
+        "London, UK"
+      ],
+      "posted": "2026-08-17",
+      "title": "Research Scientist PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/134795423167455942"
+    },
     "google:135233176434811590": {
       "active": true,
       "category": "Software",
@@ -1665,6 +1708,34 @@
       "title": "Student Researcher, BS/MS, Winter/Summer 2026",
       "url": "https://www.google.com/about/careers/applications/jobs/results/140245524367188678"
     },
+    "google:73321728058499782": {
+      "active": true,
+      "category": "Data",
+      "company": "Google",
+      "external_id": "73321728058499782",
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "locations": [
+        "London, UK"
+      ],
+      "posted": "2026-08-17",
+      "title": "Data Science PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/73321728058499782"
+    },
+    "google:74922616988541638": {
+      "active": true,
+      "category": "Software",
+      "company": "Google",
+      "external_id": "74922616988541638",
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "locations": [
+        "Tel Aviv, Israel"
+      ],
+      "posted": "2026-08-17",
+      "title": "Part-Time Software Engineering PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/74922616988541638"
+    },
     "google:76982475250639558": {
       "active": false,
       "category": "Software",
@@ -1681,6 +1752,20 @@
       "posted": "2026-07-20",
       "title": "Software Developer Intern, BS, Summer 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/76982475250639558"
+    },
+    "google:77684590197514950": {
+      "active": true,
+      "category": "Data",
+      "company": "Google",
+      "external_id": "77684590197514950",
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "locations": [
+        "Z\u00fcrich, Switzerland"
+      ],
+      "posted": "2026-08-17",
+      "title": "Data Science PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/77684590197514950"
     },
     "google:80037545080955590": {
       "active": true,
@@ -1771,6 +1856,21 @@
       "posted": "2026-07-20",
       "title": "Software Engineering Intern, BS, Summer 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126"
+    },
+    "google:88486192428786374": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Google",
+      "external_id": "88486192428786374",
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "locations": [
+        "Haifa, Israel",
+        "Tel Aviv, Israel"
+      ],
+      "posted": "2026-08-17",
+      "title": "Part-Time Research Scientist PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/88486192428786374"
     },
     "google:95141459539174086": {
       "active": false,
@@ -2048,8 +2148,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341"
     },
     "intel:JR0285377": {
-      "active": true,
+      "active": false,
       "category": "QA",
+      "closed": "2026-08-17",
       "company": "Intel",
       "external_id": "JR0285377",
       "first_seen": "2026-07-09",
@@ -3882,5 +3983,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-17T13:14:58Z"
+  "updated_at": "2026-08-17T19:07:01Z"
 }
