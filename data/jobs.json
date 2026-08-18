@@ -171,8 +171,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10377845/software-dev-engineer-intern-manufacturing-ops-2026-shenzhen"
     },
     "amazon:10385882": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-08-18",
       "company": "Amazon",
       "external_id": "10385882",
       "first_seen": "2026-07-09",
@@ -926,8 +927,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3147202/2026-software-dev-engineer-intern-haifa-israel"
     },
     "amazon:3148406": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-08-18",
       "company": "Amazon",
       "external_id": "3148406",
       "first_seen": "2026-07-09",
@@ -2522,6 +2524,20 @@
       "title": "Software Engineer (Summer Internship)",
       "url": "https://www.janestreet.com/join-jane-street/position/8589868002/"
     },
+    "jane-street:8594416002": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Jane Street",
+      "external_id": "8594416002",
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "locations": [
+        "LDN"
+      ],
+      "posted": null,
+      "title": "Machine Learning Researcher (Summer Internship)",
+      "url": "https://www.janestreet.com/join-jane-street/position/8594416002/"
+    },
     "jane-street:8599644002": {
       "active": true,
       "category": "Software",
@@ -2975,9 +2991,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556627173"
     },
     "microsoft:1970393556630821": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-07-22",
+      "closed": "2026-08-18",
       "company": "Microsoft",
       "external_id": "1970393556630821",
       "first_seen": "2026-07-15",
@@ -3243,7 +3259,7 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556942310"
     },
     "microsoft:1970393556942312": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-08-18",
       "company": "Microsoft",
@@ -3843,17 +3859,17 @@
       "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334396"
     },
     "oracle:342415": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-08-16",
       "company": "Oracle",
       "external_id": "342415",
       "first_seen": "2026-08-13",
-      "last_seen": "2026-08-15",
+      "last_seen": "2026-08-18",
       "locations": [
         "United States"
       ],
-      "posted": "2026-08-12",
+      "posted": "2026-08-18",
       "title": "Platform Software Engineer 1 - Full-time Intern Conversion",
       "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/342415"
     },
@@ -4069,5 +4085,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-18T13:17:19Z"
+  "updated_at": "2026-08-18T19:05:56Z"
 }
