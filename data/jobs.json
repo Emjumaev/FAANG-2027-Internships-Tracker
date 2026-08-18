@@ -494,8 +494,22 @@
         "Tokyo, JPN"
       ],
       "posted": "2026-08-17",
-      "title": "\u3010Class of 2028\uff0fInternship\u3011Software Development Engineers , Amazon International Stores",
-      "url": "https://www.amazon.jobs/en/jobs/10503558/class-of-2028-internship-software-development-engineers-amazon-international-stores"
+      "title": "\u3010Class of 2028 & 2029\uff0fInternship\u3011Software Development Engineers , Amazon International Stores",
+      "url": "https://www.amazon.jobs/en/jobs/10503558/class-of-2028-2029-internship-software-development-engineers-amazon-international-stores"
+    },
+    "amazon:10504617": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "external_id": "10504617",
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "locations": [
+        "Tokyo, JPN"
+      ],
+      "posted": "2026-08-18",
+      "title": "\u3010Class of 2029\uff0fInternship\u3011Applied Scientists , Amazon International Stores, Amazon Japan Store Tech",
+      "url": "https://www.amazon.jobs/en/jobs/10504617/class-of-2029-internship-applied-scientists-amazon-international-stores-amazon-japan-store-tech"
     },
     "amazon:3063220": {
       "active": true,
@@ -1872,6 +1886,21 @@
       "title": "Part-Time Research Scientist PhD Intern, 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/88486192428786374"
     },
+    "google:93078491720753862": {
+      "active": true,
+      "category": "Software",
+      "company": "Google",
+      "external_id": "93078491720753862",
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "locations": [
+        "Berlin, Germany",
+        "Z\u00fcrich, Switzerland"
+      ],
+      "posted": "2026-08-18",
+      "title": "Software Engineering PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/93078491720753862"
+    },
     "google:95141459539174086": {
       "active": false,
       "category": "Software",
@@ -2352,6 +2381,20 @@
       "posted": "2026-08-07",
       "title": "Software Engineer (Intern)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Engineer--Intern-_JR0286207-1"
+    },
+    "intel:JR0286499": {
+      "active": true,
+      "category": "Software",
+      "company": "Intel",
+      "external_id": "JR0286499",
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "locations": [
+        "Malaysia, Penang"
+      ],
+      "posted": "2026-08-18",
+      "title": "Intern Systems Software Development Engineer",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Intern-Systems-Software-Development-Engineer_JR0286499"
     },
     "intel:JR0286500": {
       "active": true,
@@ -3200,8 +3243,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556942310"
     },
     "microsoft:1970393556942312": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-08-18",
       "company": "Microsoft",
       "external_id": "1970393556942312",
       "first_seen": "2026-07-31",
@@ -3963,6 +4007,20 @@
       "title": "Software Engineer, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8031833"
     },
+    "stripe:8097801": {
+      "active": true,
+      "category": "Software",
+      "company": "Stripe",
+      "external_id": "8097801",
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "locations": [
+        "Dublin"
+      ],
+      "posted": "2026-08-17",
+      "title": "Software Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801"
+    },
     "uber:301541": {
       "active": false,
       "category": "Data",
@@ -4011,5 +4069,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-18T07:13:25Z"
+  "updated_at": "2026-08-18T13:17:19Z"
 }
