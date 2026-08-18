@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-18 07:13:25 UTC** · 📌 **154** open internships
+> 🕐 Last updated: **2026-08-18 13:17:19 UTC** · 📌 **157** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -14,7 +14,7 @@ GitHub Actions.
 |---|---|
 | Adobe | — |
 | Airbnb | — |
-| [Amazon](#amazon) | 57 |
+| [Amazon](#amazon) | 58 |
 | Anthropic | — |
 | [Apple](#apple) | 13 |
 | Bloomberg | — |
@@ -22,12 +22,12 @@ GitHub Actions.
 | [Cloudflare](#cloudflare) | 7 |
 | [Databricks](#databricks) | 1 |
 | GitHub | — |
-| [Google](#google) | 15 |
+| [Google](#google) | 16 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
-| [Intel](#intel) | 8 |
+| [Intel](#intel) | 9 |
 | [Jane Street](#jane-street) | 19 |
 | [Meta](#meta) | 7 |
-| [Microsoft](#microsoft) | 8 |
+| [Microsoft](#microsoft) | 7 |
 | [NVIDIA](#nvidia) | 7 |
 | [Netflix](#netflix) | 1 |
 | OpenAI | — |
@@ -38,7 +38,7 @@ GitHub Actions.
 | Snap | — |
 | [Snowflake](#snowflake) | 2 |
 | Spotify | — |
-| [Stripe](#stripe) | 1 |
+| [Stripe](#stripe) | 2 |
 | Uber | — |
 | Citadel Securities | *no API — entire site behind a Cloudflare browser challenge; needs a headless browser* |
 | LinkedIn | *careers site only links to linkedin.com/jobs, which is authwalled and prohibits scraping* |
@@ -49,7 +49,8 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [【Class of 2028／Internship】Software Development Engineers , Amazon International Stores](https://www.amazon.jobs/en/jobs/10503558/class-of-2028-internship-software-development-engineers-amazon-international-stores) 🆕 | Software | Tokyo, JPN | 2026-08-17 | 2026-08-17 |
+| [【Class of 2029／Internship】Applied Scientists , Amazon International Stores, Amazon Japan Store Tech](https://www.amazon.jobs/en/jobs/10504617/class-of-2029-internship-applied-scientists-amazon-international-stores-amazon-japan-store-tech) 🆕 | AI/ML | Tokyo, JPN | 2026-08-18 | 2026-08-18 |
+| [【Class of 2028 & 2029／Internship】Software Development Engineers , Amazon International Stores](https://www.amazon.jobs/en/jobs/10503558/class-of-2028-2029-internship-software-development-engineers-amazon-international-stores) 🆕 | Software | Tokyo, JPN | 2026-08-17 | 2026-08-17 |
 | [2027 Applied Science Intern (Computer Vision), Amazon International Machine Learning](https://www.amazon.jobs/en/jobs/10459543/2027-applied-science-intern-computer-vision-amazon-international-machine-learning) | AI/ML | Melbourne, Victoria, AUS | 2026-06-26 | 2026-07-09 |
 | [2027 Applied Science Intern (Machine Learning, Recommender Systems), Amazon International Machine Learning](https://www.amazon.jobs/en/jobs/10456239/2027-applied-science-intern-machine-learning-recommender-systems-amazon-international-machine-learning) | AI/ML | Melbourne, Victoria, AUS | 2026-06-23 | 2026-07-09 |
 | [2027 Software Dev Engineer Intern](https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern) | Software | Dublin, IRL | 2026-05-13 | 2026-07-09 |
@@ -154,6 +155,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/93078491720753862) 🆕 | Software | Berlin, Germany; Zürich, Switzerland | 2026-08-18 | 2026-08-18 |
 | [Software Engineering or SRE, PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/80037545080955590) 🆕 | Backend/Infra | London, UK | 2026-08-17 | 2026-08-17 |
 | [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/107087730147500742) 🆕 | Software | Kraków, Poland; Warsaw, Poland | 2026-08-17 | 2026-08-17 |
 | [Research Scientist PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/111285665542349510) 🆕 | AI/ML | Munich, Germany; Paris, France; Zürich, Switzerland | 2026-08-17 | 2026-08-17 |
@@ -180,6 +182,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Intern Systems Software Development Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Intern-Systems-Software-Development-Engineer_JR0286499) 🆕 | Software | Malaysia, Penang | 2026-08-18 | 2026-08-18 |
 | [Software Development Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1) 🆕 | Software | US, California, Folsom | 2026-08-17 | 2026-08-18 |
 | [AI/ML Software Development Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/AI-ML-Software-Development-Intern_JR0286500) 🆕 | AI/ML | Malaysia, Kulim | 2026-08-17 | 2026-08-17 |
 | [Software Engineer (Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Engineer--Intern-_JR0286207-1) | Software | Mexico, Guadalajara | 2026-08-07 | 2026-08-07 |
@@ -231,7 +234,6 @@ GitHub Actions.
 |---|---|---|---|---|
 | [Research Science: Internship opportunities](https://apply.careers.microsoft.com/careers/job/1970393556630821) | AI/ML | China, Beijing, Beijing; China, Shanghai, Shanghai | 2026-08-17 | 2026-07-15 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556957962) | Software | Israel, Multiple Locations, Multiple Locations | 2026-08-07 | 2026-08-07 |
-| [Cloud Solution Architect - Ru'aa Internship](https://apply.careers.microsoft.com/careers/job/1970393556942312) | Backend/Infra | Saudi Arabia, Riyadh, Riyadh | 2026-07-31 | 2026-07-31 |
 | [Cloud Solution Architect - Kuwait Nationalization Internship](https://apply.careers.microsoft.com/careers/job/1970393556944017) | Backend/Infra | Kuwait, Al 'Asimah, Kuwait | 2026-07-31 | 2026-07-31 |
 | [Cloud Solution Architect - Erada Internship](https://apply.careers.microsoft.com/careers/job/1970393556942310) | Backend/Infra | Qatar, Ad-Daw?ah, Doha | 2026-07-31 | 2026-07-31 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556911730) | Software | India, Multiple Locations, Multiple Locations | 2026-07-01 | 2026-07-09 |
@@ -282,6 +284,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8097801) 🆕 | Software | Dublin | 2026-08-17 | 2026-08-18 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833) | Software | Bengaluru | 2026-07-10 | 2026-07-10 |
 
 
