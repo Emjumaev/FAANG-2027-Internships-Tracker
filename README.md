@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-18 13:17:19 UTC** · 📌 **157** open internships
+> 🕐 Last updated: **2026-08-18 19:05:56 UTC** · 📌 **157** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -14,7 +14,7 @@ GitHub Actions.
 |---|---|
 | Adobe | — |
 | Airbnb | — |
-| [Amazon](#amazon) | 58 |
+| [Amazon](#amazon) | 56 |
 | Anthropic | — |
 | [Apple](#apple) | 13 |
 | Bloomberg | — |
@@ -25,13 +25,13 @@ GitHub Actions.
 | [Google](#google) | 16 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
 | [Intel](#intel) | 9 |
-| [Jane Street](#jane-street) | 19 |
+| [Jane Street](#jane-street) | 20 |
 | [Meta](#meta) | 7 |
 | [Microsoft](#microsoft) | 7 |
 | [NVIDIA](#nvidia) | 7 |
 | [Netflix](#netflix) | 1 |
 | OpenAI | — |
-| [Oracle](#oracle) | 4 |
+| [Oracle](#oracle) | 5 |
 | PayPal | — |
 | Pinterest | — |
 | [Salesforce](#salesforce) | 1 |
@@ -68,7 +68,6 @@ GitHub Actions.
 | [2026 Fall Applied Science Internship - Automated Reasoning - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10394156/2026-fall-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-16 | 2026-07-09 |
 | [2026 Fall Applied Science Internship - Computer Vision - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10391901/2026-fall-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-14 | 2026-07-09 |
 | [2026  Fall Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10391774/2026-fall-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-14 | 2026-07-09 |
-| [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10385882/2026-applied-scientist-intern-amazon-university-talent-acquisition) | AI/ML | Cairo, EGY | 2026-04-08 | 2026-07-09 |
 | [Software Dev Engineer Intern, (Manufacturing &Ops) 2026 Shenzhen](https://www.amazon.jobs/en/jobs/10377845/software-dev-engineer-intern-manufacturing-ops-2026-shenzhen) | Software | Shenzhen, CHN | 2026-03-27 | 2026-07-09 |
 | [Software Dev Engineer Intern, (Sustaining Operations) 2026 Shanghai](https://www.amazon.jobs/en/jobs/10376736/software-dev-engineer-intern-sustaining-operations-2026-shanghai) | Software | Shanghai, CHN | 2026-03-26 | 2026-07-09 |
 | [Software Dev Engineer Intern, (Manufacturing&Ops) 2026 Shanghai](https://www.amazon.jobs/en/jobs/10376734/software-dev-engineer-intern-manufacturing-ops-2026-shanghai) | Software | Shanghai, CHN | 2026-03-26 | 2026-07-09 |
@@ -85,7 +84,6 @@ GitHub Actions.
 | [Software Dev Engineer Intern, (Manufacturing&Ops) 2026 Shanghai](https://www.amazon.jobs/en/jobs/3165273/software-dev-engineer-intern-manufacturing-ops-2026-shanghai) | Software | Shanghai, CHN | 2026-01-23 | 2026-07-09 |
 | [Quality Assurance Eng. Intern, 2026 Beijing](https://www.amazon.jobs/en/jobs/3149135/quality-assurance-eng-intern-2026-beijing) | QA | Beijing, CHN | 2025-12-25 | 2026-07-09 |
 | [Applied Scientist Intern, International Technology, 2026 Beijing](https://www.amazon.jobs/en/jobs/3149133/applied-scientist-intern-international-technology-2026-beijing) | AI/ML | Beijing, CHN | 2025-12-25 | 2026-07-09 |
-| [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3148406/2026-applied-scientist-intern-amazon-university-talent-acquisition) | AI/ML | JOR | 2025-12-23 | 2026-07-09 |
 | [Software Development Engineer Internship - Vaga para mulheres, IES- LATECH](https://www.amazon.jobs/en/jobs/3139827/software-development-engineer-internship-vaga-para-mulheres-ies-latech) | Software | BRA | 2025-12-09 | 2026-07-09 |
 | [Robotics - Software Development Engineer Intern/Co-op - 2026](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026) | AI/ML | Westboro, Wisconsin, USA | 2025-12-03 | 2026-07-09 |
 | [Robotics - Software Development Engineer Intern - 2026 - Toronto](https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto) | AI/ML | Toronto, Ontario, CAN | 2025-12-03 | 2026-07-09 |
@@ -196,6 +194,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Machine Learning Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8594416002/) 🆕 | AI/ML | LDN | — | 2026-08-18 |
 | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8589868002/) | Software | LDN | — | 2026-08-03 |
 | [Machine Learning Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8648474002/) | AI/ML | LDN | — | 2026-08-03 |
 | [Linux Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8626146002/) | Backend/Infra | LDN | — | 2026-08-03 |
@@ -232,8 +231,8 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Research Science: Internship opportunities](https://apply.careers.microsoft.com/careers/job/1970393556630821) | AI/ML | China, Beijing, Beijing; China, Shanghai, Shanghai | 2026-08-17 | 2026-07-15 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556957962) | Software | Israel, Multiple Locations, Multiple Locations | 2026-08-07 | 2026-08-07 |
+| [Cloud Solution Architect - Ru'aa Internship](https://apply.careers.microsoft.com/careers/job/1970393556942312) | Backend/Infra | Saudi Arabia, Riyadh, Riyadh | 2026-07-31 | 2026-07-31 |
 | [Cloud Solution Architect - Kuwait Nationalization Internship](https://apply.careers.microsoft.com/careers/job/1970393556944017) | Backend/Infra | Kuwait, Al 'Asimah, Kuwait | 2026-07-31 | 2026-07-31 |
 | [Cloud Solution Architect - Erada Internship](https://apply.careers.microsoft.com/careers/job/1970393556942310) | Backend/Infra | Qatar, Ad-Daw?ah, Doha | 2026-07-31 | 2026-07-31 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556911730) | Software | India, Multiple Locations, Multiple Locations | 2026-07-01 | 2026-07-09 |
@@ -262,6 +261,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Platform Software Engineer 1 - Full-time Intern Conversion](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/342415) 🆕 | Backend/Infra | United States | 2026-08-18 | 2026-08-13 |
 | [CEGIU Demo Data Strategy Intern - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334396) | Data | Redwood City, CA, United States; Rocklin, CA, United States; Santa Clara, CA, United States *(+3 more)* | 2026-05-23 | 2026-07-09 |
 | [ONA AI Agent Intern (Logistics Focus) - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334345) | AI/ML | Austin, TX, United States; United States | 2026-05-22 | 2026-07-09 |
 | [OCI Software Engineer Intern - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334325) | Software | Santa Clara, CA, United States; Seattle, WA, United States; United States | 2026-05-22 | 2026-07-09 |
