@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-18 01:58:41 UTC** · 📌 **153** open internships
+> 🕐 Last updated: **2026-08-18 07:13:25 UTC** · 📌 **154** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -28,7 +28,7 @@ GitHub Actions.
 | [Jane Street](#jane-street) | 19 |
 | [Meta](#meta) | 7 |
 | [Microsoft](#microsoft) | 8 |
-| [NVIDIA](#nvidia) | 6 |
+| [NVIDIA](#nvidia) | 7 |
 | [Netflix](#netflix) | 1 |
 | OpenAI | — |
 | [Oracle](#oracle) | 4 |
@@ -180,13 +180,13 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Development Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1) 🆕 | Software | US, California, Folsom | 2026-08-18 | 2026-08-18 |
-| [AI/ML Software Development Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/AI-ML-Software-Development-Intern_JR0286500) 🆕 | AI/ML | Malaysia, Kulim | 2026-08-18 | 2026-08-17 |
-| [Software Engineer (Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Engineer--Intern-_JR0286207-1) | Software | Mexico, Guadalajara | 2026-08-08 | 2026-08-07 |
-| [Module Engineering Intern – AI/ML, Data Science, Robotics, Electrical, and Mechatronics Engineering Disciplines](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/Module-Engineering-Intern---AI-ML--Data-Science--Robotics--Electrical--and-Mechatronics-Engineering-Disciplines_JR0286119-1) | AI/ML | Vietnam, Ho_Chi_Minh_City | 2026-08-06 | 2026-08-05 |
-| [AI Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/AI-Engineer-Intern_JR0286108) | AI/ML | Vietnam, Ho_Chi_Minh_City | 2026-08-04 | 2026-08-03 |
-| [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | AI/ML | 2 Locations | 2026-07-30 | 2026-07-17 |
-| [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) | AI/ML | US, Arizona, Phoenix | 2026-07-30 | 2026-07-17 |
+| [Software Development Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1) 🆕 | Software | US, California, Folsom | 2026-08-17 | 2026-08-18 |
+| [AI/ML Software Development Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/AI-ML-Software-Development-Intern_JR0286500) 🆕 | AI/ML | Malaysia, Kulim | 2026-08-17 | 2026-08-17 |
+| [Software Engineer (Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Engineer--Intern-_JR0286207-1) | Software | Mexico, Guadalajara | 2026-08-07 | 2026-08-07 |
+| [Module Engineering Intern – AI/ML, Data Science, Robotics, Electrical, and Mechatronics Engineering Disciplines](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/Module-Engineering-Intern---AI-ML--Data-Science--Robotics--Electrical--and-Mechatronics-Engineering-Disciplines_JR0286119-1) | AI/ML | Vietnam, Ho_Chi_Minh_City | 2026-08-05 | 2026-08-05 |
+| [AI Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/AI-Engineer-Intern_JR0286108) | AI/ML | Vietnam, Ho_Chi_Minh_City | 2026-08-03 | 2026-08-03 |
+| [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | AI/ML | 2 Locations | 2026-07-29 | 2026-07-17 |
+| [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) | AI/ML | US, Arizona, Phoenix | 2026-07-29 | 2026-07-17 |
 | [Development Tools Software Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Development-Tools-Software-Intern_JR0285211) | Software | Mexico, Guadalajara | 2026-07-03 | 2026-07-09 |
 
 ## Jane Street
@@ -242,8 +242,9 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineering Intern, Dynamo - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295) | Software | US, CA, Santa Clara | 2026-08-06 | 2026-08-05 |
-| [System Design Validation Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Intern---2027_JR2021783) | QA | Taiwan, Taipei | 2026-07-25 | 2026-07-24 |
+| [Software Engineering Intern, NCCL - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645) 🆕 | Software | 2 Locations | 2026-08-18 | 2026-08-18 |
+| [Software Engineering Intern, Dynamo - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295) | Software | US, CA, Santa Clara | 2026-08-05 | 2026-08-05 |
+| [System Design Validation Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Intern---2027_JR2021783) | QA | Taiwan, Taipei | 2026-07-24 | 2026-07-24 |
 | [PhD Software Engineering Intern, Decision Intelligence - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | Software | US, CA, Santa Clara | — | 2026-07-09 |
 | [PhD Research Intern, Generative AI - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035) | AI/ML | US, CA, Santa Clara | — | 2026-07-09 |
 | [Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398) | AI/ML | US, CA, Santa Clara | — | 2026-07-09 |
@@ -268,7 +269,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) | Software | 2 Locations | 2026-07-29 | 2026-07-14 |
+| [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) | Software | 2 Locations | 2026-07-28 | 2026-07-14 |
 
 ## Snowflake
 
