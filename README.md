@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-19 07:14:42 UTC** · 📌 **172** open internships
+> 🕐 Last updated: **2026-08-19 13:18:32 UTC** · 📌 **175** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -27,8 +27,8 @@ GitHub Actions.
 | [Intel](#intel) | 9 |
 | [Jane Street](#jane-street) | 20 |
 | [Meta](#meta) | 8 |
-| [Microsoft](#microsoft) | 9 |
-| [NVIDIA](#nvidia) | 19 |
+| [Microsoft](#microsoft) | 11 |
+| [NVIDIA](#nvidia) | 20 |
 | [Netflix](#netflix) | 1 |
 | OpenAI | — |
 | [Oracle](#oracle) | 5 |
@@ -233,6 +233,8 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Security Research Intern - AI Focus](https://apply.careers.microsoft.com/careers/job/1970393556862170) 🆕 | Security | Israel, Tel Aviv, Herzliya | 2026-08-19 | 2026-08-19 |
+| [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556971804) 🆕 | AI/ML | India, Karnataka, Bangalore | 2026-08-19 | 2026-08-19 |
+| [Research Science: Internship opportunities](https://apply.careers.microsoft.com/careers/job/1970393556747969) 🆕 | AI/ML | Hong Kong, Multiple Locations, Multiple Locations | 2026-08-19 | 2026-08-19 |
 | [AI Software Engineering Intern](https://apply.careers.microsoft.com/careers/job/1970393556962891) 🆕 | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-08-19 | 2026-08-19 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556957962) | Software | Israel, Multiple Locations, Multiple Locations | 2026-08-07 | 2026-08-07 |
 | [Cloud Solution Architect - Ru'aa Internship](https://apply.careers.microsoft.com/careers/job/1970393556942312) | Backend/Infra | Saudi Arabia, Riyadh, Riyadh | 2026-07-31 | 2026-07-31 |
@@ -258,6 +260,7 @@ GitHub Actions.
 | [NVIDIA 2027 Internships: Deep Learning Computer Architecture](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) 🆕 | AI/ML | US, CA, Santa Clara | 2026-08-19 | 2026-08-19 |
 | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) 🆕 | AI/ML | US, CA, Santa Clara | 2026-08-19 | 2026-08-19 |
 | [NVIDIA 2027 Internships: Autonomous Vehicles and Robotics](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496) 🆕 | AI/ML | US, CA, Santa Clara | 2026-08-19 | 2026-08-19 |
+| [Artificial Intelligence Research Intern - Deep Learning](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Artificial-Intelligence-Research-Intern---Deep-Learning_JR2023646) 🆕 | AI/ML | Taiwan, Taipei | 2026-08-19 | 2026-08-19 |
 | [Software Engineering Intern, NCCL - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645) 🆕 | Software | 2 Locations | 2026-08-18 | 2026-08-18 |
 | [Software Engineering Intern, Dynamo - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295) | Software | US, CA, Santa Clara | 2026-08-05 | 2026-08-05 |
 | [System Design Validation Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Intern---2027_JR2021783) | QA | Taiwan, Taipei | 2026-07-24 | 2026-07-24 |
