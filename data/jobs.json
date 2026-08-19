@@ -3049,6 +3049,20 @@
       "title": "Research Sciences INTERN",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556641091"
     },
+    "microsoft:1970393556747969": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "external_id": "1970393556747969",
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "locations": [
+        "Hong Kong, Multiple Locations, Multiple Locations"
+      ],
+      "posted": "2026-08-19",
+      "title": "Research Science: Internship opportunities",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556747969"
+    },
     "microsoft:1970393556768751": {
       "active": false,
       "category": "Security",
@@ -3403,6 +3417,20 @@
       "posted": "2026-08-19",
       "title": "AI Software Engineering Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891"
+    },
+    "microsoft:1970393556971804": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "external_id": "1970393556971804",
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "locations": [
+        "India, Karnataka, Bangalore"
+      ],
+      "posted": "2026-08-19",
+      "title": "Research Sciences INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556971804"
     },
     "netflix:790313241540": {
       "active": true,
@@ -3927,6 +3955,20 @@
       "title": "System Software Engineer \u2013 GPU and SOC (2027 RDSS Intern)",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628"
     },
+    "nvidia:JR2023646": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2023646",
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "locations": [
+        "Taiwan, Taipei"
+      ],
+      "posted": "2026-08-19",
+      "title": "Artificial Intelligence Research Intern - Deep Learning",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Artificial-Intelligence-Research-Intern---Deep-Learning_JR2023646"
+    },
     "nvidia:JR2023833": {
       "active": true,
       "category": "AI/ML",
@@ -4296,5 +4338,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-19T07:14:42Z"
+  "updated_at": "2026-08-19T13:18:32Z"
 }
