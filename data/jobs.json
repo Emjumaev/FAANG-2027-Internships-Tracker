@@ -1439,6 +1439,20 @@
       "title": "Software Engineer Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845"
     },
+    "cloudflare:8118855": {
+      "active": true,
+      "category": "Software",
+      "company": "Cloudflare",
+      "external_id": "8118855",
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "locations": [
+        "In-Office"
+      ],
+      "posted": "2026-08-20",
+      "title": "Software Engineer Intern (Fall 2026)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855"
+    },
     "databricks:7011263002": {
       "active": true,
       "category": "AI/ML",
@@ -2328,17 +2342,17 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989"
     },
     "intel:JR0286018": {
-      "active": false,
+      "active": true,
       "category": "QA",
       "closed": "2026-08-08",
       "company": "Intel",
       "external_id": "JR0286018",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-20",
       "locations": [
         "Mexico, Guadalajara"
       ],
-      "posted": "2026-08-04",
+      "posted": "2026-08-20",
       "title": "SoC Functional Validation Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/SoC-Functional-Validation-Intern_JR0286018"
     },
@@ -2398,6 +2412,34 @@
       "posted": "2026-08-07",
       "title": "Software Engineer (Intern)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Engineer--Intern-_JR0286207-1"
+    },
+    "intel:JR0286489": {
+      "active": true,
+      "category": "Software",
+      "company": "Intel",
+      "external_id": "JR0286489",
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "locations": [
+        "US, Arizona, Phoenix"
+      ],
+      "posted": "2026-08-20",
+      "title": "Software Engineer Graduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Software-Engineer-Graduate-Intern_JR0286489"
+    },
+    "intel:JR0286491": {
+      "active": true,
+      "category": "Software",
+      "company": "Intel",
+      "external_id": "JR0286491",
+      "first_seen": "2026-08-20",
+      "last_seen": "2026-08-20",
+      "locations": [
+        "US, Oregon, Hillsboro"
+      ],
+      "posted": "2026-08-20",
+      "title": "Software Engineer Graduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineer-Graduate-Intern_JR0286491"
     },
     "intel:JR0286499": {
       "active": true,
@@ -4211,9 +4253,9 @@
       "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334396"
     },
     "oracle:342415": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-08-16",
+      "closed": "2026-08-20",
       "company": "Oracle",
       "external_id": "342415",
       "first_seen": "2026-08-13",
@@ -4437,5 +4479,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-20T13:20:13Z"
+  "updated_at": "2026-08-20T19:09:48Z"
 }
