@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-20 13:20:13 UTC** · 📌 **182** open internships
+> 🕐 Last updated: **2026-08-20 19:09:48 UTC** · 📌 **185** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -19,19 +19,19 @@ GitHub Actions.
 | [Apple](#apple) | 13 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 2 |
-| [Cloudflare](#cloudflare) | 7 |
+| [Cloudflare](#cloudflare) | 8 |
 | [Databricks](#databricks) | 1 |
 | GitHub | — |
 | [Google](#google) | 17 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
-| [Intel](#intel) | 9 |
+| [Intel](#intel) | 12 |
 | [Jane Street](#jane-street) | 20 |
 | [Meta](#meta) | 8 |
 | [Microsoft](#microsoft) | 12 |
 | [NVIDIA](#nvidia) | 25 |
 | [Netflix](#netflix) | 1 |
 | OpenAI | — |
-| [Oracle](#oracle) | 5 |
+| [Oracle](#oracle) | 4 |
 | PayPal | — |
 | Pinterest | — |
 | [Salesforce](#salesforce) | 1 |
@@ -135,6 +135,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) 🆕 | Software | In-Office | 2026-08-20 | 2026-08-20 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | Software | In-Office | 2026-08-10 | 2026-08-11 |
 | [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | AI/ML | In-Office | 2026-07-29 | 2026-07-29 |
 | [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | AI/ML | In-Office | 2026-07-28 | 2026-07-28 |
@@ -181,6 +182,9 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Software-Engineer-Graduate-Intern_JR0286489) 🆕 | Software | US, Arizona, Phoenix | 2026-08-20 | 2026-08-20 |
+| [Software Engineer Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineer-Graduate-Intern_JR0286491) 🆕 | Software | US, Oregon, Hillsboro | 2026-08-20 | 2026-08-20 |
+| [SoC Functional Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/SoC-Functional-Validation-Intern_JR0286018) | QA | Mexico, Guadalajara | 2026-08-20 | 2026-08-05 |
 | [Intern Systems Software Development Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Intern-Systems-Software-Development-Engineer_JR0286499) 🆕 | Software | Malaysia, Penang | 2026-08-18 | 2026-08-18 |
 | [Software Development Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1) 🆕 | Software | US, California, Folsom | 2026-08-17 | 2026-08-18 |
 | [AI/ML Software Development Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/AI-ML-Software-Development-Intern_JR0286500) 🆕 | AI/ML | Malaysia, Kulim | 2026-08-17 | 2026-08-17 |
@@ -286,7 +290,6 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Platform Software Engineer 1 - Full-time Intern Conversion](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/342415) 🆕 | Backend/Infra | United States | 2026-08-18 | 2026-08-13 |
 | [CEGIU Demo Data Strategy Intern - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334396) | Data | Redwood City, CA, United States; Rocklin, CA, United States; Santa Clara, CA, United States *(+3 more)* | 2026-05-23 | 2026-07-09 |
 | [ONA AI Agent Intern (Logistics Focus) - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334345) | AI/ML | Austin, TX, United States; United States | 2026-05-22 | 2026-07-09 |
 | [OCI Software Engineer Intern - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334325) | Software | Santa Clara, CA, United States; Seattle, WA, United States; United States | 2026-05-22 | 2026-07-09 |
