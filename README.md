@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-21 13:19:54 UTC** · 📌 **192** open internships
+> 🕐 Last updated: **2026-08-21 19:05:50 UTC** · 📌 **193** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -18,7 +18,7 @@ GitHub Actions.
 | Anthropic | — |
 | [Apple](#apple) | 13 |
 | Bloomberg | — |
-| [Cisco](#cisco) | 2 |
+| [Cisco](#cisco) | 4 |
 | [Cloudflare](#cloudflare) | 8 |
 | [Databricks](#databricks) | 2 |
 | GitHub | — |
@@ -27,7 +27,7 @@ GitHub Actions.
 | [Intel](#intel) | 11 |
 | [Jane Street](#jane-street) | 21 |
 | [Meta](#meta) | 9 |
-| [Microsoft](#microsoft) | 12 |
+| [Microsoft](#microsoft) | 11 |
 | [NVIDIA](#nvidia) | 31 |
 | [Netflix](#netflix) | 1 |
 | OpenAI | — |
@@ -127,6 +127,8 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineer – Network/Embedded/Application Development (Summer Internship) - India EG Requisition](https://careers.cisco.com/global/en/job/2021284) 🆕 | Backend/Infra | Bangalore, India | 2026-08-21 | 2026-08-21 |
+| [Software Engineer - Intern](https://careers.cisco.com/global/en/job/2023625) 🆕 | Software | Harpenden, Herefordshire, United Kingdom | 2026-08-21 | 2026-08-21 |
 | [Software Development Intern (Cracow, Poland)](https://careers.cisco.com/global/en/job/2015133) | Software | Krakow, Poland | 2026-07-28 | 2026-07-09 |
 | [Test Engineer Intern, Vietnam](https://careers.cisco.com/global/en/job/2011415) | QA | Hanoi, Hà Nội, Vietnam | 2026-07-22 | 2026-07-22 |
 
@@ -241,7 +243,6 @@ GitHub Actions.
 | [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556971804) 🆕 | AI/ML | India, Karnataka, Bangalore | 2026-08-20 | 2026-08-19 |
 | [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556972877) 🆕 | AI/ML | Japan, Tokyo-to, Tokyo | 2026-08-20 | 2026-08-20 |
 | [Security Research Intern - AI Focus](https://apply.careers.microsoft.com/careers/job/1970393556862170) 🆕 | Security | Israel, Tel Aviv, Herzliya | 2026-08-19 | 2026-08-19 |
-| [Research Science: Internship opportunities](https://apply.careers.microsoft.com/careers/job/1970393556747969) 🆕 | AI/ML | Hong Kong, Multiple Locations, Multiple Locations | 2026-08-19 | 2026-08-19 |
 | [AI Software Engineering Intern](https://apply.careers.microsoft.com/careers/job/1970393556962891) 🆕 | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-08-19 | 2026-08-19 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556957962) | Software | Israel, Multiple Locations, Multiple Locations | 2026-08-07 | 2026-08-07 |
 | [Cloud Solution Architect - Ru'aa Internship](https://apply.careers.microsoft.com/careers/job/1970393556942312) | Backend/Infra | Saudi Arabia, Riyadh, Riyadh | 2026-07-31 | 2026-07-31 |
