@@ -4100,6 +4100,34 @@
       "title": "Test Development Software Engineering Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2023632"
     },
+    "nvidia:JR2023639": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2023639",
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "locations": [
+        "China, Shanghai"
+      ],
+      "posted": "2026-08-21",
+      "title": "Deep Learning Software Engineering Intern, Test Development - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023639"
+    },
+    "nvidia:JR2023641": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2023641",
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "locations": [
+        "China, Shanghai"
+      ],
+      "posted": "2026-08-21",
+      "title": "Deep Learning Software Engineering Intern, Test Development - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023641"
+    },
     "nvidia:JR2023645": {
       "active": true,
       "category": "Software",
@@ -4169,6 +4197,20 @@
       "posted": "2026-08-20",
       "title": "Deep Learning Software Engineering Intern, Test Development - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023656"
+    },
+    "nvidia:JR2023666": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2023666",
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "locations": [
+        "China, Shanghai"
+      ],
+      "posted": "2026-08-21",
+      "title": "CUDA Full Stack & AI Test Dev Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/CUDA-Full-Stack---AI-Test-Dev-Intern---2027_JR2023666-1"
     },
     "nvidia:JR2023833": {
       "active": true,
@@ -4581,5 +4623,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-21T07:16:34Z"
+  "updated_at": "2026-08-21T13:19:54Z"
 }
