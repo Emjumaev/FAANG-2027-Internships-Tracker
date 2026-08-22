@@ -2209,17 +2209,17 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Engineering-Intern-for-Debug-Tools_JR0285205"
     },
     "intel:JR0285207": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-07-21",
       "company": "Intel",
       "external_id": "JR0285207",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-20",
+      "last_seen": "2026-08-22",
       "locations": [
         "Mexico, Guadalajara"
       ],
-      "posted": "2026-06-30",
+      "posted": "2026-08-22",
       "title": "Software Development Intern (Automation and AI Enablement)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Development-Intern--Automation-and-AI-Enablement-_JR0285207"
     },
@@ -4669,5 +4669,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-22T13:09:09Z"
+  "updated_at": "2026-08-22T18:56:50Z"
 }
