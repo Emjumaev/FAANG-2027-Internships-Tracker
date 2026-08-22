@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-22 13:09:09 UTC** · 📌 **194** open internships
+> 🕐 Last updated: **2026-08-22 18:56:50 UTC** · 📌 **195** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -24,7 +24,7 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 17 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
-| [Intel](#intel) | 11 |
+| [Intel](#intel) | 12 |
 | [Jane Street](#jane-street) | 21 |
 | [Meta](#meta) | 9 |
 | [Microsoft](#microsoft) | 12 |
@@ -184,6 +184,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Development Intern (Automation and AI Enablement)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Development-Intern--Automation-and-AI-Enablement-_JR0285207) | AI/ML | Mexico, Guadalajara | 2026-08-22 | 2026-07-09 |
 | [Intern Systems Software Development Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/Intern-Systems-Software-Development-Engineer_JR0286501) 🆕 | Software | Vietnam, Ho_Chi_Minh_City | 2026-08-21 | 2026-08-21 |
 | [SoC Functional Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/SoC-Functional-Validation-Intern_JR0286018) | QA | Mexico, Guadalajara | 2026-08-20 | 2026-08-05 |
 | [Intern Systems Software Development Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Intern-Systems-Software-Development-Engineer_JR0286499) 🆕 | Software | Malaysia, Penang | 2026-08-18 | 2026-08-18 |
