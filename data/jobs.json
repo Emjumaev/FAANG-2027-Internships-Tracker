@@ -3225,8 +3225,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556768751"
     },
     "microsoft:1970393556862170": {
-      "active": true,
+      "active": false,
       "category": "Security",
+      "closed": "2026-08-22",
       "company": "Microsoft",
       "external_id": "1970393556862170",
       "first_seen": "2026-08-19",
@@ -3299,13 +3300,13 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556875247"
     },
     "microsoft:1970393556911730": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-08-22",
       "company": "Microsoft",
       "external_id": "1970393556911730",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-08-22",
       "locations": [
         "India, Multiple Locations, Multiple Locations"
       ],
@@ -4485,7 +4486,7 @@
       "locations": [
         "2 Locations"
       ],
-      "posted": "2026-07-29",
+      "posted": "2026-07-28",
       "title": "Summer 2027 Intern - Software Engineer",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715"
     },
@@ -4668,5 +4669,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-22T01:58:46Z"
+  "updated_at": "2026-08-22T07:07:30Z"
 }
