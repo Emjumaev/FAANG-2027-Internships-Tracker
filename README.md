@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-23 07:10:37 UTC** · 📌 **195** open internships
+> 🕐 Last updated: **2026-08-23 13:10:34 UTC** · 📌 **194** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -14,7 +14,7 @@ GitHub Actions.
 |---|---|
 | Adobe | — |
 | Airbnb | — |
-| [Amazon](#amazon) | 55 |
+| [Amazon](#amazon) | 54 |
 | Anthropic | — |
 | [Apple](#apple) | 13 |
 | Bloomberg | — |
@@ -103,7 +103,6 @@ GitHub Actions.
 | [Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | AI/ML | North Reading, Massachusetts, USA | 2025-10-08 | 2026-07-09 |
 | [2026 Software Dev Engineer Intern - Germany](https://www.amazon.jobs/en/jobs/3074226/2026-software-dev-engineer-intern-germany) | Software | Berlin, Berlin, DEU | 2025-09-05 | 2026-07-13 |
 | [2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics](https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics) | AI/ML | San Francisco, California, USA | 2025-09-02 | 2026-07-09 |
-| [Software Development Engineer Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3063220/software-development-engineer-intern-amazon-university-talent-acquisition) | Software | Sao Paulo, Sao Paulo, BRA | 2025-08-20 | 2026-07-09 |
 
 ## Apple
 
