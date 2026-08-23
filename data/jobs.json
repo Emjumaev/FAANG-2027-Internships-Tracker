@@ -513,8 +513,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10504617/class-of-2029-internship-applied-scientists-amazon-international-stores-amazon-japan-store-tech"
     },
     "amazon:3063220": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-08-23",
       "company": "Amazon",
       "external_id": "3063220",
       "first_seen": "2026-07-09",
@@ -4669,5 +4670,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-23T07:10:37Z"
+  "updated_at": "2026-08-23T13:10:34Z"
 }
