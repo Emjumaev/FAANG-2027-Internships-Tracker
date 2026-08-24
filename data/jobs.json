@@ -513,13 +513,13 @@
       "url": "https://www.amazon.jobs/en/jobs/10504617/class-of-2029-internship-applied-scientists-amazon-international-stores-amazon-japan-store-tech"
     },
     "amazon:3063220": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-08-23",
       "company": "Amazon",
       "external_id": "3063220",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-23",
+      "last_seen": "2026-08-24",
       "locations": [
         "Sao Paulo, Sao Paulo, BRA"
       ],
@@ -1342,8 +1342,9 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/7606240?gh_jid=7606240"
     },
     "cloudflare:8013562": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-08-24",
       "company": "Cloudflare",
       "external_id": "8013562",
       "first_seen": "2026-07-09",
@@ -1356,8 +1357,9 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562"
     },
     "cloudflare:8031027": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-08-24",
       "company": "Cloudflare",
       "external_id": "8031027",
       "first_seen": "2026-07-09",
@@ -1921,8 +1923,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/83535564552184518"
     },
     "google:84680705375642310": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-08-24",
       "company": "Google",
       "external_id": "84680705375642310",
       "first_seen": "2026-08-24",
@@ -2044,7 +2047,7 @@
         "Washington D.C., DC, USA"
       ],
       "posted": "2026-08-24",
-      "title": "Software Engineering Intern, PhD, Summer 2026",
+      "title": "Software Engineering Intern, PhD, Summer 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054"
     },
     "google:93078491720753862": {
@@ -3736,7 +3739,7 @@
         "United States, California, Mountain View",
         "United States, Washington, Redmond"
       ],
-      "posted": "2026-08-21",
+      "posted": "2026-08-24",
       "title": "AI Software Engineering Intern - Edge",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054"
     },
@@ -4842,5 +4845,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-24T13:22:36Z"
+  "updated_at": "2026-08-24T19:09:04Z"
 }
