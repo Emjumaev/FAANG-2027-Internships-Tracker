@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-24 13:22:36 UTC** · 📌 **202** open internships
+> 🕐 Last updated: **2026-08-24 19:09:04 UTC** · 📌 **200** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -14,15 +14,15 @@ GitHub Actions.
 |---|---|
 | Adobe | — |
 | Airbnb | — |
-| [Amazon](#amazon) | 54 |
+| [Amazon](#amazon) | 55 |
 | Anthropic | — |
 | [Apple](#apple) | 13 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 4 |
-| [Cloudflare](#cloudflare) | 8 |
+| [Cloudflare](#cloudflare) | 6 |
 | [Databricks](#databricks) | 2 |
 | GitHub | — |
-| [Google](#google) | 20 |
+| [Google](#google) | 19 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
 | [Intel](#intel) | 12 |
 | [Jane Street](#jane-street) | 20 |
@@ -103,6 +103,7 @@ GitHub Actions.
 | [Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | AI/ML | North Reading, Massachusetts, USA | 2025-10-08 | 2026-07-09 |
 | [2026 Software Dev Engineer Intern - Germany](https://www.amazon.jobs/en/jobs/3074226/2026-software-dev-engineer-intern-germany) | Software | Berlin, Berlin, DEU | 2025-09-05 | 2026-07-13 |
 | [2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics](https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics) | AI/ML | San Francisco, California, USA | 2025-09-02 | 2026-07-09 |
+| [Software Development Engineer Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3063220/software-development-engineer-intern-amazon-university-talent-acquisition) | Software | Sao Paulo, Sao Paulo, BRA | 2025-08-20 | 2026-07-09 |
 
 ## Apple
 
@@ -141,8 +142,6 @@ GitHub Actions.
 | [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | AI/ML | In-Office | 2026-07-28 | 2026-07-28 |
 | [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | AI/ML | In-Office | 2026-07-28 | 2026-07-28 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | Software | In-Office | 2026-07-14 | 2026-07-15 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027) | Backend/Infra | In-Office | 2026-07-01 | 2026-07-09 |
-| [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562) | Backend/Infra | In-Office | 2026-06-26 | 2026-07-09 |
 
 ## Databricks
 
@@ -155,8 +154,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineering Intern, PhD, Summer 2026](https://www.google.com/about/careers/applications/jobs/results/91436104816698054) 🆕 | Software | Atlanta, GA, USA; Austin, TX, USA; Bellevue, WA, USA *(+27 more)* | 2026-08-24 | 2026-08-24 |
-| [Software Engineer, Infrastructure, PhD, Early Career, 2027 Start](https://www.google.com/about/careers/applications/jobs/results/84680705375642310) 🆕 | Backend/Infra | Atlanta, GA, USA; Austin, TX, USA; Durham, NC, USA *(+9 more)* | 2026-08-24 | 2026-08-24 |
+| [Software Engineering Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/91436104816698054) 🆕 | Software | Atlanta, GA, USA; Austin, TX, USA; Bellevue, WA, USA *(+27 more)* | 2026-08-24 | 2026-08-24 |
 | [Software Developer Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) 🆕 | Software | Montreal, QC, Canada; Toronto, ON, Canada; Waterloo, ON, Canada | 2026-08-24 | 2026-08-24 |
 | [Software Engineering Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/104551723757904582) 🆕 | Software | New Taipei, Banqiao District, New Taipei City, Taiwan; Taipei, Taiwan | 2026-08-20 | 2026-08-20 |
 | [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/93078491720753862) 🆕 | Software | Zürich, Switzerland | 2026-08-18 | 2026-08-18 |
@@ -245,7 +243,7 @@ GitHub Actions.
 | [Software Engineering Intern - Clipchamp](https://apply.careers.microsoft.com/careers/job/1970393556978345) 🆕 | Software | Australia, New South Wales, Sydney; Australia, Queensland, Brisbane; Australia, Victoria, Melbourne | 2026-08-24 | 2026-08-24 |
 | [Software Engineering Intern - Azure Core](https://apply.careers.microsoft.com/careers/job/1970393556971803) 🆕 | Software | Australia, Multiple Locations, Multiple Locations | 2026-08-24 | 2026-08-24 |
 | [Applied Science Intern - Clipchamp](https://apply.careers.microsoft.com/careers/job/1970393556978221) 🆕 | AI/ML | Australia, New South Wales, Sydney; Australia, Queensland, Brisbane; Australia, Victoria, Melbourne | 2026-08-24 | 2026-08-24 |
-| [AI Software Engineering Intern - Edge](https://apply.careers.microsoft.com/careers/job/1970393556979054) 🆕 | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-08-21 | 2026-08-22 |
+| [AI Software Engineering Intern - Edge](https://apply.careers.microsoft.com/careers/job/1970393556979054) 🆕 | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-08-24 | 2026-08-22 |
 | [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556971804) 🆕 | AI/ML | India, Karnataka, Bangalore | 2026-08-20 | 2026-08-19 |
 | [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556972877) 🆕 | AI/ML | Japan, Tokyo-to, Tokyo | 2026-08-20 | 2026-08-20 |
 | [Security Research Intern - AI Focus](https://apply.careers.microsoft.com/careers/job/1970393556862170) 🆕 | Security | Israel, Tel Aviv, Herzliya | 2026-08-19 | 2026-08-19 |
