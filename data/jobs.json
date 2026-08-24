@@ -1574,6 +1574,22 @@
       "title": "Research Scientist PhD Intern, 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/111285665542349510"
     },
+    "google:112518690523488966": {
+      "active": true,
+      "category": "Software",
+      "company": "Google",
+      "external_id": "112518690523488966",
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "locations": [
+        "Montreal, QC, Canada",
+        "Toronto, ON, Canada",
+        "Waterloo, ON, Canada"
+      ],
+      "posted": "2026-08-24",
+      "title": "Software Developer Intern, PhD, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/112518690523488966"
+    },
     "google:113855697199735494": {
       "active": true,
       "category": "AI/ML",
@@ -1904,6 +1920,31 @@
       "title": "Student Researcher, PhD, Fall 2026",
       "url": "https://www.google.com/about/careers/applications/jobs/results/83535564552184518"
     },
+    "google:84680705375642310": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Google",
+      "external_id": "84680705375642310",
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "locations": [
+        "Atlanta, GA, USA",
+        "Austin, TX, USA",
+        "Durham, NC, USA",
+        "Kirkland, WA, USA",
+        "Los Angeles, CA, USA",
+        "Madison, WI, USA",
+        "Mountain View, CA, USA",
+        "New York, NY, USA",
+        "Raleigh, NC, USA",
+        "San Bruno, CA, USA",
+        "Seattle, WA, USA",
+        "Sunnyvale, CA, USA"
+      ],
+      "posted": "2026-08-24",
+      "title": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310"
+    },
     "google:85564713261245126": {
       "active": false,
       "category": "Software",
@@ -1963,6 +2004,49 @@
       "title": "Part-Time Research Scientist PhD Intern, 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/88486192428786374"
     },
+    "google:91436104816698054": {
+      "active": true,
+      "category": "Software",
+      "company": "Google",
+      "external_id": "91436104816698054",
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "locations": [
+        "Atlanta, GA, USA",
+        "Austin, TX, USA",
+        "Bellevue, WA, USA",
+        "Boulder, CO, USA",
+        "Cambridge, MA, USA",
+        "Chicago, IL, USA",
+        "Durham, NC, USA",
+        "Goleta, CA, USA",
+        "Irvine, CA, USA",
+        "Kirkland, WA, USA",
+        "Los Angeles, CA, USA",
+        "Madison, WI, USA",
+        "Mountain View, CA, USA",
+        "New York, NY, USA",
+        "Palo Alto, CA, USA",
+        "Pittsburgh, PA, USA",
+        "Portland, OR, USA",
+        "Raleigh, NC, USA",
+        "Redmond, WA, USA",
+        "Redwood City, CA, USA",
+        "Reston, VA, USA",
+        "San Bruno, CA, USA",
+        "San Diego, CA, USA",
+        "San Francisco, CA, USA",
+        "San Jose, CA, USA",
+        "Santa Cruz, CA, USA",
+        "Seattle, WA, USA",
+        "South San Francisco, CA, USA",
+        "Sunnyvale, CA, USA",
+        "Washington D.C., DC, USA"
+      ],
+      "posted": "2026-08-24",
+      "title": "Software Engineering Intern, PhD, Summer 2026",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054"
+    },
     "google:93078491720753862": {
       "active": true,
       "category": "Software",
@@ -1971,7 +2055,6 @@
       "first_seen": "2026-08-18",
       "last_seen": "2026-08-24",
       "locations": [
-        "Berlin, Germany",
         "Z\u00fcrich, Switzerland"
       ],
       "posted": "2026-08-18",
@@ -2574,8 +2657,9 @@
       "url": "https://www.janestreet.com/join-jane-street/position/7582902002/"
     },
     "jane-street:8374335002": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-08-24",
       "company": "Jane Street",
       "external_id": "8374335002",
       "first_seen": "2026-07-09",
@@ -4758,5 +4842,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-24T07:37:11Z"
+  "updated_at": "2026-08-24T13:22:36Z"
 }
