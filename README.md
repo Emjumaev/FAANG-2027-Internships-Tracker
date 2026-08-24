@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-24 07:37:11 UTC** · 📌 **200** open internships
+> 🕐 Last updated: **2026-08-24 13:22:36 UTC** · 📌 **202** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -22,10 +22,10 @@ GitHub Actions.
 | [Cloudflare](#cloudflare) | 8 |
 | [Databricks](#databricks) | 2 |
 | GitHub | — |
-| [Google](#google) | 17 |
+| [Google](#google) | 20 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
 | [Intel](#intel) | 12 |
-| [Jane Street](#jane-street) | 21 |
+| [Jane Street](#jane-street) | 20 |
 | [Meta](#meta) | 9 |
 | [Microsoft](#microsoft) | 15 |
 | [NVIDIA](#nvidia) | 34 |
@@ -155,8 +155,11 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineering Intern, PhD, Summer 2026](https://www.google.com/about/careers/applications/jobs/results/91436104816698054) 🆕 | Software | Atlanta, GA, USA; Austin, TX, USA; Bellevue, WA, USA *(+27 more)* | 2026-08-24 | 2026-08-24 |
+| [Software Engineer, Infrastructure, PhD, Early Career, 2027 Start](https://www.google.com/about/careers/applications/jobs/results/84680705375642310) 🆕 | Backend/Infra | Atlanta, GA, USA; Austin, TX, USA; Durham, NC, USA *(+9 more)* | 2026-08-24 | 2026-08-24 |
+| [Software Developer Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) 🆕 | Software | Montreal, QC, Canada; Toronto, ON, Canada; Waterloo, ON, Canada | 2026-08-24 | 2026-08-24 |
 | [Software Engineering Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/104551723757904582) 🆕 | Software | New Taipei, Banqiao District, New Taipei City, Taiwan; Taipei, Taiwan | 2026-08-20 | 2026-08-20 |
-| [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/93078491720753862) 🆕 | Software | Berlin, Germany; Zürich, Switzerland | 2026-08-18 | 2026-08-18 |
+| [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/93078491720753862) 🆕 | Software | Zürich, Switzerland | 2026-08-18 | 2026-08-18 |
 | [Software Engineering or SRE, PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/80037545080955590) 🆕 | Backend/Infra | London, UK | 2026-08-17 | 2026-08-17 |
 | [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/107087730147500742) 🆕 | Software | Kraków, Poland; Warsaw, Poland | 2026-08-17 | 2026-08-17 |
 | [Research Scientist PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/111285665542349510) 🆕 | AI/ML | Munich, Germany; Paris, France; Zürich, Switzerland | 2026-08-17 | 2026-08-17 |
@@ -217,7 +220,6 @@ GitHub Actions.
 | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8599644002/) | Software | NYC | — | 2026-07-09 |
 | [Software Engineer (Summer Internship (December-February))](https://www.janestreet.com/join-jane-street/position/7582902002/) | Software | HKG | — | 2026-07-09 |
 | [Network Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8620793002/) | Backend/Infra | NYC | — | 2026-07-09 |
-| [Machine Learning Researcher (Winter Internship)](https://www.janestreet.com/join-jane-street/position/8374335002/) | AI/ML | HKG | — | 2026-07-09 |
 | [Machine Learning Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8384490002/) | AI/ML | NYC | — | 2026-07-09 |
 | [Machine Learning Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8611307002/) | AI/ML | NYC | — | 2026-07-09 |
 | [Linux Engineer (Summer Internship (December-February))](https://www.janestreet.com/join-jane-street/position/8377832002/) | Backend/Infra | HKG | — | 2026-07-09 |
