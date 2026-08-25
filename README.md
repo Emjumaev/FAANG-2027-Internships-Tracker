@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-25 07:17:17 UTC** · 📌 **202** open internships
+> 🕐 Last updated: **2026-08-25 13:20:47 UTC** · 📌 **203** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -28,7 +28,7 @@ GitHub Actions.
 | [Jane Street](#jane-street) | 20 |
 | [Meta](#meta) | 9 |
 | [Microsoft](#microsoft) | 15 |
-| [NVIDIA](#nvidia) | 36 |
+| [NVIDIA](#nvidia) | 37 |
 | [Netflix](#netflix) | 1 |
 | OpenAI | — |
 | [Oracle](#oracle) | 4 |
@@ -262,6 +262,7 @@ GitHub Actions.
 |---|---|---|---|---|
 | [Deep Learning Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023658) 🆕 | AI/ML | China, Shanghai | 2026-08-25 | 2026-08-25 |
 | [ASIC Engineering Intern, Networking Chip Design - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Engineering-Intern--Networking-Chip-Design---2027_JR2023920-1) 🆕 | Backend/Infra | China, Shanghai | 2026-08-25 | 2026-08-25 |
+| [AI Research Intern, TAO Multi-Modal Model Development - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Vietnam-Hanoi/AI-Research-Intern--TAO-Multi-Modal-Model-Development---2026_JR2021301) 🆕 | AI/ML | 2 Locations | 2026-08-25 | 2026-08-25 |
 | [System Software Engineer – Embedded Power Management (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-Power-Management--RDSS-Intern-_JR2023967) 🆕 | Backend/Infra | Taiwan, Taipei | 2026-08-24 | 2026-08-24 |
 | [Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023649-1) 🆕 | Software | China, Shanghai | 2026-08-24 | 2026-08-23 |
 | [AI Developer Technology Engineer Intern, AI - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002) 🆕 | AI/ML | 2 Locations | 2026-08-24 | 2026-08-24 |
