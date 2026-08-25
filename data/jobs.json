@@ -2161,9 +2161,9 @@
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083"
     },
     "intel:JR0282639": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-07-23",
+      "closed": "2026-08-25",
       "company": "Intel",
       "external_id": "JR0282639",
       "first_seen": "2026-07-17",
@@ -2355,8 +2355,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Electrical-Validation-Intern_JR0285377"
     },
     "intel:JR0285451": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-08-25",
       "company": "Intel",
       "external_id": "JR0285451",
       "first_seen": "2026-08-18",
@@ -2532,8 +2533,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/Module-Engineering-Intern---AI-ML--Data-Science--Robotics--Electrical--and-Mechatronics-Engineering-Disciplines_JR0286119-1"
     },
     "intel:JR0286207": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-08-25",
       "company": "Intel",
       "external_id": "JR0286207",
       "first_seen": "2026-08-07",
@@ -2881,7 +2883,7 @@
         "NYC"
       ],
       "posted": null,
-      "title": "Cybersecurity Analyst (Summer Internship)",
+      "title": "Cybersecurity Engineer - Security Operations Center (SOC) (Summer Internship)",
       "url": "https://www.janestreet.com/join-jane-street/position/8632723002/"
     },
     "jane-street:8648474002": {
@@ -4887,5 +4889,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-25T13:20:47Z"
+  "updated_at": "2026-08-25T19:07:28Z"
 }
