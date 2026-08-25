@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-25 13:20:47 UTC** · 📌 **203** open internships
+> 🕐 Last updated: **2026-08-25 19:07:28 UTC** · 📌 **200** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -24,7 +24,7 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 19 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
-| [Intel](#intel) | 12 |
+| [Intel](#intel) | 9 |
 | [Jane Street](#jane-street) | 20 |
 | [Meta](#meta) | 9 |
 | [Microsoft](#microsoft) | 15 |
@@ -188,12 +188,9 @@ GitHub Actions.
 | [Intern Systems Software Development Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/Intern-Systems-Software-Development-Engineer_JR0286501) 🆕 | Software | Vietnam, Ho_Chi_Minh_City | 2026-08-21 | 2026-08-21 |
 | [SoC Functional Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/SoC-Functional-Validation-Intern_JR0286018) | QA | Mexico, Guadalajara | 2026-08-20 | 2026-08-05 |
 | [Intern Systems Software Development Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Intern-Systems-Software-Development-Engineer_JR0286499) 🆕 | Software | Malaysia, Penang | 2026-08-18 | 2026-08-18 |
-| [Software Development Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1) 🆕 | Software | US, California, Folsom | 2026-08-17 | 2026-08-18 |
 | [AI/ML Software Development Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/AI-ML-Software-Development-Intern_JR0286500) | AI/ML | Malaysia, Kulim | 2026-08-17 | 2026-08-17 |
-| [Software Engineer (Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Engineer--Intern-_JR0286207-1) | Software | Mexico, Guadalajara | 2026-08-07 | 2026-08-07 |
 | [Module Engineering Intern – AI/ML, Data Science, Robotics, Electrical, and Mechatronics Engineering Disciplines](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/Module-Engineering-Intern---AI-ML--Data-Science--Robotics--Electrical--and-Mechatronics-Engineering-Disciplines_JR0286119-1) | AI/ML | Vietnam, Ho_Chi_Minh_City | 2026-08-05 | 2026-08-05 |
 | [AI Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/AI-Engineer-Intern_JR0286108) | AI/ML | Vietnam, Ho_Chi_Minh_City | 2026-08-03 | 2026-08-03 |
-| [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | AI/ML | 2 Locations | 2026-07-29 | 2026-07-17 |
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) | AI/ML | US, Arizona, Phoenix | 2026-07-29 | 2026-07-17 |
 | [Development Tools Software Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Development-Tools-Software-Intern_JR0285211) | Software | Mexico, Guadalajara | 2026-07-03 | 2026-07-09 |
 
@@ -209,7 +206,7 @@ GitHub Actions.
 | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8617298002/) | Software | HKG | — | 2026-07-21 |
 | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8632392002/) | Software | SGP | — | 2026-07-21 |
 | [Linux Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8625946002/) | Backend/Infra | HKG | — | 2026-07-21 |
-| [Cybersecurity Analyst (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8632723002/) | Security | NYC | — | 2026-07-20 |
+| [Cybersecurity Engineer - Security Operations Center (SOC) (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8632723002/) | Security | NYC | — | 2026-07-20 |
 | [Linux Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8626260002/) | Backend/Infra | NYC | — | 2026-07-15 |
 | [Data Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8631973002/) | Data | NYC | — | 2026-07-14 |
 | [Tools and Compilers Research and Development (Summer Internship)](https://www.janestreet.com/join-jane-street/position/5869205002/) | Backend/Infra | NYC | — | 2026-07-09 |
