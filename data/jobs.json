@@ -31,8 +31,9 @@
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706"
     },
     "amazon:10375983": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-08-26",
       "company": "Amazon",
       "external_id": "10375983",
       "first_seen": "2026-07-09",
@@ -45,8 +46,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10375983/software-dev-engineer-intern-2026-beijing"
     },
     "amazon:10375998": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-08-26",
       "company": "Amazon",
       "external_id": "10375998",
       "first_seen": "2026-07-09",
@@ -59,8 +61,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10375998/software-dev-engineer-intern-opensearch-2026-shanghai"
     },
     "amazon:10376009": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-08-26",
       "company": "Amazon",
       "external_id": "10376009",
       "first_seen": "2026-07-09",
@@ -73,8 +76,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10376009/software-dev-engineer-intern-2026-shanghai"
     },
     "amazon:10376731": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-08-26",
       "company": "Amazon",
       "external_id": "10376731",
       "first_seen": "2026-07-09",
@@ -87,8 +91,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10376731/software-dev-engineer-intern-devices-2026-shanghai"
     },
     "amazon:10376734": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-08-26",
       "company": "Amazon",
       "external_id": "10376734",
       "first_seen": "2026-07-09",
@@ -101,8 +106,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10376734/software-dev-engineer-intern-manufacturing-ops-2026-shanghai"
     },
     "amazon:10376736": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-08-26",
       "company": "Amazon",
       "external_id": "10376736",
       "first_seen": "2026-07-09",
@@ -115,8 +121,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10376736/software-dev-engineer-intern-sustaining-operations-2026-shanghai"
     },
     "amazon:10376947": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-08-26",
       "company": "Amazon",
       "external_id": "10376947",
       "first_seen": "2026-07-09",
@@ -129,8 +136,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10376947/applied-scientist-intern-2026-shenzhen"
     },
     "amazon:10377010": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-08-26",
       "company": "Amazon",
       "external_id": "10377010",
       "first_seen": "2026-07-09",
@@ -143,8 +151,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10377010/software-dev-engineer-intern-alexa-2026-shenzhen"
     },
     "amazon:10377042": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-08-26",
       "company": "Amazon",
       "external_id": "10377042",
       "first_seen": "2026-07-09",
@@ -157,8 +166,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10377042/seed-engineer-program-software-development-engineer-intern-2026-shenzhen"
     },
     "amazon:10377845": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-08-26",
       "company": "Amazon",
       "external_id": "10377845",
       "first_seen": "2026-07-09",
@@ -327,8 +337,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10394934/2026-fall-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting"
     },
     "amazon:10395459": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-08-26",
       "company": "Amazon",
       "external_id": "10395459",
       "first_seen": "2026-07-09",
@@ -513,9 +524,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10504617/class-of-2029-internship-applied-scientists-amazon-international-stores-amazon-japan-store-tech"
     },
     "amazon:3063220": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-08-23",
+      "closed": "2026-08-26",
       "company": "Amazon",
       "external_id": "3063220",
       "first_seen": "2026-07-09",
@@ -943,8 +954,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3148406/2026-applied-scientist-intern-amazon-university-talent-acquisition"
     },
     "amazon:3149133": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-08-26",
       "company": "Amazon",
       "external_id": "3149133",
       "first_seen": "2026-07-09",
@@ -957,8 +969,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3149133/applied-scientist-intern-international-technology-2026-beijing"
     },
     "amazon:3149135": {
-      "active": true,
+      "active": false,
       "category": "QA",
+      "closed": "2026-08-26",
       "company": "Amazon",
       "external_id": "3149135",
       "first_seen": "2026-07-09",
@@ -971,8 +984,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3149135/quality-assurance-eng-intern-2026-beijing"
     },
     "amazon:3165273": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-08-26",
       "company": "Amazon",
       "external_id": "3165273",
       "first_seen": "2026-07-09",
@@ -999,8 +1013,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3179209/software-development-engineer-fall-intern-military-veteran"
     },
     "amazon:3179483": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-08-26",
       "company": "Amazon",
       "external_id": "3179483",
       "first_seen": "2026-07-09",
@@ -4325,6 +4340,20 @@
       "title": "Deep Learning Software Engineering Intern, Test Development - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023641"
     },
+    "nvidia:JR2023644": {
+      "active": true,
+      "category": "QA",
+      "company": "NVIDIA",
+      "external_id": "JR2023644",
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "locations": [
+        "Taiwan, Taipei"
+      ],
+      "posted": "2026-08-26",
+      "title": "System Design Validation Engineer (RDSS Intern)",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Engineer--RDSS-Intern-_JR2023644"
+    },
     "nvidia:JR2023645": {
       "active": true,
       "category": "Software",
@@ -4548,6 +4577,20 @@
       "posted": "2026-08-24",
       "title": "System Software Engineer \u2013 Embedded Power Management (RDSS Intern)",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-Power-Management--RDSS-Intern-_JR2023967"
+    },
+    "nvidia:JR2023995": {
+      "active": true,
+      "category": "QA",
+      "company": "NVIDIA",
+      "external_id": "JR2023995",
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "locations": [
+        "Taiwan, Taipei"
+      ],
+      "posted": "2026-08-26",
+      "title": "Enterprise Software Test Development Engineer (RDSS Intern)",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023995"
     },
     "nvidia:JR2024001": {
       "active": true,
@@ -4932,5 +4975,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-26T07:17:20Z"
+  "updated_at": "2026-08-26T13:31:42Z"
 }
