@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-26 07:17:20 UTC** · 📌 **203** open internships
+> 🕐 Last updated: **2026-08-26 13:31:42 UTC** · 📌 **189** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -14,7 +14,7 @@ GitHub Actions.
 |---|---|
 | Adobe | — |
 | Airbnb | — |
-| [Amazon](#amazon) | 55 |
+| [Amazon](#amazon) | 39 |
 | Anthropic | — |
 | [Apple](#apple) | 13 |
 | Bloomberg | — |
@@ -28,7 +28,7 @@ GitHub Actions.
 | [Jane Street](#jane-street) | 20 |
 | [Meta](#meta) | 9 |
 | [Microsoft](#microsoft) | 15 |
-| [NVIDIA](#nvidia) | 40 |
+| [NVIDIA](#nvidia) | 42 |
 | [Netflix](#netflix) | 1 |
 | OpenAI | — |
 | [Oracle](#oracle) | 4 |
@@ -58,7 +58,6 @@ GitHub Actions.
 | [Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) | Data | Seattle, Washington, USA | 2026-05-06 | 2026-07-09 |
 | [Software Dev Engineer Intern Machine Learning, Amazon Robotics](https://www.amazon.jobs/en/jobs/10401402/software-dev-engineer-intern-machine-learning-amazon-robotics) | AI/ML | Berlin, Berlin, DEU | 2026-04-23 | 2026-07-09 |
 | [2026 Fall Research Science Internship - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10398392/2026-fall-research-science-internship-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-21 | 2026-07-09 |
-| [Software Dev Engineer Intern, (Devices) 2026 Beijing](https://www.amazon.jobs/en/jobs/10395459/software-dev-engineer-intern-devices-2026-beijing) | Software | Beijing, CHN | 2026-04-19 | 2026-07-09 |
 | [Technical Business Developer Intern, 2026 Hong Kong](https://www.amazon.jobs/en/jobs/10394507/technical-business-developer-intern-2026-hong-kong) | Software | Hong Kong, Hong Kong SAR, HKG | 2026-04-17 | 2026-07-24 |
 | [2026 Fall Applied Science Internship - Gen AI & Large Language Models - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10394934/2026-fall-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-17 | 2026-07-09 |
 | [Fall 2026 Applied Science Internship - Canada, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting) | AI/ML | Vancouver, British Columbia, CAN | 2026-04-16 | 2026-07-09 |
@@ -68,21 +67,7 @@ GitHub Actions.
 | [2026 Fall Applied Science Internship - Automated Reasoning - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10394156/2026-fall-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-16 | 2026-07-09 |
 | [2026 Fall Applied Science Internship - Computer Vision - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10391901/2026-fall-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-14 | 2026-07-09 |
 | [2026  Fall Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10391774/2026-fall-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-14 | 2026-07-09 |
-| [Software Dev Engineer Intern, (Manufacturing &Ops) 2026 Shenzhen](https://www.amazon.jobs/en/jobs/10377845/software-dev-engineer-intern-manufacturing-ops-2026-shenzhen) | Software | Shenzhen, CHN | 2026-03-27 | 2026-07-09 |
-| [Software Dev Engineer Intern, (Sustaining Operations) 2026 Shanghai](https://www.amazon.jobs/en/jobs/10376736/software-dev-engineer-intern-sustaining-operations-2026-shanghai) | Software | Shanghai, CHN | 2026-03-26 | 2026-07-09 |
-| [Software Dev Engineer Intern, (Manufacturing&Ops) 2026 Shanghai](https://www.amazon.jobs/en/jobs/10376734/software-dev-engineer-intern-manufacturing-ops-2026-shanghai) | Software | Shanghai, CHN | 2026-03-26 | 2026-07-09 |
-| [Software Dev Engineer Intern, (Devices) 2026 Shanghai](https://www.amazon.jobs/en/jobs/10376731/software-dev-engineer-intern-devices-2026-shanghai) | Software | Shanghai, CHN | 2026-03-26 | 2026-07-09 |
-| [Software Dev Engineer Intern, (Alexa) 2026 Shenzhen](https://www.amazon.jobs/en/jobs/10377010/software-dev-engineer-intern-alexa-2026-shenzhen) | Software | Shenzhen, CHN | 2026-03-26 | 2026-07-09 |
-| [SEED Engineer Program - Software Development Engineer Intern, 2026 Shenzhen](https://www.amazon.jobs/en/jobs/10377042/seed-engineer-program-software-development-engineer-intern-2026-shenzhen) | Software | Shenzhen, CHN | 2026-03-26 | 2026-07-09 |
-| [Applied Scientist Intern, 2026 Shenzhen](https://www.amazon.jobs/en/jobs/10376947/applied-scientist-intern-2026-shenzhen) | AI/ML | Shenzhen, CHN | 2026-03-26 | 2026-07-09 |
-| [Software Dev Engineer Intern, OpenSearch, 2026 Shanghai](https://www.amazon.jobs/en/jobs/10375998/software-dev-engineer-intern-opensearch-2026-shanghai) | Software | Shanghai, CHN | 2026-03-25 | 2026-07-09 |
-| [Software Dev Engineer Intern, 2026 Shanghai](https://www.amazon.jobs/en/jobs/10376009/software-dev-engineer-intern-2026-shanghai) | Software | Shanghai, CHN | 2026-03-25 | 2026-07-09 |
-| [Software Dev Engineer Intern, 2026 Beijing](https://www.amazon.jobs/en/jobs/10375983/software-dev-engineer-intern-2026-beijing) | Software | Beijing, CHN | 2026-03-25 | 2026-07-09 |
-| [Software Dev Engineer Intern, OpenSearch, 2026 Shanghai](https://www.amazon.jobs/en/jobs/3179483/software-dev-engineer-intern-opensearch-2026-shanghai) | Software | Shanghai, CHN | 2026-02-12 | 2026-07-09 |
 | [Software Development Engineer Fall Intern - Military Veteran](https://www.amazon.jobs/en/jobs/3179209/software-development-engineer-fall-intern-military-veteran) | Software | Seattle, Washington, USA | 2026-02-11 | 2026-07-09 |
-| [Software Dev Engineer Intern, (Manufacturing&Ops) 2026 Shanghai](https://www.amazon.jobs/en/jobs/3165273/software-dev-engineer-intern-manufacturing-ops-2026-shanghai) | Software | Shanghai, CHN | 2026-01-23 | 2026-07-09 |
-| [Quality Assurance Eng. Intern, 2026 Beijing](https://www.amazon.jobs/en/jobs/3149135/quality-assurance-eng-intern-2026-beijing) | QA | Beijing, CHN | 2025-12-25 | 2026-07-09 |
-| [Applied Scientist Intern, International Technology, 2026 Beijing](https://www.amazon.jobs/en/jobs/3149133/applied-scientist-intern-international-technology-2026-beijing) | AI/ML | Beijing, CHN | 2025-12-25 | 2026-07-09 |
 | [Software Development Engineer Internship - Vaga para mulheres, IES- LATECH](https://www.amazon.jobs/en/jobs/3139827/software-development-engineer-internship-vaga-para-mulheres-ies-latech) | Software | BRA | 2025-12-09 | 2026-07-09 |
 | [Robotics - Software Development Engineer Intern/Co-op - 2026](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026) | AI/ML | Westboro, Wisconsin, USA | 2025-12-03 | 2026-07-09 |
 | [Robotics - Software Development Engineer Intern - 2026 - Toronto](https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto) | AI/ML | Toronto, Ontario, CAN | 2025-12-03 | 2026-07-09 |
@@ -103,7 +88,6 @@ GitHub Actions.
 | [Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | AI/ML | North Reading, Massachusetts, USA | 2025-10-08 | 2026-07-09 |
 | [2026 Software Dev Engineer Intern - Germany](https://www.amazon.jobs/en/jobs/3074226/2026-software-dev-engineer-intern-germany) | Software | Berlin, Berlin, DEU | 2025-09-05 | 2026-07-13 |
 | [2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics](https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics) | AI/ML | San Francisco, California, USA | 2025-09-02 | 2026-07-09 |
-| [Software Development Engineer Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3063220/software-development-engineer-intern-amazon-university-talent-acquisition) | Software | Sao Paulo, Sao Paulo, BRA | 2025-08-20 | 2026-07-09 |
 
 ## Apple
 
@@ -257,7 +241,9 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [System Design Validation Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Engineer--RDSS-Intern-_JR2023644) 🆕 | QA | Taiwan, Taipei | 2026-08-26 | 2026-08-26 |
 | [Enterprise Software Test Development Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2024001) 🆕 | QA | Taiwan, Taipei | 2026-08-26 | 2026-08-26 |
+| [Enterprise Software Test Development Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023995) 🆕 | QA | Taiwan, Taipei | 2026-08-26 | 2026-08-26 |
 | [Developer Technology Engineering Intern, AI - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern--AI---2027_JR2024258) 🆕 | AI/ML | 2 Locations | 2026-08-26 | 2026-08-26 |
 | [AI Developer Technology Intern, Robotics - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Developer-Technology-Intern--Robotics---2027_JR2024054-1) 🆕 | AI/ML | 2 Locations | 2026-08-26 | 2026-08-26 |
 | [Deep Learning Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023658) 🆕 | AI/ML | China, Shanghai | 2026-08-25 | 2026-08-25 |
