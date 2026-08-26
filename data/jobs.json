@@ -839,8 +839,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics"
     },
     "amazon:3132414": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-08-26",
       "company": "Amazon",
       "external_id": "3132414",
       "first_seen": "2026-07-09",
@@ -3376,18 +3377,19 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867858"
     },
     "microsoft:1970393556868271": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-08-01",
       "company": "Microsoft",
       "external_id": "1970393556868271",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-01",
+      "last_seen": "2026-08-26",
       "locations": [
+        "United States, California, Mountain View",
         "United States, Washington, Redmond"
       ],
-      "posted": "2026-07-22",
-      "title": "Applied Science: PhD Microsoft AI Internship Opportunities - Redmond",
+      "posted": "2026-08-26",
+      "title": "Applied Science: PhD Microsoft AI Internship Opportunities",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556868271"
     },
     "microsoft:1970393556875247": {
@@ -3762,8 +3764,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054"
     },
     "netflix:790313241540": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-08-26",
       "company": "Netflix",
       "external_id": "790313241540",
       "first_seen": "2026-07-09",
@@ -3789,6 +3792,34 @@
       "posted": "2026-06-22",
       "title": "AI/ML Scientist Intern, AIMS AI Foundations (PhD) \u2013 Fall 2026",
       "url": "https://explore.jobs.netflix.net/careers/job/790316547536"
+    },
+    "netflix:790317916733": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Netflix",
+      "external_id": "790317916733",
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "locations": [
+        "Los Gatos,California,United States of America"
+      ],
+      "posted": "2026-08-19",
+      "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317916733"
+    },
+    "netflix:790317917022": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Netflix",
+      "external_id": "790317917022",
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "locations": [
+        "Los Gatos,California,United States of America"
+      ],
+      "posted": "2026-08-19",
+      "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317917022"
     },
     "nvidia:JR2006824": {
       "active": false,
@@ -4975,5 +5006,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-26T13:31:42Z"
+  "updated_at": "2026-08-26T20:14:57Z"
 }
