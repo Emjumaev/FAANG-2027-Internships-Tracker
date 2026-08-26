@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-26 13:31:42 UTC** · 📌 **189** open internships
+> 🕐 Last updated: **2026-08-26 20:14:57 UTC** · 📌 **190** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -14,7 +14,7 @@ GitHub Actions.
 |---|---|
 | Adobe | — |
 | Airbnb | — |
-| [Amazon](#amazon) | 39 |
+| [Amazon](#amazon) | 38 |
 | Anthropic | — |
 | [Apple](#apple) | 13 |
 | Bloomberg | — |
@@ -27,9 +27,9 @@ GitHub Actions.
 | [Intel](#intel) | 9 |
 | [Jane Street](#jane-street) | 20 |
 | [Meta](#meta) | 9 |
-| [Microsoft](#microsoft) | 15 |
+| [Microsoft](#microsoft) | 16 |
 | [NVIDIA](#nvidia) | 42 |
-| [Netflix](#netflix) | 1 |
+| [Netflix](#netflix) | 2 |
 | OpenAI | — |
 | [Oracle](#oracle) | 4 |
 | PayPal | — |
@@ -72,7 +72,6 @@ GitHub Actions.
 | [Robotics - Software Development Engineer Intern/Co-op - 2026](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026) | AI/ML | Westboro, Wisconsin, USA | 2025-12-03 | 2026-07-09 |
 | [Robotics - Software Development Engineer Intern - 2026 - Toronto](https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto) | AI/ML | Toronto, Ontario, CAN | 2025-12-03 | 2026-07-09 |
 | [Software Dev Engineer internship - Embedded Development](https://www.amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development) | Backend/Infra | Berlin, Berlin, DEU | 2025-12-01 | 2026-07-09 |
-| [Amazon Industrial Robotics - Applied Scientist II Intern / Co-op - 2026, Amazon Industrial Robotics](https://www.amazon.jobs/en/jobs/3132414/amazon-industrial-robotics-applied-scientist-ii-intern-co-op-2026-amazon-industrial-robotics) | AI/ML | North Reading, Massachusetts, USA | 2025-11-25 | 2026-07-09 |
 | [2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics](https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics) | AI/ML | San Francisco, California, USA | 2025-11-24 | 2026-07-09 |
 | [2026 Applied Science Internship - United States, PhD Student Science Recruiting, Frontier AI & Robotics](https://www.amazon.jobs/en/jobs/3131315/2026-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics) | AI/ML | San Francisco, California, USA | 2025-11-24 | 2026-07-09 |
 | [Software Dev Engineer Internship - Embedded Development (Linux)](https://www.amazon.jobs/en/jobs/3130528/software-dev-engineer-internship-embedded-development-linux) | Backend/Infra | Dresden, Saxony, DEU | 2025-11-21 | 2026-07-20 |
@@ -221,6 +220,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Applied Science: PhD Microsoft AI Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393556868271) | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-08-26 | 2026-07-09 |
 | [AI Software Engineering Intern](https://apply.careers.microsoft.com/careers/job/1970393556979054) 🆕 | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-08-25 | 2026-08-22 |
 | [Software Engineering Intern - Clipchamp](https://apply.careers.microsoft.com/careers/job/1970393556978345) 🆕 | Software | Australia, New South Wales, Sydney; Australia, Queensland, Brisbane; Australia, Victoria, Melbourne | 2026-08-24 | 2026-08-24 |
 | [Software Engineering Intern - Azure Core](https://apply.careers.microsoft.com/careers/job/1970393556971803) 🆕 | Software | Australia, Multiple Locations, Multiple Locations | 2026-08-24 | 2026-08-24 |
@@ -242,8 +242,8 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [System Design Validation Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Engineer--RDSS-Intern-_JR2023644) 🆕 | QA | Taiwan, Taipei | 2026-08-26 | 2026-08-26 |
-| [Enterprise Software Test Development Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2024001) 🆕 | QA | Taiwan, Taipei | 2026-08-26 | 2026-08-26 |
 | [Enterprise Software Test Development Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023995) 🆕 | QA | Taiwan, Taipei | 2026-08-26 | 2026-08-26 |
+| [Enterprise Software Test Development Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2024001) 🆕 | QA | Taiwan, Taipei | 2026-08-26 | 2026-08-26 |
 | [Developer Technology Engineering Intern, AI - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern--AI---2027_JR2024258) 🆕 | AI/ML | 2 Locations | 2026-08-26 | 2026-08-26 |
 | [AI Developer Technology Intern, Robotics - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Developer-Technology-Intern--Robotics---2027_JR2024054-1) 🆕 | AI/ML | 2 Locations | 2026-08-26 | 2026-08-26 |
 | [Deep Learning Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023658) 🆕 | AI/ML | China, Shanghai | 2026-08-25 | 2026-08-25 |
@@ -288,7 +288,8 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)](https://explore.jobs.netflix.net/careers/job/790313241540) | Software | Los Gatos,California,United States of America | 2025-12-10 | 2026-07-09 |
+| [Machine Learning/AI Scientist PhD Intern, Winter 2027](https://explore.jobs.netflix.net/careers/job/790317916733) 🆕 | AI/ML | Los Gatos,California,United States of America | 2026-08-19 | 2026-08-26 |
+| [Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027](https://explore.jobs.netflix.net/careers/job/790317917022) 🆕 | AI/ML | Los Gatos,California,United States of America | 2026-08-19 | 2026-08-26 |
 
 ## Oracle
 
