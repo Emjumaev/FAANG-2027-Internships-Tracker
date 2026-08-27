@@ -523,6 +523,34 @@
       "title": "\u3010Class of 2029\uff0fInternship\u3011Applied Scientists , Amazon International Stores, Amazon Japan Store Tech",
       "url": "https://www.amazon.jobs/en/jobs/10504617/class-of-2029-internship-applied-scientists-amazon-international-stores-amazon-japan-store-tech"
     },
+    "amazon:10517149": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "external_id": "10517149",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "locations": [
+        "Westboro, Wisconsin, USA"
+      ],
+      "posted": "2026-08-27",
+      "title": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
+      "url": "https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026"
+    },
+    "amazon:10517567": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10517567",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "locations": [
+        "Cupertino, California, USA"
+      ],
+      "posted": "2026-08-27",
+      "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027"
+    },
     "amazon:3063220": {
       "active": true,
       "category": "Software",
@@ -883,8 +911,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development"
     },
     "amazon:3136266": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-08-27",
       "company": "Amazon",
       "external_id": "3136266",
       "first_seen": "2026-07-09",
@@ -1228,19 +1257,19 @@
       "url": "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"
     },
     "apple:200673612": {
-      "active": false,
+      "active": true,
       "category": "Data",
       "closed": "2026-07-31",
       "company": "Apple",
       "external_id": "200673612",
       "first_seen": "2026-07-26",
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-08-27",
       "locations": [
         "Cupertino"
       ],
-      "posted": "2026-07-26",
-      "title": "Applied Data Solutions Program (Internships)",
-      "url": "https://jobs.apple.com/en-us/details/200673612/applied-data-solutions-program-internships"
+      "posted": "2026-08-27",
+      "title": "Applied Data Solutions Program, Internships \u2013 Summer 2027",
+      "url": "https://jobs.apple.com/en-us/details/200673612/applied-data-solutions-program-internships-summer-2027"
     },
     "apple:200675600": {
       "active": true,
@@ -1269,6 +1298,20 @@
       "posted": "2026-08-10",
       "title": "Software Engineering Intern \u2013 AI Tools for Hardware Engineering",
       "url": "https://jobs.apple.com/en-us/details/200676912/software-engineering-intern-ai-tools-for-hardware-engineering"
+    },
+    "apple:200680345": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Apple",
+      "external_id": "200680345",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "locations": [
+        "Sydney"
+      ],
+      "posted": "2026-08-27",
+      "title": "Secure Kernel Engineering Intern, Sydney",
+      "url": "https://jobs.apple.com/en-us/details/200680345/secure-kernel-engineering-intern-sydney"
     },
     "cisco:2005347": {
       "active": false,
@@ -1315,9 +1358,9 @@
       "url": "https://careers.cisco.com/global/en/job/2015133"
     },
     "cisco:2021284": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-08-26",
+      "closed": "2026-08-27",
       "company": "Cisco",
       "external_id": "2021284",
       "first_seen": "2026-08-21",
@@ -4665,6 +4708,20 @@
       "title": "AI Developer Technology Intern, Robotics - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Developer-Technology-Intern--Robotics---2027_JR2024054-1"
     },
+    "nvidia:JR2024122": {
+      "active": true,
+      "category": "Software",
+      "company": "NVIDIA",
+      "external_id": "JR2024122",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-08-27",
+      "locations": [
+        "2 Locations"
+      ],
+      "posted": "2026-08-27",
+      "title": "Developer Technology Engineering Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122"
+    },
     "nvidia:JR2024258": {
       "active": true,
       "category": "AI/ML",
@@ -5020,5 +5077,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-27T10:02:35Z"
+  "updated_at": "2026-08-27T22:30:07Z"
 }
