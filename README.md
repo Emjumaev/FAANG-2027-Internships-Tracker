@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-27 22:30:07 UTC** · 📌 **195** open internships
+> 🕐 Last updated: **2026-08-28 11:35:45 UTC** · 📌 **199** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -14,9 +14,9 @@ GitHub Actions.
 |---|---|
 | Adobe | — |
 | Airbnb | — |
-| [Amazon](#amazon) | 40 |
+| [Amazon](#amazon) | 41 |
 | Anthropic | — |
-| [Apple](#apple) | 15 |
+| [Apple](#apple) | 16 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 3 |
 | [Cloudflare](#cloudflare) | 6 |
@@ -24,11 +24,11 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 19 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
-| [Intel](#intel) | 9 |
+| [Intel](#intel) | 10 |
 | [Jane Street](#jane-street) | 20 |
 | [Meta](#meta) | 9 |
 | [Microsoft](#microsoft) | 16 |
-| [NVIDIA](#nvidia) | 44 |
+| [NVIDIA](#nvidia) | 45 |
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
 | [Oracle](#oracle) | 4 |
@@ -51,6 +51,7 @@ GitHub Actions.
 |---|---|---|---|---|
 | [Software Development Engineer Intern, Annapurna Labs - 2027](https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) 🆕 | Software | Cupertino, California, USA | 2026-08-27 | 2026-08-27 |
 | [Robotics - Software Development Engineer Fall Intern/Co-op - 2026](https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026) 🆕 | AI/ML | Westboro, Wisconsin, USA | 2026-08-27 | 2026-08-27 |
+| [Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027](https://www.amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027) 🆕 | Backend/Infra | Austin, Texas, USA | 2026-08-27 | 2026-08-28 |
 | [【Class of 2029／Internship】Applied Scientists , Amazon International Stores, Amazon Japan Store Tech](https://www.amazon.jobs/en/jobs/10504617/class-of-2029-internship-applied-scientists-amazon-international-stores-amazon-japan-store-tech) | AI/ML | Tokyo, JPN | 2026-08-18 | 2026-08-18 |
 | [【Class of 2028 & 2029／Internship】Software Development Engineers , Amazon International Stores](https://www.amazon.jobs/en/jobs/10503558/class-of-2028-2029-internship-software-development-engineers-amazon-international-stores) | Software | Tokyo, JPN | 2026-08-17 | 2026-08-17 |
 | [2027 Applied Science Intern (Computer Vision), Amazon International Machine Learning](https://www.amazon.jobs/en/jobs/10459543/2027-applied-science-intern-computer-vision-amazon-international-machine-learning) | AI/ML | Melbourne, Victoria, AUS | 2026-06-26 | 2026-07-09 |
@@ -94,9 +95,10 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Display Supply Quality Engineer Intern](https://jobs.apple.com/en-us/details/200679405/display-supply-quality-engineer-intern) 🆕 | QA | Shenzhen | 2026-08-28 | 2026-08-28 |
 | [Secure Kernel Engineering Intern, Sydney](https://jobs.apple.com/en-us/details/200680345/secure-kernel-engineering-intern-sydney) 🆕 | Backend/Infra | Sydney | 2026-08-27 | 2026-08-27 |
 | [Applied Data Solutions Program, Internships – Summer 2027](https://jobs.apple.com/en-us/details/200673612/applied-data-solutions-program-internships-summer-2027) | Data | Cupertino | 2026-08-27 | 2026-07-26 |
-| [Software Engineering Intern – AI Tools for Hardware Engineering](https://jobs.apple.com/en-us/details/200676912/software-engineering-intern-ai-tools-for-hardware-engineering) | AI/ML | Shanghai | 2026-08-10 | 2026-08-10 |
+| [Software Engineering Intern – AI Tools for Hardware Engineering](https://jobs.apple.com/en-us/details/200676912/software-engineering-intern-ai-tools-for-hardware-engineering) | AI/ML | Shenzhen | 2026-08-10 | 2026-08-10 |
 | [Software Engineering Intern - AI Tools for Hardware Engineering PM](https://jobs.apple.com/en-us/details/200675600/software-engineering-intern-ai-tools-for-hardware-engineering-pm) | AI/ML | Shanghai | 2026-08-05 | 2026-08-05 |
 | [Software Engineer Intern(Core OS)-Shanghai](https://jobs.apple.com/en-us/details/200494844/software-engineer-intern-core-os-shanghai) | Software | Shanghai | 2026-07-21 | 2026-07-21 |
 | [Machine Learning Engineer Intern - Shanghai](https://jobs.apple.com/en-us/details/200609538/machine-learning-engineer-intern-shanghai) | AI/ML | Shanghai | 2026-06-29 | 2026-07-09 |
@@ -122,7 +124,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) 🆕 | Software | In-Office | 2026-08-20 | 2026-08-20 |
+| [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | Software | In-Office | 2026-08-20 | 2026-08-20 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | Software | In-Office | 2026-08-10 | 2026-08-11 |
 | [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | AI/ML | In-Office | 2026-07-29 | 2026-07-29 |
 | [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | AI/ML | In-Office | 2026-07-28 | 2026-07-28 |
@@ -142,7 +144,7 @@ GitHub Actions.
 |---|---|---|---|---|
 | [Software Engineering Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/91436104816698054) 🆕 | Software | Atlanta, GA, USA; Austin, TX, USA; Bellevue, WA, USA *(+27 more)* | 2026-08-24 | 2026-08-24 |
 | [Software Developer Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) 🆕 | Software | Montreal, QC, Canada; Toronto, ON, Canada; Waterloo, ON, Canada | 2026-08-24 | 2026-08-24 |
-| [Software Engineering Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/104551723757904582) 🆕 | Software | New Taipei, Banqiao District, New Taipei City, Taiwan; Taipei, Taiwan | 2026-08-20 | 2026-08-20 |
+| [Software Engineering Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/104551723757904582) | Software | New Taipei, Banqiao District, New Taipei City, Taiwan; Taipei, Taiwan | 2026-08-20 | 2026-08-20 |
 | [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/93078491720753862) | Software | Zürich, Switzerland | 2026-08-18 | 2026-08-18 |
 | [Software Engineering or SRE, PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/80037545080955590) | Backend/Infra | London, UK | 2026-08-17 | 2026-08-17 |
 | [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/107087730147500742) | Software | Kraków, Poland; Warsaw, Poland | 2026-08-17 | 2026-08-17 |
@@ -170,6 +172,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [IFA Software Development Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/IFA-Software-Development-Engineer-Intern_JR0286728) 🆕 | Software | Malaysia, Kulim | 2026-08-28 | 2026-08-28 |
 | [Software Development Intern (Automation and AI Enablement)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Development-Intern--Automation-and-AI-Enablement-_JR0285207) | AI/ML | Mexico, Guadalajara | 2026-08-22 | 2026-07-09 |
 | [Intern Systems Software Development Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/Intern-Systems-Software-Development-Engineer_JR0286501) 🆕 | Software | Vietnam, Ho_Chi_Minh_City | 2026-08-21 | 2026-08-21 |
 | [SoC Functional Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/SoC-Functional-Validation-Intern_JR0286018) | QA | Mexico, Guadalajara | 2026-08-20 | 2026-08-05 |
@@ -223,20 +226,20 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556911730) | Software | India, Multiple Locations, Multiple Locations | 2026-08-28 | 2026-07-09 |
 | [Applied Science: PhD Microsoft AI Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393556868271) | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-08-26 | 2026-07-09 |
 | [AI Software Engineering Intern](https://apply.careers.microsoft.com/careers/job/1970393556979054) 🆕 | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-08-25 | 2026-08-22 |
 | [Software Engineering Intern - Clipchamp](https://apply.careers.microsoft.com/careers/job/1970393556978345) 🆕 | Software | Australia, New South Wales, Sydney; Australia, Queensland, Brisbane; Australia, Victoria, Melbourne | 2026-08-24 | 2026-08-24 |
 | [Software Engineering Intern - Azure Core](https://apply.careers.microsoft.com/careers/job/1970393556971803) 🆕 | Software | Australia, Multiple Locations, Multiple Locations | 2026-08-24 | 2026-08-24 |
 | [Applied Science PhD Intern - Clipchamp](https://apply.careers.microsoft.com/careers/job/1970393556978221) 🆕 | AI/ML | Australia, New South Wales, Sydney; Australia, Queensland, Brisbane; Australia, Victoria, Melbourne | 2026-08-24 | 2026-08-24 |
 | [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556971804) | AI/ML | India, Karnataka, Bangalore | 2026-08-20 | 2026-08-19 |
-| [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556972877) 🆕 | AI/ML | Japan, Tokyo-to, Tokyo | 2026-08-20 | 2026-08-20 |
+| [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556972877) | AI/ML | Japan, Tokyo-to, Tokyo | 2026-08-20 | 2026-08-20 |
 | [Security Research Intern - AI Focus](https://apply.careers.microsoft.com/careers/job/1970393556862170) | Security | Israel, Tel Aviv, Herzliya | 2026-08-19 | 2026-08-19 |
 | [AI Software Engineering Intern](https://apply.careers.microsoft.com/careers/job/1970393556962891) | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-08-19 | 2026-08-19 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556957962) | Software | Israel, Multiple Locations, Multiple Locations | 2026-08-07 | 2026-08-07 |
 | [Cloud Solution Architect - Ru'aa Internship](https://apply.careers.microsoft.com/careers/job/1970393556942312) | Backend/Infra | Saudi Arabia, Riyadh, Riyadh | 2026-07-31 | 2026-07-31 |
 | [Cloud Solution Architect - Kuwait Nationalization Internship](https://apply.careers.microsoft.com/careers/job/1970393556944017) | Backend/Infra | Kuwait, Al 'Asimah, Kuwait | 2026-07-31 | 2026-07-31 |
 | [Cloud Solution Architect - Erada Internship](https://apply.careers.microsoft.com/careers/job/1970393556942310) | Backend/Infra | Qatar, Ad-Daw?ah, Doha | 2026-07-31 | 2026-07-31 |
-| [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556911730) | Software | India, Multiple Locations, Multiple Locations | 2026-07-01 | 2026-07-09 |
 | [Research Intern - Self-Improving AI](https://apply.careers.microsoft.com/careers/job/1970393556867858) | AI/ML | United States, Massachusetts, Cambridge; United States, New York, New York | 2026-05-18 | 2026-07-09 |
 | [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556641091) | AI/ML | India, Multiple Locations, Multiple Locations | 2026-02-27 | 2026-07-09 |
 
@@ -244,6 +247,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Android Software Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Android-Software-Engineer--RDSS-Intern-_JR2024408) 🆕 | Mobile | Taiwan, Taipei | 2026-08-28 | 2026-08-28 |
 | [Diagnostic Network Software Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Diagnostic-Network-Software-Engineer--RDSS-Intern-_JR2024300) 🆕 | Backend/Infra | Taiwan, Taipei | 2026-08-27 | 2026-08-27 |
 | [Developer Technology Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122) 🆕 | Software | 2 Locations | 2026-08-27 | 2026-08-27 |
 | [System Design Validation Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Engineer--RDSS-Intern-_JR2023644) 🆕 | QA | Taiwan, Taipei | 2026-08-26 | 2026-08-26 |
@@ -263,11 +267,11 @@ GitHub Actions.
 | [Deep Learning Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023639) 🆕 | AI/ML | China, Shanghai | 2026-08-21 | 2026-08-21 |
 | [Deep Learning Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023641) 🆕 | AI/ML | China, Shanghai | 2026-08-21 | 2026-08-21 |
 | [CUDA Full Stack & AI Test Dev Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/CUDA-Full-Stack---AI-Test-Dev-Intern---2027_JR2023666-1) 🆕 | AI/ML | China, Shanghai | 2026-08-21 | 2026-08-21 |
-| [Test Development Software Engineering Intern, Aerial - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern--Aerial---2027_JR2023852) 🆕 | Software | China, Shanghai | 2026-08-20 | 2026-08-20 |
-| [Software QA Intern, Spark Rapids  - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-QA-Intern--Spark-Rapids----2027_JR2023655) 🆕 | QA | China, Shanghai | 2026-08-20 | 2026-08-20 |
-| [Software QA Developer Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-QA-Developer-Intern---2027_JR2023654) 🆕 | QA | China, Shanghai | 2026-08-20 | 2026-08-20 |
-| [Software Engineering Intern, CUDA Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--CUDA-Test-Development---2027_JR2023645) 🆕 | Software | China, Shanghai | 2026-08-20 | 2026-08-20 |
-| [Deep Learning Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023656) 🆕 | AI/ML | China, Shanghai | 2026-08-20 | 2026-08-20 |
+| [Test Development Software Engineering Intern, Aerial - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern--Aerial---2027_JR2023852) | Software | China, Shanghai | 2026-08-20 | 2026-08-20 |
+| [Software QA Intern, Spark Rapids  - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-QA-Intern--Spark-Rapids----2027_JR2023655) | QA | China, Shanghai | 2026-08-20 | 2026-08-20 |
+| [Software QA Developer Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-QA-Developer-Intern---2027_JR2023654) | QA | China, Shanghai | 2026-08-20 | 2026-08-20 |
+| [Software Engineering Intern, CUDA Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--CUDA-Test-Development---2027_JR2023645) | Software | China, Shanghai | 2026-08-20 | 2026-08-20 |
+| [Deep Learning Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023656) | AI/ML | China, Shanghai | 2026-08-20 | 2026-08-20 |
 | [System Software Engineer – GPU and SOC (2027 RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628) | Software | Taiwan, Taipei | 2026-08-19 | 2026-08-19 |
 | [Software Engineering Intern, Test Automation — Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302) | AI/ML | Germany, Munich | 2026-08-19 | 2026-08-19 |
 | [NVIDIA Spring 2027 Internships: Developer and Performance Technology](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499) | Software | US, CA, Santa Clara | 2026-08-19 | 2026-08-19 |
