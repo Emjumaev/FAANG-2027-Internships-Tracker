@@ -1414,6 +1414,22 @@
       "title": "Software Engineer - Intern",
       "url": "https://careers.cisco.com/global/en/job/2023625"
     },
+    "cisco:2024278": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Cisco",
+      "external_id": "2024278",
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "locations": [
+        "Milpitas, California, United States of America",
+        "San Francisco, California, United States of America",
+        "San Jose, California, United States of America"
+      ],
+      "posted": "2026-08-28",
+      "title": "AI Researcher II (Intern) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2024278"
+    },
     "cloudflare:7606240": {
       "active": false,
       "category": "AI/ML",
@@ -3122,6 +3138,20 @@
       "posted": null,
       "title": "Research Scientist Intern, Optical System Design (PhD)",
       "url": "https://www.metacareers.com/jobs/1796691991338568"
+    },
+    "meta:1976111093092020": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "external_id": "1976111093092020",
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Optical Engineering (PhD)",
+      "url": "https://www.metacareers.com/jobs/1976111093092020"
     },
     "meta:2022109075207025": {
       "active": false,
@@ -4954,6 +4984,20 @@
       "title": "Summer 2027 Intern - Software Engineer",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715"
     },
+    "salesforce:JR340771": {
+      "active": true,
+      "category": "Software",
+      "company": "Salesforce",
+      "external_id": "JR340771",
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "locations": [
+        "8 Locations"
+      ],
+      "posted": "2026-08-28",
+      "title": "Summer 2027 Intern - Software Engineer",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1"
+    },
     "salesforce:JR355842": {
       "active": false,
       "category": "Software",
@@ -5133,5 +5177,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-28T11:35:45Z"
+  "updated_at": "2026-08-28T22:32:01Z"
 }
