@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-28 11:35:45 UTC** · 📌 **199** open internships
+> 🕐 Last updated: **2026-08-28 22:32:01 UTC** · 📌 **202** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -18,7 +18,7 @@ GitHub Actions.
 | Anthropic | — |
 | [Apple](#apple) | 16 |
 | Bloomberg | — |
-| [Cisco](#cisco) | 3 |
+| [Cisco](#cisco) | 4 |
 | [Cloudflare](#cloudflare) | 6 |
 | [Databricks](#databricks) | 2 |
 | GitHub | — |
@@ -26,7 +26,7 @@ GitHub Actions.
 | [Hudson River Trading](#hudson-river-trading) | 1 |
 | [Intel](#intel) | 10 |
 | [Jane Street](#jane-street) | 20 |
-| [Meta](#meta) | 9 |
+| [Meta](#meta) | 10 |
 | [Microsoft](#microsoft) | 16 |
 | [NVIDIA](#nvidia) | 45 |
 | [Netflix](#netflix) | 2 |
@@ -34,7 +34,7 @@ GitHub Actions.
 | [Oracle](#oracle) | 4 |
 | PayPal | — |
 | Pinterest | — |
-| [Salesforce](#salesforce) | 1 |
+| [Salesforce](#salesforce) | 2 |
 | Snap | — |
 | [Snowflake](#snowflake) | 2 |
 | Spotify | — |
@@ -116,6 +116,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [AI Researcher II (Intern) - United States](https://careers.cisco.com/global/en/job/2024278) 🆕 | AI/ML | Milpitas, California, United States of America; San Francisco, California, United States of America; San Jose, California, United States of America | 2026-08-28 | 2026-08-28 |
 | [Software Engineer - Intern](https://careers.cisco.com/global/en/job/2023625) 🆕 | Software | Harpenden, Herefordshire, United Kingdom | 2026-08-21 | 2026-08-21 |
 | [Software Development Intern (Cracow, Poland)](https://careers.cisco.com/global/en/job/2015133) | Software | Krakow, Poland | 2026-07-28 | 2026-07-09 |
 | [Test Engineer Intern, Vietnam](https://careers.cisco.com/global/en/job/2011415) | QA | Hanoi, Hà Nội, Vietnam | 2026-07-22 | 2026-07-22 |
@@ -212,6 +213,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Research Scientist Intern, Optical Engineering (PhD)](https://www.metacareers.com/jobs/1976111093092020) 🆕 | AI/ML | Redmond, WA | — | 2026-08-28 |
 | [Research Scientist Intern, Optical System Design (PhD)](https://www.metacareers.com/jobs/1796691991338568) 🆕 | AI/ML | Redmond, WA | — | 2026-08-21 |
 | [Research Scientist Intern, AI, Cyber Security, Safety — MSL Trust & Safety (PhD)](https://www.metacareers.com/jobs/1027438186737957) | Security | Menlo Park, CA | — | 2026-08-19 |
 | [Research Scientist Intern, State Estimation for Dexterous Manipulation (PhD)](https://www.metacareers.com/jobs/2774289902955470) | AI/ML | Redmond, WA | — | 2026-07-09 |
@@ -313,6 +315,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) 🆕 | Software | 8 Locations | 2026-08-28 | 2026-08-28 |
 | [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) | Software | 2 Locations | 2026-07-28 | 2026-07-14 |
 
 ## Snowflake
