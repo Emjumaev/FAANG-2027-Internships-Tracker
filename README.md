@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-08-29 16:51:49 UTC** · 📌 **199** open internships
+> 🕐 Last updated: **2026-08-29 21:04:21 UTC** · 📌 **198** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -27,7 +27,7 @@ GitHub Actions.
 | [Intel](#intel) | 10 |
 | [Jane Street](#jane-street) | 20 |
 | [Meta](#meta) | 10 |
-| [Microsoft](#microsoft) | 14 |
+| [Microsoft](#microsoft) | 13 |
 | [NVIDIA](#nvidia) | 45 |
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
@@ -235,7 +235,6 @@ GitHub Actions.
 | [Applied Science PhD Intern - Clipchamp](https://apply.careers.microsoft.com/careers/job/1970393556978221) 🆕 | AI/ML | Australia, New South Wales, Sydney; Australia, Queensland, Brisbane; Australia, Victoria, Melbourne | 2026-08-24 | 2026-08-24 |
 | [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556971804) | AI/ML | India, Karnataka, Bangalore | 2026-08-20 | 2026-08-19 |
 | [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556972877) | AI/ML | Japan, Tokyo-to, Tokyo | 2026-08-20 | 2026-08-20 |
-| [Security Research Intern - AI Focus](https://apply.careers.microsoft.com/careers/job/1970393556862170) | Security | Israel, Tel Aviv, Herzliya | 2026-08-19 | 2026-08-19 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556957962) | Software | Israel, Multiple Locations, Multiple Locations | 2026-08-07 | 2026-08-07 |
 | [Cloud Solution Architect - Ru'aa Internship](https://apply.careers.microsoft.com/careers/job/1970393556942312) | Backend/Infra | Saudi Arabia, Riyadh, Riyadh | 2026-07-31 | 2026-07-31 |
 | [Cloud Solution Architect - Kuwait Nationalization Internship](https://apply.careers.microsoft.com/careers/job/1970393556944017) | Backend/Infra | Kuwait, Al 'Asimah, Kuwait | 2026-07-31 | 2026-07-31 |
