@@ -4530,6 +4530,20 @@
       "title": "Artificial Intelligence Research Intern - Deep Learning",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Artificial-Intelligence-Research-Intern---Deep-Learning_JR2023646"
     },
+    "nvidia:JR2023648": {
+      "active": true,
+      "category": "Software",
+      "company": "NVIDIA",
+      "external_id": "JR2023648",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "locations": [
+        "China, Shanghai"
+      ],
+      "posted": "2026-08-30",
+      "title": "Software Engineering Intern, Test Development - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023648"
+    },
     "nvidia:JR2023649": {
       "active": true,
       "category": "Software",
@@ -4543,6 +4557,20 @@
       "posted": "2026-08-24",
       "title": "Software Engineering Intern, Test Development - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023649-1"
+    },
+    "nvidia:JR2023652": {
+      "active": true,
+      "category": "Software",
+      "company": "NVIDIA",
+      "external_id": "JR2023652",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "locations": [
+        "China, Shanghai"
+      ],
+      "posted": "2026-08-30",
+      "title": "Software Engineering Intern, Test Development - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023652"
     },
     "nvidia:JR2023654": {
       "active": true,
@@ -4837,6 +4865,20 @@
       "posted": "2026-08-28",
       "title": "Android Software Engineer (RDSS Intern)",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Android-Software-Engineer--RDSS-Intern-_JR2024408"
+    },
+    "nvidia:JR2024500": {
+      "active": true,
+      "category": "Software",
+      "company": "NVIDIA",
+      "external_id": "JR2024500",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "locations": [
+        "Taiwan, Taipei"
+      ],
+      "posted": "2026-08-30",
+      "title": "System Software Engineer (RDSS Intern)",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer--RDSS-Intern-_JR2024500"
     },
     "oracle:334325": {
       "active": true,
@@ -5179,5 +5221,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-30T12:05:42Z"
+  "updated_at": "2026-08-30T16:50:58Z"
 }
