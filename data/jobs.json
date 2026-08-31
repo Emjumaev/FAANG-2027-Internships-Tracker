@@ -30,6 +30,20 @@
       "title": "2026 AI/ML Intern - Machine Learning Engineer/Researcher  Intern",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706"
     },
+    "adobe:R171519": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Adobe",
+      "external_id": "R171519",
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "locations": [
+        "6 Locations"
+      ],
+      "posted": "2026-08-31",
+      "title": "2027 Intern - Machine Learning Engineer",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519"
+    },
     "amazon:10375983": {
       "active": false,
       "category": "Software",
@@ -609,6 +623,20 @@
       "title": "2026 Software Dev Engineer Intern - Ireland",
       "url": "https://www.amazon.jobs/en/jobs/3072042/2026-software-dev-engineer-intern-ireland"
     },
+    "amazon:3072061": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "3072061",
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "posted": "2025-09-03",
+      "title": "2026 Software Dev Engineer Intern - UK",
+      "url": "https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern-uk"
+    },
     "amazon:3074226": {
       "active": true,
       "category": "Software",
@@ -667,8 +695,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3115055/2026-applied-scientist-intern-amazon-university-talent-acquisition"
     },
     "amazon:3116030": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-08-31",
       "company": "Amazon",
       "external_id": "3116030",
       "first_seen": "2026-07-09",
@@ -1431,6 +1460,20 @@
       "title": "AI Researcher II (Intern) - United States",
       "url": "https://careers.cisco.com/global/en/job/2024278"
     },
+    "cisco:2024366": {
+      "active": true,
+      "category": "Software",
+      "company": "Cisco",
+      "external_id": "2024366",
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "locations": [
+        "Lysaker, Norway"
+      ],
+      "posted": "2026-08-31",
+      "title": "Software Engineer Summer Internship - Lysaker, Norway",
+      "url": "https://careers.cisco.com/global/en/job/2024366"
+    },
     "cloudflare:7606240": {
       "active": false,
       "category": "AI/ML",
@@ -1619,6 +1662,50 @@
       "posted": "2026-08-20",
       "title": "Software Engineering Intern (2027 Start) - Winter",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
+    },
+    "google:100648618540573382": {
+      "active": true,
+      "category": "Software",
+      "company": "Google",
+      "external_id": "100648618540573382",
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "locations": [
+        "Atlanta, GA, USA",
+        "Austin, TX, USA",
+        "Bellevue, WA, USA",
+        "Boulder, CO, USA",
+        "Cambridge, MA, USA",
+        "Chicago, IL, USA",
+        "Durham, NC, USA",
+        "Goleta, CA, USA",
+        "Houston, TX, USA",
+        "Irvine, CA, USA",
+        "Kirkland, WA, USA",
+        "Los Angeles, CA, USA",
+        "Madison, WI, USA",
+        "Mountain View, CA, USA",
+        "New York, NY, USA",
+        "Palo Alto, CA, USA",
+        "Pittsburgh, PA, USA",
+        "Portland, OR, USA",
+        "Raleigh, NC, USA",
+        "Redmond, WA, USA",
+        "Redwood City, CA, USA",
+        "Reston, VA, USA",
+        "San Bruno, CA, USA",
+        "San Diego, CA, USA",
+        "San Francisco, CA, USA",
+        "San Jose, CA, USA",
+        "Santa Barbara, CA, USA",
+        "Santa Cruz, CA, USA",
+        "Seattle, WA, USA",
+        "South San Francisco, CA, USA",
+        "Sunnyvale, CA, USA"
+      ],
+      "posted": "2026-08-31",
+      "title": "Software Engineering Intern, BS, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382"
     },
     "google:104551723757904582": {
       "active": true,
@@ -2199,6 +2286,49 @@
       "posted": "2026-08-18",
       "title": "Software Engineering PhD Intern, 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/93078491720753862"
+    },
+    "google:94172495052972742": {
+      "active": true,
+      "category": "Software",
+      "company": "Google",
+      "external_id": "94172495052972742",
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "locations": [
+        "Atlanta, GA, USA",
+        "Austin, TX, USA",
+        "Bellevue, WA, USA",
+        "Boulder, CO, USA",
+        "Cambridge, MA, USA",
+        "Chicago, IL, USA",
+        "Durham, NC, USA",
+        "Goleta, CA, USA",
+        "Houston, TX, USA",
+        "Irvine, CA, USA",
+        "Kirkland, WA, USA",
+        "Los Angeles, CA, USA",
+        "Madison, WI, USA",
+        "Mountain View, CA, USA",
+        "New York, NY, USA",
+        "Palo Alto, CA, USA",
+        "Pittsburgh, PA, USA",
+        "Portland, OR, USA",
+        "Raleigh, NC, USA",
+        "Redmond, WA, USA",
+        "Redwood City, CA, USA",
+        "Reston, VA, USA",
+        "San Bruno, CA, USA",
+        "San Diego, CA, USA",
+        "San Francisco, CA, USA",
+        "San Jose, CA, USA",
+        "Santa Cruz, CA, USA",
+        "Seattle, WA, USA",
+        "South San Francisco, CA, USA",
+        "Sunnyvale, CA, USA"
+      ],
+      "posted": "2026-08-31",
+      "title": "Software Engineering Intern, MS, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742"
     },
     "google:95141459539174086": {
       "active": false,
@@ -5090,7 +5220,7 @@
       "locations": [
         "8 Locations"
       ],
-      "posted": "2026-08-28",
+      "posted": "2026-08-31",
       "title": "Summer 2027 Intern - Software Engineer",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1"
     },
@@ -5225,6 +5355,34 @@
       "title": "Software Engineer, Intern (Summer)",
       "url": "https://stripe.com/jobs/search?gh_jid=8097801"
     },
+    "stripe:8128745": {
+      "active": true,
+      "category": "Software",
+      "company": "Stripe",
+      "external_id": "8128745",
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "locations": [
+        "San Francisco, Seattle, New York City"
+      ],
+      "posted": "2026-08-31",
+      "title": "Software Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8128745"
+    },
+    "stripe:8130867": {
+      "active": true,
+      "category": "Software",
+      "company": "Stripe",
+      "external_id": "8130867",
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "locations": [
+        "London"
+      ],
+      "posted": "2026-08-31",
+      "title": "Software Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130867"
+    },
     "uber:301541": {
       "active": false,
       "category": "Data",
@@ -5273,5 +5431,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-08-31T14:07:35Z"
+  "updated_at": "2026-08-31T23:00:08Z"
 }
