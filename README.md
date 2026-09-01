@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-09-01 16:50:03 UTC** · 📌 **212** open internships
+> 🕐 Last updated: **2026-09-01 21:12:39 UTC** · 📌 **213** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -22,7 +22,7 @@ GitHub Actions.
 | [Cloudflare](#cloudflare) | 6 |
 | [Databricks](#databricks) | 2 |
 | GitHub | — |
-| [Google](#google) | 22 |
+| [Google](#google) | 23 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
 | [Intel](#intel) | 9 |
 | [Jane Street](#jane-street) | 19 |
@@ -148,6 +148,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Data Analytics Apprenticeship, February 2027 Start](https://www.google.com/about/careers/applications/jobs/results/132315893450318534) 🆕 | Data | Atlanta, GA, USA; Chicago, IL, USA; Los Angeles, CA, USA *(+1 more)* | 2026-09-01 | 2026-09-01 |
 | [Software Engineering Intern, MS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/94172495052972742) 🆕 | Software | Atlanta, GA, USA; Austin, TX, USA; Bellevue, WA, USA *(+27 more)* | 2026-08-31 | 2026-08-31 |
 | [Software Engineering Intern, BS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/100648618540573382) 🆕 | Software | Atlanta, GA, USA; Austin, TX, USA; Bellevue, WA, USA *(+28 more)* | 2026-08-31 | 2026-08-31 |
 | [Software Developer Intern, MS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/138960139137753798) 🆕 | Software | Toronto, ON, Canada; Waterloo, ON, Canada | 2026-08-31 | 2026-08-31 |
