@@ -1899,6 +1899,23 @@
       "title": "Data Science PhD Intern, 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/132149998191026886"
     },
+    "google:132315893450318534": {
+      "active": true,
+      "category": "Data",
+      "company": "Google",
+      "external_id": "132315893450318534",
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "locations": [
+        "Atlanta, GA, USA",
+        "Chicago, IL, USA",
+        "Los Angeles, CA, USA",
+        "New York, NY, USA"
+      ],
+      "posted": "2026-09-01",
+      "title": "Data Analytics Apprenticeship, February 2027 Start",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/132315893450318534"
+    },
     "google:132362676918461126": {
       "active": true,
       "category": "AI/ML",
@@ -5501,5 +5518,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-09-01T16:50:03Z"
+  "updated_at": "2026-09-01T21:12:39Z"
 }
