@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-09-02 16:45:38 UTC** · 📌 **219** open internships
+> 🕐 Last updated: **2026-09-02 21:12:57 UTC** · 📌 **220** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -24,7 +24,7 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 23 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
-| [Intel](#intel) | 13 |
+| [Intel](#intel) | 14 |
 | [Jane Street](#jane-street) | 19 |
 | [Meta](#meta) | 10 |
 | [Microsoft](#microsoft) | 19 |
@@ -186,6 +186,7 @@ GitHub Actions.
 | [Software Engineering - Intern, Bachelor’s](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834) 🆕 | Software | 5 Locations | 2026-09-02 | 2026-09-02 |
 | [Platform Hardware and Systems Engineering - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828) 🆕 | Backend/Infra | 5 Locations | 2026-09-02 | 2026-09-02 |
 | [Platform Hardware and Systems Engineering - Intern, Bachelor’s](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827) 🆕 | Backend/Infra | 5 Locations | 2026-09-02 | 2026-09-02 |
+| [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | AI/ML | 2 Locations | 2026-09-02 | 2026-07-17 |
 | [IFA Software Development Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/IFA-Software-Development-Engineer-Intern_JR0286728) 🆕 | Software | Malaysia, Kulim | 2026-08-28 | 2026-08-28 |
 | [Software Development Intern (Automation and AI Enablement)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Development-Intern--Automation-and-AI-Enablement-_JR0285207) | AI/ML | Mexico, Guadalajara | 2026-08-22 | 2026-07-09 |
 | [Intern Systems Software Development Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/Intern-Systems-Software-Development-Engineer_JR0286501) | Software | Vietnam, Ho_Chi_Minh_City | 2026-08-21 | 2026-08-21 |
