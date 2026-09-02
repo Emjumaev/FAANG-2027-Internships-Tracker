@@ -1,6 +1,5 @@
 {
   "failed": {
-    "Meta": "meta graphql response missing all_jobs (doc_id likely rotated): {'errors': [{'message': 'A server error missing_required_variable_value occured. Check server logs for details.', 'severity': 'CRITICAL', 'mids': ['5dd0881ecb3d703975bbf8a467d8d257'], 'debug_link': 'h",
     "Uber": "request failed after 3 attempts: POST https://www.uber.com/api/loadSearchJobsResults?localeCode=en (404 Client Error: Not Found for url: https://www.uber.com/api/loadSearchJobsResults?localeCode=en)"
   },
   "succeeded": [
@@ -18,6 +17,7 @@
     "Hudson River Trading",
     "Intel",
     "Jane Street",
+    "Meta",
     "Microsoft",
     "NVIDIA",
     "Netflix",

@@ -2917,6 +2917,62 @@
       "title": "IFA Software Development Engineer Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/IFA-Software-Development-Engineer-Intern_JR0286728"
     },
+    "intel:JR0286827": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Intel",
+      "external_id": "JR0286827",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "locations": [
+        "5 Locations"
+      ],
+      "posted": "2026-09-02",
+      "title": "Platform Hardware and Systems Engineering - Intern, Bachelor\u2019s",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827"
+    },
+    "intel:JR0286828": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Intel",
+      "external_id": "JR0286828",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "locations": [
+        "5 Locations"
+      ],
+      "posted": "2026-09-02",
+      "title": "Platform Hardware and Systems Engineering - Intern, Graduate",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828"
+    },
+    "intel:JR0286834": {
+      "active": true,
+      "category": "Software",
+      "company": "Intel",
+      "external_id": "JR0286834",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "locations": [
+        "5 Locations"
+      ],
+      "posted": "2026-09-02",
+      "title": "Software Engineering - Intern, Bachelor\u2019s",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834"
+    },
+    "intel:JR0286836": {
+      "active": true,
+      "category": "Software",
+      "company": "Intel",
+      "external_id": "JR0286836",
+      "first_seen": "2026-09-02",
+      "last_seen": "2026-09-02",
+      "locations": [
+        "5 Locations"
+      ],
+      "posted": "2026-09-02",
+      "title": "Software Engineering - Intern, Graduate",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836"
+    },
     "jane-street:5866838002": {
       "active": true,
       "category": "Backend/Infra",
@@ -5546,5 +5602,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-09-02T11:32:11Z"
+  "updated_at": "2026-09-02T16:45:38Z"
 }
