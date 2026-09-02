@@ -2444,17 +2444,17 @@
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083"
     },
     "intel:JR0282639": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-08-25",
       "company": "Intel",
       "external_id": "JR0282639",
       "first_seen": "2026-07-17",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-09-02",
       "locations": [
         "2 Locations"
       ],
-      "posted": "2026-07-29",
+      "posted": "2026-09-02",
       "title": "AI Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639"
     },
@@ -5602,5 +5602,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-09-02T16:45:38Z"
+  "updated_at": "2026-09-02T21:12:57Z"
 }
