@@ -44,6 +44,20 @@
       "title": "2027 Intern - Machine Learning Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519"
     },
+    "adobe:R171666": {
+      "active": true,
+      "category": "Software",
+      "company": "Adobe",
+      "external_id": "R171666",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "locations": [
+        "7 Locations"
+      ],
+      "posted": "2026-09-03",
+      "title": "2027 Intern - Software Engineer",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666"
+    },
     "amazon:10375983": {
       "active": false,
       "category": "Software",
@@ -2149,6 +2163,20 @@
       "title": "Data Science PhD Intern, 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/73321728058499782"
     },
+    "google:74389446190867142": {
+      "active": true,
+      "category": "Data",
+      "company": "Google",
+      "external_id": "74389446190867142",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "locations": [
+        "Warsaw, Poland"
+      ],
+      "posted": "2026-09-03",
+      "title": "Data Science PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/74389446190867142"
+    },
     "google:74922616988541638": {
       "active": true,
       "category": "Software",
@@ -3022,6 +3050,20 @@
       "posted": "2026-09-02",
       "title": "AI Algorithm Research Intern \u2013 Neuromorphic Computing",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/AI-Algorithm-Research-Intern---Neuromorphic-Computing_JR0286774"
+    },
+    "intel:JR0286791": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Intel",
+      "external_id": "JR0286791",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "locations": [
+        "3 Locations"
+      ],
+      "posted": "2026-09-03",
+      "title": "System Technology - Research Engineer (PhD Intern)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Technology---Research-Engineer--PhD-Intern-_JR0286791"
     },
     "intel:JR0286827": {
       "active": true,
@@ -4297,6 +4339,20 @@
       "title": "Applied Science: PhD Internship Opportunities - Multiple Locations",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556986140"
     },
+    "microsoft:1970393556986141": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "external_id": "1970393556986141",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "posted": "2026-09-03",
+      "title": "Applied Science: Internship Opportunities - Redmond",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556986141"
+    },
     "netflix:790313241540": {
       "active": false,
       "category": "Software",
@@ -4738,8 +4794,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645"
     },
     "nvidia:JR2023302": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-03",
       "company": "NVIDIA",
       "external_id": "JR2023302",
       "first_seen": "2026-08-19",
@@ -5723,5 +5780,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-09-03T11:28:27Z"
+  "updated_at": "2026-09-03T16:37:21Z"
 }
