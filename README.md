@@ -5,14 +5,14 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-09-03 11:28:27 UTC** · 📌 **228** open internships
+> 🕐 Last updated: **2026-09-03 16:37:21 UTC** · 📌 **231** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
 
 | Company | Open internships |
 |---|---|
-| [Adobe](#adobe) | 1 |
+| [Adobe](#adobe) | 2 |
 | Airbnb | — |
 | [Amazon](#amazon) | 39 |
 | Anthropic | — |
@@ -22,13 +22,13 @@ GitHub Actions.
 | [Cloudflare](#cloudflare) | 6 |
 | [Databricks](#databricks) | 2 |
 | GitHub | — |
-| [Google](#google) | 28 |
+| [Google](#google) | 29 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
-| [Intel](#intel) | 16 |
+| [Intel](#intel) | 17 |
 | [Jane Street](#jane-street) | 19 |
 | [Meta](#meta) | 10 |
-| [Microsoft](#microsoft) | 20 |
-| [NVIDIA](#nvidia) | 50 |
+| [Microsoft](#microsoft) | 21 |
+| [NVIDIA](#nvidia) | 49 |
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
 | [Oracle](#oracle) | 3 |
@@ -49,6 +49,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [2027 Intern - Software Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666) 🆕 | Software | 7 Locations | 2026-09-03 | 2026-09-03 |
 | [2027 Intern - Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519) 🆕 | AI/ML | 6 Locations | 2026-08-31 | 2026-08-31 |
 
 ## Amazon
@@ -153,6 +154,7 @@ GitHub Actions.
 | [Software Engineering, Site Reliability Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/142747733357142726) 🆕 | Backend/Infra | Dublin, Ireland; Munich, Germany; Paris, France *(+2 more)* | 2026-09-03 | 2026-09-03 |
 | [Software Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/83199557986329286) 🆕 | Software | Bucharest, Romania | 2026-09-03 | 2026-09-03 |
 | [Part-Time Software Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/103632882076918470) 🆕 | Software | Haifa, Israel; Tel Aviv, Israel | 2026-09-03 | 2026-09-03 |
+| [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/74389446190867142) 🆕 | Data | Warsaw, Poland | 2026-09-03 | 2026-09-03 |
 | [Data Analytics Apprenticeship, February 2027 Start](https://www.google.com/about/careers/applications/jobs/results/132315893450318534) 🆕 | Data | Atlanta, GA, USA; Chicago, IL, USA; Los Angeles, CA, USA *(+1 more)* | 2026-09-01 | 2026-09-01 |
 | [Software Engineering Intern, MS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/94172495052972742) 🆕 | Software | Atlanta, GA, USA; Austin, TX, USA; Bellevue, WA, USA *(+27 more)* | 2026-08-31 | 2026-08-31 |
 | [Software Engineering Intern, BS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/100648618540573382) 🆕 | Software | Atlanta, GA, USA; Austin, TX, USA; Bellevue, WA, USA *(+28 more)* | 2026-08-31 | 2026-08-31 |
@@ -187,6 +189,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [System Technology - Research Engineer (PhD Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Technology---Research-Engineer--PhD-Intern-_JR0286791) 🆕 | AI/ML | 3 Locations | 2026-09-03 | 2026-09-03 |
 | [Software Engineering - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836) 🆕 | Software | 5 Locations | 2026-09-02 | 2026-09-02 |
 | [Software Engineering - Intern, Bachelor’s](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834) 🆕 | Software | 5 Locations | 2026-09-02 | 2026-09-02 |
 | [Software Development Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1) | Software | US, California, Folsom | 2026-09-02 | 2026-08-18 |
@@ -247,6 +250,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Applied Science: Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556986141) 🆕 | AI/ML | United States, Washington, Redmond | 2026-09-03 | 2026-09-03 |
 | [Applied Science: PhD Internship Opportunities - Multiple Locations](https://apply.careers.microsoft.com/careers/job/1970393556986140) 🆕 | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-09-02 | 2026-09-03 |
 | [Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond](https://apply.careers.microsoft.com/careers/job/1970393556922930) | Security | United States, Washington, Redmond | 2026-09-01 | 2026-08-04 |
 | [Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA](https://apply.careers.microsoft.com/careers/job/1970393556951950) | Software | United States, Washington, Redmond | 2026-09-01 | 2026-08-03 |
@@ -303,7 +307,6 @@ GitHub Actions.
 | [Software Engineering Intern, CUDA Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--CUDA-Test-Development---2027_JR2023645) | Software | China, Shanghai | 2026-08-20 | 2026-08-20 |
 | [Deep Learning Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023656) | AI/ML | China, Shanghai | 2026-08-20 | 2026-08-20 |
 | [System Software Engineer – GPU and SOC (2027 RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628) | Software | Taiwan, Taipei | 2026-08-19 | 2026-08-19 |
-| [Software Engineering Intern, Test Automation — Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302) | AI/ML | Germany, Munich | 2026-08-19 | 2026-08-19 |
 | [NVIDIA Spring 2027 Internships: Developer and Performance Technology](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499) | Software | US, CA, Santa Clara | 2026-08-19 | 2026-08-19 |
 | [NVIDIA 2027 Internships: Systems Software Engineering](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) | Software | US, CA, Santa Clara | 2026-08-19 | 2026-08-19 |
 | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | Software | US, CA, Santa Clara | 2026-08-19 | 2026-08-19 |
