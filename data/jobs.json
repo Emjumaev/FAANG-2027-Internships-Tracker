@@ -1504,6 +1504,20 @@
       "title": "Machine Learning Engineer II (Intern) - United States",
       "url": "https://careers.cisco.com/global/en/job/2024683"
     },
+    "cisco:2024817": {
+      "active": true,
+      "category": "Security",
+      "company": "Cisco",
+      "external_id": "2024817",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "locations": [
+        "Research Triangle Park, North Carolina, United States of America"
+      ],
+      "posted": "2026-09-03",
+      "title": "Security Consulting Engineer I (Intern) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2024817"
+    },
     "cloudflare:7606240": {
       "active": false,
       "category": "AI/ML",
@@ -2699,9 +2713,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Engineering-Intern-for-Debug-Tools_JR0285205"
     },
     "intel:JR0285207": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-07-21",
+      "closed": "2026-09-03",
       "company": "Intel",
       "external_id": "JR0285207",
       "first_seen": "2026-07-09",
@@ -3052,8 +3066,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/AI-Algorithm-Research-Intern---Neuromorphic-Computing_JR0286774"
     },
     "intel:JR0286791": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-03",
       "company": "Intel",
       "external_id": "JR0286791",
       "first_seen": "2026-09-03",
@@ -4161,6 +4176,20 @@
       "posted": "2026-08-07",
       "title": "Software Engineering INTERN",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556957962"
+    },
+    "microsoft:1970393556962158": {
+      "active": true,
+      "category": "Security",
+      "company": "Microsoft",
+      "external_id": "1970393556962158",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "posted": "2026-09-03",
+      "title": "Penetration Tester: Internship Opportunities",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962158"
     },
     "microsoft:1970393556962891": {
       "active": false,
@@ -5780,5 +5809,5 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     }
   },
-  "updated_at": "2026-09-03T16:37:21Z"
+  "updated_at": "2026-09-03T21:12:40Z"
 }
