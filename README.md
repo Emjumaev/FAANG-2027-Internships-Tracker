@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-> 🕐 Last updated: **2026-09-03 16:37:21 UTC** · 📌 **231** open internships
+> 🕐 Last updated: **2026-09-03 21:12:40 UTC** · 📌 **231** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -18,16 +18,16 @@ GitHub Actions.
 | Anthropic | — |
 | [Apple](#apple) | 16 |
 | Bloomberg | — |
-| [Cisco](#cisco) | 5 |
+| [Cisco](#cisco) | 6 |
 | [Cloudflare](#cloudflare) | 6 |
 | [Databricks](#databricks) | 2 |
 | GitHub | — |
 | [Google](#google) | 29 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
-| [Intel](#intel) | 17 |
+| [Intel](#intel) | 15 |
 | [Jane Street](#jane-street) | 19 |
 | [Meta](#meta) | 10 |
-| [Microsoft](#microsoft) | 21 |
+| [Microsoft](#microsoft) | 22 |
 | [NVIDIA](#nvidia) | 49 |
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
@@ -121,6 +121,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Security Consulting Engineer I (Intern) - United States](https://careers.cisco.com/global/en/job/2024817) 🆕 | Security | Research Triangle Park, North Carolina, United States of America | 2026-09-03 | 2026-09-03 |
 | [Machine Learning Engineer II (Intern) - United States](https://careers.cisco.com/global/en/job/2024683) 🆕 | AI/ML | Milpitas, California, United States of America; San Francisco, California, United States of America; San Jose, California, United States of America | 2026-09-02 | 2026-09-03 |
 | [Software Engineer Summer Internship - Lysaker, Norway](https://careers.cisco.com/global/en/job/2024366) 🆕 | Software | Lysaker, Norway | 2026-08-31 | 2026-08-31 |
 | [Software Engineer - Intern](https://careers.cisco.com/global/en/job/2023625) | Software | Harpenden, Herefordshire, United Kingdom | 2026-08-21 | 2026-08-21 |
@@ -189,7 +190,6 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [System Technology - Research Engineer (PhD Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Technology---Research-Engineer--PhD-Intern-_JR0286791) 🆕 | AI/ML | 3 Locations | 2026-09-03 | 2026-09-03 |
 | [Software Engineering - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836) 🆕 | Software | 5 Locations | 2026-09-02 | 2026-09-02 |
 | [Software Engineering - Intern, Bachelor’s](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834) 🆕 | Software | 5 Locations | 2026-09-02 | 2026-09-02 |
 | [Software Development Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1) | Software | US, California, Folsom | 2026-09-02 | 2026-08-18 |
@@ -198,7 +198,6 @@ GitHub Actions.
 | [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639) | AI/ML | 2 Locations | 2026-09-02 | 2026-07-17 |
 | [AI Algorithm Research Intern – Neuromorphic Computing](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/AI-Algorithm-Research-Intern---Neuromorphic-Computing_JR0286774) 🆕 | AI/ML | Mexico, Guadalajara | 2026-09-02 | 2026-09-03 |
 | [IFA Software Development Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/IFA-Software-Development-Engineer-Intern_JR0286728) 🆕 | Software | Malaysia, Kulim | 2026-08-28 | 2026-08-28 |
-| [Software Development Intern (Automation and AI Enablement)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Software-Development-Intern--Automation-and-AI-Enablement-_JR0285207) | AI/ML | Mexico, Guadalajara | 2026-08-22 | 2026-07-09 |
 | [Intern Systems Software Development Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/Intern-Systems-Software-Development-Engineer_JR0286501) | Software | Vietnam, Ho_Chi_Minh_City | 2026-08-21 | 2026-08-21 |
 | [SoC Functional Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/SoC-Functional-Validation-Intern_JR0286018) | QA | Mexico, Guadalajara | 2026-08-20 | 2026-08-05 |
 | [Intern Systems Software Development Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Intern-Systems-Software-Development-Engineer_JR0286499) | Software | Malaysia, Penang | 2026-08-18 | 2026-08-18 |
@@ -250,6 +249,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Penetration Tester: Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393556962158) 🆕 | Security | United States, Washington, Redmond | 2026-09-03 | 2026-09-03 |
 | [Applied Science: Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556986141) 🆕 | AI/ML | United States, Washington, Redmond | 2026-09-03 | 2026-09-03 |
 | [Applied Science: PhD Internship Opportunities - Multiple Locations](https://apply.careers.microsoft.com/careers/job/1970393556986140) 🆕 | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-09-02 | 2026-09-03 |
 | [Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond](https://apply.careers.microsoft.com/careers/job/1970393556922930) | Security | United States, Washington, Redmond | 2026-09-01 | 2026-08-04 |
