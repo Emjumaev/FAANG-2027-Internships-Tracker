@@ -1,0 +1,334 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Internship Tracker — Open SWE Internships at Top Tech Companies</title>
+<meta name="description" content="Auto-updated list of open software-engineering internships at 28 top tech companies, scraped from official careers APIs every 6 hours.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3Ctext%20y='.9em'%20font-size='90'%3E%F0%9F%8E%AF%3C/text%3E%3C/svg%3E">
+<style>
+  :root {
+    --bg: #f6f7f9;
+    --surface: #ffffff;
+    --surface-2: #eef0f3;
+    --border: #e2e5ea;
+    --text: #1a1d21;
+    --text-dim: #5c646e;
+    --accent: #2563eb;
+    --accent-soft: #dbeafe;
+    --new-bg: #dcfce7;
+    --new-fg: #166534;
+    --shadow: 0 1px 2px rgba(16,24,40,.05);
+    color-scheme: light dark;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f1115;
+      --surface: #171a20;
+      --surface-2: #1f242c;
+      --border: #2a303a;
+      --text: #e7eaee;
+      --text-dim: #98a1ac;
+      --accent: #60a5fa;
+      --accent-soft: #1e3a5f;
+      --new-bg: #14351f;
+      --new-fg: #4ade80;
+      --shadow: 0 1px 2px rgba(0,0,0,.4);
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  a { color: var(--accent); }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 0 20px 64px; }
+
+  header { padding: 40px 0 8px; }
+  h1 { font-size: 26px; margin: 0 0 6px; letter-spacing: -.02em; }
+  .sub { color: var(--text-dim); margin: 0 0 18px; max-width: 640px; }
+
+  .stats { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 22px; }
+  .stat {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
+    padding: 10px 16px; box-shadow: var(--shadow); min-width: 110px;
+  }
+  .stat b { display: block; font-size: 22px; letter-spacing: -.02em; }
+  .stat span { color: var(--text-dim); font-size: 12.5px; }
+
+  .controls {
+    position: sticky; top: 0; z-index: 5;
+    background: var(--bg);
+    padding: 12px 0 10px;
+    display: flex; gap: 10px; flex-wrap: wrap; align-items: center;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 4px;
+  }
+  input[type="search"], select {
+    background: var(--surface); color: var(--text);
+    border: 1px solid var(--border); border-radius: 8px;
+    padding: 8px 12px; font: inherit; font-size: 14px;
+  }
+  input[type="search"] { flex: 1 1 220px; min-width: 180px; }
+  input[type="search"]:focus, select:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+  select { cursor: pointer; }
+
+  .chips { display: flex; gap: 6px; flex-wrap: wrap; padding: 10px 0 2px; }
+  .chip {
+    background: var(--surface); border: 1px solid var(--border); color: var(--text-dim);
+    border-radius: 999px; padding: 4px 12px; font-size: 13px; cursor: pointer; font-family: inherit;
+  }
+  .chip:hover { border-color: var(--accent); color: var(--text); }
+  .chip.on { background: var(--accent); border-color: var(--accent); color: #fff; }
+  @media (prefers-color-scheme: dark) { .chip.on { color: #0f1115; } }
+  .chip .n { opacity: .7; font-size: 12px; }
+
+  .meta-row { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; padding: 12px 2px 8px; color: var(--text-dim); font-size: 13px; }
+  label.newonly { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; user-select: none; font-size: 13.5px; color: var(--text-dim); }
+  label.newonly input { accent-color: var(--accent); }
+
+  .group { margin: 18px 0 4px; }
+  .group h2 {
+    font-size: 16px; margin: 18px 0 8px; display: flex; align-items: baseline; gap: 8px;
+    position: sticky; top: 57px; background: var(--bg); padding: 6px 2px; z-index: 4;
+  }
+  .group h2 .n { color: var(--text-dim); font-weight: 400; font-size: 13px; }
+
+  .job {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
+    padding: 12px 16px; margin-bottom: 8px; box-shadow: var(--shadow);
+    display: grid; grid-template-columns: 1fr auto; gap: 4px 16px; align-items: start;
+  }
+  .job .title { font-weight: 550; text-decoration: none; }
+  .job .title:hover { text-decoration: underline; }
+  .job .info { grid-column: 1; color: var(--text-dim); font-size: 13px; display: flex; gap: 6px 14px; flex-wrap: wrap; }
+  .job .right { grid-column: 2; grid-row: 1 / span 2; display: flex; flex-direction: column; align-items: flex-end; gap: 6px; }
+  @media (max-width: 560px) {
+    .job { grid-template-columns: 1fr; }
+    .job .right { grid-column: 1; grid-row: auto; flex-direction: row; align-items: center; }
+  }
+  .badge {
+    display: inline-block; border-radius: 6px; padding: 2px 8px;
+    font-size: 12px; font-weight: 550; white-space: nowrap;
+  }
+  .badge.new { background: var(--new-bg); color: var(--new-fg); }
+  .cat { background: var(--surface-2); color: var(--text-dim); }
+  .cat[data-c="AI/ML"]        { background: var(--accent-soft); color: var(--accent); }
+  .cat[data-c="Security"]     { background: #fee2e2; color: #b91c1c; }
+  .cat[data-c="Data"]         { background: #fef3c7; color: #92400e; }
+  .cat[data-c="Mobile"]       { background: #f3e8ff; color: #7e22ce; }
+  @media (prefers-color-scheme: dark) {
+    .cat[data-c="Security"]   { background: #3b1a1a; color: #f87171; }
+    .cat[data-c="Data"]       { background: #3a2e12; color: #fbbf24; }
+    .cat[data-c="Mobile"]     { background: #2d1b3d; color: #c084fc; }
+  }
+  .date { color: var(--text-dim); font-size: 12.5px; white-space: nowrap; }
+
+  .empty, .loading, .error { text-align: center; color: var(--text-dim); padding: 60px 0; }
+  .error a { color: var(--accent); }
+
+  footer { margin-top: 40px; padding-top: 16px; border-top: 1px solid var(--border); color: var(--text-dim); font-size: 13px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>🎯 Software Engineering Internship Tracker</h1>
+    <p class="sub">Open software-engineering internships — AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security — at 28 top tech companies, scraped from each company's official careers API every 6 hours.</p>
+    <div class="stats" id="stats" hidden>
+      <div class="stat"><b id="stat-open">–</b><span>open internships</span></div>
+      <div class="stat"><b id="stat-companies">–</b><span>companies hiring</span></div>
+      <div class="stat"><b id="stat-new">–</b><span>new this week</span></div>
+      <div class="stat"><b id="stat-updated">–</b><span id="stat-updated-label">last updated</span></div>
+    </div>
+  </header>
+
+  <div class="controls" id="controls" hidden>
+    <input type="search" id="q" placeholder="Search role, company, location…" autocomplete="off">
+    <select id="company"><option value="">All companies</option></select>
+    <select id="sort">
+      <option value="posted">Newest posted</option>
+      <option value="first_seen">Recently added</option>
+      <option value="company">Company A–Z</option>
+    </select>
+    <label class="newonly"><input type="checkbox" id="newonly"> 🆕 new only</label>
+  </div>
+  <div class="chips" id="cats" hidden></div>
+  <div class="meta-row" id="meta" hidden><span id="count"></span><span><a id="repo-link" href="#">View on GitHub</a></span></div>
+
+  <div id="list"><div class="loading">Loading listings…</div></div>
+
+  <footer>
+    Data is scraped from official careers APIs every 6 hours by
+    <a id="repo-link2" href="#">GitHub Actions</a>. 🆕 = added in the last 7 days.
+    Listings link directly to each company's application page.
+  </footer>
+</div>
+
+<script>
+(function () {
+  var REPO = "Emjumaev/FAANG-2027-Internships-Tracker";
+  var DATA_URL = "https://raw.githubusercontent.com/" + REPO + "/scraper/data/jobs.json";
+  var repoUrl = "https://github.com/" + REPO;
+  document.getElementById("repo-link").href = repoUrl;
+  document.getElementById("repo-link2").href = repoUrl;
+
+  var $ = function (id) { return document.getElementById(id); };
+  var list = $("list");
+  var state = { q: "", company: "", cat: "", sort: "posted", newonly: false };
+  var jobs = [];
+
+  fetch(DATA_URL)
+    .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+    .then(function (data) {
+      var updated = new Date(data.updated_at);
+      var newCutoff = updated.getTime() - 7 * 864e5;
+      jobs = Object.keys(data.jobs).map(function (k) { return data.jobs[k]; })
+        .filter(function (j) { return j.active; })
+        .map(function (j) {
+          j.isNew = j.first_seen && new Date(j.first_seen + "T00:00:00Z").getTime() >= newCutoff;
+          j.search = (j.title + " " + j.company + " " + j.category + " " + j.locations.join(" ")).toLowerCase();
+          return j;
+        });
+      init(updated);
+    })
+    .catch(function (e) {
+      list.innerHTML = '<div class="error">Could not load listings (' + esc(e.message) +
+        ').<br>You can still browse them in the <a href="' + repoUrl + '#readme">README on GitHub</a>.</div>';
+    });
+
+  function init(updated) {
+    var companies = uniq(jobs.map(function (j) { return j.company; })).sort();
+    var cats = {};
+    jobs.forEach(function (j) { cats[j.category] = (cats[j.category] || 0) + 1; });
+
+    $("stat-open").textContent = jobs.length;
+    $("stat-companies").textContent = companies.length;
+    $("stat-new").textContent = jobs.filter(function (j) { return j.isNew; }).length;
+    $("stat-updated").textContent = timeAgo(updated);
+    $("stat-updated").title = updated.toLocaleString();
+
+    var sel = $("company");
+    companies.forEach(function (c) {
+      var o = document.createElement("option");
+      o.value = o.textContent = c;
+      sel.appendChild(o);
+    });
+
+    var chipBox = $("cats");
+    var allChip = chip("All categories", jobs.length, "");
+    allChip.classList.add("on");
+    chipBox.appendChild(allChip);
+    Object.keys(cats).sort(function (a, b) { return cats[b] - cats[a]; }).forEach(function (c) {
+      chipBox.appendChild(chip(c, cats[c], c));
+    });
+
+    $("q").addEventListener("input", function () { state.q = this.value.trim().toLowerCase(); render(); });
+    sel.addEventListener("change", function () { state.company = this.value; render(); });
+    $("sort").addEventListener("change", function () { state.sort = this.value; render(); });
+    $("newonly").addEventListener("change", function () { state.newonly = this.checked; render(); });
+
+    ["stats", "controls", "cats", "meta"].forEach(function (id) { $(id).hidden = false; });
+    render();
+  }
+
+  function chip(label, n, value) {
+    var b = document.createElement("button");
+    b.className = "chip";
+    b.innerHTML = esc(label) + ' <span class="n">' + n + "</span>";
+    b.addEventListener("click", function () {
+      state.cat = value;
+      var on = document.querySelector(".chip.on");
+      if (on) on.classList.remove("on");
+      b.classList.add("on");
+      render();
+    });
+    return b;
+  }
+
+  function render() {
+    var rows = jobs.filter(function (j) {
+      if (state.company && j.company !== state.company) return false;
+      if (state.cat && j.category !== state.cat) return false;
+      if (state.newonly && !j.isNew) return false;
+      if (state.q && j.search.indexOf(state.q) === -1) return false;
+      return true;
+    });
+
+    var byDate = function (field) {
+      return function (a, b) {
+        var av = a[field] || "", bv = b[field] || "";
+        if (av !== bv) return av < bv ? 1 : -1; // desc, empty last
+        return a.company < b.company ? -1 : 1;
+      };
+    };
+    if (state.sort === "posted") rows.sort(byDate("posted"));
+    else if (state.sort === "first_seen") rows.sort(byDate("first_seen"));
+    else rows.sort(function (a, b) {
+      if (a.company !== b.company) return a.company < b.company ? -1 : 1;
+      return (a.posted || "") < (b.posted || "") ? 1 : -1;
+    });
+
+    $("count").textContent = "Showing " + rows.length + " of " + jobs.length + " open internships";
+
+    if (!rows.length) {
+      list.innerHTML = '<div class="empty">No internships match these filters.</div>';
+      return;
+    }
+
+    var html = [];
+    if (state.sort === "company") {
+      var cur = null;
+      rows.forEach(function (j) {
+        if (j.company !== cur) {
+          if (cur !== null) html.push("</div>");
+          cur = j.company;
+          var n = rows.filter(function (x) { return x.company === cur; }).length;
+          html.push('<div class="group"><h2>' + esc(cur) + ' <span class="n">' + n + "</span></h2>");
+        }
+        html.push(jobCard(j, true));
+      });
+      html.push("</div>");
+    } else {
+      rows.forEach(function (j) { html.push(jobCard(j, false)); });
+    }
+    list.innerHTML = html.join("");
+  }
+
+  function jobCard(j, hideCompany) {
+    var loc = j.locations.length > 2
+      ? esc(j.locations[0]) + ' <span title="' + esc(j.locations.join("\n")) + '">+' + (j.locations.length - 1) + " more</span>"
+      : esc(j.locations.join(" · "));
+    return '<div class="job">' +
+      '<a class="title" href="' + esc(j.url) + '" target="_blank" rel="noopener">' + esc(j.title) + "</a>" +
+      '<div class="info">' +
+        (hideCompany ? "" : "<span><b>" + esc(j.company) + "</b></span>") +
+        "<span>📍 " + loc + "</span>" +
+        (j.posted ? '<span class="date">posted ' + esc(j.posted) + "</span>" : "") +
+      "</div>" +
+      '<div class="right">' +
+        (j.isNew ? '<span class="badge new">🆕 new</span>' : "") +
+        '<span class="badge cat" data-c="' + esc(j.category) + '">' + esc(j.category) + "</span>" +
+      "</div></div>";
+  }
+
+  function uniq(a) {
+    var s = {}; return a.filter(function (x) { return s[x] ? false : (s[x] = true); });
+  }
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+  function timeAgo(d) {
+    var h = Math.round((Date.now() - d.getTime()) / 36e5);
+    if (h < 1) return "just now";
+    if (h < 24) return h + "h ago";
+    return Math.round(h / 24) + "d ago";
+  }
+})();
+</script>
+</body>
+</html>
