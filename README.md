@@ -40,8 +40,6 @@ GitHub Actions.
 | Spotify | — |
 | Stripe | — |
 | Uber | — |
-| Citadel Securities | *no API — entire site behind a Cloudflare browser challenge; needs a headless browser* |
-| LinkedIn | *careers site only links to linkedin.com/jobs, which is authwalled and prohibits scraping* |
 
 ---
 

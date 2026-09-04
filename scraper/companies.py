@@ -9,12 +9,7 @@ from .adapters import (amazon, apple, ashby, bloomberg, eightfold,
                        microsoft, oracle_hcm, phenom, spotify, uber, workday)
 
 # Companies we can't cover, and why — rendered into the README summary table.
-UNSUPPORTED = {
-    "Citadel Securities": ("no API — entire site behind a Cloudflare browser "
-                           "challenge; needs a headless browser"),
-    "LinkedIn": ("careers site only links to linkedin.com/jobs, which is "
-                 "authwalled and prohibits scraping"),
-}
+UNSUPPORTED = {}
 
 COMPANIES = [
     # --- Greenhouse boards ---------------------------------------------------
