@@ -1622,8 +1622,9 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8060959?gh_jid=8060959"
     },
     "cloudflare:8089379": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-04",
       "company": "Cloudflare",
       "external_id": "8089379",
       "first_seen": "2026-07-28",
@@ -1636,8 +1637,9 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379"
     },
     "cloudflare:8089400": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-04",
       "company": "Cloudflare",
       "external_id": "8089400",
       "first_seen": "2026-07-28",
@@ -1650,8 +1652,9 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400"
     },
     "cloudflare:8089407": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-04",
       "company": "Cloudflare",
       "external_id": "8089407",
       "first_seen": "2026-07-29",
@@ -3919,17 +3922,17 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556862170"
     },
     "microsoft:1970393556866895": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-08-14",
       "company": "Microsoft",
       "external_id": "1970393556866895",
       "first_seen": "2026-07-20",
-      "last_seen": "2026-08-13",
+      "last_seen": "2026-09-04",
       "locations": [
         "Egypt, Cairo, Cairo"
       ],
-      "posted": "2026-07-20",
+      "posted": "2026-09-04",
       "title": "Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556866895"
     },
@@ -4613,6 +4616,20 @@
       "posted": null,
       "title": "Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398"
+    },
+    "nvidia:JR2012814": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2012814",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "locations": [
+        "Switzerland, Zurich"
+      ],
+      "posted": "2026-09-04",
+      "title": "Deep Learning Algorithm Engineering Intern - 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814"
     },
     "nvidia:JR2014186": {
       "active": false,
@@ -5482,6 +5499,20 @@
       "title": "Developer Technology Engineering Intern, HPC and AI - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509"
     },
+    "nvidia:JR2024818": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2024818",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "locations": [
+        "3 Locations"
+      ],
+      "posted": "2026-09-04",
+      "title": "AI Developer Technology Engineering Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818"
+    },
     "oracle:334325": {
       "active": false,
       "category": "Software",
@@ -5659,6 +5690,20 @@
       "posted": "2026-08-11",
       "title": "Software Engineering Intern - Future Pathways",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842"
+    },
+    "scale-ai:4730845005": {
+      "active": true,
+      "category": "Software",
+      "company": "Scale AI",
+      "external_id": "4730845005",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "posted": "2026-09-04",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005"
     },
     "snowflake:3045856c-74a4-469e-ba81-a176cc0bef8f": {
       "active": true,
@@ -5922,5 +5967,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
     }
   },
-  "updated_at": "2026-09-04T12:50:49Z"
+  "updated_at": "2026-09-04T17:43:53Z"
 }
