@@ -1101,8 +1101,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3165273/software-dev-engineer-intern-manufacturing-ops-2026-shanghai"
     },
     "amazon:3179209": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-09-04",
       "company": "Amazon",
       "external_id": "3179209",
       "first_seen": "2026-07-09",
@@ -3600,8 +3601,9 @@
       "url": "https://www.metacareers.com/jobs/1796691991338568"
     },
     "meta:1976111093092020": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-04",
       "company": "Meta",
       "external_id": "1976111093092020",
       "first_seen": "2026-08-28",
@@ -5289,6 +5291,20 @@
       "title": "Test Development Software Engineering Intern, Aerial - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern--Aerial---2027_JR2023852"
     },
+    "nvidia:JR2023889": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2023889",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "locations": [
+        "China, Shanghai"
+      ],
+      "posted": "2026-09-04",
+      "title": "Compute System Arch AI Infra Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Compute-System-Arch-AI-Infra-Intern---2027_JR2023889"
+    },
     "nvidia:JR2023905": {
       "active": true,
       "category": "QA",
@@ -5513,6 +5529,34 @@
       "title": "AI Developer Technology Engineering Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818"
     },
+    "nvidia:JR2025040": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "NVIDIA",
+      "external_id": "JR2025040",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "locations": [
+        "China, Shanghai"
+      ],
+      "posted": "2026-09-04",
+      "title": "Infrastructure Tool Development Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Infrastructure-Tool-Development-Intern---2027_JR2025040"
+    },
+    "nvidia:JR2025052": {
+      "active": true,
+      "category": "QA",
+      "company": "NVIDIA",
+      "external_id": "JR2025052",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "locations": [
+        "China, Shanghai"
+      ],
+      "posted": "2026-09-04",
+      "title": "Post Silicon Validation Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Post-Silicon-Validation-Intern---2027_JR2025052"
+    },
     "oracle:334325": {
       "active": false,
       "category": "Software",
@@ -5628,6 +5672,20 @@
       "posted": "2026-08-18",
       "title": "Platform Software Engineer 1 - Full-time Intern Conversion",
       "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/342415"
+    },
+    "paypal:R0137285": {
+      "active": true,
+      "category": "Software",
+      "company": "PayPal",
+      "external_id": "R0137285",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "locations": [
+        "3 Locations"
+      ],
+      "posted": "2026-09-04",
+      "title": "Software Engineer Intern",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0137285"
     },
     "pinterest:7255640": {
       "active": false,
@@ -5967,5 +6025,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
     }
   },
-  "updated_at": "2026-09-04T17:43:53Z"
+  "updated_at": "2026-09-04T20:53:46Z"
 }
