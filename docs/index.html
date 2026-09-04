@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Internship Tracker — Open SWE Internships at Top Tech Companies</title>
+<title>FaangInternTracker — Open SWE Internships at Top Tech Companies</title>
 <meta name="description" content="Auto-updated list of open software-engineering internships at 28 top tech companies, scraped from official careers APIs every 6 hours.">
 <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3Ctext%20y='.9em'%20font-size='90'%3E%F0%9F%8E%AF%3C/text%3E%3C/svg%3E">
 <style>
@@ -91,9 +91,19 @@
     max-width: 1120px; margin: 0 auto; padding: 0 20px;
     height: 54px; display: flex; align-items: center; gap: 14px;
   }
-  .logo-mark { font-size: 21px; }
-  .nav .name { font-weight: 700; font-size: 16.5px; letter-spacing: -.01em; }
-  .nav .name span { color: var(--brand); }
+  .nav .name { font-weight: 700; font-size: 17px; letter-spacing: -.01em; }
+  .nav .name > span:not(.faang) { color: var(--brand); }
+  .faang b { font-weight: 800; font-style: normal; }
+  .faang .l-f  { color: #1877f2; }
+  .faang .l-a1 { color: var(--ink); }
+  .faang .l-a2 { color: #ff9900; position: relative; }
+  .faang .l-a2::after {
+    content: ""; position: absolute; left: 0; right: -1px; bottom: 1px;
+    height: 4px; border-bottom: 2.5px solid #ff9900;
+    border-radius: 0 0 100% 100%;
+  }
+  .faang .l-n  { color: #e50914; }
+  .faang .l-g  { color: #34a853; }
   .nav-right { margin-left: auto; display: flex; align-items: center; gap: 10px; }
   .nav-right a { color: var(--dim); text-decoration: none; font-size: 13.5px; font-weight: 500; }
   .nav-right a:hover { color: var(--brand); }
@@ -292,8 +302,7 @@
 
 <nav class="nav">
   <div class="nav-inner">
-    <span class="logo-mark">🎯</span>
-    <span class="name">Intern<span>Tracker</span></span>
+    <span class="name"><span class="faang" aria-label="Faang"><b class="l-f">F</b><b class="l-a1">a</b><b class="l-a2">a</b><b class="l-n">n</b><b class="l-g">g</b></span>Intern<span>Tracker</span></span>
     <div class="nav-right">
       <a id="repo-link" href="#" target="_blank" rel="noopener">GitHub</a>
       <button class="theme-btn" id="theme-btn" title="Toggle theme">◐</button>
