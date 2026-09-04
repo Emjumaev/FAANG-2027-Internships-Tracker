@@ -10,7 +10,7 @@ GitHub Actions.
 > 🕐 Last updated: **2026-09-04 06:54:25 UTC** · 📌 **236** open internships
 > · 🆕 = added in the last 7 days
 
-⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
+⭐ Star this repo to keep an eye on new openings
 
 | Company | Open internships |
 |---|---|
