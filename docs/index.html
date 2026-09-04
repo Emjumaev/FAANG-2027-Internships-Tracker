@@ -17,15 +17,19 @@
     --accent: #2563eb;
     --accent-soft: #dbeafe;
     --new-bg: #dcfce7;
-    --new-fg: #166534;
+    --new-fg: #15803d;
+    --star: #f59e0b;
+    --sec-bg: #fee2e2; --sec-fg: #b91c1c;
+    --data-bg: #fef3c7; --data-fg: #92400e;
+    --mob-bg: #f3e8ff; --mob-fg: #7e22ce;
     --shadow: 0 1px 2px rgba(16,24,40,.05);
-    color-scheme: light dark;
+    color-scheme: light;
   }
   @media (prefers-color-scheme: dark) {
-    :root {
+    :root:not([data-theme="light"]) {
       --bg: #0f1115;
       --surface: #171a20;
-      --surface-2: #1f242c;
+      --surface-2: #232933;
       --border: #2a303a;
       --text: #e7eaee;
       --text-dim: #98a1ac;
@@ -33,9 +37,33 @@
       --accent-soft: #1e3a5f;
       --new-bg: #14351f;
       --new-fg: #4ade80;
+      --star: #fbbf24;
+      --sec-bg: #3b1a1a; --sec-fg: #f87171;
+      --data-bg: #3a2e12; --data-fg: #fbbf24;
+      --mob-bg: #2d1b3d; --mob-fg: #c084fc;
       --shadow: 0 1px 2px rgba(0,0,0,.4);
+      color-scheme: dark;
     }
   }
+  :root[data-theme="dark"] {
+    --bg: #0f1115;
+    --surface: #171a20;
+    --surface-2: #232933;
+    --border: #2a303a;
+    --text: #e7eaee;
+    --text-dim: #98a1ac;
+    --accent: #60a5fa;
+    --accent-soft: #1e3a5f;
+    --new-bg: #14351f;
+    --new-fg: #4ade80;
+    --star: #fbbf24;
+    --sec-bg: #3b1a1a; --sec-fg: #f87171;
+    --data-bg: #3a2e12; --data-fg: #fbbf24;
+    --mob-bg: #2d1b3d; --mob-fg: #c084fc;
+    --shadow: 0 1px 2px rgba(0,0,0,.4);
+    color-scheme: dark;
+  }
+
   * { box-sizing: border-box; }
   body {
     margin: 0;
@@ -46,88 +74,136 @@
   a { color: var(--accent); }
   .wrap { max-width: 1080px; margin: 0 auto; padding: 0 20px 64px; }
 
-  header { padding: 40px 0 8px; }
-  h1 { font-size: 26px; margin: 0 0 6px; letter-spacing: -.02em; }
-  .sub { color: var(--text-dim); margin: 0 0 18px; max-width: 640px; }
+  header { padding: 34px 0 4px; display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; }
+  h1 { font-size: 24px; margin: 0 0 4px; letter-spacing: -.02em; }
+  .sub { color: var(--text-dim); margin: 0; max-width: 620px; font-size: 14px; }
+  .theme-btn {
+    background: var(--surface); border: 1px solid var(--border); color: var(--text-dim);
+    border-radius: 8px; padding: 7px 10px; cursor: pointer; font: inherit; font-size: 15px;
+    line-height: 1; flex-shrink: 0; margin-top: 4px;
+  }
+  .theme-btn:hover { border-color: var(--accent); }
 
-  .stats { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 22px; }
+  .stats { display: flex; gap: 8px; flex-wrap: wrap; margin: 16px 0 18px; }
   .stat {
     background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
-    padding: 10px 16px; box-shadow: var(--shadow); min-width: 110px;
+    padding: 8px 14px; box-shadow: var(--shadow);
+    display: flex; align-items: baseline; gap: 7px;
   }
-  .stat b { display: block; font-size: 22px; letter-spacing: -.02em; }
+  .stat b { font-size: 19px; letter-spacing: -.02em; }
   .stat span { color: var(--text-dim); font-size: 12.5px; }
 
-  .controls {
-    position: sticky; top: 0; z-index: 5;
+  .toolbar {
+    position: sticky; top: 0; z-index: 6;
     background: var(--bg);
-    padding: 12px 0 10px;
-    display: flex; gap: 10px; flex-wrap: wrap; align-items: center;
+    padding: 10px 0;
+    display: flex; gap: 8px; flex-wrap: wrap; align-items: center;
     border-bottom: 1px solid var(--border);
-    margin-bottom: 4px;
   }
-  input[type="search"], select {
+  .search-box { position: relative; flex: 1 1 240px; min-width: 200px; }
+  .search-box .icon { position: absolute; left: 11px; top: 50%; transform: translateY(-50%); color: var(--text-dim); pointer-events: none; font-size: 13px; }
+  .search-box kbd {
+    position: absolute; right: 9px; top: 50%; transform: translateY(-50%);
+    background: var(--surface-2); border: 1px solid var(--border); border-radius: 5px;
+    color: var(--text-dim); font-size: 11px; padding: 1px 6px; pointer-events: none;
+  }
+  input[type="search"] {
+    width: 100%;
     background: var(--surface); color: var(--text);
     border: 1px solid var(--border); border-radius: 8px;
-    padding: 8px 12px; font: inherit; font-size: 14px;
+    padding: 8px 34px 8px 30px; font: inherit; font-size: 14px;
   }
-  input[type="search"] { flex: 1 1 220px; min-width: 180px; }
+  input[type="search"]::-webkit-search-cancel-button { margin-right: 24px; }
+  select {
+    background: var(--surface); color: var(--text);
+    border: 1px solid var(--border); border-radius: 8px;
+    padding: 8px 10px; font: inherit; font-size: 13.5px;
+    cursor: pointer; max-width: 190px;
+  }
   input[type="search"]:focus, select:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
-  select { cursor: pointer; }
 
-  .chips { display: flex; gap: 6px; flex-wrap: wrap; padding: 10px 0 2px; }
+  .chips { display: flex; gap: 6px; flex-wrap: wrap; padding: 10px 0 0; align-items: center; }
+  .chips .sep { width: 1px; align-self: stretch; background: var(--border); margin: 2px 4px; }
   .chip {
     background: var(--surface); border: 1px solid var(--border); color: var(--text-dim);
     border-radius: 999px; padding: 4px 12px; font-size: 13px; cursor: pointer; font-family: inherit;
+    transition: border-color .1s;
   }
   .chip:hover { border-color: var(--accent); color: var(--text); }
-  .chip.on { background: var(--accent); border-color: var(--accent); color: #fff; }
-  @media (prefers-color-scheme: dark) { .chip.on { color: #0f1115; } }
-  .chip .n { opacity: .7; font-size: 12px; }
+  .chip.on { background: var(--accent); border-color: var(--accent); color: var(--bg); font-weight: 550; }
+  .chip.on.toggle { background: var(--new-bg); border-color: var(--new-fg); color: var(--new-fg); }
+  .chip.on.saved-chip { background: var(--star); border-color: var(--star); color: #fff; }
+  .chip .n { opacity: .75; font-size: 12px; }
 
-  .meta-row { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; padding: 12px 2px 8px; color: var(--text-dim); font-size: 13px; }
-  label.newonly { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; user-select: none; font-size: 13.5px; color: var(--text-dim); }
-  label.newonly input { accent-color: var(--accent); }
+  .meta-row {
+    display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap;
+    padding: 12px 2px 10px; color: var(--text-dim); font-size: 13px;
+  }
+  .clear-btn {
+    background: none; border: none; color: var(--accent); cursor: pointer;
+    font: inherit; font-size: 13px; padding: 0; text-decoration: underline;
+  }
 
-  .group { margin: 18px 0 4px; }
   .group h2 {
-    font-size: 16px; margin: 18px 0 8px; display: flex; align-items: baseline; gap: 8px;
-    position: sticky; top: 57px; background: var(--bg); padding: 6px 2px; z-index: 4;
+    font-size: 15px; margin: 20px 0 8px; display: flex; align-items: center; gap: 8px;
   }
   .group h2 .n { color: var(--text-dim); font-weight: 400; font-size: 13px; }
 
   .job {
-    background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
-    padding: 12px 16px; margin-bottom: 8px; box-shadow: var(--shadow);
-    display: grid; grid-template-columns: 1fr auto; gap: 4px 16px; align-items: start;
+    background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+    padding: 13px 16px; margin-bottom: 8px; box-shadow: var(--shadow);
+    display: flex; gap: 13px; align-items: flex-start;
+    transition: border-color .1s;
   }
-  .job .title { font-weight: 550; text-decoration: none; }
-  .job .title:hover { text-decoration: underline; }
-  .job .info { grid-column: 1; color: var(--text-dim); font-size: 13px; display: flex; gap: 6px 14px; flex-wrap: wrap; }
-  .job .right { grid-column: 2; grid-row: 1 / span 2; display: flex; flex-direction: column; align-items: flex-end; gap: 6px; }
-  @media (max-width: 560px) {
-    .job { grid-template-columns: 1fr; }
-    .job .right { grid-column: 1; grid-row: auto; flex-direction: row; align-items: center; }
+  .job:hover { border-color: color-mix(in srgb, var(--accent) 45%, var(--border)); }
+  .job.is-new { border-left: 3px solid var(--new-fg); padding-left: 14px; }
+  .avatar {
+    width: 38px; height: 38px; border-radius: 9px; flex-shrink: 0;
+    display: flex; align-items: center; justify-content: center;
+    color: #fff; font-weight: 700; font-size: 14.5px; letter-spacing: .02em;
+    margin-top: 2px; user-select: none;
   }
+  .job-main { flex: 1; min-width: 0; }
+  .job .title { font-weight: 550; text-decoration: none; color: var(--text); overflow-wrap: anywhere; }
+  .job .title:hover { color: var(--accent); text-decoration: underline; }
+  .job .title::after { content: " ↗"; font-size: 11px; color: var(--text-dim); font-weight: 400; }
+  .job .info { color: var(--text-dim); font-size: 13px; display: flex; gap: 4px 14px; flex-wrap: wrap; margin-top: 3px; }
+  .job .info .co { font-weight: 600; color: var(--text); }
+  .badges { display: flex; flex-direction: column; align-items: flex-end; gap: 6px; flex-shrink: 0; }
   .badge {
     display: inline-block; border-radius: 6px; padding: 2px 8px;
     font-size: 12px; font-weight: 550; white-space: nowrap;
   }
   .badge.new { background: var(--new-bg); color: var(--new-fg); }
   .cat { background: var(--surface-2); color: var(--text-dim); }
-  .cat[data-c="AI/ML"]        { background: var(--accent-soft); color: var(--accent); }
-  .cat[data-c="Security"]     { background: #fee2e2; color: #b91c1c; }
-  .cat[data-c="Data"]         { background: #fef3c7; color: #92400e; }
-  .cat[data-c="Mobile"]       { background: #f3e8ff; color: #7e22ce; }
-  @media (prefers-color-scheme: dark) {
-    .cat[data-c="Security"]   { background: #3b1a1a; color: #f87171; }
-    .cat[data-c="Data"]       { background: #3a2e12; color: #fbbf24; }
-    .cat[data-c="Mobile"]     { background: #2d1b3d; color: #c084fc; }
+  .cat[data-c="AI/ML"]    { background: var(--accent-soft); color: var(--accent); }
+  .cat[data-c="Security"] { background: var(--sec-bg); color: var(--sec-fg); }
+  .cat[data-c="Data"]     { background: var(--data-bg); color: var(--data-fg); }
+  .cat[data-c="Mobile"]   { background: var(--mob-bg); color: var(--mob-fg); }
+  .star-btn {
+    background: none; border: none; cursor: pointer; padding: 2px 0 0 6px;
+    font-size: 19px; line-height: 1; color: var(--border); flex-shrink: 0;
   }
-  .date { color: var(--text-dim); font-size: 12.5px; white-space: nowrap; }
+  .star-btn:hover { color: var(--star); }
+  .star-btn.on { color: var(--star); }
+  .date { white-space: nowrap; }
 
-  .empty, .loading, .error { text-align: center; color: var(--text-dim); padding: 60px 0; }
-  .error a { color: var(--accent); }
+  @media (max-width: 600px) {
+    header { flex-wrap: wrap; }
+    .job { flex-wrap: wrap; padding: 12px 14px; }
+    .job.is-new { padding-left: 12px; }
+    .avatar { width: 32px; height: 32px; font-size: 12.5px; }
+    .job-main { flex-basis: calc(100% - 90px); }
+    .badges { flex-direction: row; width: 100%; order: 3; justify-content: flex-start; margin-left: 45px; }
+    select { flex: 1 1 40%; max-width: none; }
+  }
+
+  .empty, .loading, .error { text-align: center; color: var(--text-dim); padding: 60px 20px; }
+  .empty .big { font-size: 34px; margin-bottom: 8px; }
+  .empty button {
+    margin-top: 14px; background: var(--accent); color: var(--bg); border: none;
+    border-radius: 8px; padding: 8px 18px; font: inherit; font-size: 14px; cursor: pointer; font-weight: 550;
+  }
 
   footer { margin-top: 40px; padding-top: 16px; border-top: 1px solid var(--border); color: var(--text-dim); font-size: 13px; }
 </style>
@@ -135,40 +211,54 @@
 <body>
 <div class="wrap">
   <header>
-    <h1>🎯 Software Engineering Internship Tracker</h1>
-    <p class="sub">Open software-engineering internships — AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security — at 28 top tech companies, scraped from each company's official careers API every 6 hours.</p>
-    <div class="stats" id="stats" hidden>
-      <div class="stat"><b id="stat-open">–</b><span>open internships</span></div>
-      <div class="stat"><b id="stat-companies">–</b><span>companies hiring</span></div>
-      <div class="stat"><b id="stat-new">–</b><span>new this week</span></div>
-      <div class="stat"><b id="stat-updated">–</b><span id="stat-updated-label">last updated</span></div>
+    <div>
+      <h1>🎯 Internship Tracker</h1>
+      <p class="sub">Open software-engineering internships at 28 top tech companies, scraped
+      from official careers APIs every 6 hours. Every listing links straight to the application page.</p>
     </div>
+    <button class="theme-btn" id="theme-btn" title="Toggle theme">◐</button>
   </header>
 
-  <div class="controls" id="controls" hidden>
-    <input type="search" id="q" placeholder="Search role, company, location…" autocomplete="off">
-    <select id="company"><option value="">All companies</option></select>
-    <select id="sort">
-      <option value="posted">Newest posted</option>
-      <option value="first_seen">Recently added</option>
-      <option value="company">Company A–Z</option>
-    </select>
-    <label class="newonly"><input type="checkbox" id="newonly"> 🆕 new only</label>
+  <div class="stats" id="stats" hidden>
+    <div class="stat"><b id="stat-open">–</b><span>open roles</span></div>
+    <div class="stat"><b id="stat-companies">–</b><span>companies hiring</span></div>
+    <div class="stat"><b id="stat-new">–</b><span>new this week</span></div>
+    <div class="stat"><b id="stat-updated">–</b><span>last update</span></div>
   </div>
-  <div class="chips" id="cats" hidden></div>
-  <div class="meta-row" id="meta" hidden><span id="count"></span><span><a id="repo-link" href="#">View on GitHub</a></span></div>
+
+  <div class="toolbar" id="toolbar" hidden>
+    <div class="search-box">
+      <span class="icon">🔍</span>
+      <input type="search" id="q" placeholder="Search role, company, location…" autocomplete="off">
+      <kbd>/</kbd>
+    </div>
+    <select id="region" title="Filter by region"><option value="">🌐 All regions</option></select>
+    <select id="company" title="Filter by company"><option value="">All companies</option></select>
+    <select id="sort" title="Sort order">
+      <option value="posted">Sort: newest posted</option>
+      <option value="first_seen">Sort: recently added</option>
+      <option value="company">Sort: by company</option>
+    </select>
+  </div>
+  <div class="chips" id="chips" hidden></div>
+  <div class="meta-row" id="meta" hidden>
+    <span id="count"></span>
+    <span><button class="clear-btn" id="clear" hidden>✕ Clear all filters</button>
+    <a id="repo-link" href="#">GitHub ↗</a></span>
+  </div>
 
   <div id="list"><div class="loading">Loading listings…</div></div>
 
   <footer>
     Data is scraped from official careers APIs every 6 hours by
     <a id="repo-link2" href="#">GitHub Actions</a>. 🆕 = added in the last 7 days.
-    Listings link directly to each company's application page.
+    ★ saved roles are stored in your browser only.
   </footer>
 </div>
 
 <script>
 (function () {
+  "use strict";
   var REPO = "Emjumaev/FAANG-2027-Internships-Tracker";
   var DATA_URL = "https://raw.githubusercontent.com/" + REPO + "/scraper/data/jobs.json";
   var repoUrl = "https://github.com/" + REPO;
@@ -177,21 +267,191 @@
 
   var $ = function (id) { return document.getElementById(id); };
   var list = $("list");
-  var state = { q: "", company: "", cat: "", sort: "posted", newonly: false };
-  var jobs = [];
 
+  /* ---------- theme ---------- */
+  var THEMES = ["auto", "light", "dark"];
+  var themeIcons = { auto: "◐", light: "☀️", dark: "🌙" };
+  var theme = "auto";
+  try { theme = localStorage.getItem("theme") || "auto"; } catch (e) {}
+  applyTheme();
+  $("theme-btn").addEventListener("click", function () {
+    theme = THEMES[(THEMES.indexOf(theme) + 1) % 3];
+    try { localStorage.setItem("theme", theme); } catch (e) {}
+    applyTheme();
+  });
+  function applyTheme() {
+    if (theme === "auto") document.documentElement.removeAttribute("data-theme");
+    else document.documentElement.setAttribute("data-theme", theme);
+    $("theme-btn").textContent = themeIcons[theme];
+    $("theme-btn").title = "Theme: " + theme + " (click to change)";
+  }
+
+  /* ---------- saved jobs ---------- */
+  var saved = {};
+  try { saved = JSON.parse(localStorage.getItem("saved-jobs") || "{}"); } catch (e) {}
+  function persistSaved() {
+    try { localStorage.setItem("saved-jobs", JSON.stringify(saved)); } catch (e) {}
+  }
+
+  /* ---------- company brand colors ---------- */
+  var BRAND = {
+    "Adobe": "#eb1000", "Airbnb": "#ff5a5f", "Amazon": "#e47911", "Anthropic": "#c15f3c",
+    "Apple": "#6e6e73", "Bloomberg": "#2800d7", "Cisco": "#049fd9", "Cloudflare": "#f38020",
+    "Databricks": "#ff3621", "GitHub": "#333a41", "Google": "#4285f4",
+    "Hudson River Trading": "#0e7490", "Intel": "#0068b5", "Jane Street": "#0f766e",
+    "Meta": "#0866ff", "Microsoft": "#107c10", "NVIDIA": "#76b900", "Netflix": "#e50914",
+    "OpenAI": "#10a37f", "Oracle": "#c74634", "PayPal": "#003087", "Pinterest": "#e60023",
+    "Salesforce": "#00a1e0", "Snap": "#c7a500", "Snowflake": "#29b5e8", "Spotify": "#1db954",
+    "Stripe": "#635bff", "Uber": "#333a41"
+  };
+  function brandColor(company) {
+    if (BRAND[company]) return BRAND[company];
+    var h = 0;
+    for (var i = 0; i < company.length; i++) h = (h * 31 + company.charCodeAt(i)) % 360;
+    return "hsl(" + h + ", 55%, 45%)";
+  }
+  function initials(company) {
+    var words = company.split(/\s+/).filter(Boolean);
+    if (words.length === 1) return words[0].slice(0, 2);
+    return (words[0][0] + words[1][0]).toUpperCase();
+  }
+
+  /* ---------- region classification ---------- */
+  var REGIONS = [
+    ["us",     "🇺🇸 United States"],
+    ["canada", "🇨🇦 Canada"],
+    ["europe", "🇪🇺 Europe"],
+    ["asia",   "🌏 Asia"],
+    ["oceania","🇦🇺 Australia & NZ"],
+    ["latam",  "🌎 Latin America"],
+    ["mea",    "🕌 Middle East & Africa"],
+    ["other",  "❓ Multiple / unspecified"]
+  ];
+  var REGION_LABEL = {};
+  REGIONS.forEach(function (r) { REGION_LABEL[r[0]] = r[1]; });
+
+  var COUNTRY = {
+    us: ["usa", "us", "u.s.", "united states", "united states of america"],
+    canada: ["canada", "can"],
+    europe: ["uk", "united kingdom", "gbr", "england", "scotland", "wales", "ireland", "irl",
+      "germany", "deu", "poland", "pol", "norway", "nor", "sweden", "swe", "denmark", "dnk",
+      "france", "fra", "spain", "esp", "portugal", "prt", "italy", "ita", "netherlands", "nld",
+      "belgium", "bel", "switzerland", "che", "austria", "aut", "czechia", "czech republic", "cze",
+      "romania", "rou", "hungary", "hun", "luxembourg", "lux", "finland", "fin", "greece", "grc",
+      "bulgaria", "bgr", "serbia", "srb", "ukraine", "ukr", "estonia", "est", "lithuania", "ltu"],
+    asia: ["india", "ind", "china", "chn", "japan", "jpn", "vietnam", "vnm", "viet nam",
+      "malaysia", "mys", "singapore", "sgp", "taiwan", "twn", "hong kong", "hong kong sar", "hkg",
+      "korea", "south korea", "kor", "thailand", "tha", "indonesia", "idn", "philippines", "phl"],
+    oceania: ["australia", "aus", "new zealand", "nzl"],
+    latam: ["mexico", "mex", "brazil", "bra", "brasil", "argentina", "arg", "colombia", "col",
+      "chile", "chl", "costa rica", "cri"],
+    mea: ["israel", "isr", "uae", "united arab emirates", "are", "saudi arabia", "sau",
+      "egypt", "egy", "south africa", "zaf", "nigeria", "nga", "kenya", "ken", "turkey", "tur"]
+  };
+  var CITY = {
+    us: ["nyc", "new york", "new york city", "san francisco", "seattle", "cupertino", "austin",
+      "chicago", "boston", "san diego", "santa clara", "sunnyvale", "mountain view", "menlo park",
+      "bellevue", "redmond", "los angeles", "los gatos", "palo alto", "san jose", "pasadena",
+      "phoenix", "folsom", "hillsboro", "atlanta", "denver", "boulder", "pittsburgh", "raleigh",
+      "durham", "madison", "kirkland", "reston", "westboro", "north reading", "annapolis"],
+    canada: ["toronto", "vancouver", "montreal", "waterloo", "ottawa", "calgary"],
+    europe: ["london", "ldn", "dublin", "cambridge", "munich", "berlin", "hamburg", "dresden",
+      "paris", "amsterdam", "zurich", "zürich", "geneva", "warsaw", "krakow", "kraków", "gdansk",
+      "bucharest", "barcelona", "madrid", "stockholm", "oslo", "lysaker", "copenhagen", "helsinki",
+      "lisbon", "milan", "prague", "vienna", "harpenden", "edinburgh", "aachen"],
+    asia: ["tokyo", "osaka", "shanghai", "beijing", "shenzhen", "hong kong", "taipei", "hsinchu",
+      "seoul", "singapore", "bengaluru", "bangalore", "hyderabad", "mumbai", "pune", "chennai",
+      "gurgaon", "gurugram", "noida", "new delhi", "hanoi", "ho chi minh", "ho_chi_minh_city",
+      "penang", "kulim", "kuala lumpur", "bangkok", "jakarta", "manila"],
+    oceania: ["sydney", "melbourne", "brisbane", "auckland"],
+    latam: ["guadalajara", "mexico city", "zapopan", "sao paulo", "são paulo", "buenos aires",
+      "bogota", "bogotá", "santiago", "san josé", "heredia"],
+    mea: ["tel aviv", "tel-aviv", "haifa", "jerusalem", "herzliya", "raanana", "dubai", "istanbul",
+      "cairo", "nairobi", "lagos", "cape town", "johannesburg"]
+  };
+  var US_STATES = ["al","ak","az","ar","ca","co","ct","de","fl","ga","hi","id","il","in","ia",
+    "ks","ky","la","me","md","ma","mi","mn","ms","mo","mt","ne","nv","nh","nj","nm","ny","nc",
+    "nd","oh","ok","or","pa","ri","sc","sd","tn","tx","ut","vt","va","wa","wv","wi","wy",
+    "alabama","alaska","arizona","arkansas","california","colorado","connecticut","delaware",
+    "florida","georgia","hawaii","idaho","illinois","indiana","iowa","kansas","kentucky",
+    "louisiana","maine","maryland","massachusetts","michigan","minnesota","mississippi",
+    "missouri","montana","nebraska","nevada","new hampshire","new jersey","new mexico",
+    "north carolina","north dakota","ohio","oklahoma","oregon","pennsylvania","rhode island",
+    "south carolina","south dakota","tennessee","texas","utah","vermont","virginia",
+    "washington","west virginia","wisconsin","wyoming"];
+
+  var TOKEN_REGION = {};
+  Object.keys(COUNTRY).forEach(function (r) {
+    COUNTRY[r].forEach(function (t) { TOKEN_REGION[t] = TOKEN_REGION[t] || { region: r, tier: 0 }; });
+  });
+  US_STATES.forEach(function (t) {
+    if (!TOKEN_REGION[t]) TOKEN_REGION[t] = { region: "us", tier: 1 };
+  });
+  Object.keys(CITY).forEach(function (r) {
+    CITY[r].forEach(function (t) { if (!TOKEN_REGION[t]) TOKEN_REGION[t] = { region: r, tier: 2 }; });
+  });
+
+  function classifyLocation(loc) {
+    // split "City, State, Country" into parts and match the strongest token:
+    // country beats US state beats city (so "Cambridge, MA, USA" → US, bare "Cambridge" → Europe)
+    var parts = loc.toLowerCase().split(/[,;·]/).map(function (p) { return p.trim(); });
+    var best = null;
+    parts.forEach(function (p) {
+      var hit = TOKEN_REGION[p];
+      if (hit && (!best || hit.tier < best.tier)) best = hit;
+    });
+    return best ? best.region : null;
+  }
+  function classifyJob(j) {
+    var regions = {};
+    j.locations.forEach(function (l) {
+      var r = classifyLocation(l);
+      if (r) regions[r] = true;
+    });
+    var keys = Object.keys(regions);
+    return keys.length ? keys : ["other"];
+  }
+
+  /* ---------- state (synced to URL hash) ---------- */
+  var state = { q: "", company: "", cat: "", region: "", sort: "posted", newonly: false, savedonly: false };
+  function readHash() {
+    var p = new URLSearchParams(location.hash.slice(1));
+    state.q = p.get("q") || "";
+    state.company = p.get("co") || "";
+    state.cat = p.get("cat") || "";
+    state.region = p.get("r") || "";
+    state.sort = p.get("s") || "posted";
+    state.newonly = p.get("new") === "1";
+    state.savedonly = p.get("saved") === "1";
+  }
+  function writeHash() {
+    var p = new URLSearchParams();
+    if (state.q) p.set("q", state.q);
+    if (state.company) p.set("co", state.company);
+    if (state.cat) p.set("cat", state.cat);
+    if (state.region) p.set("r", state.region);
+    if (state.sort !== "posted") p.set("s", state.sort);
+    if (state.newonly) p.set("new", "1");
+    if (state.savedonly) p.set("saved", "1");
+    var h = p.toString();
+    history.replaceState(null, "", h ? "#" + h : location.pathname + location.search);
+  }
+
+  /* ---------- load data ---------- */
+  var jobs = [];
   fetch(DATA_URL)
     .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
     .then(function (data) {
       var updated = new Date(data.updated_at);
       var newCutoff = updated.getTime() - 7 * 864e5;
-      jobs = Object.keys(data.jobs).map(function (k) { return data.jobs[k]; })
-        .filter(function (j) { return j.active; })
-        .map(function (j) {
-          j.isNew = j.first_seen && new Date(j.first_seen + "T00:00:00Z").getTime() >= newCutoff;
-          j.search = (j.title + " " + j.company + " " + j.category + " " + j.locations.join(" ")).toLowerCase();
-          return j;
-        });
+      jobs = Object.keys(data.jobs).map(function (k) {
+        var j = data.jobs[k]; j.key = k; return j;
+      }).filter(function (j) { return j.active; }).map(function (j) {
+        j.isNew = j.first_seen && new Date(j.first_seen + "T00:00:00Z").getTime() >= newCutoff;
+        j.regions = classifyJob(j);
+        j.search = (j.title + " " + j.company + " " + j.category + " " + j.locations.join(" ")).toLowerCase();
+        return j;
+      });
       init(updated);
     })
     .catch(function (e) {
@@ -199,60 +459,136 @@
         ').<br>You can still browse them in the <a href="' + repoUrl + '#readme">README on GitHub</a>.</div>';
     });
 
+  /* ---------- init UI ---------- */
   function init(updated) {
-    var companies = uniq(jobs.map(function (j) { return j.company; })).sort();
-    var cats = {};
-    jobs.forEach(function (j) { cats[j.category] = (cats[j.category] || 0) + 1; });
+    readHash();
 
     $("stat-open").textContent = jobs.length;
-    $("stat-companies").textContent = companies.length;
+    $("stat-companies").textContent = uniq(jobs.map(function (j) { return j.company; })).length;
     $("stat-new").textContent = jobs.filter(function (j) { return j.isNew; }).length;
     $("stat-updated").textContent = timeAgo(updated);
     $("stat-updated").title = updated.toLocaleString();
 
-    var sel = $("company");
-    companies.forEach(function (c) {
+    // region select with counts
+    var regionCounts = {};
+    jobs.forEach(function (j) {
+      j.regions.forEach(function (r) { regionCounts[r] = (regionCounts[r] || 0) + 1; });
+    });
+    var rsel = $("region");
+    REGIONS.forEach(function (r) {
+      if (!regionCounts[r[0]]) return;
       var o = document.createElement("option");
-      o.value = o.textContent = c;
-      sel.appendChild(o);
+      o.value = r[0];
+      o.textContent = r[1] + " (" + regionCounts[r[0]] + ")";
+      rsel.appendChild(o);
     });
 
-    var chipBox = $("cats");
-    var allChip = chip("All categories", jobs.length, "");
-    allChip.classList.add("on");
-    chipBox.appendChild(allChip);
-    Object.keys(cats).sort(function (a, b) { return cats[b] - cats[a]; }).forEach(function (c) {
-      chipBox.appendChild(chip(c, cats[c], c));
+    // company select with counts
+    var coCounts = {};
+    jobs.forEach(function (j) { coCounts[j.company] = (coCounts[j.company] || 0) + 1; });
+    var csel = $("company");
+    Object.keys(coCounts).sort().forEach(function (c) {
+      var o = document.createElement("option");
+      o.value = c;
+      o.textContent = c + " (" + coCounts[c] + ")";
+      csel.appendChild(o);
     });
 
-    $("q").addEventListener("input", function () { state.q = this.value.trim().toLowerCase(); render(); });
-    sel.addEventListener("change", function () { state.company = this.value; render(); });
-    $("sort").addEventListener("change", function () { state.sort = this.value; render(); });
-    $("newonly").addEventListener("change", function () { state.newonly = this.checked; render(); });
+    // restore control values from hash
+    $("q").value = state.q;
+    rsel.value = state.region;
+    csel.value = state.company;
+    $("sort").value = state.sort;
 
-    ["stats", "controls", "cats", "meta"].forEach(function (id) { $(id).hidden = false; });
+    $("q").addEventListener("input", function () { state.q = this.value.trim().toLowerCase(); refresh(); });
+    rsel.addEventListener("change", function () { state.region = this.value; refresh(); });
+    csel.addEventListener("change", function () { state.company = this.value; refresh(); });
+    $("sort").addEventListener("change", function () { state.sort = this.value; refresh(); });
+    $("clear").addEventListener("click", clearFilters);
+
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "/" && document.activeElement !== $("q") &&
+          !/^(input|select|textarea)$/i.test(document.activeElement.tagName)) {
+        e.preventDefault(); $("q").focus();
+      } else if (e.key === "Escape" && document.activeElement === $("q")) {
+        if ($("q").value) { $("q").value = ""; state.q = ""; refresh(); }
+        else $("q").blur();
+      }
+    });
+
+    buildChips();
+    ["stats", "toolbar", "chips", "meta"].forEach(function (id) { $(id).hidden = false; });
     render();
   }
 
-  function chip(label, n, value) {
-    var b = document.createElement("button");
-    b.className = "chip";
-    b.innerHTML = esc(label) + ' <span class="n">' + n + "</span>";
-    b.addEventListener("click", function () {
-      state.cat = value;
-      var on = document.querySelector(".chip.on");
-      if (on) on.classList.remove("on");
-      b.classList.add("on");
-      render();
+  function buildChips() {
+    var box = $("chips");
+    box.innerHTML = "";
+    var cats = {};
+    jobs.forEach(function (j) { cats[j.category] = (cats[j.category] || 0) + 1; });
+
+    box.appendChild(chip("All", jobs.length, state.cat === "", function (el) {
+      state.cat = ""; refresh();
+    }));
+    Object.keys(cats).sort(function (a, b) { return cats[b] - cats[a]; }).forEach(function (c) {
+      box.appendChild(chip(c, cats[c], state.cat === c, function () {
+        state.cat = (state.cat === c) ? "" : c; refresh();
+      }));
     });
+
+    var sep = document.createElement("span");
+    sep.className = "sep";
+    box.appendChild(sep);
+
+    var nNew = jobs.filter(function (j) { return j.isNew; }).length;
+    var newChip = chip("🆕 New", nNew, state.newonly, function () {
+      state.newonly = !state.newonly; refresh();
+    });
+    newChip.classList.add("toggle");
+    box.appendChild(newChip);
+
+    var nSaved = jobs.filter(function (j) { return saved[j.key]; }).length;
+    var savedChip = chip("★ Saved", nSaved, state.savedonly, function () {
+      state.savedonly = !state.savedonly; refresh();
+    });
+    savedChip.classList.add("saved-chip");
+    box.appendChild(savedChip);
+  }
+
+  function chip(label, n, on, onClick) {
+    var b = document.createElement("button");
+    b.className = "chip" + (on ? " on" : "");
+    b.innerHTML = esc(label) + ' <span class="n">' + n + "</span>";
+    b.addEventListener("click", onClick);
     return b;
   }
 
+  function refresh() {
+    writeHash();
+    buildChips();
+    render();
+  }
+
+  function activeFilterCount() {
+    return (state.q ? 1 : 0) + (state.company ? 1 : 0) + (state.cat ? 1 : 0) +
+           (state.region ? 1 : 0) + (state.newonly ? 1 : 0) + (state.savedonly ? 1 : 0);
+  }
+
+  function clearFilters() {
+    state.q = ""; state.company = ""; state.cat = ""; state.region = "";
+    state.newonly = false; state.savedonly = false;
+    $("q").value = ""; $("company").value = ""; $("region").value = "";
+    refresh();
+  }
+
+  /* ---------- render ---------- */
   function render() {
     var rows = jobs.filter(function (j) {
       if (state.company && j.company !== state.company) return false;
       if (state.cat && j.category !== state.cat) return false;
+      if (state.region && j.regions.indexOf(state.region) === -1) return false;
       if (state.newonly && !j.isNew) return false;
+      if (state.savedonly && !saved[j.key]) return false;
       if (state.q && j.search.indexOf(state.q) === -1) return false;
       return true;
     });
@@ -260,7 +596,7 @@
     var byDate = function (field) {
       return function (a, b) {
         var av = a[field] || "", bv = b[field] || "";
-        if (av !== bv) return av < bv ? 1 : -1; // desc, empty last
+        if (av !== bv) return av < bv ? 1 : -1; // desc, undated last
         return a.company < b.company ? -1 : 1;
       };
     };
@@ -271,10 +607,19 @@
       return (a.posted || "") < (b.posted || "") ? 1 : -1;
     });
 
-    $("count").textContent = "Showing " + rows.length + " of " + jobs.length + " open internships";
+    var nFilters = activeFilterCount();
+    $("count").textContent = nFilters
+      ? "Showing " + rows.length + " of " + jobs.length + " open internships"
+      : jobs.length + " open internships";
+    $("clear").hidden = nFilters === 0;
 
     if (!rows.length) {
-      list.innerHTML = '<div class="empty">No internships match these filters.</div>';
+      list.innerHTML = '<div class="empty"><div class="big">🔍</div>' +
+        (state.savedonly && !Object.keys(saved).length
+          ? "You haven’t saved any roles yet — click the ☆ on a listing to save it here."
+          : "No internships match these filters.") +
+        '<br><button id="empty-clear">Clear all filters</button></div>';
+      $("empty-clear").addEventListener("click", clearFilters);
       return;
     }
 
@@ -286,7 +631,8 @@
           if (cur !== null) html.push("</div>");
           cur = j.company;
           var n = rows.filter(function (x) { return x.company === cur; }).length;
-          html.push('<div class="group"><h2>' + esc(cur) + ' <span class="n">' + n + "</span></h2>");
+          html.push('<div class="group"><h2>' + esc(cur) + ' <span class="n">' + n +
+            (n === 1 ? " role" : " roles") + "</span></h2>");
         }
         html.push(jobCard(j, true));
       });
@@ -295,25 +641,47 @@
       rows.forEach(function (j) { html.push(jobCard(j, false)); });
     }
     list.innerHTML = html.join("");
+
+    // wire star buttons
+    Array.prototype.forEach.call(list.querySelectorAll(".star-btn"), function (btn) {
+      btn.addEventListener("click", function () {
+        var k = btn.getAttribute("data-k");
+        if (saved[k]) delete saved[k]; else saved[k] = 1;
+        persistSaved();
+        btn.classList.toggle("on", !!saved[k]);
+        btn.textContent = saved[k] ? "★" : "☆";
+        btn.title = saved[k] ? "Remove from saved" : "Save for later";
+        buildChips();
+        if (state.savedonly) render();
+      });
+    });
   }
 
   function jobCard(j, hideCompany) {
     var loc = j.locations.length > 2
-      ? esc(j.locations[0]) + ' <span title="' + esc(j.locations.join("\n")) + '">+' + (j.locations.length - 1) + " more</span>"
+      ? esc(j.locations[0]) + ' <span title="' + esc(j.locations.join("\n")) + '" style="cursor:help;text-decoration:underline dotted">+' + (j.locations.length - 1) + " more</span>"
       : esc(j.locations.join(" · "));
-    return '<div class="job">' +
-      '<a class="title" href="' + esc(j.url) + '" target="_blank" rel="noopener">' + esc(j.title) + "</a>" +
-      '<div class="info">' +
-        (hideCompany ? "" : "<span><b>" + esc(j.company) + "</b></span>") +
-        "<span>📍 " + loc + "</span>" +
-        (j.posted ? '<span class="date">posted ' + esc(j.posted) + "</span>" : "") +
+    var isSaved = !!saved[j.key];
+    return '<div class="job' + (j.isNew ? " is-new" : "") + '">' +
+      '<div class="avatar" style="background:' + brandColor(j.company) + '" aria-hidden="true">' + esc(initials(j.company)) + "</div>" +
+      '<div class="job-main">' +
+        '<a class="title" href="' + esc(j.url) + '" target="_blank" rel="noopener">' + esc(j.title) + "</a>" +
+        '<div class="info">' +
+          (hideCompany ? "" : '<span class="co">' + esc(j.company) + "</span>") +
+          "<span>📍 " + loc + "</span>" +
+          (j.posted ? '<span class="date" title="posted ' + esc(j.posted) + '">🗓️ ' + relDate(j.posted) + "</span>" : "") +
+        "</div>" +
       "</div>" +
-      '<div class="right">' +
+      '<div class="badges">' +
         (j.isNew ? '<span class="badge new">🆕 new</span>' : "") +
         '<span class="badge cat" data-c="' + esc(j.category) + '">' + esc(j.category) + "</span>" +
-      "</div></div>";
+      "</div>" +
+      '<button class="star-btn' + (isSaved ? " on" : "") + '" data-k="' + esc(j.key) + '" title="' +
+        (isSaved ? "Remove from saved" : "Save for later") + '">' + (isSaved ? "★" : "☆") + "</button>" +
+      "</div>";
   }
 
+  /* ---------- utils ---------- */
   function uniq(a) {
     var s = {}; return a.filter(function (x) { return s[x] ? false : (s[x] = true); });
   }
@@ -327,6 +695,14 @@
     if (h < 1) return "just now";
     if (h < 24) return h + "h ago";
     return Math.round(h / 24) + "d ago";
+  }
+  function relDate(iso) {
+    var days = Math.round((Date.now() - new Date(iso + "T00:00:00Z").getTime()) / 864e5);
+    if (days <= 0) return "today";
+    if (days === 1) return "yesterday";
+    if (days < 30) return days + "d ago";
+    if (days < 365) return Math.round(days / 30.44) + "mo ago";
+    return (days / 365).toFixed(1).replace(/\.0$/, "") + "y ago";
   }
 })();
 </script>
