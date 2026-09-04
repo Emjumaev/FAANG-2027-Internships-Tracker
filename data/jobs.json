@@ -1721,6 +1721,20 @@
       "title": "Software Engineering Intern (2027 Start) - Winter",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
     },
+    "figma:6131089004": {
+      "active": true,
+      "category": "Software",
+      "company": "Figma",
+      "external_id": "6131089004",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "locations": [
+        "San Francisco, CA \u2022 New York, NY"
+      ],
+      "posted": "2026-08-10",
+      "title": "Software Engineer Intern (Winter 2027)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004"
+    },
     "google:100028133205254854": {
       "active": true,
       "category": "Backend/Infra",
@@ -5834,7 +5848,49 @@
       "posted": "2026-07-17",
       "title": "2027 Software Engineering Internship, Uber Career Prep",
       "url": "https://www.uber.com/global/en/careers/list/302133/"
+    },
+    "waymo:8167323": {
+      "active": true,
+      "category": "Data",
+      "company": "Waymo",
+      "external_id": "8167323",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "locations": [
+        "San Francisco, California, United States"
+      ],
+      "posted": "2026-08-31",
+      "title": "2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8167323"
+    },
+    "waymo:8174099": {
+      "active": true,
+      "category": "Software",
+      "company": "Waymo",
+      "external_id": "8174099",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "locations": [
+        "Mountain View, California, USA"
+      ],
+      "posted": "2026-09-03",
+      "title": "2027 Summer Intern, BS, SysEng Software Engineer",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8174099"
+    },
+    "waymo:8174504": {
+      "active": true,
+      "category": "Software",
+      "company": "Waymo",
+      "external_id": "8174504",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "locations": [
+        "San Francisco, California, USA"
+      ],
+      "posted": "2026-09-03",
+      "title": "2027 Summer Intern, MS, Software Engineering, Behavior Test",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
     }
   },
-  "updated_at": "2026-09-04T06:40:24Z"
+  "updated_at": "2026-09-04T06:54:25Z"
 }

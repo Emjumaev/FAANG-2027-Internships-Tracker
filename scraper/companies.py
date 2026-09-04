@@ -9,7 +9,12 @@ from .adapters import (amazon, apple, ashby, bloomberg, eightfold,
                        microsoft, oracle_hcm, phenom, spotify, uber, workday)
 
 # Companies we can't cover, and why — rendered into the README summary table.
-UNSUPPORTED = {}
+UNSUPPORTED = {
+    "Tesla": ("careers site and its JSON API sit behind Akamai bot protection "
+              "that returns 403 to every non-browser client; needs a headless browser"),
+    "ByteDance": ("joinbytedance.com's job-search API rejects requests that "
+                  "don't carry its in-browser client signature; needs a headless browser"),
+}
 
 COMPANIES = [
     # --- Greenhouse boards ---------------------------------------------------
@@ -20,6 +25,15 @@ COMPANIES = [
     {"name": "Hudson River Trading", "fetch": greenhouse.fetch, "token": "wehrtyou"},
     {"name": "Pinterest", "fetch": greenhouse.fetch, "token": "pinterest"},
     {"name": "Stripe", "fetch": greenhouse.fetch, "token": "stripe"},
+    {"name": "Dropbox", "fetch": greenhouse.fetch, "token": "dropbox"},
+    {"name": "Reddit", "fetch": greenhouse.fetch, "token": "reddit"},
+    {"name": "Scale AI", "fetch": greenhouse.fetch, "token": "scaleai"},
+    {"name": "Waymo", "fetch": greenhouse.fetch, "token": "waymo"},
+    {"name": "Figma", "fetch": greenhouse.fetch, "token": "figma"},
+    {"name": "DoorDash", "fetch": greenhouse.fetch, "token": "doordashusa"},
+    {"name": "Lyft", "fetch": greenhouse.fetch, "token": "lyft"},
+    {"name": "Coinbase", "fetch": greenhouse.fetch, "token": "coinbase"},
+    {"name": "MongoDB", "fetch": greenhouse.fetch, "token": "mongodb"},
 
     # --- Ashby ---------------------------------------------------------------
     {"name": "OpenAI", "fetch": ashby.fetch, "org": "openai"},
