@@ -2,7 +2,7 @@
 
 Auto-updated list of **open software-engineering internships** — AI/ML, Data,
 Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
-companies, scraped directly from each company's careers API every 6 hours by
+companies, scraped directly from each company's careers API every 2 hours by
 GitHub Actions.
 
 🔎 **[Check out the website →](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
