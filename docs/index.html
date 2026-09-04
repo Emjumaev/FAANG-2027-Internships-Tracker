@@ -241,7 +241,8 @@
 
   .job-actions {
     display: flex; flex-direction: column; align-items: flex-end;
-    justify-content: space-between; gap: 10px; flex-shrink: 0;
+    justify-content: flex-end; gap: 10px; flex-shrink: 0;
+    min-height: 76px; /* keeps Apply clear of the absolute bookmark in short cards */
   }
   .apply-btn {
     display: inline-block;
@@ -266,11 +267,8 @@
     aside { position: static; display: none; margin-bottom: 8px; }
     aside.open { display: block; }
     .job { flex-wrap: wrap; padding: 14px; }
-    .job-actions { flex-direction: row; width: 100%; justify-content: flex-start; margin-left: 60px; }
+    .job-actions { flex-direction: row; width: 100%; justify-content: flex-end; min-height: 0; }
     .job .title { padding-right: 34px; }
-  }
-  @media (max-width: 480px) {
-    .job-actions { margin-left: 0; }
   }
 
   .empty, .loading, .error { text-align: center; color: var(--dim); padding: 60px 20px; }
