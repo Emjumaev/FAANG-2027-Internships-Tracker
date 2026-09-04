@@ -10,7 +10,7 @@ HEADER = """\
 
 Auto-updated list of **open software-engineering internships** — AI/ML, Data,
 Mobile, Frontend, Backend/Infra, QA and Security roles — at {n_companies} top tech
-companies, scraped directly from each company's careers API every 6 hours by
+companies, scraped directly from each company's careers API every 2 hours by
 GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
