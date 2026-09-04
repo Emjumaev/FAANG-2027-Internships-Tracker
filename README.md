@@ -1,17 +1,16 @@
 # 🎯 Software Engineering Internship Tracker
 
 Auto-updated list of **open software-engineering internships** — AI/ML, Data,
-Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
+Mobile, Frontend, Backend/Infra, QA and Security roles — at 37 top tech
 companies, scraped directly from each company's careers API every 2 hours by
 GitHub Actions.
 
-🔎 **[Check out the website →](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
-— searchable and filterable by company, category and location.
+🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-04 04:53:25 UTC** · 📌 **232** open internships
+> 🕐 Last updated: **2026-09-04 06:54:25 UTC** · 📌 **236** open internships
 > · 🆕 = added in the last 7 days
 
-⭐ Star this repo to keep an eye on new openings.
+⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
 
 | Company | Open internships |
 |---|---|
@@ -23,26 +22,37 @@ GitHub Actions.
 | Bloomberg | — |
 | [Cisco](#cisco) | 6 |
 | [Cloudflare](#cloudflare) | 6 |
+| Coinbase | — |
 | [Databricks](#databricks) | 2 |
+| DoorDash | — |
+| Dropbox | — |
+| [Figma](#figma) | 1 |
 | GitHub | — |
 | [Google](#google) | 29 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
 | [Intel](#intel) | 14 |
 | [Jane Street](#jane-street) | 19 |
+| Lyft | — |
 | [Meta](#meta) | 10 |
 | [Microsoft](#microsoft) | 23 |
+| MongoDB | — |
 | [NVIDIA](#nvidia) | 49 |
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
 | [Oracle](#oracle) | 3 |
 | PayPal | — |
 | Pinterest | — |
+| Reddit | — |
 | [Salesforce](#salesforce) | 2 |
+| Scale AI | — |
 | Snap | — |
 | [Snowflake](#snowflake) | 2 |
 | Spotify | — |
 | [Stripe](#stripe) | 6 |
 | Uber | — |
+| [Waymo](#waymo) | 3 |
+| ByteDance | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* |
+| Tesla | *careers site and its JSON API sit behind Akamai bot protection that returns 403 to every non-browser client; needs a headless browser* |
 
 ---
 
@@ -147,6 +157,12 @@ GitHub Actions.
 |---|---|---|---|---|
 | [Software Engineering Intern (2027 Start) - Winter](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) | Software | Bellevue, Washington; Mountain View, California; San Francisco, California | 2026-08-20 | 2026-08-21 |
 | [PhD GenAI Research Scientist Intern](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) | AI/ML | San Francisco, California | 2023-11-07 | 2026-07-09 |
+
+## Figma
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [Software Engineer Intern (Winter 2027)](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004) 🆕 | Software | San Francisco, CA • New York, NY | 2026-08-10 | 2026-09-04 |
 
 ## Google
 
@@ -367,6 +383,14 @@ GitHub Actions.
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867) 🆕 | Software | London | 2026-08-31 | 2026-08-31 |
 | [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801) | Software | Dublin | 2026-08-17 | 2026-08-18 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833) | Software | Bengaluru | 2026-07-10 | 2026-07-10 |
+
+## Waymo
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [2027 Summer Intern, MS, Software Engineering, Behavior Test](https://careers.withwaymo.com/jobs?gh_jid=8174504) 🆕 | Software | San Francisco, California, USA | 2026-09-03 | 2026-09-04 |
+| [2027 Summer Intern, BS, SysEng Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8174099) 🆕 | Software | Mountain View, California, USA | 2026-09-03 | 2026-09-04 |
+| [2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing](https://careers.withwaymo.com/jobs?gh_jid=8167323) 🆕 | Data | San Francisco, California, United States | 2026-08-31 | 2026-09-04 |
 
 
 ---
