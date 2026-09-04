@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-04 12:50:49 UTC** · 📌 **236** open internships
+> 🕐 Last updated: **2026-09-04 17:43:53 UTC** · 📌 **237** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -21,7 +21,7 @@ GitHub Actions.
 | [Apple](#apple) | 16 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 7 |
-| [Cloudflare](#cloudflare) | 6 |
+| [Cloudflare](#cloudflare) | 3 |
 | Coinbase | — |
 | [Databricks](#databricks) | 2 |
 | DoorDash | — |
@@ -34,9 +34,9 @@ GitHub Actions.
 | [Jane Street](#jane-street) | 19 |
 | Lyft | — |
 | [Meta](#meta) | 10 |
-| [Microsoft](#microsoft) | 23 |
+| [Microsoft](#microsoft) | 24 |
 | MongoDB | — |
-| [NVIDIA](#nvidia) | 49 |
+| [NVIDIA](#nvidia) | 51 |
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
 | [Oracle](#oracle) | 3 |
@@ -44,7 +44,7 @@ GitHub Actions.
 | Pinterest | — |
 | Reddit | — |
 | [Salesforce](#salesforce) | 2 |
-| Scale AI | — |
+| [Scale AI](#scale-ai) | 1 |
 | Snap | — |
 | [Snowflake](#snowflake) | 2 |
 | Spotify | — |
@@ -146,9 +146,6 @@ GitHub Actions.
 |---|---|---|---|---|
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | Software | In-Office | 2026-08-20 | 2026-08-20 |
 | [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845) | Software | In-Office | 2026-08-10 | 2026-08-11 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | AI/ML | In-Office | 2026-07-29 | 2026-07-29 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | AI/ML | In-Office | 2026-07-28 | 2026-07-28 |
-| [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | AI/ML | In-Office | 2026-07-28 | 2026-07-28 |
 | [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) | Software | In-Office | 2026-07-14 | 2026-07-15 |
 
 ## Databricks
@@ -266,6 +263,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities](https://apply.careers.microsoft.com/careers/job/1970393556866895) | Software | Egypt, Cairo, Cairo | 2026-09-04 | 2026-07-20 |
 | [Penetration Tester: Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393556962158) 🆕 | Security | United States, Washington, Redmond | 2026-09-03 | 2026-09-03 |
 | [Data Science: AI Experiences PhD Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556986137) 🆕 | AI/ML | United States, Washington, Redmond | 2026-09-03 | 2026-09-04 |
 | [Applied Science: Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556986141) 🆕 | AI/ML | United States, Washington, Redmond | 2026-09-03 | 2026-09-03 |
@@ -294,6 +292,8 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Deep Learning Algorithm Engineering Intern - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814) 🆕 | AI/ML | Switzerland, Zurich | 2026-09-04 | 2026-09-04 |
+| [AI Developer Technology Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818) 🆕 | AI/ML | 3 Locations | 2026-09-04 | 2026-09-04 |
 | [Developer Technology Engineering Intern, HPC and AI - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509) 🆕 | AI/ML | Taiwan, Taipei | 2026-09-01 | 2026-09-01 |
 | [System Software Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer--RDSS-Intern-_JR2024500) 🆕 | Software | Taiwan, Taipei | 2026-08-31 | 2026-08-30 |
 | [Software Engineering Intern, Test Development - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023648) 🆕 | Software | China, Shanghai | 2026-08-31 | 2026-08-30 |
@@ -365,6 +365,12 @@ GitHub Actions.
 |---|---|---|---|---|
 | [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) 🆕 | Software | 8 Locations | 2026-08-31 | 2026-08-28 |
 | [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) | Software | 2 Locations | 2026-07-28 | 2026-07-14 |
+
+## Scale AI
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) 🆕 | Software | San Francisco, CA | 2026-09-04 | 2026-09-04 |
 
 ## Snowflake
 
