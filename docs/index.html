@@ -6,98 +6,64 @@
 <title>Internship Tracker — Open SWE Internships at Top Tech Companies</title>
 <meta name="description" content="Auto-updated list of open software-engineering internships at 28 top tech companies, scraped from official careers APIs every 6 hours.">
 <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3Ctext%20y='.9em'%20font-size='90'%3E%F0%9F%8E%AF%3C/text%3E%3C/svg%3E">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Schibsted+Grotesk:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Spline+Sans+Mono:wght@400;500;600&display=swap">
 <style>
   :root {
-    --bg: #f2f5f8;
+    --bg: #f4f5f7;
     --surface: #ffffff;
-    --surface-2: #e8edf2;
-    --border: #dde4ea;
-    --border-strong: #c8d2db;
-    --ink: #151a20;
-    --dim: #5b6673;
-    --faint: #8b96a2;
-    --accent: #0e7490;
-    --accent-ink: #0c657e;
-    --accent-soft: #d9f0f6;
-    --live: #16a34a;
-    --new-bg: #e3f6e9;
-    --new-fg: #15803d;
-    --star: #d97706;
-    --star-soft: #fdf0dd;
-    --grid-line: rgba(14, 116, 144, .07);
-    --shadow: 0 1px 2px rgba(21, 26, 32, .05);
-    --shadow-lift: 0 4px 14px rgba(21, 26, 32, .08);
-    /* category hues */
-    --c-aiml: #0b7285;     --c-aiml-bg: #d9f0f6;
-    --c-software: #3b5bdb; --c-software-bg: #e2e7fb;
-    --c-backend: #6741d9;  --c-backend-bg: #eae4fa;
-    --c-data: #d9480f;     --c-data-bg: #fbe5da;
-    --c-qa: #2f9e44;       --c-qa-bg: #e0f3e4;
-    --c-security: #e03131; --c-security-bg: #fbe1e1;
-    --c-mobile: #c2255c;   --c-mobile-bg: #fae0ea;
+    --surface-2: #f0f2f5;
+    --border: #e0e3e8;
+    --border-strong: #c3cad3;
+    --ink: #1c1f23;
+    --dim: #56616c;
+    --faint: #8a939d;
+    --brand: #0b66c2;
+    --brand-hover: #084e96;
+    --brand-soft: #e8f1fa;
+    --new-fg: #157347;
+    --new-bg: #e3f4ea;
+    --save: #0b66c2;
+    --shadow: 0 1px 2px rgba(28, 31, 35, .06);
+    --shadow-lift: 0 3px 10px rgba(28, 31, 35, .1);
     color-scheme: light;
   }
   @media (prefers-color-scheme: dark) {
     :root:not([data-theme="light"]) {
-      --bg: #0c1116;
-      --surface: #141b23;
-      --surface-2: #1d2732;
-      --border: #263241;
-      --border-strong: #35455a;
-      --ink: #e6ebef;
-      --dim: #93a1ad;
-      --faint: #64707c;
-      --accent: #3fc6e0;
-      --accent-ink: #7edcef;
-      --accent-soft: #123a46;
-      --live: #4ade80;
-      --new-bg: #123423;
-      --new-fg: #4ade80;
-      --star: #fbbf24;
-      --star-soft: #3a2d10;
-      --grid-line: rgba(63, 198, 224, .05);
-      --shadow: 0 1px 2px rgba(0, 0, 0, .35);
-      --shadow-lift: 0 4px 16px rgba(0, 0, 0, .45);
-      --c-aiml: #4dd4f0;     --c-aiml-bg: #0f3742;
-      --c-software: #86a1ff; --c-software-bg: #1c2a52;
-      --c-backend: #b197fc;  --c-backend-bg: #2a2050;
-      --c-data: #ffa94d;     --c-data-bg: #40260f;
-      --c-qa: #69db7c;       --c-qa-bg: #12331b;
-      --c-security: #ff8787; --c-security-bg: #42191c;
-      --c-mobile: #faa2c1;   --c-mobile-bg: #451729;
+      --bg: #101418;
+      --surface: #1a2026;
+      --surface-2: #232b33;
+      --border: #2c353f;
+      --border-strong: #43505c;
+      --ink: #e8ebee;
+      --dim: #9aa5b0;
+      --faint: #6b7680;
+      --brand: #6ab1f7;
+      --brand-hover: #8fc4fa;
+      --brand-soft: #17293c;
+      --new-fg: #57cf8b;
+      --new-bg: #143526;
+      --save: #6ab1f7;
+      --shadow: 0 1px 2px rgba(0, 0, 0, .4);
+      --shadow-lift: 0 3px 12px rgba(0, 0, 0, .5);
       color-scheme: dark;
     }
   }
   :root[data-theme="dark"] {
-    --bg: #0c1116;
-    --surface: #141b23;
-    --surface-2: #1d2732;
-    --border: #263241;
-    --border-strong: #35455a;
-    --ink: #e6ebef;
-    --dim: #93a1ad;
-    --faint: #64707c;
-    --accent: #3fc6e0;
-    --accent-ink: #7edcef;
-    --accent-soft: #123a46;
-    --live: #4ade80;
-    --new-bg: #123423;
-    --new-fg: #4ade80;
-    --star: #fbbf24;
-    --star-soft: #3a2d10;
-    --grid-line: rgba(63, 198, 224, .05);
-    --shadow: 0 1px 2px rgba(0, 0, 0, .35);
-    --shadow-lift: 0 4px 16px rgba(0, 0, 0, .45);
-    --c-aiml: #4dd4f0;     --c-aiml-bg: #0f3742;
-    --c-software: #86a1ff; --c-software-bg: #1c2a52;
-    --c-backend: #b197fc;  --c-backend-bg: #2a2050;
-    --c-data: #ffa94d;     --c-data-bg: #40260f;
-    --c-qa: #69db7c;       --c-qa-bg: #12331b;
-    --c-security: #ff8787; --c-security-bg: #42191c;
-    --c-mobile: #faa2c1;   --c-mobile-bg: #451729;
+    --bg: #101418;
+    --surface: #1a2026;
+    --surface-2: #232b33;
+    --border: #2c353f;
+    --border-strong: #43505c;
+    --ink: #e8ebee;
+    --dim: #9aa5b0;
+    --faint: #6b7680;
+    --brand: #6ab1f7;
+    --brand-hover: #8fc4fa;
+    --brand-soft: #17293c;
+    --new-fg: #57cf8b;
+    --new-bg: #143526;
+    --save: #6ab1f7;
+    --shadow: 0 1px 2px rgba(0, 0, 0, .4);
+    --shadow-lift: 0 3px 12px rgba(0, 0, 0, .5);
     color-scheme: dark;
   }
 
@@ -106,341 +72,307 @@
     margin: 0;
     background: var(--bg);
     color: var(--ink);
-    font: 15px/1.55 "Schibsted Grotesk", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font: 14.5px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   }
-  a { color: var(--accent-ink); }
-  .wrap { max-width: 1060px; margin: 0 auto; padding: 0 20px 72px; }
+  a { color: var(--brand); }
+  button { font-family: inherit; }
+  input, select { font-family: inherit; }
+  input:focus-visible, select:focus-visible, button:focus-visible, a:focus-visible {
+    outline: 2px solid var(--brand); outline-offset: 1px;
+  }
 
-  /* ---------- header ---------- */
-  .hero {
-    position: relative;
-    padding: 44px 0 26px;
-  }
-  .hero::before {
-    content: "";
-    position: absolute; inset: 0 -20vw;
-    background:
-      linear-gradient(var(--grid-line) 1px, transparent 1px),
-      linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
-    background-size: 34px 34px;
-    -webkit-mask-image: linear-gradient(#000 55%, transparent);
-            mask-image: linear-gradient(#000 55%, transparent);
-    pointer-events: none;
-  }
-  .hero > * { position: relative; }
-  .hero-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; }
-  .eyebrow {
-    font: 600 11.5px/1 "Spline Sans Mono", ui-monospace, monospace;
-    letter-spacing: .14em; text-transform: uppercase;
-    color: var(--accent-ink);
-    margin: 0 0 12px;
-  }
-  h1 {
-    font-family: "Bricolage Grotesque", "Schibsted Grotesk", sans-serif;
-    font-size: clamp(30px, 5.4vw, 44px);
-    font-weight: 800;
-    letter-spacing: -.025em;
-    line-height: 1.04;
-    margin: 0 0 10px;
-    text-wrap: balance;
-  }
-  .sub { color: var(--dim); margin: 0 0 16px; max-width: 58ch; font-size: 15px; }
-  .statusline {
-    display: inline-flex; align-items: center; gap: 9px; flex-wrap: wrap;
-    font: 500 12.5px/1.4 "Spline Sans Mono", ui-monospace, monospace;
-    color: var(--dim);
+  /* ---------- navbar ---------- */
+  .nav {
+    position: sticky; top: 0; z-index: 20;
     background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 999px;
-    padding: 6px 14px 6px 11px;
-    box-shadow: var(--shadow);
-  }
-  .pulse {
-    width: 8px; height: 8px; border-radius: 50%;
-    background: var(--live); flex-shrink: 0;
-  }
-  @media (prefers-reduced-motion: no-preference) {
-    .pulse { animation: pulse 2.2s ease-out infinite; }
-    @keyframes pulse {
-      0%   { box-shadow: 0 0 0 0 color-mix(in srgb, var(--live) 45%, transparent); }
-      70%  { box-shadow: 0 0 0 9px transparent; }
-      100% { box-shadow: 0 0 0 0 transparent; }
-    }
-  }
-  .statusline b { color: var(--ink); font-weight: 600; }
-  .theme-btn {
-    background: var(--surface); border: 1px solid var(--border); color: var(--dim);
-    border-radius: 10px; padding: 8px 11px; cursor: pointer; font-size: 15px;
-    line-height: 1; flex-shrink: 0; box-shadow: var(--shadow);
-  }
-  .theme-btn:hover { border-color: var(--accent); color: var(--ink); }
-
-  /* ---------- stats ---------- */
-  .stats {
-    display: grid;
-    grid-template-columns: repeat(3, minmax(120px, max-content)) 1fr;
-    gap: 10px;
-    margin: 22px 0 6px;
-    align-items: stretch;
-  }
-  .stat {
-    background: var(--surface); border: 1px solid var(--border); border-radius: 14px;
-    padding: 13px 18px 11px; box-shadow: var(--shadow);
-  }
-  .stat b {
-    display: block;
-    font: 600 27px/1.1 "Spline Sans Mono", ui-monospace, monospace;
-    letter-spacing: -.03em;
-    font-variant-numeric: tabular-nums;
-  }
-  .stat.stat-new b { color: var(--new-fg); }
-  .stat span {
-    color: var(--dim); font-size: 11.5px; font-weight: 500;
-    text-transform: uppercase; letter-spacing: .07em;
-  }
-  .mix {
-    background: var(--surface); border: 1px solid var(--border); border-radius: 14px;
-    padding: 13px 18px 11px; box-shadow: var(--shadow);
-    display: flex; flex-direction: column; justify-content: space-between; gap: 8px;
-    min-width: 220px;
-  }
-  .mix .label { color: var(--dim); font-size: 11.5px; font-weight: 500; text-transform: uppercase; letter-spacing: .07em; }
-  .mixbar { display: flex; height: 10px; border-radius: 5px; overflow: hidden; gap: 2px; }
-  .mixbar span { min-width: 3px; border-radius: 2px; }
-  @media (max-width: 760px) {
-    .stats { grid-template-columns: repeat(3, 1fr); }
-    .mix { grid-column: 1 / -1; }
-  }
-
-  /* ---------- toolbar ---------- */
-  .toolbar {
-    position: sticky; top: 0; z-index: 6;
-    background: color-mix(in srgb, var(--bg) 78%, transparent);
-    -webkit-backdrop-filter: blur(12px); backdrop-filter: blur(12px);
-    padding: 12px 0 10px;
-    display: flex; gap: 8px; flex-wrap: wrap; align-items: center;
     border-bottom: 1px solid var(--border);
   }
-  .search-box { position: relative; flex: 1 1 250px; min-width: 210px; }
-  .search-box .icon {
-    position: absolute; left: 12px; top: 50%; transform: translateY(-50%);
-    color: var(--faint); pointer-events: none; font-size: 13px;
+  .nav-inner {
+    max-width: 1120px; margin: 0 auto; padding: 0 20px;
+    height: 54px; display: flex; align-items: center; gap: 14px;
   }
-  .search-box kbd {
-    position: absolute; right: 10px; top: 50%; transform: translateY(-50%);
-    background: var(--surface-2); border: 1px solid var(--border); border-radius: 5px;
-    color: var(--faint); font: 500 11px "Spline Sans Mono", monospace; padding: 1px 6px; pointer-events: none;
+  .logo-mark { font-size: 21px; }
+  .nav .name { font-weight: 700; font-size: 16.5px; letter-spacing: -.01em; }
+  .nav .name span { color: var(--brand); }
+  .nav-right { margin-left: auto; display: flex; align-items: center; gap: 10px; }
+  .nav-right a { color: var(--dim); text-decoration: none; font-size: 13.5px; font-weight: 500; }
+  .nav-right a:hover { color: var(--brand); }
+  .theme-btn {
+    background: none; border: 1px solid var(--border); color: var(--dim);
+    border-radius: 8px; padding: 6px 9px; cursor: pointer; font-size: 14px; line-height: 1;
+  }
+  .theme-btn:hover { border-color: var(--border-strong); color: var(--ink); }
+
+  /* ---------- search hero ---------- */
+  .hero {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 26px 0 24px;
+  }
+  .hero-inner { max-width: 1120px; margin: 0 auto; padding: 0 20px; }
+  .hero h1 { font-size: 22px; margin: 0 0 4px; letter-spacing: -.015em; }
+  .hero p { margin: 0 0 16px; color: var(--dim); font-size: 14px; }
+  .hero p b { color: var(--ink); }
+  .searchbar { display: flex; gap: 10px; flex-wrap: wrap; }
+  .search-box { position: relative; flex: 1 1 320px; min-width: 220px; }
+  .search-box .icon {
+    position: absolute; left: 13px; top: 50%; transform: translateY(-50%);
+    color: var(--faint); pointer-events: none; font-size: 14px;
   }
   input[type="search"] {
     width: 100%;
     background: var(--surface); color: var(--ink);
-    border: 1px solid var(--border); border-radius: 10px;
-    padding: 9px 34px 9px 32px; font: inherit; font-size: 14px;
-    box-shadow: var(--shadow);
+    border: 1.5px solid var(--border-strong); border-radius: 10px;
+    padding: 11px 14px 11px 36px; font-size: 15px;
   }
-  input[type="search"]::-webkit-search-cancel-button { margin-right: 24px; }
+  input[type="search"]:hover { border-color: var(--faint); }
   input[type="search"]::placeholder { color: var(--faint); }
-  select {
+  .region-select {
     background: var(--surface); color: var(--ink);
-    border: 1px solid var(--border); border-radius: 10px;
-    padding: 9px 10px; font: inherit; font-size: 13.5px;
-    cursor: pointer; max-width: 195px; box-shadow: var(--shadow);
-  }
-  input[type="search"]:focus-visible, select:focus-visible, button:focus-visible, a:focus-visible {
-    outline: 2px solid var(--accent); outline-offset: 1px;
+    border: 1.5px solid var(--border-strong); border-radius: 10px;
+    padding: 11px 12px; font-size: 14.5px; cursor: pointer;
+    flex: 0 1 240px; min-width: 170px;
   }
 
-  /* ---------- chips ---------- */
-  .chips { display: flex; gap: 6px; flex-wrap: wrap; padding: 12px 0 0; align-items: center; }
-  .chips .sep { width: 1px; align-self: stretch; background: var(--border-strong); margin: 3px 5px; }
-  .chip {
-    background: var(--surface); border: 1px solid var(--border); color: var(--dim);
-    border-radius: 999px; padding: 5px 13px; font-size: 13px; cursor: pointer;
-    font-family: inherit; font-weight: 500;
-    transition: border-color .12s, transform .12s;
+  /* ---------- layout ---------- */
+  .layout {
+    max-width: 1120px; margin: 0 auto; padding: 20px 20px 72px;
+    display: grid; grid-template-columns: 264px minmax(0, 1fr); gap: 22px;
+    align-items: start;
   }
-  .chip:hover { border-color: var(--border-strong); color: var(--ink); transform: translateY(-1px); }
-  .chip .n { font: 500 11.5px "Spline Sans Mono", monospace; opacity: .8; margin-left: 2px; }
-  .chip .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; vertical-align: 0; background: var(--cc, var(--faint)); }
-  .chip.on { border-color: var(--cc, var(--accent)); background: var(--ccbg, var(--accent-soft)); color: var(--cc, var(--accent-ink)); font-weight: 600; }
-  .chip.all.on { --cc: var(--accent-ink); --ccbg: var(--accent-soft); }
-  .chip.toggle.on { --cc: var(--new-fg); --ccbg: var(--new-bg); }
-  .chip.saved-chip.on { --cc: var(--star); --ccbg: var(--star-soft); }
 
-  .meta-row {
-    display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap;
-    padding: 14px 2px 10px; color: var(--dim); font-size: 13px;
+  /* ---------- sidebar ---------- */
+  .filters-toggle {
+    display: none;
+    width: 100%;
+    background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
+    padding: 10px 14px; font-size: 14px; font-weight: 600; color: var(--ink);
+    cursor: pointer; box-shadow: var(--shadow);
+    text-align: left;
   }
-  #count { font: 500 12.5px "Spline Sans Mono", monospace; }
-  .clear-btn {
-    background: none; border: none; color: var(--accent-ink); cursor: pointer;
-    font: inherit; font-size: 13px; padding: 0; text-decoration: underline;
+  .filters-toggle .badge-n {
+    background: var(--brand); color: #fff; border-radius: 999px;
+    font-size: 11.5px; padding: 1px 7px; margin-left: 6px; font-weight: 600;
+  }
+  .filters-toggle .arrow { float: right; color: var(--dim); }
+  aside { position: sticky; top: 68px; }
+  .fgroup {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+    padding: 14px 16px 12px; margin-bottom: 12px; box-shadow: var(--shadow);
+  }
+  .fgroup h3 {
+    margin: 0 0 10px; font-size: 13px; text-transform: uppercase;
+    letter-spacing: .05em; color: var(--dim); font-weight: 600;
+  }
+  .fopt {
+    display: flex; align-items: center; gap: 9px;
+    padding: 4px 0; cursor: pointer; font-size: 14px; color: var(--ink);
+    user-select: none;
+  }
+  .fopt:hover { color: var(--brand); }
+  .fopt input { accent-color: var(--brand); width: 15px; height: 15px; margin: 0; cursor: pointer; flex-shrink: 0; }
+  .fopt .lbl { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .fopt .cnt { color: var(--faint); font-size: 12.5px; flex-shrink: 0; }
+  .fopt.special .lbl { font-weight: 500; }
+  .co-list { max-height: 246px; overflow-y: auto; margin-right: -6px; padding-right: 6px; }
+  .sidebar-reset {
+    width: 100%; background: none; border: 1px solid var(--border); border-radius: 10px;
+    color: var(--dim); font-size: 13.5px; padding: 8px; cursor: pointer;
+  }
+  .sidebar-reset:hover { color: var(--brand); border-color: var(--brand); }
+
+  /* ---------- results ---------- */
+  .results-head {
+    display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+    margin-bottom: 12px;
+  }
+  .results-head .rcount { font-size: 16px; font-weight: 700; }
+  .results-head .rcount small { color: var(--dim); font-weight: 400; font-size: 13px; margin-left: 6px; }
+  .clear-link {
+    background: none; border: none; color: var(--brand); cursor: pointer;
+    font-size: 13.5px; padding: 0; text-decoration: underline;
+  }
+  .sort-wrap { margin-left: auto; display: flex; align-items: center; gap: 7px; color: var(--dim); font-size: 13.5px; }
+  .sort-wrap select {
+    background: var(--surface); color: var(--ink);
+    border: 1px solid var(--border); border-radius: 8px;
+    padding: 7px 9px; font-size: 13.5px; cursor: pointer;
   }
 
   /* ---------- job cards ---------- */
-  .group h2 {
-    font-family: "Bricolage Grotesque", sans-serif;
-    font-size: 17px; font-weight: 700; letter-spacing: -.01em;
-    margin: 26px 0 10px; display: flex; align-items: baseline; gap: 8px;
-  }
-  .group h2 .n { color: var(--faint); font: 500 12px "Spline Sans Mono", monospace; }
-
   .job {
     position: relative;
-    background: var(--surface); border: 1px solid var(--border); border-radius: 14px;
-    padding: 14px 16px; margin-bottom: 9px; box-shadow: var(--shadow);
-    display: flex; gap: 14px; align-items: flex-start;
-    transition: border-color .14s, box-shadow .14s, transform .14s;
+    background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+    padding: 16px 18px; margin-bottom: 10px; box-shadow: var(--shadow);
+    display: flex; gap: 14px;
+    transition: border-color .12s, box-shadow .12s;
   }
-  .job:hover {
-    border-color: color-mix(in srgb, var(--accent) 45%, var(--border));
-    box-shadow: var(--shadow-lift);
-    transform: translateY(-1px);
-  }
-  @media (prefers-reduced-motion: no-preference) {
-    .animate .job { animation: rise .35s ease-out backwards; }
-    .animate .job:nth-child(n+13) { animation-delay: .25s; }
-    @keyframes rise { from { opacity: 0; transform: translateY(7px); } }
-  }
-  .animate .job:nth-child(1) { animation-delay: .02s; } .animate .job:nth-child(2) { animation-delay: .05s; }
-  .animate .job:nth-child(3) { animation-delay: .08s; } .animate .job:nth-child(4) { animation-delay: .11s; }
-  .animate .job:nth-child(5) { animation-delay: .13s; } .animate .job:nth-child(6) { animation-delay: .15s; }
-  .animate .job:nth-child(7) { animation-delay: .17s; } .animate .job:nth-child(8) { animation-delay: .19s; }
-  .animate .job:nth-child(9) { animation-delay: .2s; }  .animate .job:nth-child(10){ animation-delay: .21s; }
-  .animate .job:nth-child(11){ animation-delay: .22s; } .animate .job:nth-child(12){ animation-delay: .24s; }
-
+  .job:hover { border-color: var(--brand); box-shadow: var(--shadow-lift); }
   .logo {
     position: relative;
-    width: 40px; height: 40px; border-radius: 10px; flex-shrink: 0;
+    width: 46px; height: 46px; border-radius: 10px; flex-shrink: 0;
     background: var(--surface-2); border: 1px solid var(--border);
     display: flex; align-items: center; justify-content: center;
-    margin-top: 1px; user-select: none; overflow: hidden;
+    overflow: hidden; user-select: none;
   }
-  .logo .fb {
-    color: var(--dim); font: 700 13px "Bricolage Grotesque", sans-serif; letter-spacing: .02em;
-  }
-  .logo img { position: absolute; inset: 0; margin: auto; width: 24px; height: 24px; object-fit: contain; }
+  .logo .fb { color: var(--dim); font-weight: 700; font-size: 14px; }
+  .logo img { position: absolute; inset: 0; margin: auto; width: 28px; height: 28px; object-fit: contain; }
+
   .job-main { flex: 1; min-width: 0; }
   .job .title {
-    font-weight: 600; font-size: 15.5px; text-decoration: none; color: var(--ink);
-    overflow-wrap: anywhere; letter-spacing: -.005em;
+    display: inline-block;
+    font-size: 16px; font-weight: 600; color: var(--brand);
+    text-decoration: none; letter-spacing: -.005em;
+    overflow-wrap: anywhere; margin-bottom: 1px;
+    padding-right: 30px;
   }
-  .job .title:hover { color: var(--accent-ink); text-decoration: underline; text-underline-offset: 3px; }
-  .job .title::after { content: " ↗"; font-size: 11px; color: var(--faint); font-weight: 400; }
-  .job .info { color: var(--dim); font-size: 13px; display: flex; gap: 4px 14px; flex-wrap: wrap; margin-top: 4px; align-items: baseline; }
-  .job .info .co { font-weight: 600; color: var(--ink); }
-  .job .date { font: 500 12px "Spline Sans Mono", monospace; color: var(--faint); white-space: nowrap; }
+  .job .title:hover { text-decoration: underline; text-underline-offset: 3px; color: var(--brand-hover); }
+  .job .co { font-size: 14px; font-weight: 500; margin-bottom: 1px; }
+  .job .loc { color: var(--dim); font-size: 13.5px; }
   .loc-more { cursor: help; text-decoration: underline dotted; text-underline-offset: 2px; }
-
-  .badges { display: flex; flex-direction: column; align-items: flex-end; gap: 6px; flex-shrink: 0; padding-top: 2px; }
-  .badge {
-    display: inline-block; border-radius: 7px; padding: 2.5px 9px;
-    font-size: 11.5px; font-weight: 600; white-space: nowrap; letter-spacing: .01em;
+  .job .tags { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; margin-top: 9px; }
+  .tag {
+    display: inline-block; border-radius: 6px; padding: 2.5px 9px;
+    font-size: 12px; font-weight: 600;
+    background: var(--surface-2); color: var(--dim);
   }
-  .badge.new { background: var(--new-bg); color: var(--new-fg); }
-  .badge.new::before { content: ""; display: inline-block; width: 6px; height: 6px; border-radius: 50%; background: var(--new-fg); margin-right: 5px; vertical-align: 1px; }
-  .cat { background: var(--ccbg, var(--surface-2)); color: var(--cc, var(--dim)); }
+  .tag.new { background: var(--new-bg); color: var(--new-fg); }
+  .tag.posted { background: none; color: var(--faint); font-weight: 400; padding-left: 0; }
 
-  .star-btn {
-    background: none; border: none; cursor: pointer; padding: 3px 0 0 6px;
-    font-size: 19px; line-height: 1; color: var(--border-strong); flex-shrink: 0;
-    transition: transform .12s, color .12s;
+  .job-actions {
+    display: flex; flex-direction: column; align-items: flex-end;
+    justify-content: space-between; gap: 10px; flex-shrink: 0;
   }
-  .star-btn:hover { color: var(--star); transform: scale(1.15); }
-  .star-btn.on { color: var(--star); }
+  .apply-btn {
+    display: inline-block;
+    background: var(--brand); color: var(--surface);
+    border: none; border-radius: 999px;
+    padding: 7px 18px; font-size: 13.5px; font-weight: 600;
+    text-decoration: none; white-space: nowrap; cursor: pointer;
+  }
+  .apply-btn:hover { background: var(--brand-hover); color: var(--surface); }
+  .save-btn {
+    position: absolute; top: 13px; right: 14px;
+    background: none; border: none; cursor: pointer; padding: 4px;
+    color: var(--faint); line-height: 0; border-radius: 8px;
+  }
+  .save-btn:hover { color: var(--save); background: var(--brand-soft); }
+  .save-btn.on { color: var(--save); }
+  .save-btn svg { width: 20px; height: 20px; }
 
-  [data-cat="AI/ML"]         { --cc: var(--c-aiml);     --ccbg: var(--c-aiml-bg); }
-  [data-cat="Software"]      { --cc: var(--c-software); --ccbg: var(--c-software-bg); }
-  [data-cat="Backend/Infra"] { --cc: var(--c-backend);  --ccbg: var(--c-backend-bg); }
-  [data-cat="Data"]          { --cc: var(--c-data);     --ccbg: var(--c-data-bg); }
-  [data-cat="QA"]            { --cc: var(--c-qa);       --ccbg: var(--c-qa-bg); }
-  [data-cat="Security"]      { --cc: var(--c-security); --ccbg: var(--c-security-bg); }
-  [data-cat="Mobile"]        { --cc: var(--c-mobile);   --ccbg: var(--c-mobile-bg); }
-
-  @media (max-width: 600px) {
-    .hero { padding-top: 30px; }
-    .job { flex-wrap: wrap; padding: 13px 14px; }
-    .logo { width: 34px; height: 34px; }
-    .logo img { width: 20px; height: 20px; }
-    .job-main { flex-basis: calc(100% - 96px); }
-    .badges { flex-direction: row; width: 100%; order: 3; justify-content: flex-start; margin-left: 48px; padding-top: 0; }
-    select { flex: 1 1 40%; max-width: none; }
+  @media (max-width: 860px) {
+    .layout { grid-template-columns: 1fr; gap: 0; }
+    .filters-toggle { display: block; margin-bottom: 12px; }
+    aside { position: static; display: none; margin-bottom: 8px; }
+    aside.open { display: block; }
+    .job { flex-wrap: wrap; padding: 14px; }
+    .job-actions { flex-direction: row; width: 100%; justify-content: flex-start; margin-left: 60px; }
+    .job .title { padding-right: 34px; }
+  }
+  @media (max-width: 480px) {
+    .job-actions { margin-left: 0; }
   }
 
-  .empty, .loading, .error { text-align: center; color: var(--dim); padding: 64px 20px; }
-  .empty .big { font-size: 36px; margin-bottom: 10px; }
+  .empty, .loading, .error { text-align: center; color: var(--dim); padding: 60px 20px; }
+  .empty .big { font-size: 34px; margin-bottom: 8px; }
   .empty button {
-    margin-top: 16px; background: var(--accent); color: var(--bg); border: none;
-    border-radius: 9px; padding: 9px 20px; font: inherit; font-size: 14px; cursor: pointer; font-weight: 600;
+    margin-top: 14px; background: var(--brand); color: var(--surface); border: none;
+    border-radius: 999px; padding: 9px 22px; font-size: 14px; cursor: pointer; font-weight: 600;
   }
-  .loading { font: 500 13px "Spline Sans Mono", monospace; }
 
   footer {
-    margin-top: 48px; padding-top: 18px; border-top: 1px solid var(--border);
-    color: var(--dim); font-size: 13px; max-width: 70ch;
+    border-top: 1px solid var(--border);
+    background: var(--surface);
+  }
+  .footer-inner {
+    max-width: 1120px; margin: 0 auto; padding: 18px 20px 26px;
+    color: var(--dim); font-size: 13px;
   }
 </style>
 </head>
 <body>
-<div class="wrap">
-  <header class="hero">
-    <div class="hero-top">
-      <div>
-        <p class="eyebrow">28 companies · scraped every 6 hours</p>
-        <h1>Software Engineering<br>Internship Tracker</h1>
-        <p class="sub">Every open SWE internship at the biggest tech companies, pulled straight
-        from their official careers APIs. No stale spreadsheets — each listing links to the
-        real application page.</p>
-        <div class="statusline" id="statusline" hidden>
-          <span class="pulse" aria-hidden="true"></span>
-          <span>LIVE</span><span>·</span>
-          <span>last sweep <b id="stat-updated">–</b></span>
-        </div>
-      </div>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <span class="logo-mark">🎯</span>
+    <span class="name">Intern<span>Tracker</span></span>
+    <div class="nav-right">
+      <a id="repo-link" href="#" target="_blank" rel="noopener">GitHub</a>
       <button class="theme-btn" id="theme-btn" title="Toggle theme">◐</button>
     </div>
+  </div>
+</nav>
 
-    <div class="stats" id="stats" hidden>
-      <div class="stat"><b id="stat-open">–</b><span>open roles</span></div>
-      <div class="stat"><b id="stat-companies">–</b><span>hiring now</span></div>
-      <div class="stat stat-new"><b id="stat-new">–</b><span>new this week</span></div>
-      <div class="mix">
-        <span class="label">category mix</span>
-        <div class="mixbar" id="mixbar"></div>
+<section class="hero">
+  <div class="hero-inner">
+    <h1>Find your software engineering internship</h1>
+    <p id="hero-line">Openings at top tech companies, updated <b>every 6 hours</b> from official careers pages.</p>
+    <div class="searchbar">
+      <div class="search-box">
+        <span class="icon">🔍</span>
+        <input type="search" id="q" placeholder="Job title, company, or keyword" autocomplete="off">
       </div>
+      <select class="region-select" id="region" title="Filter by region">
+        <option value="">🌐 All locations</option>
+      </select>
     </div>
-  </header>
+  </div>
+</section>
 
-  <div class="toolbar" id="toolbar" hidden>
-    <div class="search-box">
-      <span class="icon">🔍</span>
-      <input type="search" id="q" placeholder="Search role, company, location…" autocomplete="off">
-      <kbd>/</kbd>
+<div class="layout">
+  <div>
+    <button class="filters-toggle" id="filters-toggle" hidden>
+      Filters<span class="badge-n" id="fcount" hidden>0</span>
+      <span class="arrow">▾</span>
+    </button>
+    <aside id="sidebar">
+      <div class="fgroup" id="fg-quick">
+        <h3>Quick filters</h3>
+        <label class="fopt special"><input type="checkbox" id="f-new"><span class="lbl">🆕 New this week</span><span class="cnt" id="n-new"></span></label>
+        <label class="fopt special"><input type="checkbox" id="f-saved"><span class="lbl">🔖 Saved jobs</span><span class="cnt" id="n-saved"></span></label>
+      </div>
+      <div class="fgroup">
+        <h3>Date posted</h3>
+        <label class="fopt"><input type="radio" name="dp" value="" checked><span class="lbl">Any time</span></label>
+        <label class="fopt"><input type="radio" name="dp" value="1"><span class="lbl">Past 24 hours</span></label>
+        <label class="fopt"><input type="radio" name="dp" value="7"><span class="lbl">Past week</span></label>
+        <label class="fopt"><input type="radio" name="dp" value="30"><span class="lbl">Past month</span></label>
+      </div>
+      <div class="fgroup">
+        <h3>Category</h3>
+        <div id="cat-list"></div>
+      </div>
+      <div class="fgroup">
+        <h3>Company</h3>
+        <div class="co-list" id="co-list"></div>
+      </div>
+      <button class="sidebar-reset" id="sidebar-reset">Reset all filters</button>
+    </aside>
+  </div>
+
+  <main>
+    <div class="results-head" id="results-head" hidden>
+      <span class="rcount" id="count">–</span>
+      <button class="clear-link" id="clear" hidden>Clear filters</button>
+      <span class="sort-wrap">Sort by
+        <select id="sort">
+          <option value="posted">Newest</option>
+          <option value="first_seen">Recently added</option>
+          <option value="company">Company (A–Z)</option>
+        </select>
+      </span>
     </div>
-    <select id="region" title="Filter by region"><option value="">🌐 All regions</option></select>
-    <select id="company" title="Filter by company"><option value="">All companies</option></select>
-    <select id="sort" title="Sort order">
-      <option value="posted">Sort: newest posted</option>
-      <option value="first_seen">Sort: recently added</option>
-      <option value="company">Sort: by company</option>
-    </select>
-  </div>
-  <div class="chips" id="chips" hidden></div>
-  <div class="meta-row" id="meta" hidden>
-    <span id="count"></span>
-    <span><button class="clear-btn" id="clear" hidden>✕ Clear all filters</button>
-    <a id="repo-link" href="#">GitHub ↗</a></span>
-  </div>
-
-  <div id="list" class="animate"><div class="loading">◌ scanning listings…</div></div>
-
-  <footer>
-    Data is scraped from official careers APIs every 6 hours by
-    <a id="repo-link2" href="#">GitHub Actions</a>. New = added in the last 7 days.
-    ★ saved roles are stored in your browser only. Spotted a problem or want another
-    company tracked? Open an issue.
-  </footer>
+    <div id="list"><div class="loading">Loading internships…</div></div>
+  </main>
 </div>
+
+<footer>
+  <div class="footer-inner">
+    Listings are scraped from each company's official careers API every 6 hours by
+    <a id="repo-link2" href="#">GitHub Actions</a> — every job links to the real application page.
+    🔖 Saved jobs are stored in your browser only. Want another company tracked? Open an issue on GitHub.
+  </div>
+</footer>
 
 <script>
 (function () {
@@ -453,6 +385,9 @@
 
   var $ = function (id) { return document.getElementById(id); };
   var list = $("list");
+
+  var BOOKMARK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4.7L5 21V4a1 1 0 0 1 1-1z"/></svg>';
+  var BOOKMARK_FILL = '<svg viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4.7L5 21V4a1 1 0 0 1 1-1z"/></svg>';
 
   /* ---------- theme ---------- */
   var THEMES = ["auto", "light", "dark"];
@@ -599,23 +534,36 @@
   }
 
   /* ---------- state (synced to URL hash) ---------- */
-  var state = { q: "", company: "", cat: "", region: "", sort: "posted", newonly: false, savedonly: false };
+  var state = {
+    q: "", region: "", sort: "posted", dp: "",
+    cats: {}, cos: {},
+    newonly: false, savedonly: false
+  };
+  function setFromCSV(str) {
+    var s = {};
+    if (str) str.split("|").forEach(function (v) { if (v) s[v] = true; });
+    return s;
+  }
+  function csvFromSet(s) { return Object.keys(s).join("|"); }
+
   function readHash() {
     var p = new URLSearchParams(location.hash.slice(1));
     state.q = p.get("q") || "";
-    state.company = p.get("co") || "";
-    state.cat = p.get("cat") || "";
     state.region = p.get("r") || "";
     state.sort = p.get("s") || "posted";
+    state.dp = p.get("dp") || "";
+    state.cats = setFromCSV(p.get("cat"));
+    state.cos = setFromCSV(p.get("co"));
     state.newonly = p.get("new") === "1";
     state.savedonly = p.get("saved") === "1";
   }
   function writeHash() {
     var p = new URLSearchParams();
     if (state.q) p.set("q", state.q);
-    if (state.company) p.set("co", state.company);
-    if (state.cat) p.set("cat", state.cat);
+    if (Object.keys(state.cos).length) p.set("co", csvFromSet(state.cos));
+    if (Object.keys(state.cats).length) p.set("cat", csvFromSet(state.cats));
     if (state.region) p.set("r", state.region);
+    if (state.dp) p.set("dp", state.dp);
     if (state.sort !== "posted") p.set("s", state.sort);
     if (state.newonly) p.set("new", "1");
     if (state.savedonly) p.set("saved", "1");
@@ -634,6 +582,7 @@
         var j = data.jobs[k]; j.key = k; return j;
       }).filter(function (j) { return j.active; }).map(function (j) {
         j.isNew = j.first_seen && new Date(j.first_seen + "T00:00:00Z").getTime() >= newCutoff;
+        j.postedTs = j.posted ? new Date(j.posted + "T00:00:00Z").getTime() : 0;
         j.regions = classifyJob(j);
         j.search = (j.title + " " + j.company + " " + j.category + " " + j.locations.join(" ")).toLowerCase();
         return j;
@@ -649,24 +598,9 @@
   function init(updated) {
     readHash();
 
-    $("stat-open").textContent = jobs.length;
-    $("stat-companies").textContent = uniq(jobs.map(function (j) { return j.company; })).length;
-    $("stat-new").textContent = jobs.filter(function (j) { return j.isNew; }).length;
-    $("stat-updated").textContent = timeAgo(updated);
-    $("stat-updated").title = updated.toLocaleString();
-
-    // category mix bar
-    var cats = {};
-    jobs.forEach(function (j) { cats[j.category] = (cats[j.category] || 0) + 1; });
-    var mixbar = $("mixbar");
-    Object.keys(cats).sort(function (a, b) { return cats[b] - cats[a]; }).forEach(function (c) {
-      var seg = document.createElement("span");
-      seg.setAttribute("data-cat", c);
-      seg.style.flexGrow = cats[c];
-      seg.style.background = "var(--cc)";
-      seg.title = c + ": " + cats[c] + " roles";
-      mixbar.appendChild(seg);
-    });
+    var nCompanies = uniq(jobs.map(function (j) { return j.company; })).length;
+    $("hero-line").innerHTML = "<b>" + jobs.length + " open internships</b> at " + nCompanies +
+      " top tech companies · updated " + esc(timeAgo(updated)) + " from official careers pages.";
 
     // region select with counts
     var regionCounts = {};
@@ -682,28 +616,60 @@
       rsel.appendChild(o);
     });
 
-    // company select with counts
-    var coCounts = {};
-    jobs.forEach(function (j) { coCounts[j.company] = (coCounts[j.company] || 0) + 1; });
-    var csel = $("company");
-    Object.keys(coCounts).sort().forEach(function (c) {
-      var o = document.createElement("option");
-      o.value = c;
-      o.textContent = c + " (" + coCounts[c] + ")";
-      csel.appendChild(o);
+    // sidebar: category checkboxes
+    var cats = {};
+    jobs.forEach(function (j) { cats[j.category] = (cats[j.category] || 0) + 1; });
+    var catBox = $("cat-list");
+    Object.keys(cats).sort(function (a, b) { return cats[b] - cats[a]; }).forEach(function (c) {
+      catBox.appendChild(checkboxOpt(c, cats[c], !!state.cats[c], function (checked) {
+        if (checked) state.cats[c] = true; else delete state.cats[c];
+        refresh();
+      }));
     });
 
-    // restore control values from hash
+    // sidebar: company checkboxes
+    var cos = {};
+    jobs.forEach(function (j) { cos[j.company] = (cos[j.company] || 0) + 1; });
+    var coBox = $("co-list");
+    Object.keys(cos).sort(function (a, b) { return cos[b] - cos[a] || (a < b ? -1 : 1); }).forEach(function (c) {
+      coBox.appendChild(checkboxOpt(c, cos[c], !!state.cos[c], function (checked) {
+        if (checked) state.cos[c] = true; else delete state.cos[c];
+        refresh();
+      }));
+    });
+
+    // quick filters
+    $("n-new").textContent = jobs.filter(function (j) { return j.isNew; }).length;
+    $("f-new").checked = state.newonly;
+    $("f-new").addEventListener("change", function () { state.newonly = this.checked; refresh(); });
+    $("f-saved").checked = state.savedonly;
+    $("f-saved").addEventListener("change", function () { state.savedonly = this.checked; refresh(); });
+
+    // date posted radios
+    var radios = document.querySelectorAll('input[name="dp"]');
+    Array.prototype.forEach.call(radios, function (r) {
+      r.checked = r.value === state.dp;
+      r.addEventListener("change", function () { if (this.checked) { state.dp = this.value; refresh(); } });
+    });
+
+    // search / region / sort
     $("q").value = state.q;
     rsel.value = state.region;
-    csel.value = state.company;
     $("sort").value = state.sort;
-
     $("q").addEventListener("input", function () { state.q = this.value.trim().toLowerCase(); refresh(); });
     rsel.addEventListener("change", function () { state.region = this.value; refresh(); });
-    csel.addEventListener("change", function () { state.company = this.value; refresh(); });
     $("sort").addEventListener("change", function () { state.sort = this.value; refresh(); });
+
     $("clear").addEventListener("click", clearFilters);
+    $("sidebar-reset").addEventListener("click", clearFilters);
+
+    // mobile filters toggle
+    var toggle = $("filters-toggle");
+    toggle.hidden = false;
+    toggle.addEventListener("click", function () {
+      $("sidebar").classList.toggle("open");
+      toggle.querySelector(".arrow").textContent = $("sidebar").classList.contains("open") ? "▴" : "▾";
+    });
 
     document.addEventListener("keydown", function (e) {
       if (e.key === "/" && document.activeElement !== $("q") &&
@@ -715,84 +681,73 @@
       }
     });
 
-    buildChips();
-    ["stats", "statusline", "toolbar", "chips", "meta"].forEach(function (id) { $(id).hidden = false; });
+    $("results-head").hidden = false;
     render();
-    // stagger animation applies to the first paint only
-    setTimeout(function () { list.classList.remove("animate"); }, 900);
   }
 
-  function buildChips() {
-    var box = $("chips");
-    box.innerHTML = "";
-    var cats = {};
-    jobs.forEach(function (j) { cats[j.category] = (cats[j.category] || 0) + 1; });
-
-    var all = chip("All", jobs.length, state.cat === "", function () {
-      state.cat = ""; refresh();
-    });
-    all.classList.add("all");
-    box.appendChild(all);
-    Object.keys(cats).sort(function (a, b) { return cats[b] - cats[a]; }).forEach(function (c) {
-      var el = chip(c, cats[c], state.cat === c, function () {
-        state.cat = (state.cat === c) ? "" : c; refresh();
-      });
-      el.setAttribute("data-cat", c);
-      el.insertAdjacentHTML("afterbegin", '<span class="dot" aria-hidden="true"></span>');
-      box.appendChild(el);
-    });
-
-    var sep = document.createElement("span");
-    sep.className = "sep";
-    box.appendChild(sep);
-
-    var nNew = jobs.filter(function (j) { return j.isNew; }).length;
-    var newChip = chip("🆕 New", nNew, state.newonly, function () {
-      state.newonly = !state.newonly; refresh();
-    });
-    newChip.classList.add("toggle");
-    box.appendChild(newChip);
-
-    var nSaved = jobs.filter(function (j) { return saved[j.key]; }).length;
-    var savedChip = chip("★ Saved", nSaved, state.savedonly, function () {
-      state.savedonly = !state.savedonly; refresh();
-    });
-    savedChip.classList.add("saved-chip");
-    box.appendChild(savedChip);
-  }
-
-  function chip(label, n, on, onClick) {
-    var b = document.createElement("button");
-    b.className = "chip" + (on ? " on" : "");
-    b.innerHTML = esc(label) + ' <span class="n">' + n + "</span>";
-    b.addEventListener("click", onClick);
-    return b;
+  function checkboxOpt(label, count, checked, onChange) {
+    var l = document.createElement("label");
+    l.className = "fopt";
+    var cb = document.createElement("input");
+    cb.type = "checkbox";
+    cb.checked = checked;
+    cb.addEventListener("change", function () { onChange(this.checked); });
+    var lbl = document.createElement("span");
+    lbl.className = "lbl";
+    lbl.textContent = label;
+    lbl.title = label;
+    var cnt = document.createElement("span");
+    cnt.className = "cnt";
+    cnt.textContent = count;
+    l.appendChild(cb); l.appendChild(lbl); l.appendChild(cnt);
+    return l;
   }
 
   function refresh() {
     writeHash();
-    buildChips();
+    updateQuickCounts();
     render();
   }
 
+  function updateQuickCounts() {
+    $("n-saved").textContent = jobs.filter(function (j) { return saved[j.key]; }).length;
+    var n = activeFilterCount();
+    $("fcount").textContent = n;
+    $("fcount").hidden = n === 0;
+  }
+
   function activeFilterCount() {
-    return (state.q ? 1 : 0) + (state.company ? 1 : 0) + (state.cat ? 1 : 0) +
-           (state.region ? 1 : 0) + (state.newonly ? 1 : 0) + (state.savedonly ? 1 : 0);
+    return (state.q ? 1 : 0) + Object.keys(state.cos).length + Object.keys(state.cats).length +
+           (state.region ? 1 : 0) + (state.dp ? 1 : 0) +
+           (state.newonly ? 1 : 0) + (state.savedonly ? 1 : 0);
   }
 
   function clearFilters() {
-    state.q = ""; state.company = ""; state.cat = ""; state.region = "";
+    state.q = ""; state.region = ""; state.dp = "";
+    state.cats = {}; state.cos = {};
     state.newonly = false; state.savedonly = false;
-    $("q").value = ""; $("company").value = ""; $("region").value = "";
+    $("q").value = ""; $("region").value = "";
+    $("f-new").checked = false; $("f-saved").checked = false;
+    Array.prototype.forEach.call(document.querySelectorAll('input[name="dp"]'), function (r) {
+      r.checked = r.value === "";
+    });
+    Array.prototype.forEach.call(document.querySelectorAll("#cat-list input, #co-list input"), function (cb) {
+      cb.checked = false;
+    });
     refresh();
   }
 
   /* ---------- render ---------- */
   function render() {
+    var catsOn = Object.keys(state.cats).length;
+    var cosOn = Object.keys(state.cos).length;
+    var dpCutoff = state.dp ? Date.now() - (+state.dp) * 864e5 : 0;
+
     var rows = jobs.filter(function (j) {
-      if (state.company && j.company !== state.company) return false;
-      if (state.cat && j.category !== state.cat) return false;
+      if (cosOn && !state.cos[j.company]) return false;
+      if (catsOn && !state.cats[j.category]) return false;
       if (state.region && j.regions.indexOf(state.region) === -1) return false;
+      if (state.dp && (!j.postedTs || j.postedTs < dpCutoff)) return false;
       if (state.newonly && !j.isNew) return false;
       if (state.savedonly && !saved[j.key]) return false;
       if (state.q && j.search.indexOf(state.q) === -1) return false;
@@ -814,77 +769,62 @@
     });
 
     var nFilters = activeFilterCount();
-    $("count").textContent = nFilters
-      ? "showing " + rows.length + " / " + jobs.length + " roles"
-      : jobs.length + " open roles";
+    $("count").innerHTML = nFilters
+      ? rows.length + " internship" + (rows.length === 1 ? "" : "s") + "<small>of " + jobs.length + "</small>"
+      : jobs.length + " internships";
     $("clear").hidden = nFilters === 0;
+    updateQuickCounts();
 
     if (!rows.length) {
-      list.innerHTML = '<div class="empty"><div class="big">🔭</div>' +
+      list.innerHTML = '<div class="empty"><div class="big">🔎</div>' +
         (state.savedonly && !Object.keys(saved).length
-          ? "You haven’t saved any roles yet — click the ☆ on a listing to keep it here."
-          : "No internships match these filters.") +
+          ? "No saved jobs yet — click the bookmark on a listing to keep it here."
+          : "No internships match your filters.") +
         '<br><button id="empty-clear">Clear all filters</button></div>';
       $("empty-clear").addEventListener("click", clearFilters);
       return;
     }
 
-    var html = [];
-    if (state.sort === "company") {
-      var cur = null;
-      rows.forEach(function (j) {
-        if (j.company !== cur) {
-          if (cur !== null) html.push("</div>");
-          cur = j.company;
-          var n = rows.filter(function (x) { return x.company === cur; }).length;
-          html.push('<div class="group"><h2>' + esc(cur) + ' <span class="n">' + n +
-            (n === 1 ? " role" : " roles") + "</span></h2>");
-        }
-        html.push(jobCard(j, true));
-      });
-      html.push("</div>");
-    } else {
-      rows.forEach(function (j) { html.push(jobCard(j, false)); });
-    }
-    list.innerHTML = html.join("");
+    list.innerHTML = rows.map(jobCard).join("");
 
-    // wire star buttons
-    Array.prototype.forEach.call(list.querySelectorAll(".star-btn"), function (btn) {
+    Array.prototype.forEach.call(list.querySelectorAll(".save-btn"), function (btn) {
       btn.addEventListener("click", function () {
         var k = btn.getAttribute("data-k");
         if (saved[k]) delete saved[k]; else saved[k] = 1;
         persistSaved();
         btn.classList.toggle("on", !!saved[k]);
-        btn.textContent = saved[k] ? "★" : "☆";
-        btn.title = saved[k] ? "Remove from saved" : "Save for later";
-        buildChips();
+        btn.innerHTML = saved[k] ? BOOKMARK_FILL : BOOKMARK;
+        btn.title = saved[k] ? "Remove from saved" : "Save job";
+        btn.setAttribute("aria-pressed", saved[k] ? "true" : "false");
+        updateQuickCounts();
         if (state.savedonly) render();
       });
     });
   }
 
-  function jobCard(j, hideCompany) {
+  function jobCard(j) {
     var loc = j.locations.length > 2
-      ? esc(j.locations[0]) + ' <span class="loc-more" title="' + esc(j.locations.join("\n")) + '">+' + (j.locations.length - 1) + " more</span>"
+      ? esc(j.locations[0]) + ' <span class="loc-more" title="' + esc(j.locations.join("\n")) + '">+' + (j.locations.length - 1) + " more locations</span>"
       : esc(j.locations.join(" · "));
     var isSaved = !!saved[j.key];
-    return '<div class="job">' +
+    return '<article class="job">' +
       logoHTML(j.company) +
       '<div class="job-main">' +
         '<a class="title" href="' + esc(j.url) + '" target="_blank" rel="noopener">' + esc(j.title) + "</a>" +
-        '<div class="info">' +
-          (hideCompany ? "" : '<span class="co">' + esc(j.company) + "</span>") +
-          "<span>📍 " + loc + "</span>" +
-          (j.posted ? '<span class="date" title="posted ' + esc(j.posted) + '">' + relDate(j.posted) + "</span>" : "") +
+        '<div class="co">' + esc(j.company) + "</div>" +
+        '<div class="loc">📍 ' + loc + "</div>" +
+        '<div class="tags">' +
+          (j.isNew ? '<span class="tag new">🆕 New</span>' : "") +
+          '<span class="tag">' + esc(j.category) + "</span>" +
+          (j.posted ? '<span class="tag posted" title="posted ' + esc(j.posted) + '">Posted ' + relDate(j.posted) + "</span>" : "") +
         "</div>" +
       "</div>" +
-      '<div class="badges">' +
-        (j.isNew ? '<span class="badge new">new</span>' : "") +
-        '<span class="badge cat" data-cat="' + esc(j.category) + '">' + esc(j.category) + "</span>" +
+      '<div class="job-actions">' +
+        '<button class="save-btn' + (isSaved ? " on" : "") + '" data-k="' + esc(j.key) + '" aria-pressed="' + isSaved + '" title="' +
+          (isSaved ? "Remove from saved" : "Save job") + '">' + (isSaved ? BOOKMARK_FILL : BOOKMARK) + "</button>" +
+        '<a class="apply-btn" href="' + esc(j.url) + '" target="_blank" rel="noopener">Apply ↗</a>' +
       "</div>" +
-      '<button class="star-btn' + (isSaved ? " on" : "") + '" data-k="' + esc(j.key) + '" title="' +
-        (isSaved ? "Remove from saved" : "Save for later") + '">' + (isSaved ? "★" : "☆") + "</button>" +
-      "</div>";
+      "</article>";
   }
 
   /* ---------- utils ---------- */
@@ -899,16 +839,17 @@
   function timeAgo(d) {
     var h = Math.round((Date.now() - d.getTime()) / 36e5);
     if (h < 1) return "just now";
-    if (h < 24) return h + "h ago";
-    return Math.round(h / 24) + "d ago";
+    if (h < 24) return h + " hour" + (h === 1 ? "" : "s") + " ago";
+    var days = Math.round(h / 24);
+    return days + " day" + (days === 1 ? "" : "s") + " ago";
   }
   function relDate(iso) {
     var days = Math.round((Date.now() - new Date(iso + "T00:00:00Z").getTime()) / 864e5);
     if (days <= 0) return "today";
     if (days === 1) return "yesterday";
-    if (days < 30) return days + "d ago";
-    if (days < 365) return Math.round(days / 30.44) + "mo ago";
-    return (days / 365).toFixed(1).replace(/\.0$/, "") + "y ago";
+    if (days < 30) return days + " days ago";
+    if (days < 365) { var m = Math.round(days / 30.44); return m + " month" + (m === 1 ? "" : "s") + " ago"; }
+    return "over a year ago";
   }
 })();
 </script>
