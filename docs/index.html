@@ -444,7 +444,7 @@
     var d = DOMAIN[company];
     if (!d) return '<span class="logo">' + fb + "</span>";
     return '<span class="logo">' + fb +
-      '<img src="https://www.google.com/s2/favicons?domain=' + esc(d) + '&sz=64" alt="" loading="lazy" onerror="this.remove()">' +
+      '<img src="https://www.google.com/s2/favicons?domain=' + esc(d) + '&sz=64" alt="" loading="lazy" onload="this.previousElementSibling.style.visibility=\'hidden\'" onerror="this.remove()">' +
       "</span>";
   }
 
