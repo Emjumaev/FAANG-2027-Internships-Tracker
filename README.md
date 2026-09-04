@@ -5,7 +5,7 @@ Mobile, Frontend, Backend/Infra, QA and Security roles — at 28 top tech
 companies, scraped directly from each company's careers API every 6 hours by
 GitHub Actions.
 
-🔎 **[Check out the website→](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
+🔎 **[Check out the website →](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 — searchable and filterable by company, category and location.
 
 > 🕐 Last updated: **2026-09-04 04:53:25 UTC** · 📌 **232** open internships
