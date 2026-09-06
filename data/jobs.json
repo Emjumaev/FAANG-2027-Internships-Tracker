@@ -5545,6 +5545,20 @@
       "title": "AI Developer Technology Engineering Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818"
     },
+    "nvidia:JR2024949": {
+      "active": true,
+      "category": "QA",
+      "company": "NVIDIA",
+      "external_id": "JR2024949",
+      "first_seen": "2026-09-06",
+      "last_seen": "2026-09-06",
+      "locations": [
+        "China, Shanghai"
+      ],
+      "posted": "2026-09-06",
+      "title": "Circuit Validation Engineer Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Circuit-Validation-Engineer-Intern---2027_JR2024949"
+    },
     "nvidia:JR2025040": {
       "active": true,
       "category": "Backend/Infra",
@@ -6041,5 +6055,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
     }
   },
-  "updated_at": "2026-09-06T15:35:51Z"
+  "updated_at": "2026-09-06T18:25:21Z"
 }
