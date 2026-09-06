@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-06 15:35:51 UTC** · 📌 **239** open internships
+> 🕐 Last updated: **2026-09-06 18:25:21 UTC** · 📌 **240** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -36,7 +36,7 @@ GitHub Actions.
 | [Meta](#meta) | 9 |
 | [Microsoft](#microsoft) | 25 |
 | MongoDB | — |
-| [NVIDIA](#nvidia) | 54 |
+| [NVIDIA](#nvidia) | 55 |
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
 | [Oracle](#oracle) | 3 |
@@ -290,6 +290,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Circuit Validation Engineer Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Circuit-Validation-Engineer-Intern---2027_JR2024949) 🆕 | QA | China, Shanghai | 2026-09-06 | 2026-09-06 |
 | [Post Silicon Validation Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Post-Silicon-Validation-Intern---2027_JR2025052) 🆕 | QA | China, Shanghai | 2026-09-05 | 2026-09-04 |
 | [Infrastructure Tool Development Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Infrastructure-Tool-Development-Intern---2027_JR2025040) 🆕 | Backend/Infra | China, Shanghai | 2026-09-05 | 2026-09-04 |
 | [Compute System Arch AI Infra Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Compute-System-Arch-AI-Infra-Intern---2027_JR2023889) 🆕 | AI/ML | China, Shanghai | 2026-09-05 | 2026-09-04 |
