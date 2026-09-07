@@ -1755,6 +1755,20 @@
       "title": "Software Engineering Intern (2027 Start) - Winter",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
     },
+    "dropbox:8106224": {
+      "active": true,
+      "category": "Software",
+      "company": "Dropbox",
+      "external_id": "8106224",
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-07",
+      "locations": [
+        "Remote - US: All locations"
+      ],
+      "posted": "2026-09-07",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224"
+    },
     "figma:6131089004": {
       "active": true,
       "category": "Software",
@@ -6144,5 +6158,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
     }
   },
-  "updated_at": "2026-09-07T12:44:33Z"
+  "updated_at": "2026-09-07T18:51:22Z"
 }
