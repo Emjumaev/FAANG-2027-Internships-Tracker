@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-07 12:44:33 UTC** · 📌 **242** open internships
+> 🕐 Last updated: **2026-09-07 18:51:22 UTC** · 📌 **243** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -25,7 +25,7 @@ GitHub Actions.
 | Coinbase | — |
 | [Databricks](#databricks) | 2 |
 | DoorDash | — |
-| Dropbox | — |
+| [Dropbox](#dropbox) | 1 |
 | [Figma](#figma) | 1 |
 | GitHub | — |
 | [Google](#google) | 30 |
@@ -153,6 +153,12 @@ GitHub Actions.
 |---|---|---|---|---|
 | [Software Engineering Intern (2027 Start) - Winter](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) | Software | Bellevue, Washington; Mountain View, California; San Francisco, California | 2026-08-20 | 2026-08-21 |
 | [PhD GenAI Research Scientist Intern](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) | AI/ML | San Francisco, California | 2023-11-07 | 2026-07-09 |
+
+## Dropbox
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [Software Engineering Intern (Summer 2027)](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224) 🆕 | Software | Remote - US: All locations | 2026-09-07 | 2026-09-07 |
 
 ## Figma
 
