@@ -2684,9 +2684,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639"
     },
     "intel:JR0282641": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-07-23",
+      "closed": "2026-09-07",
       "company": "Intel",
       "external_id": "JR0282641",
       "first_seen": "2026-07-17",
@@ -6158,5 +6158,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
     }
   },
-  "updated_at": "2026-09-07T18:51:22Z"
+  "updated_at": "2026-09-07T22:57:28Z"
 }
