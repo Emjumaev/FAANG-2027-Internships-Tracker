@@ -752,6 +752,20 @@
       "title": "Software Development Engineer Internship - Fall 2026 (US)",
       "url": "https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us"
     },
+    "amazon:3117694": {
+      "active": true,
+      "category": "Security",
+      "company": "Amazon",
+      "external_id": "3117694",
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08",
+      "locations": [
+        "Austin, Texas, USA"
+      ],
+      "posted": "2026-09-08",
+      "title": "System Dev Engineer I Co-op (Robotics), Autonomous AI Security",
+      "url": "https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security"
+    },
     "amazon:3120058": {
       "active": true,
       "category": "AI/ML",
@@ -1605,6 +1619,20 @@
       "posted": "2026-09-08",
       "title": "Wireless Software Engineer_ Intern",
       "url": "https://careers.cisco.com/global/en/job/2025061"
+    },
+    "cisco:2025180": {
+      "active": true,
+      "category": "Software",
+      "company": "Cisco",
+      "external_id": "2025180",
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08",
+      "locations": [
+        "RESEARCH_TRIANGLE_PARK, North Carolina, United States of America"
+      ],
+      "posted": "2026-09-08",
+      "title": "Software Consulting Engineer I (Intern) United States",
+      "url": "https://careers.cisco.com/global/en/job/2025180"
     },
     "cloudflare:7606240": {
       "active": false,
@@ -6246,5 +6274,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
     }
   },
-  "updated_at": "2026-09-08T16:47:05Z"
+  "updated_at": "2026-09-08T21:18:29Z"
 }
