@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-08 11:28:55 UTC** · 📌 **234** open internships
+> 🕐 Last updated: **2026-09-08 16:47:05 UTC** · 📌 **238** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -16,11 +16,11 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 2 |
 | Airbnb | — |
-| [Amazon](#amazon) | 38 |
+| [Amazon](#amazon) | 39 |
 | Anthropic | — |
 | [Apple](#apple) | 17 |
 | Bloomberg | — |
-| [Cisco](#cisco) | 6 |
+| [Cisco](#cisco) | 7 |
 | [Cloudflare](#cloudflare) | 3 |
 | Coinbase | — |
 | [Databricks](#databricks) | 2 |
@@ -30,7 +30,7 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 30 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
-| [Intel](#intel) | 16 |
+| [Intel](#intel) | 17 |
 | [Jane Street](#jane-street) | 19 |
 | Lyft | — |
 | [Meta](#meta) | 9 |
@@ -46,7 +46,7 @@ GitHub Actions.
 | [Salesforce](#salesforce) | 2 |
 | [Scale AI](#scale-ai) | 1 |
 | Snap | — |
-| [Snowflake](#snowflake) | 2 |
+| [Snowflake](#snowflake) | 3 |
 | Spotify | — |
 | [Stripe](#stripe) | 7 |
 | Uber | — |
@@ -67,6 +67,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [2026 Software Dev Engineer Intern - Spain](https://www.amazon.jobs/en/jobs/10531760/2026-software-dev-engineer-intern-spain) 🆕 | Software | Madrid, Community of Madrid, ESP | 2026-09-08 | 2026-09-08 |
 | [Software Development Engineer Intern, ROBOTICS - 2027](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) 🆕 | AI/ML | North Reading, Massachusetts, USA | 2026-09-04 | 2026-09-04 |
 | [Software Development Engineer Intern, Annapurna Labs - 2027](https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) | Software | Cupertino, California, USA | 2026-08-27 | 2026-08-27 |
 | [Robotics - Software Development Engineer Fall Intern/Co-op - 2026](https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026) | AI/ML | Westboro, Wisconsin, USA | 2026-08-27 | 2026-08-27 |
@@ -110,6 +111,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) 🆕 | QA | London | 2026-09-08 | 2026-09-08 |
 | [PHY Cellular Firmware Engineer Internship](https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship) 🆕 | Backend/Infra | Munich | 2026-09-07 | 2026-09-07 |
 | [Display Supply Quality Engineer Intern](https://jobs.apple.com/en-us/details/200679405/display-supply-quality-engineer-intern) | QA | Shenzhen | 2026-08-28 | 2026-08-28 |
 | [Secure Kernel Engineering Intern, Sydney](https://jobs.apple.com/en-us/details/200680345/secure-kernel-engineering-intern-sydney) | Backend/Infra | Sydney | 2026-08-27 | 2026-08-27 |
@@ -126,12 +128,12 @@ GitHub Actions.
 | [Machine Learning and Artificial Intelligence Undergrad Internships](https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships) | AI/ML | United States | 2026-05-21 | 2026-07-09 |
 | [SoC Performance Modeling Internship - Platform Architecture](https://jobs.apple.com/en-us/details/200629965/soc-performance-modeling-internship-platform-architecture) | Backend/Infra | London | 2025-11-04 | 2026-07-09 |
 | [SoC Performance Modeling Internship - Platform Architecture (m/f/d)](https://jobs.apple.com/en-us/details/200622296/soc-performance-modeling-internship-platform-architecture-m-f-d) | Backend/Infra | Munich | 2025-09-22 | 2026-07-09 |
-| [GPU Internship - Platform Architecture](https://jobs.apple.com/en-us/details/200617616/gpu-internship-platform-architecture) | Backend/Infra | Cambridge | 2025-08-26 | 2026-07-09 |
 
 ## Cisco
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Wireless Software Engineer_ Intern](https://careers.cisco.com/global/en/job/2025061) 🆕 | Software | Ecublens, Switzerland | 2026-09-08 | 2026-09-08 |
 | [Software Engineer Intern](https://careers.cisco.com/global/en/job/2024810) 🆕 | Software | Galway, Ireland | 2026-09-04 | 2026-09-04 |
 | [Security Consulting Engineer I (Intern) - United States](https://careers.cisco.com/global/en/job/2024817) 🆕 | Security | Research Triangle Park, North Carolina, United States of America | 2026-09-03 | 2026-09-03 |
 | [Software Engineer Summer Internship - Lysaker, Norway](https://careers.cisco.com/global/en/job/2024366) | Software | Lysaker, Norway | 2026-08-31 | 2026-08-31 |
@@ -211,6 +213,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Solutions Eng PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944) 🆕 | Software | Ireland, Leixlip | 2026-09-08 | 2026-09-08 |
 | [DevOps and Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/DevOps-and-Software-Engineering-Intern_JR0286934) 🆕 | Backend/Infra | Malaysia, Kulim | 2026-09-08 | 2026-09-08 |
 | [Intern System Software Development Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/Intern-System-Software-Development-Engineer_JR0286935) 🆕 | Software | Malaysia, Kulim | 2026-09-07 | 2026-09-07 |
 | [Intern System Software Development Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286955) 🆕 | Software | Malaysia, Penang | 2026-09-07 | 2026-09-07 |
@@ -377,6 +380,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Applied AI Intern - Warsaw](https://careers.snowflake.com/us/en/job/efbbdddd-18a1-4d9d-9455-3e82166b42f6) 🆕 | AI/ML | Warsaw, Poland | 2026-09-08 | 2026-09-08 |
 | [Software Engineer Intern - Warsaw Security](https://careers.snowflake.com/us/en/job/3045856c-74a4-469e-ba81-a176cc0bef8f) | Security | Warsaw, Poland | 2026-08-05 | 2026-08-05 |
 | [Software Engineer Intern - Berlin (2026)](https://careers.snowflake.com/us/en/job/3a9baeaf-b107-41fb-a9b3-a98ab78275ed) | Software | Berlin, Germany | 2026-06-02 | 2026-07-09 |
 
