@@ -607,6 +607,20 @@
       "title": "Software Development Engineer Intern, ROBOTICS - 2027",
       "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027"
     },
+    "amazon:10531760": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10531760",
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08",
+      "locations": [
+        "Madrid, Community of Madrid, ESP"
+      ],
+      "posted": "2026-09-08",
+      "title": "2026 Software Dev Engineer Intern - Spain",
+      "url": "https://www.amazon.jobs/en/jobs/10531760/2026-software-dev-engineer-intern-spain"
+    },
     "amazon:3063220": {
       "active": false,
       "category": "Software",
@@ -1204,8 +1218,9 @@
       "url": "https://jobs.apple.com/en-us/details/200609538/machine-learning-engineer-intern-shanghai"
     },
     "apple:200617616": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-09-08",
       "company": "Apple",
       "external_id": "200617616",
       "first_seen": "2026-07-09",
@@ -1414,6 +1429,20 @@
       "title": "PHY Cellular Firmware Engineer Internship",
       "url": "https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship"
     },
+    "apple:200682357": {
+      "active": true,
+      "category": "QA",
+      "company": "Apple",
+      "external_id": "200682357",
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08",
+      "locations": [
+        "London"
+      ],
+      "posted": "2026-09-08",
+      "title": "GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture",
+      "url": "https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture"
+    },
     "cisco:2005347": {
       "active": false,
       "category": "AI/ML",
@@ -1562,6 +1591,20 @@
       "posted": "2026-09-03",
       "title": "Security Consulting Engineer I (Intern) - United States",
       "url": "https://careers.cisco.com/global/en/job/2024817"
+    },
+    "cisco:2025061": {
+      "active": true,
+      "category": "Software",
+      "company": "Cisco",
+      "external_id": "2025061",
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08",
+      "locations": [
+        "Ecublens, Switzerland"
+      ],
+      "posted": "2026-09-08",
+      "title": "Wireless Software Engineer_ Intern",
+      "url": "https://careers.cisco.com/global/en/job/2025061"
     },
     "cloudflare:7606240": {
       "active": false,
@@ -3269,6 +3312,20 @@
       "posted": "2026-09-04",
       "title": "Intern System Software Development Engineer",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286937"
+    },
+    "intel:JR0286944": {
+      "active": true,
+      "category": "Software",
+      "company": "Intel",
+      "external_id": "JR0286944",
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08",
+      "locations": [
+        "Ireland, Leixlip"
+      ],
+      "posted": "2026-09-08",
+      "title": "Software Solutions Eng PhD Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944"
     },
     "intel:JR0286946": {
       "active": true,
@@ -5987,6 +6044,20 @@
       "title": "Research Intern (AI) - 2026",
       "url": "https://careers.snowflake.com/us/en/job/e70a0f78-05d9-4adc-873e-0ac43bf549d2"
     },
+    "snowflake:efbbdddd-18a1-4d9d-9455-3e82166b42f6": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Snowflake",
+      "external_id": "efbbdddd-18a1-4d9d-9455-3e82166b42f6",
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08",
+      "locations": [
+        "Warsaw, Poland"
+      ],
+      "posted": "2026-09-08",
+      "title": "Applied AI Intern - Warsaw",
+      "url": "https://careers.snowflake.com/us/en/job/efbbdddd-18a1-4d9d-9455-3e82166b42f6"
+    },
     "stripe:8031833": {
       "active": true,
       "category": "Software",
@@ -6175,5 +6246,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
     }
   },
-  "updated_at": "2026-09-08T11:28:55Z"
+  "updated_at": "2026-09-08T16:47:05Z"
 }
