@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-08 16:47:05 UTC** · 📌 **238** open internships
+> 🕐 Last updated: **2026-09-08 21:18:29 UTC** · 📌 **240** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -16,11 +16,11 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 2 |
 | Airbnb | — |
-| [Amazon](#amazon) | 39 |
+| [Amazon](#amazon) | 40 |
 | Anthropic | — |
 | [Apple](#apple) | 17 |
 | Bloomberg | — |
-| [Cisco](#cisco) | 7 |
+| [Cisco](#cisco) | 8 |
 | [Cloudflare](#cloudflare) | 3 |
 | Coinbase | — |
 | [Databricks](#databricks) | 2 |
@@ -67,6 +67,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [System Dev Engineer I Co-op (Robotics), Autonomous AI Security](https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security) 🆕 | Security | Austin, Texas, USA | 2026-09-08 | 2026-09-08 |
 | [2026 Software Dev Engineer Intern - Spain](https://www.amazon.jobs/en/jobs/10531760/2026-software-dev-engineer-intern-spain) 🆕 | Software | Madrid, Community of Madrid, ESP | 2026-09-08 | 2026-09-08 |
 | [Software Development Engineer Intern, ROBOTICS - 2027](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) 🆕 | AI/ML | North Reading, Massachusetts, USA | 2026-09-04 | 2026-09-04 |
 | [Software Development Engineer Intern, Annapurna Labs - 2027](https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) | Software | Cupertino, California, USA | 2026-08-27 | 2026-08-27 |
@@ -134,6 +135,7 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Wireless Software Engineer_ Intern](https://careers.cisco.com/global/en/job/2025061) 🆕 | Software | Ecublens, Switzerland | 2026-09-08 | 2026-09-08 |
+| [Software Consulting Engineer I (Intern) United States](https://careers.cisco.com/global/en/job/2025180) 🆕 | Software | RESEARCH_TRIANGLE_PARK, North Carolina, United States of America | 2026-09-08 | 2026-09-08 |
 | [Software Engineer Intern](https://careers.cisco.com/global/en/job/2024810) 🆕 | Software | Galway, Ireland | 2026-09-04 | 2026-09-04 |
 | [Security Consulting Engineer I (Intern) - United States](https://careers.cisco.com/global/en/job/2024817) 🆕 | Security | Research Triangle Park, North Carolina, United States of America | 2026-09-03 | 2026-09-03 |
 | [Software Engineer Summer Internship - Lysaker, Norway](https://careers.cisco.com/global/en/job/2024366) | Software | Lysaker, Norway | 2026-08-31 | 2026-08-31 |
