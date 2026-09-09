@@ -3139,9 +3139,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989"
     },
     "intel:JR0286018": {
-      "active": true,
+      "active": false,
       "category": "QA",
-      "closed": "2026-08-08",
+      "closed": "2026-09-09",
       "company": "Intel",
       "external_id": "JR0286018",
       "first_seen": "2026-08-05",
@@ -3481,6 +3481,20 @@
       "posted": "2026-09-07",
       "title": "Intern System Software Development Engineer",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286955"
+    },
+    "intel:JR0287019": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Intel",
+      "external_id": "JR0287019",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "locations": [
+        "US, Oregon, Hillsboro"
+      ],
+      "posted": "2026-09-09",
+      "title": "Software Research Engineering - (PhD Intern)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019"
     },
     "jane-street:5866838002": {
       "active": true,
@@ -5189,17 +5203,17 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Intern---2027_JR2021783"
     },
     "nvidia:JR2022086": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-07-31",
       "company": "NVIDIA",
       "external_id": "JR2022086",
       "first_seen": "2026-07-30",
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-09-09",
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-07-30",
+      "posted": "2026-09-09",
       "title": "Software Engineering Intern \u2014 Replay Tooling & Test Automation, Autonomous Driving",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086"
     },
@@ -6404,5 +6418,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
     }
   },
-  "updated_at": "2026-09-09T13:06:15Z"
+  "updated_at": "2026-09-09T17:57:22Z"
 }
