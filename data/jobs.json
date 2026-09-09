@@ -608,8 +608,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027"
     },
     "amazon:10531760": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-09-09",
       "company": "Amazon",
       "external_id": "10531760",
       "first_seen": "2026-09-08",
@@ -622,13 +623,13 @@
       "url": "https://www.amazon.jobs/en/jobs/10531760/2026-software-dev-engineer-intern-spain"
     },
     "amazon:3063220": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-09-03",
       "company": "Amazon",
       "external_id": "3063220",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-09",
       "locations": [
         "Sao Paulo, Sao Paulo, BRA"
       ],
@@ -6403,5 +6404,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
     }
   },
-  "updated_at": "2026-09-09T07:30:37Z"
+  "updated_at": "2026-09-09T13:06:15Z"
 }
