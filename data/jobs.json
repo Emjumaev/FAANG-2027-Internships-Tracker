@@ -604,8 +604,8 @@
         "North Reading, Massachusetts, USA"
       ],
       "posted": "2026-09-04",
-      "title": "Software Development Engineer Intern, ROBOTICS - 2027",
-      "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027"
+      "title": "Software Development Engineer Intern/Co-Op, ROBOTICS -  2027",
+      "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027"
     },
     "amazon:10531760": {
       "active": false,
@@ -621,6 +621,34 @@
       "posted": "2026-09-08",
       "title": "2026 Software Dev Engineer Intern - Spain",
       "url": "https://www.amazon.jobs/en/jobs/10531760/2026-software-dev-engineer-intern-spain"
+    },
+    "amazon:10535280": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "external_id": "10535280",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "locations": [
+        "Toronto, Ontario, CAN"
+      ],
+      "posted": "2026-09-09",
+      "title": "Software Development Engineer Intern, ROBOTICS - 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10535280/software-development-engineer-intern-robotics-2027"
+    },
+    "amazon:10535282": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "external_id": "10535282",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "locations": [
+        "North Reading, Massachusetts, USA"
+      ],
+      "posted": "2026-09-09",
+      "title": "Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027"
     },
     "amazon:3063220": {
       "active": true,
@@ -3383,6 +3411,20 @@
       "posted": "2026-09-02",
       "title": "Software Engineering - Intern, Graduate",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836"
+    },
+    "intel:JR0286850": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Intel",
+      "external_id": "JR0286850",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "locations": [
+        "Virtual Canada"
+      ],
+      "posted": "2026-09-09",
+      "title": "AI and Compiler Engineering Graduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850"
     },
     "intel:JR0286933": {
       "active": true,
@@ -6418,5 +6460,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
     }
   },
-  "updated_at": "2026-09-09T17:57:22Z"
+  "updated_at": "2026-09-09T21:03:58Z"
 }
