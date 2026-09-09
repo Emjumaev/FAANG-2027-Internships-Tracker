@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-09 07:30:37 UTC** · 📌 **247** open internships
+> 🕐 Last updated: **2026-09-09 13:06:15 UTC** · 📌 **247** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -68,7 +68,6 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [System Dev Engineer I Co-op (Robotics), Autonomous AI Security](https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security) 🆕 | Security | Austin, Texas, USA | 2026-09-08 | 2026-09-08 |
-| [2026 Software Dev Engineer Intern - Spain](https://www.amazon.jobs/en/jobs/10531760/2026-software-dev-engineer-intern-spain) 🆕 | Software | Madrid, Community of Madrid, ESP | 2026-09-08 | 2026-09-08 |
 | [Software Development Engineer Intern, ROBOTICS - 2027](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) 🆕 | AI/ML | North Reading, Massachusetts, USA | 2026-09-04 | 2026-09-04 |
 | [Software Development Engineer Intern, Annapurna Labs - 2027](https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) | Software | Cupertino, California, USA | 2026-08-27 | 2026-08-27 |
 | [Robotics - Software Development Engineer Fall Intern/Co-op - 2026](https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026) | AI/ML | Westboro, Wisconsin, USA | 2026-08-27 | 2026-08-27 |
@@ -107,6 +106,7 @@ GitHub Actions.
 | [Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | AI/ML | North Reading, Massachusetts, USA | 2025-10-08 | 2026-07-09 |
 | [2026 Software Dev Engineer Intern - Germany](https://www.amazon.jobs/en/jobs/3074226/2026-software-dev-engineer-intern-germany) | Software | Berlin, Berlin, DEU | 2025-09-05 | 2026-07-13 |
 | [2026 Software Dev Engineer Intern - UK](https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern-uk) | Software | London, England, GBR | 2025-09-03 | 2026-08-31 |
+| [Software Development Engineer Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3063220/software-development-engineer-intern-amazon-university-talent-acquisition) | Software | Sao Paulo, Sao Paulo, BRA | 2025-08-20 | 2026-07-09 |
 
 ## Apple
 
