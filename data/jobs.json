@@ -3412,6 +3412,20 @@
       "title": "Software Engineering - Intern, Graduate",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836"
     },
+    "intel:JR0286849": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Intel",
+      "external_id": "JR0286849",
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "locations": [
+        "Canada, Toronto"
+      ],
+      "posted": "2026-09-10",
+      "title": "Compiler Engineering Undergraduate Intern - SYCL Runtime",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849"
+    },
     "intel:JR0286850": {
       "active": true,
       "category": "AI/ML",
@@ -6474,5 +6488,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
     }
   },
-  "updated_at": "2026-09-10T11:29:24Z"
+  "updated_at": "2026-09-10T16:32:58Z"
 }
