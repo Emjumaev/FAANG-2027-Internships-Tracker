@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-10 00:23:07 UTC** · 📌 **251** open internships
+> 🕐 Last updated: **2026-09-10 04:59:49 UTC** · 📌 **252** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -30,7 +30,7 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 30 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
-| [Intel](#intel) | 19 |
+| [Intel](#intel) | 20 |
 | [Jane Street](#jane-street) | 19 |
 | Lyft | — |
 | [Meta](#meta) | 9 |
@@ -230,6 +230,7 @@ GitHub Actions.
 |---|---|---|---|---|
 | [System Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/System-Software-Engineering-Intern_JR0286933) 🆕 | Software | Malaysia, Kulim | 2026-09-10 | 2026-09-09 |
 | [Software Research Engineering - (PhD Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019) 🆕 | AI/ML | US, Oregon, Hillsboro | 2026-09-10 | 2026-09-09 |
+| [Operations Research Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Operations-Research-Engineer-Intern_JR0286945) 🆕 | AI/ML | 2 Locations | 2026-09-10 | 2026-09-10 |
 | [AI and Compiler Engineering Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850) 🆕 | AI/ML | Virtual Canada | 2026-09-10 | 2026-09-09 |
 | [Software Solutions Eng PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944) 🆕 | Software | Ireland, Leixlip | 2026-09-09 | 2026-09-08 |
 | [DevOps and Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/DevOps-and-Software-Engineering-Intern_JR0286934) 🆕 | Backend/Infra | Malaysia, Kulim | 2026-09-09 | 2026-09-08 |
