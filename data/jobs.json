@@ -650,6 +650,20 @@
       "title": "Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027",
       "url": "https://www.amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027"
     },
+    "amazon:10536817": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "external_id": "10536817",
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "locations": [
+        "North Reading, Massachusetts, USA"
+      ],
+      "posted": "2026-09-10",
+      "title": "Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027"
+    },
     "amazon:3063220": {
       "active": true,
       "category": "Software",
@@ -3327,6 +3341,20 @@
       "title": "IFA Software Development Engineer Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/IFA-Software-Development-Engineer-Intern_JR0286728"
     },
+    "intel:JR0286730": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Intel",
+      "external_id": "JR0286730",
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "locations": [
+        "2 Locations"
+      ],
+      "posted": "2026-09-10",
+      "title": "AI Software Engineering PhD Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730"
+    },
     "intel:JR0286774": {
       "active": true,
       "category": "AI/ML",
@@ -4859,6 +4887,20 @@
       "posted": "2026-09-09",
       "title": "Penetration Tester, SERPENT: Internship Opportunities",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556988202"
+    },
+    "microsoft:1970393556991724": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "external_id": "1970393556991724",
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "locations": [
+        "United Kingdom, Cambridgeshire, Cambridge"
+      ],
+      "posted": "2026-09-10",
+      "title": "Cambridge Internship Program - Robotics Systems and Control",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556991724"
     },
     "netflix:790313241540": {
       "active": false,
@@ -6488,5 +6530,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
     }
   },
-  "updated_at": "2026-09-10T16:32:58Z"
+  "updated_at": "2026-09-10T21:00:23Z"
 }
