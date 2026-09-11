@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-11 11:31:31 UTC** · 📌 **256** open internships
+> 🕐 Last updated: **2026-09-11 16:37:34 UTC** · 📌 **254** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -16,7 +16,7 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 2 |
 | Airbnb | — |
-| [Amazon](#amazon) | 42 |
+| [Amazon](#amazon) | 43 |
 | Anthropic | — |
 | [Apple](#apple) | 17 |
 | Bloomberg | — |
@@ -33,8 +33,8 @@ GitHub Actions.
 | [Intel](#intel) | 22 |
 | [Jane Street](#jane-street) | 19 |
 | Lyft | — |
-| [Meta](#meta) | 9 |
-| [Microsoft](#microsoft) | 16 |
+| [Meta](#meta) | 5 |
+| [Microsoft](#microsoft) | 17 |
 | MongoDB | — |
 | [NVIDIA](#nvidia) | 55 |
 | [Netflix](#netflix) | 2 |
@@ -67,6 +67,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [2026 Software Dev Engineer Intern - Spain](https://www.amazon.jobs/en/jobs/10537284/2026-software-dev-engineer-intern-spain) 🆕 | Software | Madrid, Community of Madrid, ESP | 2026-09-11 | 2026-09-11 |
 | [Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027](https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027) 🆕 | AI/ML | North Reading, Massachusetts, USA | 2026-09-10 | 2026-09-10 |
 | [Software Development Engineer Intern, ROBOTICS - 2027](https://www.amazon.jobs/en/jobs/10535280/software-development-engineer-intern-robotics-2027) 🆕 | AI/ML | Toronto, Ontario, CAN | 2026-09-09 | 2026-09-09 |
 | [Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027](https://www.amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) 🆕 | AI/ML | North Reading, Massachusetts, USA | 2026-09-09 | 2026-09-09 |
@@ -279,20 +280,17 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Research Scientist Intern, Optical System Design (PhD)](https://www.metacareers.com/jobs/1796691991338568) | AI/ML | Redmond, WA | — | 2026-08-21 |
-| [Research Scientist Intern, AI, Cyber Security, Safety — MSL Trust & Safety (PhD)](https://www.metacareers.com/jobs/1027438186737957) | Security | Menlo Park, CA | — | 2026-08-19 |
+| [Research Scientist Intern, Optical System Design (PhD)](https://www.metacareers.com/jobs/1796691991338568) | AI/ML | — | — | 2026-08-21 |
 | [Research Scientist Intern, State Estimation for Dexterous Manipulation (PhD)](https://www.metacareers.com/jobs/2774289902955470) | AI/ML | Redmond, WA | — | 2026-07-09 |
-| [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/924149567345400) | AI/ML | London, UK | — | 2026-07-09 |
-| [Research Scientist Intern, Monetization Generative AI - LLM (PhD)](https://www.metacareers.com/jobs/2916726525182155) | AI/ML | Bellevue, WA; Menlo Park, CA; Seattle, WA | — | 2026-07-09 |
-| [Research Scientist Intern, FAIR - Language & Multimodal Foundations (PhD)](https://www.metacareers.com/jobs/24536664159369645) | AI/ML | Menlo Park, CA; New York, NY | — | 2026-07-09 |
-| [Research Scientist Intern, Applied Vision and Image Quality (PhD)](https://www.metacareers.com/jobs/1422892385992613) | AI/ML | Redmond, WA | — | 2026-07-09 |
-| [Research Scientist Intern, AI/ML, Core Ads Growth (PhD)](https://www.metacareers.com/jobs/771948392580541) | AI/ML | London, UK; Zurich, Switzerland | — | 2026-07-09 |
-| [Research Scientist Intern, AI Alignment](https://www.metacareers.com/jobs/1782902493113620) | AI/ML | Bellevue, WA; Boston, MA; Menlo Park, CA *(+2 more)* | — | 2026-07-09 |
+| [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/924149567345400) | AI/ML | — | — | 2026-07-09 |
+| [Research Scientist Intern, Monetization Generative AI - LLM (PhD)](https://www.metacareers.com/jobs/2916726525182155) | AI/ML | — | — | 2026-07-09 |
+| [Research Scientist Intern, Applied Vision and Image Quality (PhD)](https://www.metacareers.com/jobs/1422892385992613) | AI/ML | — | — | 2026-07-09 |
 
 ## Microsoft
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Cloud Solution Architect - Erada Internship](https://apply.careers.microsoft.com/careers/job/1970393556942310) | Backend/Infra | Qatar, Ad-Daw?ah, Doha | 2026-09-11 | 2026-07-31 |
 | [Cambridge Internship Program - Robotics Systems and Control](https://apply.careers.microsoft.com/careers/job/1970393556991724) 🆕 | AI/ML | United Kingdom, Cambridgeshire, Cambridge | 2026-09-10 | 2026-09-10 |
 | [Penetration Tester, SERPENT: Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393556988202) 🆕 | Security | United States, Washington, Redmond | 2026-09-09 | 2026-09-09 |
 | [Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities](https://apply.careers.microsoft.com/careers/job/1970393556866895) | Software | Egypt, Cairo, Cairo | 2026-09-04 | 2026-07-20 |
