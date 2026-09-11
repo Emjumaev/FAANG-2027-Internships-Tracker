@@ -664,6 +664,20 @@
       "title": "Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027",
       "url": "https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027"
     },
+    "amazon:10537284": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10537284",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "locations": [
+        "Madrid, Community of Madrid, ESP"
+      ],
+      "posted": "2026-09-11",
+      "title": "2026 Software Dev Engineer Intern - Spain",
+      "url": "https://www.amazon.jobs/en/jobs/10537284/2026-software-dev-engineer-intern-spain"
+    },
     "amazon:3063220": {
       "active": false,
       "category": "Software",
@@ -3891,8 +3905,9 @@
       "url": "https://www.janestreet.com/join-jane-street/position/8693539002/"
     },
     "meta:1027438186737957": {
-      "active": true,
+      "active": false,
       "category": "Security",
+      "closed": "2026-09-11",
       "company": "Meta",
       "external_id": "1027438186737957",
       "first_seen": "2026-08-19",
@@ -3942,9 +3957,7 @@
       "external_id": "1422892385992613",
       "first_seen": "2026-07-09",
       "last_seen": "2026-09-11",
-      "locations": [
-        "Redmond, WA"
-      ],
+      "locations": [],
       "posted": null,
       "title": "Research Scientist Intern, Applied Vision and Image Quality (PhD)",
       "url": "https://www.metacareers.com/jobs/1422892385992613"
@@ -3965,9 +3978,9 @@
       "url": "https://www.metacareers.com/jobs/1710381673750348"
     },
     "meta:1782902493113620": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-07-19",
+      "closed": "2026-09-11",
       "company": "Meta",
       "external_id": "1782902493113620",
       "first_seen": "2026-07-09",
@@ -3990,9 +4003,7 @@
       "external_id": "1796691991338568",
       "first_seen": "2026-08-21",
       "last_seen": "2026-09-11",
-      "locations": [
-        "Redmond, WA"
-      ],
+      "locations": [],
       "posted": null,
       "title": "Research Scientist Intern, Optical System Design (PhD)",
       "url": "https://www.metacareers.com/jobs/1796691991338568"
@@ -4061,9 +4072,9 @@
       "url": "https://www.metacareers.com/jobs/2281218542616482"
     },
     "meta:24536664159369645": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-07-19",
+      "closed": "2026-09-11",
       "company": "Meta",
       "external_id": "24536664159369645",
       "first_seen": "2026-07-09",
@@ -4129,19 +4140,15 @@
       "external_id": "2916726525182155",
       "first_seen": "2026-07-09",
       "last_seen": "2026-09-11",
-      "locations": [
-        "Bellevue, WA",
-        "Menlo Park, CA",
-        "Seattle, WA"
-      ],
+      "locations": [],
       "posted": null,
       "title": "Research Scientist Intern, Monetization Generative AI - LLM (PhD)",
       "url": "https://www.metacareers.com/jobs/2916726525182155"
     },
     "meta:771948392580541": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-07-19",
+      "closed": "2026-09-11",
       "company": "Meta",
       "external_id": "771948392580541",
       "first_seen": "2026-07-09",
@@ -4178,9 +4185,7 @@
       "external_id": "924149567345400",
       "first_seen": "2026-07-09",
       "last_seen": "2026-09-11",
-      "locations": [
-        "London, UK"
-      ],
+      "locations": [],
       "posted": null,
       "title": "Research Scientist Intern, Photorealistic Telepresence (PhD)",
       "url": "https://www.metacareers.com/jobs/924149567345400"
@@ -4518,17 +4523,17 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556939161"
     },
     "microsoft:1970393556942310": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-08-31",
       "company": "Microsoft",
       "external_id": "1970393556942310",
       "first_seen": "2026-07-31",
-      "last_seen": "2026-08-30",
+      "last_seen": "2026-09-11",
       "locations": [
         "Qatar, Ad-Daw?ah, Doha"
       ],
-      "posted": "2026-07-31",
+      "posted": "2026-09-11",
       "title": "Cloud Solution Architect - Erada Internship",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556942310"
     },
@@ -6559,5 +6564,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8193295"
     }
   },
-  "updated_at": "2026-09-11T11:31:31Z"
+  "updated_at": "2026-09-11T16:37:34Z"
 }
