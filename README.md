@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-11 16:37:34 UTC** · 📌 **254** open internships
+> 🕐 Last updated: **2026-09-11 21:06:03 UTC** · 📌 **269** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -32,18 +32,18 @@ GitHub Actions.
 | [Hudson River Trading](#hudson-river-trading) | 1 |
 | [Intel](#intel) | 22 |
 | [Jane Street](#jane-street) | 19 |
-| Lyft | — |
+| [Lyft](#lyft) | 14 |
 | [Meta](#meta) | 5 |
-| [Microsoft](#microsoft) | 17 |
+| [Microsoft](#microsoft) | 20 |
 | MongoDB | — |
-| [NVIDIA](#nvidia) | 55 |
+| [NVIDIA](#nvidia) | 51 |
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
 | [Oracle](#oracle) | 3 |
 | PayPal | — |
 | Pinterest | — |
 | Reddit | — |
-| [Salesforce](#salesforce) | 2 |
+| [Salesforce](#salesforce) | 4 |
 | [Scale AI](#scale-ai) | 1 |
 | Snap | — |
 | [Snowflake](#snowflake) | 3 |
@@ -276,6 +276,25 @@ GitHub Actions.
 | [Machine Learning Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8611307002/) | AI/ML | NYC | — | 2026-07-09 |
 | [Linux Engineer (Summer Internship (December-February))](https://www.janestreet.com/join-jane-street/position/8377832002/) | Backend/Infra | HKG | — | 2026-07-09 |
 
+## Lyft
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [Software Engineer Intern, Test Automation (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002) 🆕 | Software | Montreal, Canada | 2026-09-11 | 2026-09-11 |
+| [Software Engineer Intern, Machine Learning (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002) 🆕 | AI/ML | Toronto, Canada | 2026-09-11 | 2026-09-11 |
+| [Software Engineer Intern, Fullstack (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002) 🆕 | Software | Toronto, Canada | 2026-09-11 | 2026-09-11 |
+| [Software Engineer Intern, Fullstack (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002) 🆕 | Software | New York, NY | 2026-09-11 | 2026-09-11 |
+| [Software Engineer Intern, Frontend (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8797819002?gh_jid=8797819002) 🆕 | Frontend | Mexico City, Mexico | 2026-09-11 | 2026-09-11 |
+| [Software Engineer Intern, Backend (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002) 🆕 | Backend/Infra | San Francisco, CA | 2026-09-11 | 2026-09-11 |
+| [Software Engineer Intern, Backend (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002) 🆕 | Backend/Infra | Mexico City, Mexico | 2026-09-11 | 2026-09-11 |
+| [Software Engineer Intern, Backend (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002) 🆕 | Backend/Infra | Montreal, Canada | 2026-09-11 | 2026-09-11 |
+| [Software Engineer Intern, Backend (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002) 🆕 | Backend/Infra | Toronto, Canada | 2026-09-11 | 2026-09-11 |
+| [Data Science Intern, Algorithms (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002) 🆕 | Data | Toronto, Canada | 2026-09-11 | 2026-09-11 |
+| [Data Science Intern, Algorithms (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) 🆕 | Data | San Francisco, CA | 2026-09-11 | 2026-09-11 |
+| [Data Science Intern, Algorithms (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) 🆕 | Data | New York, NY | 2026-09-11 | 2026-09-11 |
+| [Data Engineer Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) 🆕 | Data | Toronto, Canada | 2026-09-11 | 2026-09-11 |
+| [Data Analyst Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) 🆕 | Data | New York, NY | 2026-09-11 | 2026-09-11 |
+
 ## Meta
 
 | Role | Category | Location | Posted | First seen |
@@ -290,6 +309,9 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineering Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556983221) 🆕 | Software | United States, Washington, Redmond | 2026-09-11 | 2026-09-11 |
+| [Software Engineering Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556983223) 🆕 | Software | United States, Virginia, Reston | 2026-09-11 | 2026-09-11 |
+| [Security Assurance Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556988203) 🆕 | Security | United States, Washington, Redmond | 2026-09-11 | 2026-09-11 |
 | [Cloud Solution Architect - Erada Internship](https://apply.careers.microsoft.com/careers/job/1970393556942310) | Backend/Infra | Qatar, Ad-Daw?ah, Doha | 2026-09-11 | 2026-07-31 |
 | [Cambridge Internship Program - Robotics Systems and Control](https://apply.careers.microsoft.com/careers/job/1970393556991724) 🆕 | AI/ML | United Kingdom, Cambridgeshire, Cambridge | 2026-09-10 | 2026-09-10 |
 | [Penetration Tester, SERPENT: Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393556988202) 🆕 | Security | United States, Washington, Redmond | 2026-09-09 | 2026-09-09 |
@@ -314,7 +336,6 @@ GitHub Actions.
 |---|---|---|---|---|
 | [System Software Engineering Intern, GPU - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334) 🆕 | Software | 2 Locations | 2026-09-10 | 2026-09-11 |
 | [System Software Intern, Video Chips - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Intern--Video-Chips---Summer-2027_JR2025179) 🆕 | Software | China, Shanghai | 2026-09-09 | 2026-09-09 |
-| [Software Engineering Intern — Replay Tooling & Test Automation, Autonomous Driving](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086) | AI/ML | Germany, Munich | 2026-09-09 | 2026-07-30 |
 | [Circuit Validation Engineer Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Circuit-Validation-Engineer-Intern---2027_JR2024949) 🆕 | QA | China, Shanghai | 2026-09-07 | 2026-09-06 |
 | [Post Silicon Validation Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Post-Silicon-Validation-Intern---2027_JR2025052) 🆕 | QA | China, Shanghai | 2026-09-05 | 2026-09-04 |
 | [Infrastructure Tool Development Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Infrastructure-Tool-Development-Intern---2027_JR2025040) 🆕 | Backend/Infra | China, Shanghai | 2026-09-05 | 2026-09-04 |
@@ -352,10 +373,7 @@ GitHub Actions.
 | [NVIDIA Spring 2027 Internships: Developer and Performance Technology](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499) | Software | US, CA, Santa Clara | 2026-08-19 | 2026-08-19 |
 | [NVIDIA 2027 Internships: Systems Software Engineering](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) | Software | US, CA, Santa Clara | 2026-08-19 | 2026-08-19 |
 | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) | Software | US, CA, Santa Clara | 2026-08-19 | 2026-08-19 |
-| [NVIDIA 2027 Internships: Ph.D. Research Robotics](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Robotics_JR2023847) | AI/ML | US, CA, Santa Clara | 2026-08-19 | 2026-08-19 |
 | [NVIDIA 2027 Internships: Ph.D. Research Generative AI](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475) | AI/ML | US, CA, Santa Clara | 2026-08-19 | 2026-08-19 |
-| [NVIDIA 2027 Internships: Ph.D. Research Computer Vision and Deep Learning](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833) | AI/ML | US, CA, Santa Clara | 2026-08-19 | 2026-08-19 |
-| [NVIDIA 2027 Internships: Ph.D. Research Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838) | AI/ML | US, CA, Santa Clara | 2026-08-19 | 2026-08-19 |
 | [NVIDIA 2027 Internships: Deep Learning Computer Architecture](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491) | AI/ML | US, CA, Santa Clara | 2026-08-19 | 2026-08-19 |
 | [NVIDIA 2027 Internships: Deep Learning](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | AI/ML | US, CA, Santa Clara | 2026-08-19 | 2026-08-19 |
 | [NVIDIA 2027 Internships: Autonomous Vehicles and Robotics](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496) | AI/ML | US, CA, Santa Clara | 2026-08-19 | 2026-08-19 |
@@ -387,6 +405,8 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [AI Builder Intern [Mexico]](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Mexico---Mexico-City/AI-Builder-Intern--Mexico-_JR359971-2) 🆕 | AI/ML | Mexico - Mexico City | 2026-09-11 | 2026-09-11 |
+| [AI Builder Intern [Brazil]](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Brazil---Sao-Paulo/AI-Builder-Intern--Brazil-_JR359969) 🆕 | AI/ML | Brazil - Sao Paulo | 2026-09-11 | 2026-09-11 |
 | [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) | Software | 8 Locations | 2026-08-31 | 2026-08-28 |
 | [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) | Software | 2 Locations | 2026-07-28 | 2026-07-14 |
 
