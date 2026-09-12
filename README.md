@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-12 12:17:39 UTC** · 📌 **267** open internships
+> 🕐 Last updated: **2026-09-12 15:40:11 UTC** · 📌 **263** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -33,7 +33,7 @@ GitHub Actions.
 | [Intel](#intel) | 21 |
 | [Jane Street](#jane-street) | 19 |
 | [Lyft](#lyft) | 14 |
-| [Meta](#meta) | 5 |
+| [Meta](#meta) | 1 |
 | [Microsoft](#microsoft) | 18 |
 | MongoDB | — |
 | [NVIDIA](#nvidia) | 51 |
@@ -299,11 +299,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Research Scientist Intern, Optical System Design (PhD)](https://www.metacareers.com/jobs/1796691991338568) | AI/ML | — | — | 2026-08-21 |
 | [Research Scientist Intern, State Estimation for Dexterous Manipulation (PhD)](https://www.metacareers.com/jobs/2774289902955470) | AI/ML | Redmond, WA | — | 2026-07-09 |
-| [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/924149567345400) | AI/ML | — | — | 2026-07-09 |
-| [Research Scientist Intern, Monetization Generative AI - LLM (PhD)](https://www.metacareers.com/jobs/2916726525182155) | AI/ML | — | — | 2026-07-09 |
-| [Research Scientist Intern, Applied Vision and Image Quality (PhD)](https://www.metacareers.com/jobs/1422892385992613) | AI/ML | — | — | 2026-07-09 |
 
 ## Microsoft
 
