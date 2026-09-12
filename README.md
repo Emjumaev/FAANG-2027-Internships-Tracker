@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-12 00:26:15 UTC** · 📌 **271** open internships
+> 🕐 Last updated: **2026-09-12 07:16:25 UTC** · 📌 **269** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -34,7 +34,7 @@ GitHub Actions.
 | [Jane Street](#jane-street) | 19 |
 | [Lyft](#lyft) | 14 |
 | [Meta](#meta) | 5 |
-| [Microsoft](#microsoft) | 20 |
+| [Microsoft](#microsoft) | 18 |
 | MongoDB | — |
 | [NVIDIA](#nvidia) | 51 |
 | [Netflix](#netflix) | 2 |
@@ -320,8 +320,6 @@ GitHub Actions.
 | [Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities](https://apply.careers.microsoft.com/careers/job/1970393556866895) | Software | Egypt, Cairo, Cairo | 2026-09-04 | 2026-07-20 |
 | [Firmware Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556981972) 🆕 | Backend/Infra | United States, California, Santa Clara; United States, Washington, Redmond | 2026-09-04 | 2026-09-05 |
 | [Data Science: AI Experiences PhD Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556986137) | AI/ML | United States, Washington, Redmond | 2026-09-03 | 2026-09-04 |
-| [Applied Science: PhD Internship Opportunities - Multiple Locations](https://apply.careers.microsoft.com/careers/job/1970393556986140) | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-09-02 | 2026-09-03 |
-| [Data Science: PhD Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556982928) | Data | United States, Washington, Redmond | 2026-09-01 | 2026-09-02 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556911730) | Software | India, Multiple Locations, Multiple Locations | 2026-08-28 | 2026-07-09 |
 | [Applied Science: PhD Microsoft AI Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393556868271) | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-08-26 | 2026-07-09 |
 | [Software Engineering Intern - Clipchamp](https://apply.careers.microsoft.com/careers/job/1970393556978345) | Software | Australia, New South Wales, Sydney; Australia, Queensland, Brisbane; Australia, Victoria, Melbourne | 2026-08-24 | 2026-08-24 |
@@ -407,9 +405,9 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [AI Builder Intern [Mexico]](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Mexico---Mexico-City/AI-Builder-Intern--Mexico-_JR359971-2) 🆕 | AI/ML | Mexico - Mexico City | 2026-09-12 | 2026-09-11 |
-| [AI Builder Intern [Brazil]](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Brazil---Sao-Paulo/AI-Builder-Intern--Brazil-_JR359969) 🆕 | AI/ML | Brazil - Sao Paulo | 2026-09-12 | 2026-09-11 |
-| [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) | Software | 8 Locations | 2026-09-01 | 2026-08-28 |
+| [AI Builder Intern [Mexico]](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Mexico---Mexico-City/AI-Builder-Intern--Mexico-_JR359971-2) 🆕 | AI/ML | Mexico - Mexico City | 2026-09-11 | 2026-09-11 |
+| [AI Builder Intern [Brazil]](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Brazil---Sao-Paulo/AI-Builder-Intern--Brazil-_JR359969) 🆕 | AI/ML | Brazil - Sao Paulo | 2026-09-11 | 2026-09-11 |
+| [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) | Software | 8 Locations | 2026-08-31 | 2026-08-28 |
 | [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) | Software | 2 Locations | 2026-07-28 | 2026-07-14 |
 
 ## Scale AI
