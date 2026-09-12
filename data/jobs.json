@@ -4161,9 +4161,9 @@
       "url": "https://www.metacareers.com/jobs/1418337243438665"
     },
     "meta:1422892385992613": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-07-19",
+      "closed": "2026-09-12",
       "company": "Meta",
       "external_id": "1422892385992613",
       "first_seen": "2026-07-09",
@@ -4208,8 +4208,9 @@
       "url": "https://www.metacareers.com/jobs/1782902493113620"
     },
     "meta:1796691991338568": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-12",
       "company": "Meta",
       "external_id": "1796691991338568",
       "first_seen": "2026-08-21",
@@ -4344,9 +4345,9 @@
       "url": "https://www.metacareers.com/jobs/2839011673109571"
     },
     "meta:2916726525182155": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-07-19",
+      "closed": "2026-09-12",
       "company": "Meta",
       "external_id": "2916726525182155",
       "first_seen": "2026-07-09",
@@ -4389,9 +4390,9 @@
       "url": "https://www.metacareers.com/jobs/779670167783218"
     },
     "meta:924149567345400": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-07-19",
+      "closed": "2026-09-12",
       "company": "Meta",
       "external_id": "924149567345400",
       "first_seen": "2026-07-09",
@@ -6850,5 +6851,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8193295"
     }
   },
-  "updated_at": "2026-09-12T12:17:39Z"
+  "updated_at": "2026-09-12T15:40:11Z"
 }
