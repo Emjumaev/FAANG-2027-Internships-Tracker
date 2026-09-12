@@ -5033,8 +5033,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556982897"
     },
     "microsoft:1970393556982928": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-09-12",
       "company": "Microsoft",
       "external_id": "1970393556982928",
       "first_seen": "2026-09-02",
@@ -5089,8 +5090,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556986137"
     },
     "microsoft:1970393556986140": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-12",
       "company": "Microsoft",
       "external_id": "1970393556986140",
       "first_seen": "2026-09-03",
@@ -6482,7 +6484,7 @@
       "locations": [
         "8 Locations"
       ],
-      "posted": "2026-09-01",
+      "posted": "2026-08-31",
       "title": "Summer 2027 Intern - Software Engineer",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1"
     },
@@ -6511,7 +6513,7 @@
       "locations": [
         "Brazil - Sao Paulo"
       ],
-      "posted": "2026-09-12",
+      "posted": "2026-09-11",
       "title": "AI Builder Intern [Brazil]",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Brazil---Sao-Paulo/AI-Builder-Intern--Brazil-_JR359969"
     },
@@ -6525,7 +6527,7 @@
       "locations": [
         "Mexico - Mexico City"
       ],
-      "posted": "2026-09-12",
+      "posted": "2026-09-11",
       "title": "AI Builder Intern [Mexico]",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Mexico---Mexico-City/AI-Builder-Intern--Mexico-_JR359971-2"
     },
@@ -6847,5 +6849,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8193295"
     }
   },
-  "updated_at": "2026-09-12T00:26:15Z"
+  "updated_at": "2026-09-12T07:16:25Z"
 }
