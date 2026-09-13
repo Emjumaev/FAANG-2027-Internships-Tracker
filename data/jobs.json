@@ -6072,6 +6072,20 @@
       "title": "System Software Engineer \u2013 Embedded Power Management (RDSS Intern)",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-Power-Management--RDSS-Intern-_JR2023967"
     },
+    "nvidia:JR2023971": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "NVIDIA",
+      "external_id": "JR2023971",
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "locations": [
+        "Taiwan, Taipei"
+      ],
+      "posted": "2026-09-13",
+      "title": "Linux for Edge System Software Engineer (RDSS intern)",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Linux-for-Edge-System-Software-Engineer--RDSS-intern-_JR2023971"
+    },
     "nvidia:JR2023995": {
       "active": false,
       "category": "QA",
@@ -6851,5 +6865,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8193295"
     }
   },
-  "updated_at": "2026-09-13T12:02:16Z"
+  "updated_at": "2026-09-13T16:26:14Z"
 }
