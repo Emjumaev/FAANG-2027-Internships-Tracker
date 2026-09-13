@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-13 12:02:16 UTC** · 📌 **263** open internships
+> 🕐 Last updated: **2026-09-13 16:26:14 UTC** · 📌 **264** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -36,7 +36,7 @@ GitHub Actions.
 | [Meta](#meta) | 1 |
 | [Microsoft](#microsoft) | 18 |
 | MongoDB | — |
-| [NVIDIA](#nvidia) | 51 |
+| [NVIDIA](#nvidia) | 52 |
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
 | [Oracle](#oracle) | 3 |
@@ -328,6 +328,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Linux for Edge System Software Engineer (RDSS intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Linux-for-Edge-System-Software-Engineer--RDSS-intern-_JR2023971) 🆕 | Backend/Infra | Taiwan, Taipei | 2026-09-13 | 2026-09-13 |
 | [System Software Engineering Intern, GPU - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334) 🆕 | Software | 2 Locations | 2026-09-10 | 2026-09-11 |
 | [System Software Intern, Video Chips - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Intern--Video-Chips---Summer-2027_JR2025179) 🆕 | Software | China, Shanghai | 2026-09-09 | 2026-09-09 |
 | [Circuit Validation Engineer Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Circuit-Validation-Engineer-Intern---2027_JR2024949) 🆕 | QA | China, Shanghai | 2026-09-07 | 2026-09-06 |
