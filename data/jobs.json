@@ -1751,8 +1751,9 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027"
     },
     "cloudflare:8052785": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-09-14",
       "company": "Cloudflare",
       "external_id": "8052785",
       "first_seen": "2026-07-15",
@@ -1840,8 +1841,9 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728"
     },
     "cloudflare:8118845": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-09-14",
       "company": "Cloudflare",
       "external_id": "8118845",
       "first_seen": "2026-08-11",
@@ -1854,8 +1856,9 @@
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845"
     },
     "cloudflare:8118855": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-09-14",
       "company": "Cloudflare",
       "external_id": "8118855",
       "first_seen": "2026-08-20",
@@ -3254,8 +3257,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/AI-Engineer-Intern_JR0286108"
     },
     "intel:JR0286119": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-14",
       "company": "Intel",
       "external_id": "JR0286119",
       "first_seen": "2026-08-05",
@@ -6879,5 +6883,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8193295"
     }
   },
-  "updated_at": "2026-09-14T00:20:21Z"
+  "updated_at": "2026-09-14T05:08:57Z"
 }
