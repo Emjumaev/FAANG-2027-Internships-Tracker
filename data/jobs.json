@@ -1984,6 +1984,24 @@
       "title": "Software Engineering Intern (2027 Start) - Winter",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
     },
+    "doordash:8171041": {
+      "active": true,
+      "category": "Software",
+      "company": "DoorDash",
+      "external_id": "8171041",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "locations": [
+        "Los Angeles, CA",
+        "New York, NY",
+        "San Francisco, CA",
+        "Seattle, WA",
+        "Sunnyvale, CA"
+      ],
+      "posted": "2026-09-14",
+      "title": "Software Engineer, Intern (Summer 2027) - US",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041"
+    },
     "dropbox:8106224": {
       "active": true,
       "category": "Software",
@@ -7408,7 +7426,22 @@
       "posted": "2026-09-14",
       "title": "2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8197899"
+    },
+    "waymo:8198218": {
+      "active": true,
+      "category": "Software",
+      "company": "Waymo",
+      "external_id": "8198218",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "locations": [
+        "Mountain View, California, United States",
+        "San Francisco, California, United States"
+      ],
+      "posted": "2026-09-14",
+      "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218"
     }
   },
-  "updated_at": "2026-09-14T19:30:50Z"
+  "updated_at": "2026-09-14T23:15:47Z"
 }
