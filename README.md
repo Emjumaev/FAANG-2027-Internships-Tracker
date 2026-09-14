@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-14 12:58:51 UTC** · 📌 **262** open internships
+> 🕐 Last updated: **2026-09-14 19:30:50 UTC** · 📌 **279** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -26,9 +26,9 @@ GitHub Actions.
 | [Databricks](#databricks) | 2 |
 | DoorDash | — |
 | [Dropbox](#dropbox) | 1 |
-| [Figma](#figma) | 1 |
+| [Figma](#figma) | 4 |
 | GitHub | — |
-| [Google](#google) | 32 |
+| [Google](#google) | 42 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
 | [Intel](#intel) | 20 |
 | [Jane Street](#jane-street) | 19 |
@@ -44,13 +44,13 @@ GitHub Actions.
 | Pinterest | — |
 | Reddit | — |
 | [Salesforce](#salesforce) | 4 |
-| [Scale AI](#scale-ai) | 1 |
+| [Scale AI](#scale-ai) | 3 |
 | Snap | — |
 | [Snowflake](#snowflake) | 3 |
 | Spotify | — |
 | [Stripe](#stripe) | 7 |
 | Uber | — |
-| [Waymo](#waymo) | 4 |
+| [Waymo](#waymo) | 6 |
 | ByteDance | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* |
 | Tesla | *careers site and its JSON API sit behind Akamai bot protection that returns 403 to every non-browser client; needs a headless browser* |
 
@@ -175,6 +175,9 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineer Intern (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004) 🆕 | Software | San Francisco, CA • New York, NY | 2026-09-14 | 2026-09-14 |
+| [Software Engineer Intern (London, United Kingdom) (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004) 🆕 | Software | London, England | 2026-09-14 | 2026-09-14 |
+| [Data Science Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) 🆕 | Data | San Francisco, CA • New York, NY | 2026-09-14 | 2026-09-14 |
 | [Software Engineer Intern (Winter 2027)](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004) | Software | San Francisco, CA • New York, NY | 2026-08-10 | 2026-09-04 |
 
 ## Google
@@ -182,7 +185,17 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Student Researcher, PhD, Winter-Summer 2027](https://www.google.com/about/careers/applications/jobs/results/141525012002546374) 🆕 | AI/ML | Montreal, QC, Canada | 2026-09-14 | 2026-09-14 |
+| [Student Researcher, PhD, Winter-Summer 2027](https://www.google.com/about/careers/applications/jobs/results/75043041429070534) 🆕 | AI/ML | Toronto, ON, Canada; Waterloo, ON, Canada | 2026-09-14 | 2026-09-14 |
+| [Student Researcher, PhD, Winter-Summer 2027](https://www.google.com/about/careers/applications/jobs/results/134313315235963590) 🆕 | AI/ML | Ann Arbor, MI, USA; Atlanta, GA, USA; Austin, TX, USA *(+22 more)* | 2026-09-14 | 2026-09-14 |
 | [Student Researcher, BS/MS, Winter-Summer 2027](https://www.google.com/about/careers/applications/jobs/results/104405499448828614) 🆕 | AI/ML | Montreal, QC, Canada | 2026-09-14 | 2026-09-14 |
+| [Student Researcher, BS/MS, Winter-Summer 2027](https://www.google.com/about/careers/applications/jobs/results/131518356678156998) 🆕 | AI/ML | Ann Arbor, MI, USA; Atlanta, GA, USA; Austin, TX, USA *(+22 more)* | 2026-09-14 | 2026-09-14 |
+| [Student Researcher, BS/MS, Winter-Summer 2027](https://www.google.com/about/careers/applications/jobs/results/114416552819729094) 🆕 | AI/ML | Toronto, ON, Canada; Waterloo, ON, Canada | 2026-09-14 | 2026-09-14 |
+| [Security Engineering Intern, BS/MS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/136826798817059526) 🆕 | Security | Ann Arbor, MI, USA; Atlanta, GA, USA; Austin, TX, USA *(+28 more)* | 2026-09-14 | 2026-09-14 |
+| [Security Consultant Intern, BS/MS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/139129176165622470) 🆕 | Security | Ann Arbor, MI, USA; Atlanta, GA, USA; Austin, TX, USA *(+28 more)* | 2026-09-14 | 2026-09-14 |
+| [Security Consultant Intern, BS/MS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/94308684170961606) 🆕 | Security | Toronto, ON, Canada | 2026-09-14 | 2026-09-14 |
+| [Data Scientist, Research Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/89965613241246406) 🆕 | Data | Ann Arbor, MI, USA; Atlanta, GA, USA; Austin, TX, USA *(+28 more)* | 2026-09-14 | 2026-09-14 |
+| [Data Scientist, Product Intern, MS, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/119184035237765830) 🆕 | Data | Ann Arbor, MI, USA; Atlanta, GA, USA; Austin, TX, USA *(+28 more)* | 2026-09-14 | 2026-09-14 |
+| [Business Data Scientist Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/134577198026629830) 🆕 | Data | Ann Arbor, MI, USA; Atlanta, GA, USA; Austin, TX, USA *(+28 more)* | 2026-09-14 | 2026-09-14 |
 | [Software Engineering PhD Intern, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/109976286780105414) 🆕 | Software | Bengaluru, Karnataka, India; Hyderabad, Telangana, India; Pune, Maharashtra, India | 2026-09-07 | 2026-09-07 |
 | [Software Engineering, Site Reliability Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/100028133205254854) | Backend/Infra | London, UK | 2026-09-03 | 2026-09-03 |
 | [Software Engineering, Site Reliability Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/121543376737575622) | Backend/Infra | Kraków, Poland; Warsaw, Poland | 2026-09-03 | 2026-09-03 |
@@ -224,9 +237,9 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [System Technology Research Engineer - (PhD Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000) 🆕 | AI/ML | 3 Locations | 2026-09-14 | 2026-09-14 |
 | [Operations Research Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Operations-Research-Engineer-Intern_JR0286945) 🆕 | AI/ML | 2 Locations | 2026-09-10 | 2026-09-10 |
 | [Compiler Engineering Undergraduate Intern - SYCL Runtime](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849) 🆕 | Backend/Infra | Canada, Toronto | 2026-09-10 | 2026-09-10 |
-| [AI Software Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730) 🆕 | AI/ML | 2 Locations | 2026-09-10 | 2026-09-10 |
 | [System Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/System-Software-Engineering-Intern_JR0286933) 🆕 | Software | Malaysia, Kulim | 2026-09-09 | 2026-09-09 |
 | [Software Research Engineering - (PhD Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019) 🆕 | AI/ML | US, Oregon, Hillsboro | 2026-09-09 | 2026-09-09 |
 | [AI and Compiler Engineering Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850) 🆕 | AI/ML | Virtual Canada | 2026-09-09 | 2026-09-09 |
@@ -298,7 +311,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556990727) 🆕 | Software | Israel, Multiple Locations, Multiple Locations | 2026-09-14 | 2026-09-14 |
+| [Cloud Solution Architecture Intern](https://apply.careers.microsoft.com/careers/job/1970393556998387) 🆕 | Backend/Infra | Belgium, Brussels Region, Brussels | 2026-09-14 | 2026-09-14 |
 | [Applied Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556997800) 🆕 | AI/ML | India, Multiple Locations, Multiple Locations | 2026-09-14 | 2026-09-14 |
 | [Software Engineering Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556983221) 🆕 | Software | United States, Washington, Redmond | 2026-09-11 | 2026-09-11 |
 | [Software Engineering Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556983223) 🆕 | Software | United States, Virginia, Reston | 2026-09-11 | 2026-09-11 |
@@ -402,6 +415,8 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730834005) 🆕 | Software | Doha, Qatar | 2026-09-14 | 2026-09-14 |
+| [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730846005) 🆕 | Software | London, UK | 2026-09-14 | 2026-09-14 |
 | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) | Software | San Francisco, CA | 2026-09-04 | 2026-09-04 |
 
 ## Snowflake
@@ -428,6 +443,8 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics](https://careers.withwaymo.com/jobs?gh_jid=8197899) 🆕 | Data | Mountain View, CA, USA | 2026-09-14 | 2026-09-14 |
+| [2027 Summer Intern, BS/MS, Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8193731) 🆕 | Software | San Francisco, California | 2026-09-14 | 2026-09-14 |
 | [2027 Summer Intern, PhD, Machine Learning, Computer Vision](https://careers.withwaymo.com/jobs?gh_jid=8193295) 🆕 | AI/ML | Mountain View, California | 2026-09-10 | 2026-09-11 |
 | [2027 Summer Intern, MS, Software Engineering, Behavior Test](https://careers.withwaymo.com/jobs?gh_jid=8174504) | Software | San Francisco, California, USA | 2026-09-03 | 2026-09-04 |
 | [2027 Summer Intern, BS, SysEng Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8174099) | Software | Mountain View, California, USA | 2026-09-03 | 2026-09-04 |
