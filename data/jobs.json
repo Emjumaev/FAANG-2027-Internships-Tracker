@@ -2012,6 +2012,48 @@
       "title": "Software Engineer Intern (Winter 2027)",
       "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004"
     },
+    "figma:6143238004": {
+      "active": true,
+      "category": "Software",
+      "company": "Figma",
+      "external_id": "6143238004",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "locations": [
+        "San Francisco, CA \u2022 New York, NY"
+      ],
+      "posted": "2026-09-14",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004"
+    },
+    "figma:6152695004": {
+      "active": true,
+      "category": "Software",
+      "company": "Figma",
+      "external_id": "6152695004",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "locations": [
+        "London, England"
+      ],
+      "posted": "2026-09-14",
+      "title": "Software Engineer Intern (London, United Kingdom) (Summer 2027)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004"
+    },
+    "figma:6178857004": {
+      "active": true,
+      "category": "Data",
+      "company": "Figma",
+      "external_id": "6178857004",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "locations": [
+        "San Francisco, CA \u2022 New York, NY"
+      ],
+      "posted": "2026-09-14",
+      "title": "Data Science Intern (2027)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004"
+    },
     "google:100028133205254854": {
       "active": true,
       "category": "Backend/Infra",
@@ -2207,6 +2249,21 @@
       "title": "Student Researcher, BS/MS, Fall 2026",
       "url": "https://www.google.com/about/careers/applications/jobs/results/113855697199735494"
     },
+    "google:114416552819729094": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Google",
+      "external_id": "114416552819729094",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "locations": [
+        "Toronto, ON, Canada",
+        "Waterloo, ON, Canada"
+      ],
+      "posted": "2026-09-14",
+      "title": "Student Researcher, BS/MS, Winter-Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/114416552819729094"
+    },
     "google:114421121054319302": {
       "active": false,
       "category": "Data",
@@ -2224,6 +2281,50 @@
       "posted": "2026-07-20",
       "title": "Data Analytics Apprenticeship, March 2027 Start",
       "url": "https://www.google.com/about/careers/applications/jobs/results/114421121054319302"
+    },
+    "google:119184035237765830": {
+      "active": true,
+      "category": "Data",
+      "company": "Google",
+      "external_id": "119184035237765830",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "locations": [
+        "Ann Arbor, MI, USA",
+        "Atlanta, GA, USA",
+        "Austin, TX, USA",
+        "Bellevue, WA, USA",
+        "Boulder, CO, USA",
+        "Cambridge, MA, USA",
+        "Chicago, IL, USA",
+        "Durham, NC, USA",
+        "Goleta, CA, USA",
+        "Irvine, CA, USA",
+        "Kirkland, WA, USA",
+        "Los Angeles, CA, USA",
+        "Madison, WI, USA",
+        "Mountain View, CA, USA",
+        "New York, NY, USA",
+        "Palo Alto, CA, USA",
+        "Pittsburgh, PA, USA",
+        "Portland, OR, USA",
+        "Raleigh, NC, USA",
+        "Redmond, WA, USA",
+        "Redwood City, CA, USA",
+        "Reston, VA, USA",
+        "San Bruno, CA, USA",
+        "San Diego, CA, USA",
+        "San Francisco, CA, USA",
+        "San Jose, CA, USA",
+        "Santa Cruz, CA, USA",
+        "Seattle, WA, USA",
+        "South San Francisco, CA, USA",
+        "Sunnyvale, CA, USA",
+        "Washington D.C., DC, USA"
+      ],
+      "posted": "2026-09-14",
+      "title": "Data Scientist, Product Intern, MS, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/119184035237765830"
     },
     "google:121543376737575622": {
       "active": true,
@@ -2306,6 +2407,44 @@
       "title": "Student Researcher, PhD, Fall 2026",
       "url": "https://www.google.com/about/careers/applications/jobs/results/128430823337534150"
     },
+    "google:131518356678156998": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Google",
+      "external_id": "131518356678156998",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "locations": [
+        "Ann Arbor, MI, USA",
+        "Atlanta, GA, USA",
+        "Austin, TX, USA",
+        "Boulder, CO, USA",
+        "Cambridge, MA, USA",
+        "Chicago, IL, USA",
+        "Durham, NC, USA",
+        "Goleta, CA, USA",
+        "Houston, TX, USA",
+        "Irvine, CA, USA",
+        "Kirkland, WA, USA",
+        "Los Angeles, CA, USA",
+        "Madison, WI, USA",
+        "Mountain View, CA, USA",
+        "New York, NY, USA",
+        "Palo Alto, CA, USA",
+        "Pittsburgh, PA, USA",
+        "Princeton, NJ, USA",
+        "Raleigh, NC, USA",
+        "San Bruno, CA, USA",
+        "San Francisco, CA, USA",
+        "San Jose, CA, USA",
+        "Seattle, WA, USA",
+        "Sunnyvale, CA, USA",
+        "Washington D.C., DC, USA"
+      ],
+      "posted": "2026-09-14",
+      "title": "Student Researcher, BS/MS, Winter-Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/131518356678156998"
+    },
     "google:132149998191026886": {
       "active": false,
       "category": "Data",
@@ -2370,6 +2509,88 @@
       "title": "Student Researcher, BS/MS, Fall 2026",
       "url": "https://www.google.com/about/careers/applications/jobs/results/132362676918461126"
     },
+    "google:134313315235963590": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Google",
+      "external_id": "134313315235963590",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "locations": [
+        "Ann Arbor, MI, USA",
+        "Atlanta, GA, USA",
+        "Austin, TX, USA",
+        "Boulder, CO, USA",
+        "Cambridge, MA, USA",
+        "Chicago, IL, USA",
+        "Durham, NC, USA",
+        "Goleta, CA, USA",
+        "Houston, TX, USA",
+        "Irvine, CA, USA",
+        "Kirkland, WA, USA",
+        "Los Angeles, CA, USA",
+        "Madison, WI, USA",
+        "Mountain View, CA, USA",
+        "New York, NY, USA",
+        "Palo Alto, CA, USA",
+        "Pittsburgh, PA, USA",
+        "Princeton, NJ, USA",
+        "Raleigh, NC, USA",
+        "San Bruno, CA, USA",
+        "San Francisco, CA, USA",
+        "San Jose, CA, USA",
+        "Seattle, WA, USA",
+        "Sunnyvale, CA, USA",
+        "Washington D.C., DC, USA"
+      ],
+      "posted": "2026-09-14",
+      "title": "Student Researcher, PhD, Winter-Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/134313315235963590"
+    },
+    "google:134577198026629830": {
+      "active": true,
+      "category": "Data",
+      "company": "Google",
+      "external_id": "134577198026629830",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "locations": [
+        "Ann Arbor, MI, USA",
+        "Atlanta, GA, USA",
+        "Austin, TX, USA",
+        "Bellevue, WA, USA",
+        "Boulder, CO, USA",
+        "Cambridge, MA, USA",
+        "Chicago, IL, USA",
+        "Durham, NC, USA",
+        "Goleta, CA, USA",
+        "Irvine, CA, USA",
+        "Kirkland, WA, USA",
+        "Los Angeles, CA, USA",
+        "Madison, WI, USA",
+        "Mountain View, CA, USA",
+        "New York, NY, USA",
+        "Palo Alto, CA, USA",
+        "Pittsburgh, PA, USA",
+        "Portland, OR, USA",
+        "Raleigh, NC, USA",
+        "Redmond, WA, USA",
+        "Redwood City, CA, USA",
+        "Reston, VA, USA",
+        "San Bruno, CA, USA",
+        "San Diego, CA, USA",
+        "San Francisco, CA, USA",
+        "San Jos\u00e9, CA, USA",
+        "Santa Cruz, CA, USA",
+        "Seattle, WA, USA",
+        "South San Francisco, CA, USA",
+        "Sunnyvale, CA, USA",
+        "Washington D.C., DC, USA"
+      ],
+      "posted": "2026-09-14",
+      "title": "Business Data Scientist Intern, PhD, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/134577198026629830"
+    },
     "google:134795423167455942": {
       "active": true,
       "category": "AI/ML",
@@ -2397,6 +2618,50 @@
       "posted": "2026-07-01",
       "title": "Apprenticeship in Application Development, Informatiker:in EFZ Applikationsentwicklung, August 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/135233176434811590"
+    },
+    "google:136826798817059526": {
+      "active": true,
+      "category": "Security",
+      "company": "Google",
+      "external_id": "136826798817059526",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "locations": [
+        "Ann Arbor, MI, USA",
+        "Atlanta, GA, USA",
+        "Austin, TX, USA",
+        "Bellevue, WA, USA",
+        "Boulder, CO, USA",
+        "Cambridge, MA, USA",
+        "Chicago, IL, USA",
+        "Durham, NC, USA",
+        "Goleta, CA, USA",
+        "Irvine, CA, USA",
+        "Kirkland, WA, USA",
+        "Los Angeles, CA, USA",
+        "Madison, WI, USA",
+        "Mountain View, CA, USA",
+        "New York, NY, USA",
+        "Palo Alto, CA, USA",
+        "Pittsburgh, PA, USA",
+        "Portland, OR, USA",
+        "Raleigh, NC, USA",
+        "Redmond, WA, USA",
+        "Redwood City, CA, USA",
+        "Reston, VA, USA",
+        "San Bruno, CA, USA",
+        "San Diego, CA, USA",
+        "San Francisco, CA, USA",
+        "San Jose, CA, USA",
+        "Santa Cruz, CA, USA",
+        "Seattle, WA, USA",
+        "South San Francisco, CA, USA",
+        "Sunnyvale, CA, USA",
+        "Washington D.C., DC, USA"
+      ],
+      "posted": "2026-09-14",
+      "title": "Security Engineering Intern, BS/MS, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/136826798817059526"
     },
     "google:138166347879064262": {
       "active": false,
@@ -2445,6 +2710,50 @@
       "posted": "2026-08-31",
       "title": "Software Developer Intern, MS, Summer 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/138960139137753798"
+    },
+    "google:139129176165622470": {
+      "active": true,
+      "category": "Security",
+      "company": "Google",
+      "external_id": "139129176165622470",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "locations": [
+        "Ann Arbor, MI, USA",
+        "Atlanta, GA, USA",
+        "Austin, TX, USA",
+        "Bellevue, WA, USA",
+        "Boulder, CO, USA",
+        "Cambridge, MA, USA",
+        "Chicago, IL, USA",
+        "Durham, NC, USA",
+        "Goleta, CA, USA",
+        "Irvine, CA, USA",
+        "Kirkland, WA, USA",
+        "Los Angeles, CA, USA",
+        "Madison, WI, USA",
+        "Mountain View, CA, USA",
+        "New York, NY, USA",
+        "Palo Alto, CA, USA",
+        "Pittsburgh, PA, USA",
+        "Portland, OR, USA",
+        "Raleigh, NC, USA",
+        "Redmond, WA, USA",
+        "Redwood City, CA, USA",
+        "Reston, VA, USA",
+        "San Bruno, CA, USA",
+        "San Diego, CA, USA",
+        "San Francisco, CA, USA",
+        "San Jose, CA, USA",
+        "Santa Cruz, CA, USA",
+        "Seattle, WA, USA",
+        "South San Francisco, CA, USA",
+        "Sunnyvale, CA, USA",
+        "Washington D.C., DC, USA"
+      ],
+      "posted": "2026-09-14",
+      "title": "Security Consultant Intern, BS/MS, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/139129176165622470"
     },
     "google:140245524367188678": {
       "active": false,
@@ -2552,6 +2861,21 @@
       "posted": "2026-08-17",
       "title": "Part-Time Software Engineering PhD Intern, 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/74922616988541638"
+    },
+    "google:75043041429070534": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Google",
+      "external_id": "75043041429070534",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "locations": [
+        "Toronto, ON, Canada",
+        "Waterloo, ON, Canada"
+      ],
+      "posted": "2026-09-14",
+      "title": "Student Researcher, PhD, Winter-Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/75043041429070534"
     },
     "google:76982475250639558": {
       "active": false,
@@ -2729,6 +3053,50 @@
       "title": "Part-Time Research Scientist PhD Intern, 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/88486192428786374"
     },
+    "google:89965613241246406": {
+      "active": true,
+      "category": "Data",
+      "company": "Google",
+      "external_id": "89965613241246406",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "locations": [
+        "Ann Arbor, MI, USA",
+        "Atlanta, GA, USA",
+        "Austin, TX, USA",
+        "Bellevue, WA, USA",
+        "Boulder, CO, USA",
+        "Cambridge, MA, USA",
+        "Chicago, IL, USA",
+        "Durham, NC, USA",
+        "Goleta, CA, USA",
+        "Irvine, CA, USA",
+        "Kirkland, WA, USA",
+        "Los Angeles, CA, USA",
+        "Madison, WI, USA",
+        "Mountain View, CA, USA",
+        "New York, NY, USA",
+        "Palo Alto, CA, USA",
+        "Pittsburgh, PA, USA",
+        "Portland, OR, USA",
+        "Raleigh, NC, USA",
+        "Redmond, WA, USA",
+        "Redwood City, CA, USA",
+        "Reston, VA, USA",
+        "San Bruno, CA, USA",
+        "San Diego, CA, USA",
+        "San Francisco, CA, USA",
+        "San Jose, CA, USA",
+        "Santa Cruz, CA, USA",
+        "Seattle, WA, USA",
+        "South San Francisco, CA, USA",
+        "Sunnyvale, CA, USA",
+        "Washington D.C., DC, USA"
+      ],
+      "posted": "2026-09-14",
+      "title": "Data Scientist, Research Intern, PhD, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/89965613241246406"
+    },
     "google:91436104816698054": {
       "active": true,
       "category": "Software",
@@ -2828,6 +3196,20 @@
       "posted": "2026-08-31",
       "title": "Software Engineering Intern, MS, Summer 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742"
+    },
+    "google:94308684170961606": {
+      "active": true,
+      "category": "Security",
+      "company": "Google",
+      "external_id": "94308684170961606",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "posted": "2026-09-14",
+      "title": "Security Consultant Intern, BS/MS, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/94308684170961606"
     },
     "google:95141459539174086": {
       "active": false,
@@ -3402,8 +3784,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/IFA-Software-Development-Engineer-Intern_JR0286728"
     },
     "intel:JR0286730": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-14",
       "company": "Intel",
       "external_id": "JR0286730",
       "first_seen": "2026-09-10",
@@ -3640,6 +4023,20 @@
       "posted": "2026-09-07",
       "title": "Intern System Software Development Engineer",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286955"
+    },
+    "intel:JR0287000": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Intel",
+      "external_id": "JR0287000",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "locations": [
+        "3 Locations"
+      ],
+      "posted": "2026-09-14",
+      "title": "System Technology Research Engineer - (PhD Intern)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000"
     },
     "intel:JR0287019": {
       "active": true,
@@ -5186,8 +5583,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556988203"
     },
     "microsoft:1970393556990727": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-09-14",
       "company": "Microsoft",
       "external_id": "1970393556990727",
       "first_seen": "2026-09-14",
@@ -5226,6 +5624,20 @@
       "posted": "2026-09-14",
       "title": "Applied Sciences INTERN",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556997800"
+    },
+    "microsoft:1970393556998387": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Microsoft",
+      "external_id": "1970393556998387",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "locations": [
+        "Belgium, Brussels Region, Brussels"
+      ],
+      "posted": "2026-09-14",
+      "title": "Cloud Solution Architecture Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556998387"
     },
     "netflix:790313241540": {
       "active": false,
@@ -6624,6 +7036,20 @@
       "title": "AI Builder Intern [Mexico]",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Mexico---Mexico-City/AI-Builder-Intern--Mexico-_JR359971-2"
     },
+    "scale-ai:4730834005": {
+      "active": true,
+      "category": "Software",
+      "company": "Scale AI",
+      "external_id": "4730834005",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "locations": [
+        "Doha, Qatar"
+      ],
+      "posted": "2026-09-14",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005"
+    },
     "scale-ai:4730845005": {
       "active": true,
       "category": "Software",
@@ -6637,6 +7063,20 @@
       "posted": "2026-09-04",
       "title": "Software Engineering Intern (Summer 2027)",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005"
+    },
+    "scale-ai:4730846005": {
+      "active": true,
+      "category": "Software",
+      "company": "Scale AI",
+      "external_id": "4730846005",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "locations": [
+        "London, UK"
+      ],
+      "posted": "2026-09-14",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005"
     },
     "snowflake:3045856c-74a4-469e-ba81-a176cc0bef8f": {
       "active": true,
@@ -6940,7 +7380,35 @@
       "posted": "2026-09-10",
       "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8193295"
+    },
+    "waymo:8193731": {
+      "active": true,
+      "category": "Software",
+      "company": "Waymo",
+      "external_id": "8193731",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "locations": [
+        "San Francisco, California"
+      ],
+      "posted": "2026-09-14",
+      "title": "2027 Summer Intern, BS/MS, Software Engineer",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731"
+    },
+    "waymo:8197899": {
+      "active": true,
+      "category": "Data",
+      "company": "Waymo",
+      "external_id": "8197899",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-09-14",
+      "title": "2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8197899"
     }
   },
-  "updated_at": "2026-09-14T12:58:51Z"
+  "updated_at": "2026-09-14T19:30:50Z"
 }
