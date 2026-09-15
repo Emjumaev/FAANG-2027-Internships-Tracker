@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-15 11:53:31 UTC** · 📌 **281** open internships
+> 🕐 Last updated: **2026-09-15 17:10:31 UTC** · 📌 **278** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -28,13 +28,13 @@ GitHub Actions.
 | [Dropbox](#dropbox) | 1 |
 | [Figma](#figma) | 4 |
 | GitHub | — |
-| [Google](#google) | 42 |
+| [Google](#google) | 41 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
 | [Intel](#intel) | 20 |
 | [Jane Street](#jane-street) | 19 |
 | [Lyft](#lyft) | 14 |
 | [Meta](#meta) | 1 |
-| [Microsoft](#microsoft) | 18 |
+| [Microsoft](#microsoft) | 16 |
 | MongoDB | — |
 | [NVIDIA](#nvidia) | 52 |
 | [Netflix](#netflix) | 2 |
@@ -230,7 +230,6 @@ GitHub Actions.
 | [Student Researcher, PhD, Fall 2026](https://www.google.com/about/careers/applications/jobs/results/83535564552184518) | AI/ML | Ann Arbor, MI, USA; Atlanta, GA, USA; Austin, TX, USA *(+16 more)* | 2026-07-20 | 2026-07-20 |
 | [Student Researcher, BS/MS, Fall 2026](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) | AI/ML | Montreal, QC, Canada; Toronto, ON, Canada; Waterloo, ON, Canada | 2026-07-20 | 2026-07-20 |
 | [Student Researcher, BS/MS, Fall 2026](https://www.google.com/about/careers/applications/jobs/results/132362676918461126) | AI/ML | Ann Arbor, MI, USA; Atlanta, GA, USA; Austin, TX, USA *(+16 more)* | 2026-07-20 | 2026-07-20 |
-| [Apprenticeship in Application Development, Informatiker:in EFZ Applikationsentwicklung, August 2027](https://www.google.com/about/careers/applications/jobs/results/135233176434811590) | Software | Zürich, Switzerland | 2026-07-01 | 2026-07-09 |
 | [Software Engineer, gReach Program for People with Disabilities (残障人士岗位) (English, Mandarin)](https://www.google.com/about/careers/applications/jobs/results/107900969756304070) | Software | Beijing, China; Shanghai, China | 2026-03-24 | 2026-07-09 |
 
 ## Hudson River Trading
@@ -317,7 +316,6 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Cloud Solution Architecture Intern](https://apply.careers.microsoft.com/careers/job/1970393556998387) 🆕 | Backend/Infra | Belgium, Brussels Region, Brussels | 2026-09-14 | 2026-09-14 |
 | [Applied Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556997800) 🆕 | AI/ML | India, Multiple Locations, Multiple Locations | 2026-09-14 | 2026-09-14 |
 | [AI Software Engineering Intern](https://apply.careers.microsoft.com/careers/job/1970393556962891) | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-09-14 | 2026-08-19 |
 | [Software Engineering Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556983221) 🆕 | Software | United States, Washington, Redmond | 2026-09-11 | 2026-09-11 |
@@ -325,7 +323,6 @@ GitHub Actions.
 | [Security Assurance Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556988203) 🆕 | Security | United States, Washington, Redmond | 2026-09-11 | 2026-09-11 |
 | [Cloud Solution Architect - Erada Internship](https://apply.careers.microsoft.com/careers/job/1970393556942310) | Backend/Infra | Qatar, Ad-Daw?ah, Doha | 2026-09-11 | 2026-07-31 |
 | [Cambridge Internship Program - Robotics Systems and Control](https://apply.careers.microsoft.com/careers/job/1970393556991724) 🆕 | AI/ML | United Kingdom, Cambridgeshire, Cambridge | 2026-09-10 | 2026-09-10 |
-| [Penetration Tester, SERPENT: Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393556988202) 🆕 | Security | United States, Washington, Redmond | 2026-09-09 | 2026-09-09 |
 | [Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities](https://apply.careers.microsoft.com/careers/job/1970393556866895) | Software | Egypt, Cairo, Cairo | 2026-09-04 | 2026-07-20 |
 | [Firmware Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556981972) | Backend/Infra | United States, California, Santa Clara; United States, Washington, Redmond | 2026-09-04 | 2026-09-05 |
 | [Data Science: AI Experiences PhD Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556986137) | AI/ML | United States, Washington, Redmond | 2026-09-03 | 2026-09-04 |
