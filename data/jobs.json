@@ -2624,8 +2624,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/134795423167455942"
     },
     "google:135233176434811590": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-09-15",
       "company": "Google",
       "external_id": "135233176434811590",
       "first_seen": "2026-07-09",
@@ -5573,8 +5574,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556986141"
     },
     "microsoft:1970393556988202": {
-      "active": true,
+      "active": false,
       "category": "Security",
+      "closed": "2026-09-15",
       "company": "Microsoft",
       "external_id": "1970393556988202",
       "first_seen": "2026-09-09",
@@ -5644,8 +5646,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556997800"
     },
     "microsoft:1970393556998387": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-09-15",
       "company": "Microsoft",
       "external_id": "1970393556998387",
       "first_seen": "2026-09-14",
@@ -7444,5 +7447,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218"
     }
   },
-  "updated_at": "2026-09-15T11:53:31Z"
+  "updated_at": "2026-09-15T17:10:31Z"
 }
