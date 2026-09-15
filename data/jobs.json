@@ -6131,8 +6131,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302"
     },
     "nvidia:JR2023475": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-15",
       "company": "NVIDIA",
       "external_id": "JR2023475",
       "first_seen": "2026-08-19",
@@ -6837,6 +6838,20 @@
       "title": "System Software Engineering Intern, GPU - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
     },
+    "nvidia:JR2025406": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2025406",
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "locations": [
+        "US, CA, Santa Clara"
+      ],
+      "posted": "2026-09-15",
+      "title": "Research Intern, Fundamental Generative AI - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406"
+    },
     "oracle:334325": {
       "active": false,
       "category": "Software",
@@ -7447,5 +7462,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218"
     }
   },
-  "updated_at": "2026-09-15T17:10:31Z"
+  "updated_at": "2026-09-15T21:30:20Z"
 }
