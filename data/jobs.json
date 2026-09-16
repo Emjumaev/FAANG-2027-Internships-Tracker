@@ -706,14 +706,28 @@
       "title": "Software Developer Intern, Field Innovation, Security Search and Observability (SSO)",
       "url": "https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso"
     },
+    "amazon:10544726": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10544726",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "locations": [
+        "Munich, Bavaria, DEU"
+      ],
+      "posted": "2026-09-16",
+      "title": "Business Developer Intern - 2027 - 6 months",
+      "url": "https://www.amazon.jobs/en/jobs/10544726/business-developer-intern-2027-6-months"
+    },
     "amazon:3063220": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-09-12",
       "company": "Amazon",
       "external_id": "3063220",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-16",
       "locations": [
         "Sao Paulo, Sao Paulo, BRA"
       ],
@@ -3816,6 +3830,20 @@
       "title": "Intern Systems Software Development Engineer",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Vietnam-Ho_Chi_Minh_City/Intern-Systems-Software-Development-Engineer_JR0286501"
     },
+    "intel:JR0286502": {
+      "active": true,
+      "category": "Data",
+      "company": "Intel",
+      "external_id": "JR0286502",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "locations": [
+        "US, Arizona, Phoenix"
+      ],
+      "posted": "2026-09-16",
+      "title": "Operations Research, Engineering Analytics Graduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502"
+    },
     "intel:JR0286728": {
       "active": true,
       "category": "Software",
@@ -5880,8 +5908,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398"
     },
     "nvidia:JR2012814": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-16",
       "company": "NVIDIA",
       "external_id": "JR2012814",
       "first_seen": "2026-09-04",
@@ -6130,18 +6159,18 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Intern---2027_JR2021783"
     },
     "nvidia:JR2022086": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-09-11",
       "company": "NVIDIA",
       "external_id": "JR2022086",
       "first_seen": "2026-07-30",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-16",
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-09-09",
-      "title": "Software Engineering Intern \u2014 Replay Tooling & Test Automation, Autonomous Driving",
+      "posted": "2026-09-16",
+      "title": "Software Engineering Intern \u2014 Replay Tooling and Test Automation - Autonomous Driving",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086"
     },
     "nvidia:JR2022295": {
@@ -6851,6 +6880,20 @@
       "posted": "2026-09-07",
       "title": "Circuit Validation Engineer Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Circuit-Validation-Engineer-Intern---2027_JR2024949"
+    },
+    "nvidia:JR2024997": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2024997",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "locations": [
+        "Canada, Toronto"
+      ],
+      "posted": "2026-09-16",
+      "title": "PhD Research Intern, Quantum and AI for Chemistry - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997"
     },
     "nvidia:JR2025025": {
       "active": true,
@@ -7573,7 +7616,35 @@
       "posted": "2026-09-14",
       "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218"
+    },
+    "waymo:8202025": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "external_id": "8202025",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "locations": [
+        "Mountain View, California, United States"
+      ],
+      "posted": "2026-09-16",
+      "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8202025"
+    },
+    "waymo:8202801": {
+      "active": true,
+      "category": "Software",
+      "company": "Waymo",
+      "external_id": "8202801",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "locations": [
+        "Mountain View, California, USA"
+      ],
+      "posted": "2026-09-16",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8202801"
     }
   },
-  "updated_at": "2026-09-16T13:38:40Z"
+  "updated_at": "2026-09-16T18:19:16Z"
 }
