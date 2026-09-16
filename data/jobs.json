@@ -692,6 +692,20 @@
       "title": "ML Systems Software Development Engineer Intern, Annapurna Labs - 2027",
       "url": "https://www.amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027"
     },
+    "amazon:10544261": {
+      "active": true,
+      "category": "Security",
+      "company": "Amazon",
+      "external_id": "10544261",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "locations": [
+        "SGP"
+      ],
+      "posted": "2026-09-16",
+      "title": "Software Developer Intern, Field Innovation, Security Search and Observability (SSO)",
+      "url": "https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso"
+    },
     "amazon:3063220": {
       "active": false,
       "category": "Software",
@@ -1527,6 +1541,20 @@
       "posted": "2026-09-08",
       "title": "GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture",
       "url": "https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture"
+    },
+    "apple:200683768": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Apple",
+      "external_id": "200683768",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "locations": [
+        "Paris"
+      ],
+      "posted": "2026-09-16",
+      "title": "Internship - Machine Learning Research",
+      "url": "https://jobs.apple.com/en-us/details/200683768/internship-machine-learning-research"
     },
     "cisco:2005347": {
       "active": false,
@@ -4130,8 +4158,9 @@
       "url": "https://www.janestreet.com/join-jane-street/position/8374335002/"
     },
     "jane-street:8377832002": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-09-16",
       "company": "Jane Street",
       "external_id": "8377832002",
       "first_seen": "2026-07-09",
@@ -4366,6 +4395,20 @@
       "posted": null,
       "title": "Network Engineer (Summer Internship)",
       "url": "https://www.janestreet.com/join-jane-street/position/8693539002/"
+    },
+    "jane-street:8810604002": {
+      "active": true,
+      "category": "Security",
+      "company": "Jane Street",
+      "external_id": "8810604002",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "locations": [
+        "HKG"
+      ],
+      "posted": null,
+      "title": "Cybersecurity Engineer - Security Operations Center (SOC) (Summer Internship)",
+      "url": "https://www.janestreet.com/join-jane-street/position/8810604002/"
     },
     "lyft:8767534002": {
       "active": true,
@@ -7532,5 +7575,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218"
     }
   },
-  "updated_at": "2026-09-16T07:49:35Z"
+  "updated_at": "2026-09-16T13:38:40Z"
 }
