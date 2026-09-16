@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-16 07:49:35 UTC** · 📌 **283** open internships
+> 🕐 Last updated: **2026-09-16 13:38:40 UTC** · 📌 **285** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -16,9 +16,9 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 2 |
 | Airbnb | — |
-| [Amazon](#amazon) | 44 |
+| [Amazon](#amazon) | 45 |
 | Anthropic | — |
-| [Apple](#apple) | 17 |
+| [Apple](#apple) | 18 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 8 |
 | Cloudflare | — |
@@ -67,6 +67,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Developer Intern, Field Innovation, Security Search and Observability (SSO)](https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso) 🆕 | Security | SGP | 2026-09-16 | 2026-09-16 |
 | [ML Systems Software Development Engineer Intern, Annapurna Labs - 2027](https://www.amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027) 🆕 | AI/ML | Toronto, Ontario, CAN | 2026-09-11 | 2026-09-12 |
 | [2026 Software Dev Engineer Intern - Spain](https://www.amazon.jobs/en/jobs/10537284/2026-software-dev-engineer-intern-spain) 🆕 | Software | Madrid, Community of Madrid, ESP | 2026-09-11 | 2026-09-11 |
 | [Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027](https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027) 🆕 | AI/ML | North Reading, Massachusetts, USA | 2026-09-10 | 2026-09-10 |
@@ -116,6 +117,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Internship - Machine Learning Research](https://jobs.apple.com/en-us/details/200683768/internship-machine-learning-research) 🆕 | AI/ML | Paris | 2026-09-16 | 2026-09-16 |
 | [GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) | QA | London | 2026-09-08 | 2026-09-08 |
 | [PHY Cellular Firmware Engineer Internship](https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship) | Backend/Infra | Munich | 2026-09-07 | 2026-09-07 |
 | [Display Supply Quality Engineer Intern](https://jobs.apple.com/en-us/details/200679405/display-supply-quality-engineer-intern) | QA | Shenzhen | 2026-08-28 | 2026-08-28 |
@@ -267,6 +269,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Cybersecurity Engineer - Security Operations Center (SOC) (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8810604002/) 🆕 | Security | HKG | — | 2026-09-16 |
 | [Network Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8693539002/) | Backend/Infra | SGP | — | 2026-08-21 |
 | [Machine Learning Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8594416002/) | AI/ML | LDN | — | 2026-08-18 |
 | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8589868002/) | Software | LDN | — | 2026-08-03 |
@@ -285,7 +288,6 @@ GitHub Actions.
 | [Network Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8620793002/) | Backend/Infra | NYC | — | 2026-07-09 |
 | [Machine Learning Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8384490002/) | AI/ML | NYC | — | 2026-07-09 |
 | [Machine Learning Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8611307002/) | AI/ML | NYC | — | 2026-07-09 |
-| [Linux Engineer (Summer Internship (December-February))](https://www.janestreet.com/join-jane-street/position/8377832002/) | Backend/Infra | HKG | — | 2026-07-09 |
 
 ## Lyft
 
