@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-16 18:19:16 UTC** · 📌 **291** open internships
+> 🕐 Last updated: **2026-09-16 21:27:42 UTC** · 📌 **297** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -20,7 +20,7 @@ GitHub Actions.
 | Anthropic | — |
 | [Apple](#apple) | 18 |
 | Bloomberg | — |
-| [Cisco](#cisco) | 8 |
+| [Cisco](#cisco) | 12 |
 | Cloudflare | — |
 | [Coinbase](#coinbase) | 6 |
 | [Databricks](#databricks) | 2 |
@@ -34,7 +34,7 @@ GitHub Actions.
 | [Jane Street](#jane-street) | 19 |
 | [Lyft](#lyft) | 14 |
 | [Meta](#meta) | 1 |
-| [Microsoft](#microsoft) | 17 |
+| [Microsoft](#microsoft) | 18 |
 | MongoDB | — |
 | [NVIDIA](#nvidia) | 57 |
 | [Netflix](#netflix) | 2 |
@@ -50,7 +50,7 @@ GitHub Actions.
 | Spotify | — |
 | [Stripe](#stripe) | 7 |
 | Uber | — |
-| [Waymo](#waymo) | 9 |
+| [Waymo](#waymo) | 10 |
 | ByteDance | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* |
 | Tesla | *careers site and its JSON API sit behind Akamai bot protection that returns 403 to every non-browser client; needs a headless browser* |
 
@@ -142,6 +142,10 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineer I (Intern) - United States](https://careers.cisco.com/global/en/job/2025890) 🆕 | Software | Research Triangle Park, North Carolina, United States of America | 2026-09-16 | 2026-09-16 |
+| [Security Research Engineer I (Intern) - United States](https://careers.cisco.com/global/en/job/2025886) 🆕 | Security | Austin, Texas, United States of America; Knoxville, Tennessee, United States of America; Research Triangle Park, North Carolina, United States of America | 2026-09-16 | 2026-09-16 |
+| [Security Engineer I (Intern) - United States](https://careers.cisco.com/global/en/job/2025885) 🆕 | Security | Research Triangle Park, North Carolina, United States of America | 2026-09-16 | 2026-09-16 |
+| [Software Engineer Data & AI I (Intern) - United States](https://careers.cisco.com/global/en/job/2024510) 🆕 | AI/ML | Austin, Texas, United States of America; Research Triangle Park, North Carolina, United States of America; San Jose, California, United States of America | 2026-09-14 | 2026-09-16 |
 | [Wireless Software Engineer_ Intern](https://careers.cisco.com/global/en/job/2025061) | Software | Ecublens, Switzerland | 2026-09-08 | 2026-09-08 |
 | [Software Consulting Engineer I (Intern) United States](https://careers.cisco.com/global/en/job/2025180) | Software | RESEARCH_TRIANGLE_PARK, North Carolina, United States of America | 2026-09-08 | 2026-09-08 |
 | [Software Engineer Intern](https://careers.cisco.com/global/en/job/2024810) | Software | Galway, Ireland | 2026-09-04 | 2026-09-04 |
@@ -321,6 +325,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556999316) 🆕 | Software | Mexico, Multiple Locations, Multiple Locations | 2026-09-16 | 2026-09-16 |
 | [Software Engineer Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393556991773) 🆕 | Software | Canada, British Columbia, Vancouver | 2026-09-15 | 2026-09-16 |
 | [Cloud Solution Architecture Intern](https://apply.careers.microsoft.com/careers/job/1970393556998387) 🆕 | Backend/Infra | Belgium, Brussels Region, Brussels | 2026-09-14 | 2026-09-14 |
 | [Applied Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556997800) 🆕 | AI/ML | India, Multiple Locations, Multiple Locations | 2026-09-14 | 2026-09-14 |
@@ -347,8 +352,8 @@ GitHub Actions.
 | [Silicon Software Engineer - System and AI (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538) 🆕 | AI/ML | 2 Locations | 2026-09-16 | 2026-09-16 |
 | [Server Firmware Developer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2025558) 🆕 | Backend/Infra | Taiwan, Taipei | 2026-09-16 | 2026-09-16 |
 | [PhD Research Intern, Quantum and AI for Chemistry - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) 🆕 | AI/ML | Canada, Toronto | 2026-09-16 | 2026-09-16 |
+| [PhD Research Intern, Fundamental Generative AI - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406) 🆕 | AI/ML | US, CA, Santa Clara | 2026-09-16 | 2026-09-15 |
 | [Firmware Application Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Firmware-Application-Engineer--RDSS-Intern-_JR2024884) 🆕 | Backend/Infra | Taiwan, Taipei | 2026-09-16 | 2026-09-16 |
-| [Research Intern, Fundamental Generative AI - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406) 🆕 | AI/ML | US, CA, Santa Clara | 2026-09-15 | 2026-09-15 |
 | [PhD Research Intern, Generative AI for Physical AI - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025) 🆕 | AI/ML | US, CA, Santa Clara | 2026-09-15 | 2026-09-16 |
 | [Linux for Edge System Software Engineer (RDSS intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Linux-for-Edge-System-Software-Engineer--RDSS-intern-_JR2023971) 🆕 | Backend/Infra | Taiwan, Taipei | 2026-09-14 | 2026-09-13 |
 | [PhD Research Intern, Autonomous Systems and Physical AI Research - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171) 🆕 | AI/ML | US, CA, Santa Clara | 2026-09-13 | 2026-09-14 |
@@ -457,6 +462,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [2027 Summer Intern, PhD, Quantitative Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8197554) 🆕 | Software | Mountain View, California, United States \| San Francisco, California, United States | 2026-09-16 | 2026-09-16 |
 | [2027 Summer Intern, PhD, Machine Learning, Computer Vision](https://careers.withwaymo.com/jobs?gh_jid=8202025) 🆕 | AI/ML | Mountain View, California, United States | 2026-09-16 | 2026-09-16 |
 | [2027 Summer Intern, MS/PhD, Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8202801) 🆕 | Software | Mountain View, California, USA | 2026-09-16 | 2026-09-16 |
 | [2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics](https://careers.withwaymo.com/jobs?gh_jid=8197899) 🆕 | Data | Mountain View, CA, USA | 2026-09-14 | 2026-09-14 |
