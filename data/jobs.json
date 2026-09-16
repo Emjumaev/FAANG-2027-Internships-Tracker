@@ -1674,6 +1674,22 @@
       "title": "Software Engineer Summer Internship - Lysaker, Norway",
       "url": "https://careers.cisco.com/global/en/job/2024366"
     },
+    "cisco:2024510": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Cisco",
+      "external_id": "2024510",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "locations": [
+        "Austin, Texas, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Jose, California, United States of America"
+      ],
+      "posted": "2026-09-14",
+      "title": "Software Engineer Data & AI I (Intern) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2024510"
+    },
     "cisco:2024683": {
       "active": false,
       "category": "AI/ML",
@@ -1746,6 +1762,50 @@
       "posted": "2026-09-08",
       "title": "Software Consulting Engineer I (Intern) United States",
       "url": "https://careers.cisco.com/global/en/job/2025180"
+    },
+    "cisco:2025885": {
+      "active": true,
+      "category": "Security",
+      "company": "Cisco",
+      "external_id": "2025885",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "locations": [
+        "Research Triangle Park, North Carolina, United States of America"
+      ],
+      "posted": "2026-09-16",
+      "title": "Security Engineer I (Intern) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2025885"
+    },
+    "cisco:2025886": {
+      "active": true,
+      "category": "Security",
+      "company": "Cisco",
+      "external_id": "2025886",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "locations": [
+        "Austin, Texas, United States of America",
+        "Knoxville, Tennessee, United States of America",
+        "Research Triangle Park, North Carolina, United States of America"
+      ],
+      "posted": "2026-09-16",
+      "title": "Security Research Engineer I (Intern) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2025886"
+    },
+    "cisco:2025890": {
+      "active": true,
+      "category": "Software",
+      "company": "Cisco",
+      "external_id": "2025890",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "locations": [
+        "Research Triangle Park, North Carolina, United States of America"
+      ],
+      "posted": "2026-09-16",
+      "title": "Software Engineer I (Intern) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2025890"
     },
     "cloudflare:7606240": {
       "active": false,
@@ -5745,6 +5805,20 @@
       "title": "Cloud Solution Architecture Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556998387"
     },
+    "microsoft:1970393556999316": {
+      "active": true,
+      "category": "Software",
+      "company": "Microsoft",
+      "external_id": "1970393556999316",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "locations": [
+        "Mexico, Multiple Locations, Multiple Locations"
+      ],
+      "posted": "2026-09-16",
+      "title": "Software Engineering INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999316"
+    },
     "netflix:790313241540": {
       "active": false,
       "category": "Software",
@@ -6976,8 +7050,8 @@
       "locations": [
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-09-15",
-      "title": "Research Intern, Fundamental Generative AI - 2027",
+      "posted": "2026-09-16",
+      "title": "PhD Research Intern, Fundamental Generative AI - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406"
     },
     "nvidia:JR2025538": {
@@ -7588,6 +7662,20 @@
       "title": "2027 Summer Intern, BS/MS, Software Engineer",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731"
     },
+    "waymo:8197554": {
+      "active": true,
+      "category": "Software",
+      "company": "Waymo",
+      "external_id": "8197554",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "locations": [
+        "Mountain View, California, United States | San Francisco, California, United States"
+      ],
+      "posted": "2026-09-16",
+      "title": "2027 Summer Intern, PhD, Quantitative Software Engineer",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8197554"
+    },
     "waymo:8197899": {
       "active": true,
       "category": "Data",
@@ -7646,5 +7734,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8202801"
     }
   },
-  "updated_at": "2026-09-16T18:19:16Z"
+  "updated_at": "2026-09-16T21:27:42Z"
 }
