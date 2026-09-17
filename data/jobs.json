@@ -281,8 +281,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10394156/2026-fall-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting"
     },
     "amazon:10394230": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-17",
       "company": "Amazon",
       "external_id": "10394230",
       "first_seen": "2026-07-09",
@@ -2383,6 +2384,20 @@
       "posted": "2026-07-20",
       "title": "Student Researcher, BS/MS, Fall 2026",
       "url": "https://www.google.com/about/careers/applications/jobs/results/113855697199735494"
+    },
+    "google:113860701373506246": {
+      "active": true,
+      "category": "Software",
+      "company": "Google",
+      "external_id": "113860701373506246",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "locations": [
+        "Beijing, China"
+      ],
+      "posted": "2026-09-17",
+      "title": "Software Engineer, gReach Program for People with Disabilities (\u6b8b\u969c\u4eba\u58eb\u5c97\u4f4d) (English, Mandarin)",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/113860701373506246"
     },
     "google:114416552819729094": {
       "active": true,
@@ -7228,17 +7243,17 @@
       "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/342415"
     },
     "paypal:R0137285": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-09-08",
       "company": "PayPal",
       "external_id": "R0137285",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-17",
       "locations": [
         "3 Locations"
       ],
-      "posted": "2026-09-05",
+      "posted": "2026-09-17",
       "title": "Software Engineer Intern",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0137285"
     },
@@ -7777,5 +7792,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200"
     }
   },
-  "updated_at": "2026-09-17T13:37:04Z"
+  "updated_at": "2026-09-17T18:24:19Z"
 }
