@@ -296,8 +296,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10394230/2026-fall-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting"
     },
     "amazon:10394248": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-17",
       "company": "Amazon",
       "external_id": "10394248",
       "first_seen": "2026-07-09",
@@ -483,8 +484,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern"
     },
     "amazon:10419240": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-17",
       "company": "Amazon",
       "external_id": "10419240",
       "first_seen": "2026-07-09",
@@ -4567,7 +4569,7 @@
         "Toronto, Canada"
       ],
       "posted": "2026-09-11",
-      "title": "Data Science Intern, Algorithms (Summer 2027)",
+      "title": "Data Science Intern, Algorithms (Summer 2027 - Toronto)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002"
     },
     "lyft:8767710002": {
@@ -4581,7 +4583,7 @@
         "Toronto, Canada"
       ],
       "posted": "2026-09-11",
-      "title": "Software Engineer Intern, Backend (Summer 2027)",
+      "title": "Software Engineer Intern, Backend (Summer 2027 - Toronto)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002"
     },
     "lyft:8767715002": {
@@ -4595,7 +4597,7 @@
         "Mexico City, Mexico"
       ],
       "posted": "2026-09-11",
-      "title": "Software Engineer Intern, Backend (Summer 2027)",
+      "title": "Software Engineer Intern, Backend (Summer 2027 - Mexico)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002"
     },
     "lyft:8767723002": {
@@ -4609,7 +4611,7 @@
         "San Francisco, CA"
       ],
       "posted": "2026-09-11",
-      "title": "Data Science Intern, Algorithms (Summer 2027)",
+      "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002"
     },
     "lyft:8767726002": {
@@ -4623,7 +4625,7 @@
         "San Francisco, CA"
       ],
       "posted": "2026-09-11",
-      "title": "Software Engineer Intern, Backend (Summer 2027)",
+      "title": "Software Engineer Intern, Backend (Summer 2027 - SF)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002"
     },
     "lyft:8796054002": {
@@ -4637,7 +4639,7 @@
         "Montreal, Canada"
       ],
       "posted": "2026-09-11",
-      "title": "Software Engineer Intern, Backend (Summer 2027)",
+      "title": "Software Engineer Intern, Backend (Summer 2027 - Montreal)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002"
     },
     "lyft:8796124002": {
@@ -4651,7 +4653,7 @@
         "New York, NY"
       ],
       "posted": "2026-09-11",
-      "title": "Data Science Intern, Algorithms (Summer 2027)",
+      "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002"
     },
     "lyft:8797376002": {
@@ -4693,7 +4695,7 @@
         "New York, NY"
       ],
       "posted": "2026-09-11",
-      "title": "Software Engineer Intern, Fullstack (Summer 2027)",
+      "title": "Software Engineer Intern, Fullstack (Summer 2027 - NYC)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002"
     },
     "lyft:8797859002": {
@@ -4707,7 +4709,7 @@
         "Toronto, Canada"
       ],
       "posted": "2026-09-11",
-      "title": "Software Engineer Intern, Fullstack (Summer 2027)",
+      "title": "Software Engineer Intern, Fullstack (Summer 2027 - Toronto)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002"
     },
     "lyft:8802198002": {
@@ -4735,7 +4737,7 @@
         "Toronto, Canada"
       ],
       "posted": "2026-09-11",
-      "title": "Software Engineer Intern, Machine Learning (Summer 2027)",
+      "title": "Software Engineer Intern, Machine Learning (Summer 2027 - Toronto)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002"
     },
     "meta:1027438186737957": {
@@ -7126,6 +7128,20 @@
       "title": "Server Firmware Developer (RDSS Intern)",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2025558"
     },
+    "nvidia:JR2025559": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2025559",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "locations": [
+        "3 Locations"
+      ],
+      "posted": "2026-09-17",
+      "title": "AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2025559"
+    },
     "oracle:334325": {
       "active": false,
       "category": "Software",
@@ -7243,9 +7259,9 @@
       "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/342415"
     },
     "paypal:R0137285": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-09-08",
+      "closed": "2026-09-17",
       "company": "PayPal",
       "external_id": "R0137285",
       "first_seen": "2026-09-04",
@@ -7765,7 +7781,7 @@
     },
     "waymo:8202801": {
       "active": true,
-      "category": "Software",
+      "category": "AI/ML",
       "company": "Waymo",
       "external_id": "8202801",
       "first_seen": "2026-09-16",
@@ -7774,7 +7790,7 @@
         "Mountain View, California, USA"
       ],
       "posted": "2026-09-16",
-      "title": "2027 Summer Intern, MS/PhD, Software Engineer",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8202801"
     },
     "waymo:8203200": {
@@ -7790,7 +7806,21 @@
       "posted": "2026-09-16",
       "title": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200"
+    },
+    "waymo:8208465": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "external_id": "8208465",
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "locations": [
+        "London, England, United Kingdom"
+      ],
+      "posted": "2026-09-17",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8208465"
     }
   },
-  "updated_at": "2026-09-17T18:24:19Z"
+  "updated_at": "2026-09-17T21:37:40Z"
 }
