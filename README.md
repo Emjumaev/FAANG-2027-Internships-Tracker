@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-17 13:37:04 UTC** · 📌 **301** open internships
+> 🕐 Last updated: **2026-09-17 18:24:19 UTC** · 📌 **302** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -16,7 +16,7 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 2 |
 | Airbnb | — |
-| [Amazon](#amazon) | 48 |
+| [Amazon](#amazon) | 47 |
 | Anthropic | — |
 | [Apple](#apple) | 18 |
 | Bloomberg | — |
@@ -28,7 +28,7 @@ GitHub Actions.
 | [Dropbox](#dropbox) | 1 |
 | [Figma](#figma) | 4 |
 | GitHub | — |
-| [Google](#google) | 41 |
+| [Google](#google) | 42 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
 | [Intel](#intel) | 22 |
 | [Jane Street](#jane-street) | 19 |
@@ -40,7 +40,7 @@ GitHub Actions.
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
 | [Oracle](#oracle) | 3 |
-| PayPal | — |
+| [PayPal](#paypal) | 1 |
 | Pinterest | — |
 | Reddit | — |
 | [Salesforce](#salesforce) | 4 |
@@ -93,7 +93,6 @@ GitHub Actions.
 | [Fall 2026 Applied Science Internship - Canada, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting) | AI/ML | Vancouver, British Columbia, CAN | 2026-04-16 | 2026-07-09 |
 | [2026 Fall Applied Science Internship - Reinforcement Learning & Optimization (Machine Learning) - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-16 | 2026-07-09 |
 | [2026 Fall Applied Science Internship - Natural Language Processing and Speech Technologies - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10394268/2026-fall-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-16 | 2026-07-09 |
-| [2026 Fall Applied Science Internship - Information & Knowledge Management (Machine Learning) - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10394230/2026-fall-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-16 | 2026-07-09 |
 | [2026 Fall Applied Science Internship - Automated Reasoning - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10394156/2026-fall-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-16 | 2026-07-09 |
 | [2026 Fall Applied Science Internship - Computer Vision - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10391901/2026-fall-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-14 | 2026-07-09 |
 | [2026  Fall Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10391774/2026-fall-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-14 | 2026-07-09 |
@@ -198,6 +197,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineer, gReach Program for People with Disabilities (残障人士岗位) (English, Mandarin)](https://www.google.com/about/careers/applications/jobs/results/113860701373506246) 🆕 | Software | Beijing, China | 2026-09-17 | 2026-09-17 |
 | [Student Researcher, PhD, Winter-Summer 2027](https://www.google.com/about/careers/applications/jobs/results/134313315235963590) 🆕 | AI/ML | Ann Arbor, MI, USA; Atlanta, GA, USA; Austin, TX, USA *(+22 more)* | 2026-09-14 | 2026-09-14 |
 | [Student Researcher, PhD, Winter-Summer 2027](https://www.google.com/about/careers/applications/jobs/results/141525012002546374) 🆕 | AI/ML | Montreal, QC, Canada | 2026-09-14 | 2026-09-14 |
 | [Student Researcher, PhD, Winter-Summer 2027](https://www.google.com/about/careers/applications/jobs/results/75043041429070534) 🆕 | AI/ML | Toronto, ON, Canada; Waterloo, ON, Canada | 2026-09-14 | 2026-09-14 |
@@ -423,6 +423,12 @@ GitHub Actions.
 | [CEGIU Demo Data Strategy Intern - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334396) | Data | Redwood City, CA, United States; Rocklin, CA, United States; Santa Clara, CA, United States *(+3 more)* | 2026-05-23 | 2026-07-09 |
 | [ONA AI Agent Intern (Logistics Focus) - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334345) | AI/ML | Austin, TX, United States; United States | 2026-05-22 | 2026-07-09 |
 | [OCI Software Engineer Intern - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334333) | Software | Austin, TX, United States; Nashville, TN, United States; United States | 2026-05-22 | 2026-07-09 |
+
+## PayPal
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [Software Engineer Intern](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0137285) | Software | 3 Locations | 2026-09-17 | 2026-09-04 |
 
 ## Salesforce
 
