@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-18 07:32:15 UTC** · 📌 **302** open internships
+> 🕐 Last updated: **2026-09-18 13:06:33 UTC** · 📌 **301** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -16,9 +16,9 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 2 |
 | Airbnb | — |
-| [Amazon](#amazon) | 47 |
+| [Amazon](#amazon) | 46 |
 | Anthropic | — |
-| [Apple](#apple) | 18 |
+| [Apple](#apple) | 19 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 11 |
 | Cloudflare | — |
@@ -28,7 +28,7 @@ GitHub Actions.
 | [Dropbox](#dropbox) | 1 |
 | [Figma](#figma) | 4 |
 | GitHub | — |
-| [Google](#google) | 42 |
+| [Google](#google) | 41 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
 | [Intel](#intel) | 21 |
 | [Jane Street](#jane-street) | 19 |
@@ -60,8 +60,8 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [2027 Intern - Software Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666) | Software | 7 Locations | 2026-09-03 | 2026-09-03 |
-| [2027 Intern - Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519) | AI/ML | 6 Locations | 2026-08-31 | 2026-08-31 |
+| [2027 Intern - Software Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666) | Software | 7 Locations | 2026-09-18 | 2026-09-03 |
+| [2027 Intern - Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519) | AI/ML | 6 Locations | 2026-09-18 | 2026-08-31 |
 
 ## Amazon
 
@@ -113,12 +113,12 @@ GitHub Actions.
 | [Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | AI/ML | North Reading, Massachusetts, USA | 2025-10-08 | 2026-07-09 |
 | [2026 Software Dev Engineer Intern - Germany](https://www.amazon.jobs/en/jobs/3074226/2026-software-dev-engineer-intern-germany) | Software | Berlin, Berlin, DEU | 2025-09-05 | 2026-07-13 |
 | [2026 Software Dev Engineer Intern - UK](https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern-uk) | Software | London, England, GBR | 2025-09-03 | 2026-08-31 |
-| [Software Development Engineer Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3063220/software-development-engineer-intern-amazon-university-talent-acquisition) | Software | Sao Paulo, Sao Paulo, BRA | 2025-08-20 | 2026-07-09 |
 
 ## Apple
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Information Security Internship Program (FY27 Summer Intake)](https://jobs.apple.com/en-us/details/200684585/information-security-internship-program-fy27-summer-intake) 🆕 | Security | Singapore | 2026-09-18 | 2026-09-18 |
 | [Internship - Machine Learning Research](https://jobs.apple.com/en-us/details/200683768/internship-machine-learning-research) 🆕 | AI/ML | Paris | 2026-09-16 | 2026-09-16 |
 | [GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) | QA | London | 2026-09-08 | 2026-09-08 |
 | [PHY Cellular Firmware Engineer Internship](https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship) | Backend/Infra | Munich | 2026-09-07 | 2026-09-07 |
@@ -197,7 +197,6 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineer, gReach Program for People with Disabilities (残障人士岗位) (English, Mandarin)](https://www.google.com/about/careers/applications/jobs/results/113860701373506246) 🆕 | Software | Beijing, China | 2026-09-17 | 2026-09-17 |
 | [Student Researcher, PhD, Winter-Summer 2027](https://www.google.com/about/careers/applications/jobs/results/134313315235963590) 🆕 | AI/ML | Ann Arbor, MI, USA; Atlanta, GA, USA; Austin, TX, USA *(+22 more)* | 2026-09-14 | 2026-09-14 |
 | [Student Researcher, PhD, Winter-Summer 2027](https://www.google.com/about/careers/applications/jobs/results/141525012002546374) 🆕 | AI/ML | Montreal, QC, Canada | 2026-09-14 | 2026-09-14 |
 | [Student Researcher, PhD, Winter-Summer 2027](https://www.google.com/about/careers/applications/jobs/results/75043041429070534) 🆕 | AI/ML | Toronto, ON, Canada; Waterloo, ON, Canada | 2026-09-14 | 2026-09-14 |
