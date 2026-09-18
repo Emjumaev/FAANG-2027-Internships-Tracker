@@ -762,8 +762,22 @@
         "Seattle, Washington, USA"
       ],
       "posted": "2026-09-17",
-      "title": "Software Development Engineer Internship - Summer -2027 (USA)",
-      "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa"
+      "title": "Software Development Engineer Intern - Summer 2027 (USA)",
+      "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa"
+    },
+    "amazon:10553707": {
+      "active": true,
+      "category": "Data",
+      "company": "Amazon",
+      "external_id": "10553707",
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "locations": [
+        "Mexico City, Mexico City, MEX"
+      ],
+      "posted": "2026-09-18",
+      "title": "Business Intelligence Intern 2027, AUTA",
+      "url": "https://www.amazon.jobs/en/jobs/10553707/business-intelligence-intern-2027-auta"
     },
     "amazon:3063220": {
       "active": false,
@@ -7872,6 +7886,20 @@
       "title": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200"
     },
+    "waymo:8205680": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "external_id": "8205680",
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "locations": [
+        "London, England, United Kingdom"
+      ],
+      "posted": "2026-09-18",
+      "title": "2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8205680"
+    },
     "waymo:8208465": {
       "active": true,
       "category": "AI/ML",
@@ -7887,5 +7915,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8208465"
     }
   },
-  "updated_at": "2026-09-18T13:06:33Z"
+  "updated_at": "2026-09-18T17:49:59Z"
 }
