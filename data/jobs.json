@@ -779,6 +779,20 @@
       "title": "Business Intelligence Intern 2027, AUTA",
       "url": "https://www.amazon.jobs/en/jobs/10553707/business-intelligence-intern-2027-auta"
     },
+    "amazon:10553947": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10553947",
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "locations": [
+        "Vancouver, British Columbia, CAN"
+      ],
+      "posted": "2026-09-18",
+      "title": "Software Development Engineer Intern - Summer 2027 (CAN)",
+      "url": "https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can"
+    },
     "amazon:3063220": {
       "active": false,
       "category": "Software",
@@ -5002,9 +5016,9 @@
       "url": "https://www.metacareers.com/jobs/2633206137040139"
     },
     "meta:2774289902955470": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-07-19",
+      "closed": "2026-09-18",
       "company": "Meta",
       "external_id": "2774289902955470",
       "first_seen": "2026-07-09",
@@ -7090,7 +7104,7 @@
       "locations": [
         "Canada, Toronto"
       ],
-      "posted": "2026-09-16",
+      "posted": "2026-09-18",
       "title": "PhD Research Intern, Quantum and AI for Chemistry - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997"
     },
@@ -7844,6 +7858,20 @@
       "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218"
     },
+    "waymo:8199365": {
+      "active": true,
+      "category": "Data",
+      "company": "Waymo",
+      "external_id": "8199365",
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "locations": [
+        "San Francisco, California, United States"
+      ],
+      "posted": "2026-09-18",
+      "title": "2027 Summer Intern, PhD, Data Science",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365"
+    },
     "waymo:8202025": {
       "active": true,
       "category": "AI/ML",
@@ -7915,5 +7943,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8208465"
     }
   },
-  "updated_at": "2026-09-18T17:49:59Z"
+  "updated_at": "2026-09-18T21:03:11Z"
 }
