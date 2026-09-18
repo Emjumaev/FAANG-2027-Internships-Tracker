@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-18 13:06:33 UTC** · 📌 **301** open internships
+> 🕐 Last updated: **2026-09-18 17:49:59 UTC** · 📌 **303** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -16,7 +16,7 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 2 |
 | Airbnb | — |
-| [Amazon](#amazon) | 46 |
+| [Amazon](#amazon) | 47 |
 | Anthropic | — |
 | [Apple](#apple) | 19 |
 | Bloomberg | — |
@@ -50,7 +50,7 @@ GitHub Actions.
 | Spotify | — |
 | [Stripe](#stripe) | 7 |
 | Uber | — |
-| [Waymo](#waymo) | 12 |
+| [Waymo](#waymo) | 13 |
 | ByteDance | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* |
 | Tesla | *careers site and its JSON API sit behind Akamai bot protection that returns 403 to every non-browser client; needs a headless browser* |
 
@@ -67,7 +67,8 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Development Engineer Internship - Summer -2027 (USA)](https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa) 🆕 | Software | Seattle, Washington, USA | 2026-09-17 | 2026-09-18 |
+| [Business Intelligence Intern 2027, AUTA](https://www.amazon.jobs/en/jobs/10553707/business-intelligence-intern-2027-auta) 🆕 | Data | Mexico City, Mexico City, MEX | 2026-09-18 | 2026-09-18 |
+| [Software Development Engineer Intern - Summer 2027 (USA)](https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa) 🆕 | Software | Seattle, Washington, USA | 2026-09-17 | 2026-09-18 |
 | [DC Security Specialist Intern, DC Security](https://www.amazon.jobs/en/jobs/10551506/dc-security-specialist-intern-dc-security) 🆕 | Security | SGP | 2026-09-17 | 2026-09-17 |
 | [2027 Applied Science Internship - Automated Reasoning - United States, PhD Student Science Recruiting, Automated Reasoning](https://www.amazon.jobs/en/jobs/10552930/2027-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting-automated-reasoning) 🆕 | AI/ML | Seattle, Washington, USA | 2026-09-17 | 2026-09-18 |
 | [Software Developer Intern, Field Innovation, Security Search and Observability (SSO)](https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso) 🆕 | Security | SGP | 2026-09-16 | 2026-09-16 |
@@ -464,6 +465,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure](https://careers.withwaymo.com/jobs?gh_jid=8205680) 🆕 | AI/ML | London, England, United Kingdom | 2026-09-18 | 2026-09-18 |
 | [2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=8208465) 🆕 | AI/ML | London, England, United Kingdom | 2026-09-17 | 2026-09-17 |
 | [2027 Summer Intern, PhD, Quantitative Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8197554) 🆕 | Software | Mountain View, California, United States \| San Francisco, California, United States | 2026-09-16 | 2026-09-16 |
 | [2027 Summer Intern, PhD, Machine Learning, Computer Vision](https://careers.withwaymo.com/jobs?gh_jid=8202025) 🆕 | AI/ML | Mountain View, California, United States | 2026-09-16 | 2026-09-16 |
