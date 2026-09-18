@@ -40,7 +40,7 @@
       "locations": [
         "6 Locations"
       ],
-      "posted": "2026-08-31",
+      "posted": "2026-09-18",
       "title": "2027 Intern - Machine Learning Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519"
     },
@@ -54,7 +54,7 @@
       "locations": [
         "7 Locations"
       ],
-      "posted": "2026-09-03",
+      "posted": "2026-09-18",
       "title": "2027 Intern - Software Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666"
     },
@@ -766,9 +766,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa"
     },
     "amazon:3063220": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-09-12",
+      "closed": "2026-09-18",
       "company": "Amazon",
       "external_id": "3063220",
       "first_seen": "2026-07-09",
@@ -1615,6 +1615,20 @@
       "title": "Internship - Machine Learning Research",
       "url": "https://jobs.apple.com/en-us/details/200683768/internship-machine-learning-research"
     },
+    "apple:200684585": {
+      "active": true,
+      "category": "Security",
+      "company": "Apple",
+      "external_id": "200684585",
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-18",
+      "locations": [
+        "Singapore"
+      ],
+      "posted": "2026-09-18",
+      "title": "Information Security Internship Program (FY27 Summer Intake)",
+      "url": "https://jobs.apple.com/en-us/details/200684585/information-security-internship-program-fy27-summer-intake"
+    },
     "cisco:2005347": {
       "active": false,
       "category": "AI/ML",
@@ -2416,8 +2430,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/113855697199735494"
     },
     "google:113860701373506246": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-09-18",
       "company": "Google",
       "external_id": "113860701373506246",
       "first_seen": "2026-09-17",
@@ -7872,5 +7887,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8208465"
     }
   },
-  "updated_at": "2026-09-18T07:32:15Z"
+  "updated_at": "2026-09-18T13:06:33Z"
 }
