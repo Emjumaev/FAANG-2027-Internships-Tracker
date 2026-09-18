@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-18 17:49:59 UTC** · 📌 **303** open internships
+> 🕐 Last updated: **2026-09-18 21:03:11 UTC** · 📌 **304** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -16,7 +16,7 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 2 |
 | Airbnb | — |
-| [Amazon](#amazon) | 47 |
+| [Amazon](#amazon) | 48 |
 | Anthropic | — |
 | [Apple](#apple) | 19 |
 | Bloomberg | — |
@@ -33,7 +33,7 @@ GitHub Actions.
 | [Intel](#intel) | 21 |
 | [Jane Street](#jane-street) | 19 |
 | [Lyft](#lyft) | 13 |
-| [Meta](#meta) | 2 |
+| [Meta](#meta) | 1 |
 | [Microsoft](#microsoft) | 20 |
 | MongoDB | — |
 | [NVIDIA](#nvidia) | 58 |
@@ -50,7 +50,7 @@ GitHub Actions.
 | Spotify | — |
 | [Stripe](#stripe) | 7 |
 | Uber | — |
-| [Waymo](#waymo) | 13 |
+| [Waymo](#waymo) | 14 |
 | ByteDance | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* |
 | Tesla | *careers site and its JSON API sit behind Akamai bot protection that returns 403 to every non-browser client; needs a headless browser* |
 
@@ -67,6 +67,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Development Engineer Intern - Summer 2027 (CAN)](https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can) 🆕 | Software | Vancouver, British Columbia, CAN | 2026-09-18 | 2026-09-18 |
 | [Business Intelligence Intern 2027, AUTA](https://www.amazon.jobs/en/jobs/10553707/business-intelligence-intern-2027-auta) 🆕 | Data | Mexico City, Mexico City, MEX | 2026-09-18 | 2026-09-18 |
 | [Software Development Engineer Intern - Summer 2027 (USA)](https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa) 🆕 | Software | Seattle, Washington, USA | 2026-09-17 | 2026-09-18 |
 | [DC Security Specialist Intern, DC Security](https://www.amazon.jobs/en/jobs/10551506/dc-security-specialist-intern-dc-security) 🆕 | Security | SGP | 2026-09-17 | 2026-09-17 |
@@ -319,7 +320,6 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Research Scientist Intern, Optical System Design (PhD)](https://www.metacareers.com/jobs/1796691991338568) | AI/ML | Menlo Park, CA; Redmond, WA | — | 2026-08-21 |
-| [Research Scientist Intern, State Estimation for Dexterous Manipulation (PhD)](https://www.metacareers.com/jobs/2774289902955470) | AI/ML | Redmond, WA | — | 2026-07-09 |
 
 ## Microsoft
 
@@ -350,11 +350,11 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [PhD Research Intern, Quantum and AI for Chemistry - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) 🆕 | AI/ML | Canada, Toronto | 2026-09-18 | 2026-09-16 |
 | [AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2025559) 🆕 | AI/ML | 3 Locations | 2026-09-18 | 2026-09-17 |
 | [Software Engineering Intern — Replay Tooling and Test Automation - Autonomous Driving](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086) | AI/ML | Germany, Munich | 2026-09-16 | 2026-07-30 |
 | [Silicon Software Engineer - System and AI (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538) 🆕 | AI/ML | 2 Locations | 2026-09-16 | 2026-09-16 |
 | [Server Firmware Developer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2025558) 🆕 | Backend/Infra | Taiwan, Taipei | 2026-09-16 | 2026-09-16 |
-| [PhD Research Intern, Quantum and AI for Chemistry - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997) 🆕 | AI/ML | Canada, Toronto | 2026-09-16 | 2026-09-16 |
 | [PhD Research Intern, Fundamental Generative AI - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406) 🆕 | AI/ML | US, CA, Santa Clara | 2026-09-16 | 2026-09-15 |
 | [Firmware Application Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Firmware-Application-Engineer--RDSS-Intern-_JR2024884) 🆕 | Backend/Infra | Taiwan, Taipei | 2026-09-16 | 2026-09-16 |
 | [PhD Research Intern, Generative AI for Physical AI - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025) 🆕 | AI/ML | US, CA, Santa Clara | 2026-09-15 | 2026-09-16 |
@@ -465,6 +465,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [2027 Summer Intern, PhD, Data Science](https://careers.withwaymo.com/jobs?gh_jid=8199365) 🆕 | Data | San Francisco, California, United States | 2026-09-18 | 2026-09-18 |
 | [2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure](https://careers.withwaymo.com/jobs?gh_jid=8205680) 🆕 | AI/ML | London, England, United Kingdom | 2026-09-18 | 2026-09-18 |
 | [2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=8208465) 🆕 | AI/ML | London, England, United Kingdom | 2026-09-17 | 2026-09-17 |
 | [2027 Summer Intern, PhD, Quantitative Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8197554) 🆕 | Software | Mountain View, California, United States \| San Francisco, California, United States | 2026-09-16 | 2026-09-16 |
