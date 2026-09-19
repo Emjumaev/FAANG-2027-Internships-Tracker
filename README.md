@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-19 00:29:24 UTC** · 📌 **307** open internships
+> 🕐 Last updated: **2026-09-19 07:27:28 UTC** · 📌 **306** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -34,7 +34,7 @@ GitHub Actions.
 | [Jane Street](#jane-street) | 19 |
 | [Lyft](#lyft) | 13 |
 | [Meta](#meta) | 1 |
-| [Microsoft](#microsoft) | 20 |
+| [Microsoft](#microsoft) | 19 |
 | MongoDB | — |
 | [NVIDIA](#nvidia) | 58 |
 | [Netflix](#netflix) | 2 |
@@ -340,7 +340,6 @@ GitHub Actions.
 | [Cloud Solution Architect - Erada Internship](https://apply.careers.microsoft.com/careers/job/1970393556942310) | Backend/Infra | Qatar, Ad-Daw?ah, Doha | 2026-09-11 | 2026-07-31 |
 | [Cambridge Internship Program - Robotics Systems and Control](https://apply.careers.microsoft.com/careers/job/1970393556991724) | AI/ML | United Kingdom, Cambridgeshire, Cambridge | 2026-09-10 | 2026-09-10 |
 | [Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities](https://apply.careers.microsoft.com/careers/job/1970393556866895) | Software | Egypt, Cairo, Cairo | 2026-09-04 | 2026-07-20 |
-| [Firmware Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556981972) | Backend/Infra | United States, California, Santa Clara; United States, Washington, Redmond | 2026-09-04 | 2026-09-05 |
 | [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556971804) | AI/ML | India, Karnataka, Bangalore | 2026-08-20 | 2026-08-19 |
 | [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556972877) | AI/ML | Japan, Tokyo-to, Tokyo | 2026-08-20 | 2026-08-20 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556957962) | Software | Israel, Multiple Locations, Multiple Locations | 2026-08-07 | 2026-08-07 |
@@ -428,10 +427,10 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Summer 2027 Intern - Recruiting Data Intelligence](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Recruiting-Data-Intelligence_JR360432-1) 🆕 | Data | California - San Francisco | 2026-09-19 | 2026-09-19 |
-| [AI Builder Intern [Mexico]](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Mexico---Mexico-City/AI-Builder-Intern--Mexico-_JR359971-2) | AI/ML | Mexico - Mexico City | 2026-09-12 | 2026-09-11 |
-| [AI Builder Intern [Brazil]](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Brazil---Sao-Paulo/AI-Builder-Intern--Brazil-_JR359969) | AI/ML | Brazil - Sao Paulo | 2026-09-12 | 2026-09-11 |
-| [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) | Software | 8 Locations | 2026-09-01 | 2026-08-28 |
+| [Summer 2027 Intern - Recruiting Data Intelligence](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Recruiting-Data-Intelligence_JR360432-1) 🆕 | Data | California - San Francisco | 2026-09-18 | 2026-09-19 |
+| [AI Builder Intern [Mexico]](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Mexico---Mexico-City/AI-Builder-Intern--Mexico-_JR359971-2) | AI/ML | Mexico - Mexico City | 2026-09-11 | 2026-09-11 |
+| [AI Builder Intern [Brazil]](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Brazil---Sao-Paulo/AI-Builder-Intern--Brazil-_JR359969) | AI/ML | Brazil - Sao Paulo | 2026-09-11 | 2026-09-11 |
+| [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) | Software | 8 Locations | 2026-08-31 | 2026-08-28 |
 | [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715) | Software | 2 Locations | 2026-07-28 | 2026-07-14 |
 
 ## Scale AI
