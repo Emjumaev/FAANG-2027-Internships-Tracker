@@ -5709,8 +5709,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054"
     },
     "microsoft:1970393556981972": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-09-19",
       "company": "Microsoft",
       "external_id": "1970393556981972",
       "first_seen": "2026-09-05",
@@ -7409,7 +7410,7 @@
       "locations": [
         "8 Locations"
       ],
-      "posted": "2026-09-01",
+      "posted": "2026-08-31",
       "title": "Summer 2027 Intern - Software Engineer",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1"
     },
@@ -7438,7 +7439,7 @@
       "locations": [
         "Brazil - Sao Paulo"
       ],
-      "posted": "2026-09-12",
+      "posted": "2026-09-11",
       "title": "AI Builder Intern [Brazil]",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Brazil---Sao-Paulo/AI-Builder-Intern--Brazil-_JR359969"
     },
@@ -7452,7 +7453,7 @@
       "locations": [
         "Mexico - Mexico City"
       ],
-      "posted": "2026-09-12",
+      "posted": "2026-09-11",
       "title": "AI Builder Intern [Mexico]",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Mexico---Mexico-City/AI-Builder-Intern--Mexico-_JR359971-2"
     },
@@ -7466,7 +7467,7 @@
       "locations": [
         "California - San Francisco"
       ],
-      "posted": "2026-09-19",
+      "posted": "2026-09-18",
       "title": "Summer 2027 Intern - Recruiting Data Intelligence",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Recruiting-Data-Intelligence_JR360432-1"
     },
@@ -7985,5 +7986,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8214729"
     }
   },
-  "updated_at": "2026-09-19T00:29:24Z"
+  "updated_at": "2026-09-19T07:27:28Z"
 }
