@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-20 00:16:08 UTC** · 📌 **306** open internships
+> 🕐 Last updated: **2026-09-20 05:02:52 UTC** · 📌 **305** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -30,7 +30,7 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 41 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
-| [Intel](#intel) | 21 |
+| [Intel](#intel) | 20 |
 | [Jane Street](#jane-street) | 19 |
 | [Lyft](#lyft) | 13 |
 | [Meta](#meta) | 1 |
@@ -251,7 +251,6 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [AI Compiler and Library Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/AI-Compiler-and-Library-Engineer-Intern_JR0287303) 🆕 | AI/ML | PRC, Shanghai | 2026-09-18 | 2026-09-17 |
 | [Operations Research, Engineering Analytics Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502) 🆕 | Data | US, Arizona, Phoenix | 2026-09-17 | 2026-09-16 |
 | [System Technology Research Engineer - (PhD Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000) 🆕 | AI/ML | 3 Locations | 2026-09-15 | 2026-09-14 |
 | [Operations Research Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Operations-Research-Engineer-Intern_JR0286945) | AI/ML | 2 Locations | 2026-09-11 | 2026-09-10 |
