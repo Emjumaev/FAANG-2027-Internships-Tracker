@@ -4292,8 +4292,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019"
     },
     "intel:JR0287303": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-20",
       "company": "Intel",
       "external_id": "JR0287303",
       "first_seen": "2026-09-17",
@@ -7986,5 +7987,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8214729"
     }
   },
-  "updated_at": "2026-09-20T00:16:08Z"
+  "updated_at": "2026-09-20T05:02:52Z"
 }
