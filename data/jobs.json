@@ -7211,6 +7211,20 @@
       "title": "Post Silicon Validation Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Post-Silicon-Validation-Intern---2027_JR2025052"
     },
+    "nvidia:JR2025098": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "NVIDIA",
+      "external_id": "JR2025098",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "locations": [
+        "US, CA, Santa Clara"
+      ],
+      "posted": "2026-09-21",
+      "title": "PhD Research Intern, Networking - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098"
+    },
     "nvidia:JR2025179": {
       "active": true,
       "category": "Software",
@@ -7295,6 +7309,20 @@
       "posted": "2026-09-18",
       "title": "AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2025559"
+    },
+    "nvidia:JR2025647": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2025647",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "locations": [
+        "2 Locations"
+      ],
+      "posted": "2026-09-21",
+      "title": "Research Intern, Robotics - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647"
     },
     "nvidia:JR2025701": {
       "active": true,
@@ -8073,7 +8101,49 @@
       "posted": "2026-09-18",
       "title": "2027 Summer Intern, MS/PhD, Software Engineer, RO Performance team, Release Evaluation (Simulation)",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8214729"
+    },
+    "waymo:8221198": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Waymo",
+      "external_id": "8221198",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-09-21",
+      "title": "2027 Summer Intern, BS/MS, Embedded, Software Engineer",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221198"
+    },
+    "waymo:8221795": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "external_id": "8221795",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "locations": [
+        "Mountain View, California, USA"
+      ],
+      "posted": "2026-09-21",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795"
+    },
+    "waymo:8221851": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "external_id": "8221851",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "locations": [
+        "Mountain View, California, USA"
+      ],
+      "posted": "2026-09-21",
+      "title": "2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221851"
     }
   },
-  "updated_at": "2026-09-21T19:37:32Z"
+  "updated_at": "2026-09-21T23:25:27Z"
 }
