@@ -795,6 +795,48 @@
       "title": "Software Development Engineer Intern - Summer 2027 (CAN)",
       "url": "https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can"
     },
+    "amazon:10554586": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10554586",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "posted": "2026-09-21",
+      "title": "2027 Software Dev Engineer Intern - United Kingdom",
+      "url": "https://www.amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom"
+    },
+    "amazon:10554652": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10554652",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "locations": [
+        "Iasi, ROU"
+      ],
+      "posted": "2026-09-21",
+      "title": "2027 Software Dev Engineer Intern - Ia\u0219i, Romania",
+      "url": "https://www.amazon.jobs/en/jobs/10554652/2027-software-dev-engineer-intern-ia-i-romania"
+    },
+    "amazon:10554669": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10554669",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "locations": [
+        "Bucharest, ROU"
+      ],
+      "posted": "2026-09-21",
+      "title": "2027 Software Dev Engineer Intern - Bucharest, Romania",
+      "url": "https://www.amazon.jobs/en/jobs/10554669/2027-software-dev-engineer-intern-bucharest-romania"
+    },
     "amazon:3063220": {
       "active": true,
       "category": "Software",
@@ -2263,6 +2305,20 @@
       "posted": "2026-09-14",
       "title": "Data Science Intern (2027)",
       "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004"
+    },
+    "figma:6200626004": {
+      "active": true,
+      "category": "Data",
+      "company": "Figma",
+      "external_id": "6200626004",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "locations": [
+        "San Francisco, CA \u2022 New York, NY"
+      ],
+      "posted": "2026-09-21",
+      "title": "PhD Intern, Data Science (2027)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004"
     },
     "google:100028133205254854": {
       "active": true,
@@ -4126,8 +4182,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836"
     },
     "intel:JR0286849": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-09-21",
       "company": "Intel",
       "external_id": "JR0286849",
       "first_seen": "2026-09-10",
@@ -7108,7 +7165,7 @@
       "locations": [
         "Canada, Toronto"
       ],
-      "posted": "2026-09-18",
+      "posted": "2026-09-21",
       "title": "PhD Research Intern, Quantum and AI for Chemistry - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997"
     },
@@ -8018,5 +8075,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8214729"
     }
   },
-  "updated_at": "2026-09-21T12:59:14Z"
+  "updated_at": "2026-09-21T19:37:32Z"
 }
