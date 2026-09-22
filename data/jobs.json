@@ -1828,6 +1828,20 @@
       "title": "Information Security Internship Program (FY27 Summer Intake)",
       "url": "https://jobs.apple.com/en-us/details/200684585/information-security-internship-program-fy27-summer-intake"
     },
+    "apple:200685035": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Apple",
+      "external_id": "200685035",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "locations": [
+        "Zurich"
+      ],
+      "posted": "2026-09-22",
+      "title": "Internship - Machine Learning (Foundation Models)",
+      "url": "https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models"
+    },
     "cisco:2005347": {
       "active": false,
       "category": "AI/ML",
@@ -7882,6 +7896,20 @@
       "title": "Software Engineer Intern - Warsaw Security",
       "url": "https://careers.snowflake.com/us/en/job/3045856c-74a4-469e-ba81-a176cc0bef8f"
     },
+    "snowflake:36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e": {
+      "active": true,
+      "category": "Software",
+      "company": "Snowflake",
+      "external_id": "36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "locations": [
+        "Berlin, Germany"
+      ],
+      "posted": "2026-09-22",
+      "title": "Software Engineer Intern - Berlin (2027)",
+      "url": "https://careers.snowflake.com/us/en/job/36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e"
+    },
     "snowflake:37e886ab-e05b-4f2a-9a41-61bfd89e660f": {
       "active": false,
       "category": "AI/ML",
@@ -8383,5 +8411,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8221851"
     }
   },
-  "updated_at": "2026-09-22T11:48:50Z"
+  "updated_at": "2026-09-22T17:06:41Z"
 }
