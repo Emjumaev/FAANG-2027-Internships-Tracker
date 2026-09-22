@@ -964,6 +964,34 @@
       "title": "Program Manager Intern, AWS Cloud Logistics",
       "url": "https://www.amazon.jobs/en/jobs/10555878/program-manager-intern-aws-cloud-logistics"
     },
+    "amazon:10556927": {
+      "active": true,
+      "category": "Data",
+      "company": "Amazon",
+      "external_id": "10556927",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "posted": "2026-09-22",
+      "title": "2027 Data Science Internship - United States, PhD or Masters Student",
+      "url": "https://www.amazon.jobs/en/jobs/10556927/2027-data-science-internship-united-states-phd-or-masters-student"
+    },
+    "amazon:10556930": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "external_id": "10556930",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "locations": [
+        "Pasadena, California, USA"
+      ],
+      "posted": "2026-09-22",
+      "title": "2027 Quantum Applied Science Internship, Quantum Technologies team",
+      "url": "https://www.amazon.jobs/en/jobs/10556930/2027-quantum-applied-science-internship-quantum-technologies-team"
+    },
     "amazon:3063220": {
       "active": false,
       "category": "Software",
@@ -7590,6 +7618,20 @@
       "title": "Software Engineer, Simulation and Virtualization (RDSS Intern)",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783"
     },
+    "nvidia:JR2025784": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2025784",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "locations": [
+        "2 Locations"
+      ],
+      "posted": "2026-09-22",
+      "title": "Product Design Intern, AI Infrastructure - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Design-Intern--AI-Infrastructure---Summer-2027_JR2025784"
+    },
     "nvidia:JR2025914": {
       "active": true,
       "category": "Software",
@@ -8409,7 +8451,21 @@
       "posted": "2026-09-21",
       "title": "2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8221851"
+    },
+    "waymo:8223735": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "external_id": "8223735",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "locations": [
+        "San Francisco, CA, USA"
+      ],
+      "posted": "2026-09-22",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8223735"
     }
   },
-  "updated_at": "2026-09-22T17:06:41Z"
+  "updated_at": "2026-09-22T21:28:08Z"
 }
