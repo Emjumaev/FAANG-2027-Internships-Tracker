@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-22 11:48:50 UTC** · 📌 **322** open internships
+> 🕐 Last updated: **2026-09-22 17:06:41 UTC** · 📌 **324** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -18,7 +18,7 @@ GitHub Actions.
 | Airbnb | — |
 | [Amazon](#amazon) | 57 |
 | Anthropic | — |
-| [Apple](#apple) | 19 |
+| [Apple](#apple) | 20 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 14 |
 | Cloudflare | — |
@@ -46,7 +46,7 @@ GitHub Actions.
 | [Salesforce](#salesforce) | 3 |
 | [Scale AI](#scale-ai) | 3 |
 | Snap | — |
-| [Snowflake](#snowflake) | 3 |
+| [Snowflake](#snowflake) | 4 |
 | Spotify | — |
 | [Stripe](#stripe) | 7 |
 | Uber | — |
@@ -68,8 +68,8 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Transportation Management Intern, AWS Cloud Logistics](https://www.amazon.jobs/en/jobs/10555877/transportation-management-intern-aws-cloud-logistics) 🆕 | Backend/Infra | SGP | 2026-09-22 | 2026-09-22 |
-| [Program Manager Intern, AWS Cloud Logistics](https://www.amazon.jobs/en/jobs/10555878/program-manager-intern-aws-cloud-logistics) 🆕 | Backend/Infra | SGP | 2026-09-22 | 2026-09-22 |
 | [Program Manager Intern, AWS Cloud Logistics](https://www.amazon.jobs/en/jobs/10555844/program-manager-intern-aws-cloud-logistics) 🆕 | Backend/Infra | SGP | 2026-09-22 | 2026-09-22 |
+| [Program Manager Intern, AWS Cloud Logistics](https://www.amazon.jobs/en/jobs/10555878/program-manager-intern-aws-cloud-logistics) 🆕 | Backend/Infra | SGP | 2026-09-22 | 2026-09-22 |
 | [2027 Software Dev Engineer Intern - Spain](https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain) 🆕 | Software | Madrid, Community of Madrid, ESP | 2026-09-22 | 2026-09-22 |
 | [2027 Software Dev Engineer Intern - Poland](https://www.amazon.jobs/en/jobs/10555873/2027-software-dev-engineer-intern-poland) 🆕 | Software | Gdansk, Pomeranian Voivodeship, POL | 2026-09-22 | 2026-09-22 |
 | [2027 Software Dev Engineer Intern - Italy](https://www.amazon.jobs/en/jobs/10555867/2027-software-dev-engineer-intern-italy) 🆕 | Software | Turin, Piedmont, ITA | 2026-09-22 | 2026-09-22 |
@@ -129,6 +129,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Internship - Machine Learning (Foundation Models)](https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models) 🆕 | AI/ML | Zurich | 2026-09-22 | 2026-09-22 |
 | [Information Security Internship Program (FY27 Summer Intake)](https://jobs.apple.com/en-us/details/200684585/information-security-internship-program-fy27-summer-intake) 🆕 | Security | Singapore | 2026-09-18 | 2026-09-18 |
 | [Internship - Machine Learning Research](https://jobs.apple.com/en-us/details/200683768/internship-machine-learning-research) 🆕 | AI/ML | Paris | 2026-09-16 | 2026-09-16 |
 | [GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) | QA | London | 2026-09-08 | 2026-09-08 |
@@ -458,6 +459,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineer Intern - Berlin (2027)](https://careers.snowflake.com/us/en/job/36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e) 🆕 | Software | Berlin, Germany | 2026-09-22 | 2026-09-22 |
 | [Applied AI Intern - Warsaw](https://careers.snowflake.com/us/en/job/efbbdddd-18a1-4d9d-9455-3e82166b42f6) | AI/ML | Warsaw, Poland | 2026-09-08 | 2026-09-08 |
 | [Software Engineer Intern - Warsaw Security](https://careers.snowflake.com/us/en/job/3045856c-74a4-469e-ba81-a176cc0bef8f) | Security | Warsaw, Poland | 2026-08-05 | 2026-08-05 |
 | [Software Engineer Intern - Berlin (2026)](https://careers.snowflake.com/us/en/job/3a9baeaf-b107-41fb-a9b3-a98ab78275ed) | Software | Berlin, Germany | 2026-06-02 | 2026-07-09 |
