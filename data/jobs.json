@@ -2556,6 +2556,20 @@
       "title": "Software Engineer Intern (London, United Kingdom) (Summer 2027)",
       "url": "https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004"
     },
+    "figma:6178851004": {
+      "active": true,
+      "category": "Data",
+      "company": "Figma",
+      "external_id": "6178851004",
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "locations": [
+        "San Francisco, CA \u2022 New York, NY"
+      ],
+      "posted": "2026-09-23",
+      "title": "Data Engineer Intern (2027)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004"
+    },
     "figma:6178857004": {
       "active": true,
       "category": "Data",
@@ -4500,7 +4514,7 @@
       "locations": [
         "Virtual Canada"
       ],
-      "posted": "2026-09-09",
+      "posted": "2026-09-23",
       "title": "AI and Compiler Engineering Graduate Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850"
     },
@@ -5226,6 +5240,20 @@
       "title": "Research Scientist Intern, 3D Scene Understanding (PhD)",
       "url": "https://www.metacareers.com/jobs/1029177790044680"
     },
+    "meta:1412139847020398": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Meta",
+      "external_id": "1412139847020398",
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "posted": null,
+      "title": "Network Production Engineer Intern",
+      "url": "https://www.metacareers.com/jobs/1412139847020398"
+    },
     "meta:1418337243438665": {
       "active": false,
       "category": "AI/ML",
@@ -5382,6 +5410,21 @@
       "posted": null,
       "title": "Research Scientist Intern, FAIR - Language & Multimodal Foundations (PhD)",
       "url": "https://www.metacareers.com/jobs/24536664159369645"
+    },
+    "meta:2558941294546763": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Meta",
+      "external_id": "2558941294546763",
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "locations": [
+        "Dublin, Ireland",
+        "London, UK"
+      ],
+      "posted": null,
+      "title": "Network Production Engineer Intern",
+      "url": "https://www.metacareers.com/jobs/2558941294546763"
     },
     "meta:2633206137040139": {
       "active": false,
@@ -7524,8 +7567,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997"
     },
     "nvidia:JR2025025": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-23",
       "company": "NVIDIA",
       "external_id": "JR2025025",
       "first_seen": "2026-09-16",
@@ -7747,6 +7791,20 @@
       "posted": "2026-09-22",
       "title": "System Software Engineer - USB (RDSS Intern)",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---USB--RDSS-Intern-_JR2025914-1"
+    },
+    "nvidia:JR2026004": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2026004",
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "locations": [
+        "US, CA, Santa Clara"
+      ],
+      "posted": "2026-09-23",
+      "title": "PhD Research Intern, Quantum Simulation and AI - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004"
     },
     "nvidia:JR2026160": {
       "active": true,
@@ -8680,7 +8738,35 @@
       "posted": "2026-09-22",
       "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8223735"
+    },
+    "waymo:8224729": {
+      "active": true,
+      "category": "Software",
+      "company": "Waymo",
+      "external_id": "8224729",
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "locations": [
+        "Mountain View, California"
+      ],
+      "posted": "2026-09-23",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8224729"
+    },
+    "waymo:8224746": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "external_id": "8224746",
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "locations": [
+        "Mountain View, California"
+      ],
+      "posted": "2026-09-23",
+      "title": "2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746"
     }
   },
-  "updated_at": "2026-09-23T18:31:45Z"
+  "updated_at": "2026-09-23T23:04:41Z"
 }
