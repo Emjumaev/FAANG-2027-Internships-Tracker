@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-23 07:54:28 UTC** · 📌 **339** open internships
+> 🕐 Last updated: **2026-09-23 13:46:50 UTC** · 📌 **340** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -16,9 +16,9 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 2 |
 | Airbnb | — |
-| [Amazon](#amazon) | 60 |
+| [Amazon](#amazon) | 61 |
 | Anthropic | — |
-| [Apple](#apple) | 20 |
+| [Apple](#apple) | 19 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 14 |
 | Cloudflare | — |
@@ -30,7 +30,7 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 40 |
 | [Hudson River Trading](#hudson-river-trading) | 3 |
-| [Intel](#intel) | 17 |
+| [Intel](#intel) | 18 |
 | [Jane Street](#jane-street) | 19 |
 | [Lyft](#lyft) | 13 |
 | [Meta](#meta) | 1 |
@@ -67,6 +67,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Business Intelligence Intern Luxembourg](https://www.amazon.jobs/en/jobs/10557454/business-intelligence-intern-luxembourg) 🆕 | Data | Luxembourg, LUX | 2026-09-23 | 2026-09-23 |
 | [Transportation Management Intern, AWS Cloud Logistics](https://www.amazon.jobs/en/jobs/10555877/transportation-management-intern-aws-cloud-logistics) 🆕 | Backend/Infra | SGP | 2026-09-22 | 2026-09-22 |
 | [Security Engineer Internship – 2027 (US)](https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us) 🆕 | Security | Seattle, Washington, USA | 2026-09-22 | 2026-09-23 |
 | [Program Manager Intern, AWS Cloud Logistics](https://www.amazon.jobs/en/jobs/10555844/program-manager-intern-aws-cloud-logistics) 🆕 | Backend/Infra | SGP | 2026-09-22 | 2026-09-22 |
@@ -136,7 +137,6 @@ GitHub Actions.
 | [Information Security Internship Program (FY27 Summer Intake)](https://jobs.apple.com/en-us/details/200684585/information-security-internship-program-fy27-summer-intake) 🆕 | Security | Singapore | 2026-09-18 | 2026-09-18 |
 | [Internship - Machine Learning Research](https://jobs.apple.com/en-us/details/200683768/internship-machine-learning-research) 🆕 | AI/ML | Paris | 2026-09-16 | 2026-09-16 |
 | [GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) | QA | London | 2026-09-08 | 2026-09-08 |
-| [PHY Cellular Firmware Engineer Internship](https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship) | Backend/Infra | Munich | 2026-09-07 | 2026-09-07 |
 | [Display Supply Quality Engineer Intern](https://jobs.apple.com/en-us/details/200679405/display-supply-quality-engineer-intern) | QA | Shenzhen | 2026-08-28 | 2026-08-28 |
 | [Secure Kernel Engineering Intern, Sydney](https://jobs.apple.com/en-us/details/200680345/secure-kernel-engineering-intern-sydney) | Backend/Infra | Sydney | 2026-08-27 | 2026-08-27 |
 | [Applied Data Solutions Program, Internships – Summer 2027](https://jobs.apple.com/en-us/details/200673612/applied-data-solutions-program-internships-summer-2027) | Data | Cupertino | 2026-08-27 | 2026-07-26 |
@@ -270,6 +270,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools-_JR0287250) 🆕 | Backend/Infra | Ireland, Leixlip | 2026-09-23 | 2026-09-23 |
 | [Operations Research, Engineering Analytics Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502) 🆕 | Data | US, Arizona, Phoenix | 2026-09-16 | 2026-09-16 |
 | [System Technology Research Engineer - (PhD Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000) | AI/ML | 3 Locations | 2026-09-14 | 2026-09-14 |
 | [Operations Research Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Operations-Research-Engineer-Intern_JR0286945) | AI/ML | 2 Locations | 2026-09-10 | 2026-09-10 |
