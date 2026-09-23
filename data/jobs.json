@@ -1006,6 +1006,20 @@
       "title": "Security Engineer Internship \u2013 2027 (US)",
       "url": "https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us"
     },
+    "amazon:10557454": {
+      "active": true,
+      "category": "Data",
+      "company": "Amazon",
+      "external_id": "10557454",
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "locations": [
+        "Luxembourg, LUX"
+      ],
+      "posted": "2026-09-23",
+      "title": "Business Intelligence Intern Luxembourg",
+      "url": "https://www.amazon.jobs/en/jobs/10557454/business-intelligence-intern-luxembourg"
+    },
     "amazon:3063220": {
       "active": false,
       "category": "Software",
@@ -1815,8 +1829,9 @@
       "url": "https://jobs.apple.com/en-us/details/200680345/secure-kernel-engineering-intern-sydney"
     },
     "apple:200682229": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-09-23",
       "company": "Apple",
       "external_id": "200682229",
       "first_seen": "2026-09-07",
@@ -4628,6 +4643,20 @@
       "posted": "2026-09-09",
       "title": "Software Research Engineering - (PhD Intern)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019"
+    },
+    "intel:JR0287250": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Intel",
+      "external_id": "JR0287250",
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "locations": [
+        "Ireland, Leixlip"
+      ],
+      "posted": "2026-09-23",
+      "title": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools-_JR0287250"
     },
     "intel:JR0287303": {
       "active": false,
@@ -8622,5 +8651,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8223735"
     }
   },
-  "updated_at": "2026-09-23T07:54:28Z"
+  "updated_at": "2026-09-23T13:46:50Z"
 }
