@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-23 13:46:50 UTC** · 📌 **340** open internships
+> 🕐 Last updated: **2026-09-23 18:31:45 UTC** · 📌 **340** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -30,13 +30,13 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 40 |
 | [Hudson River Trading](#hudson-river-trading) | 3 |
-| [Intel](#intel) | 18 |
+| [Intel](#intel) | 19 |
 | [Jane Street](#jane-street) | 19 |
 | [Lyft](#lyft) | 13 |
 | [Meta](#meta) | 1 |
 | [Microsoft](#microsoft) | 19 |
 | MongoDB | — |
-| [NVIDIA](#nvidia) | 71 |
+| [NVIDIA](#nvidia) | 70 |
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
 | [Oracle](#oracle) | 3 |
@@ -92,7 +92,6 @@ GitHub Actions.
 | [Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027](https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027) | AI/ML | North Reading, Massachusetts, USA | 2026-09-10 | 2026-09-10 |
 | [Software Development Engineer Intern, ROBOTICS - 2027](https://www.amazon.jobs/en/jobs/10535280/software-development-engineer-intern-robotics-2027) | AI/ML | Toronto, Ontario, CAN | 2026-09-09 | 2026-09-09 |
 | [Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027](https://www.amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) | AI/ML | North Reading, Massachusetts, USA | 2026-09-09 | 2026-09-09 |
-| [System Dev Engineer I Co-op (Robotics), Autonomous AI Security](https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security) | Security | Austin, Texas, USA | 2026-09-08 | 2026-09-08 |
 | [Software Development Engineer Intern/Co-Op, ROBOTICS -  2027](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027) | AI/ML | North Reading, Massachusetts, USA | 2026-09-04 | 2026-09-04 |
 | [Software Development Engineer Intern, Annapurna Labs - 2027](https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) | Software | Cupertino, California, USA | 2026-08-27 | 2026-08-27 |
 | [Robotics - Software Development Engineer Fall Intern/Co-op - 2026](https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026) | AI/ML | Westboro, Wisconsin, USA | 2026-08-27 | 2026-08-27 |
@@ -128,6 +127,7 @@ GitHub Actions.
 | [Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | AI/ML | North Reading, Massachusetts, USA | 2025-10-08 | 2026-07-09 |
 | [2026 Software Dev Engineer Intern - Germany](https://www.amazon.jobs/en/jobs/3074226/2026-software-dev-engineer-intern-germany) | Software | Berlin, Berlin, DEU | 2025-09-05 | 2026-07-13 |
 | [2026 Software Dev Engineer Intern - UK](https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern-uk) | Software | London, England, GBR | 2025-09-03 | 2026-08-31 |
+| [Software Development Engineer Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3063220/software-development-engineer-intern-amazon-university-talent-acquisition) | Software | Sao Paulo, Sao Paulo, BRA | 2025-08-20 | 2026-07-09 |
 
 ## Apple
 
@@ -271,6 +271,7 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools-_JR0287250) 🆕 | Backend/Infra | Ireland, Leixlip | 2026-09-23 | 2026-09-23 |
+| [Firmware Development Undergraduate Engineering Co-op](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862) 🆕 | Backend/Infra | Virtual Canada | 2026-09-23 | 2026-09-23 |
 | [Operations Research, Engineering Analytics Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502) 🆕 | Data | US, Arizona, Phoenix | 2026-09-16 | 2026-09-16 |
 | [System Technology Research Engineer - (PhD Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000) | AI/ML | 3 Locations | 2026-09-14 | 2026-09-14 |
 | [Operations Research Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Operations-Research-Engineer-Intern_JR0286945) | AI/ML | 2 Locations | 2026-09-10 | 2026-09-10 |
@@ -341,6 +342,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineer: Intern Opportunity for University Students](https://apply.careers.microsoft.com/careers/job/1970393557004819) 🆕 | Software | United States, California, Mountain View | 2026-09-23 | 2026-09-23 |
 | [Security Research INTERN](https://apply.careers.microsoft.com/careers/job/1970393556962157) 🆕 | Security | United States, Washington, Redmond | 2026-09-21 | 2026-09-22 |
 | [Software Engineering Internship (6-month Program)](https://apply.careers.microsoft.com/careers/job/1970393556982258) 🆕 | Software | United States, California, Santa Clara; United States, Washington, Redmond | 2026-09-18 | 2026-09-18 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556911730) | Software | India, Multiple Locations, Multiple Locations | 2026-09-18 | 2026-07-09 |
@@ -348,7 +350,6 @@ GitHub Actions.
 | [Data Science: PhD Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556982928) | Data | United States, Washington, Redmond | 2026-09-16 | 2026-09-02 |
 | [Applied Science: PhD Microsoft AI Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393556868271) | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-09-16 | 2026-07-09 |
 | [Applied Science: PhD Internship Opportunities - Multiple Locations](https://apply.careers.microsoft.com/careers/job/1970393556986140) | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-09-16 | 2026-09-03 |
-| [Software Engineer Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393556991773) 🆕 | Software | Canada, British Columbia, Vancouver | 2026-09-15 | 2026-09-16 |
 | [Cloud Solution Architecture Intern](https://apply.careers.microsoft.com/careers/job/1970393556998387) | Backend/Infra | Belgium, Brussels Region, Brussels | 2026-09-14 | 2026-09-14 |
 | [Applied Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556997800) | AI/ML | India, Multiple Locations, Multiple Locations | 2026-09-14 | 2026-09-14 |
 | [Software Engineering Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556983221) | Software | United States, Washington, Redmond | 2026-09-11 | 2026-09-11 |
@@ -430,7 +431,6 @@ GitHub Actions.
 | [NVIDIA 2027 Internships: Autonomous Vehicles and Robotics](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496) | AI/ML | US, CA, Santa Clara | 2026-08-20 | 2026-08-19 |
 | [Artificial Intelligence Research Intern - Deep Learning](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Artificial-Intelligence-Research-Intern---Deep-Learning_JR2023646) | AI/ML | Taiwan, Taipei | 2026-08-20 | 2026-08-19 |
 | [Software Engineering Intern, NCCL - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645) | Software | 2 Locations | 2026-08-19 | 2026-08-18 |
-| [Software Engineering Intern, Dynamo - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295) | Software | US, CA, Santa Clara | 2026-08-06 | 2026-08-05 |
 | [System Design Validation Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Validation-Intern---2027_JR2021783) | QA | Taiwan, Taipei | 2026-07-25 | 2026-07-24 |
 | [PhD Software Engineering Intern, Decision Intelligence - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522) | Software | US, CA, Santa Clara | — | 2026-07-09 |
 | [PhD Research Intern, Generative AI - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035) | AI/ML | US, CA, Santa Clara | — | 2026-07-09 |
