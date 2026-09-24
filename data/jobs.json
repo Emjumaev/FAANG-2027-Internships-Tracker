@@ -993,8 +993,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10556930/2027-quantum-applied-science-internship-quantum-technologies-team"
     },
     "amazon:10557133": {
-      "active": true,
+      "active": false,
       "category": "Security",
+      "closed": "2026-09-24",
       "company": "Amazon",
       "external_id": "10557133",
       "first_seen": "2026-09-23",
@@ -5414,15 +5415,14 @@
       "url": "https://www.metacareers.com/jobs/1710381673750348"
     },
     "meta:1782902493113620": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-09-11",
       "company": "Meta",
       "external_id": "1782902493113620",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-24",
       "locations": [
-        "Bellevue, WA",
         "Boston, MA",
         "Menlo Park, CA",
         "New York, NY",
@@ -6474,8 +6474,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556991773"
     },
     "microsoft:1970393556997800": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-24",
       "company": "Microsoft",
       "external_id": "1970393556997800",
       "first_seen": "2026-09-14",
@@ -8498,6 +8499,20 @@
       "title": "Software Engineer, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8130883"
     },
+    "stripe:8186442": {
+      "active": true,
+      "category": "Data",
+      "company": "Stripe",
+      "external_id": "8186442",
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "locations": [
+        "Singapore"
+      ],
+      "posted": "2026-09-24",
+      "title": "Financial Data Analyst Intern, Technical Operations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8186442"
+    },
     "uber:301541": {
       "active": false,
       "category": "Data",
@@ -8882,7 +8897,21 @@
       "posted": "2026-09-23",
       "title": "2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746"
+    },
+    "waymo:8227640": {
+      "active": true,
+      "category": "Software",
+      "company": "Waymo",
+      "external_id": "8227640",
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-09-24",
+      "title": "2027 Summer Intern, PhD, Software Engineer, Simulation",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8227640"
     }
   },
-  "updated_at": "2026-09-24T17:21:21Z"
+  "updated_at": "2026-09-24T21:39:34Z"
 }
