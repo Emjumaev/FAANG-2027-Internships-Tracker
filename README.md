@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-24 17:21:21 UTC** · 📌 **355** open internships
+> 🕐 Last updated: **2026-09-24 21:39:34 UTC** · 📌 **356** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -16,7 +16,7 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 2 |
 | Airbnb | — |
-| [Amazon](#amazon) | 61 |
+| [Amazon](#amazon) | 60 |
 | Anthropic | — |
 | [Apple](#apple) | 19 |
 | Bloomberg | — |
@@ -33,8 +33,8 @@ GitHub Actions.
 | [Intel](#intel) | 21 |
 | [Jane Street](#jane-street) | 19 |
 | [Lyft](#lyft) | 13 |
-| [Meta](#meta) | 3 |
-| [Microsoft](#microsoft) | 20 |
+| [Meta](#meta) | 4 |
+| [Microsoft](#microsoft) | 19 |
 | MongoDB | — |
 | [NVIDIA](#nvidia) | 71 |
 | [Netflix](#netflix) | 2 |
@@ -48,9 +48,9 @@ GitHub Actions.
 | Snap | — |
 | [Snowflake](#snowflake) | 4 |
 | Spotify | — |
-| [Stripe](#stripe) | 7 |
+| [Stripe](#stripe) | 8 |
 | Uber | — |
-| [Waymo](#waymo) | 24 |
+| [Waymo](#waymo) | 25 |
 | ByteDance | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* |
 | Tesla | *careers site and its JSON API sit behind Akamai bot protection that returns 403 to every non-browser client; needs a headless browser* |
 
@@ -69,7 +69,6 @@ GitHub Actions.
 |---|---|---|---|---|
 | [Business Intelligence Intern Luxembourg](https://www.amazon.jobs/en/jobs/10557454/business-intelligence-intern-luxembourg) 🆕 | Data | Luxembourg, LUX | 2026-09-23 | 2026-09-23 |
 | [Transportation Management Intern, AWS Cloud Logistics](https://www.amazon.jobs/en/jobs/10555877/transportation-management-intern-aws-cloud-logistics) 🆕 | Backend/Infra | SGP | 2026-09-22 | 2026-09-22 |
-| [Security Engineer Internship – 2027 (US)](https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us) 🆕 | Security | Seattle, Washington, USA | 2026-09-22 | 2026-09-23 |
 | [Program Manager Intern, AWS Cloud Logistics](https://www.amazon.jobs/en/jobs/10555844/program-manager-intern-aws-cloud-logistics) 🆕 | Backend/Infra | SGP | 2026-09-22 | 2026-09-22 |
 | [Program Manager Intern, AWS Cloud Logistics](https://www.amazon.jobs/en/jobs/10555878/program-manager-intern-aws-cloud-logistics) 🆕 | Backend/Infra | SGP | 2026-09-22 | 2026-09-22 |
 | [2027 Software Dev Engineer Intern - Spain](https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain) 🆕 | Software | Madrid, Community of Madrid, ESP | 2026-09-22 | 2026-09-22 |
@@ -348,6 +347,7 @@ GitHub Actions.
 | [Network Production Engineer Intern](https://www.metacareers.com/jobs/1412139847020398) 🆕 | Backend/Infra | Menlo Park, CA | — | 2026-09-23 |
 | [Network Production Engineer Intern](https://www.metacareers.com/jobs/2558941294546763) 🆕 | Backend/Infra | Dublin, Ireland; London, UK | — | 2026-09-23 |
 | [Research Scientist Intern, Optical System Design (PhD)](https://www.metacareers.com/jobs/1796691991338568) | AI/ML | Menlo Park, CA; Redmond, WA | — | 2026-08-21 |
+| [Research Scientist Intern, AI Alignment](https://www.metacareers.com/jobs/1782902493113620) | AI/ML | Boston, MA; Menlo Park, CA; New York, NY *(+1 more)* | — | 2026-07-09 |
 
 ## Microsoft
 
@@ -363,7 +363,6 @@ GitHub Actions.
 | [Applied Science: PhD Microsoft AI Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393556868271) | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-09-16 | 2026-07-09 |
 | [Applied Science: PhD Internship Opportunities - Multiple Locations](https://apply.careers.microsoft.com/careers/job/1970393556986140) | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-09-16 | 2026-09-03 |
 | [Cloud Solution Architecture Intern](https://apply.careers.microsoft.com/careers/job/1970393556998387) | Backend/Infra | Belgium, Brussels Region, Brussels | 2026-09-14 | 2026-09-14 |
-| [Applied Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556997800) | AI/ML | India, Multiple Locations, Multiple Locations | 2026-09-14 | 2026-09-14 |
 | [Software Engineering Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556983221) | Software | United States, Washington, Redmond | 2026-09-11 | 2026-09-11 |
 | [Software Engineering Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556983223) | Software | United States, Virginia, Reston | 2026-09-11 | 2026-09-11 |
 | [Security Assurance Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556988203) | Security | United States, Washington, Redmond | 2026-09-11 | 2026-09-11 |
@@ -494,6 +493,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Financial Data Analyst Intern, Technical Operations](https://stripe.com/jobs/search?gh_jid=8186442) 🆕 | Data | Singapore | 2026-09-24 | 2026-09-24 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883) | Software | Singapore | 2026-09-07 | 2026-09-07 |
 | [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745) | Software | San Francisco, Seattle, New York City | 2026-08-31 | 2026-08-31 |
 | [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8130805) | Software | Toronto | 2026-08-31 | 2026-09-01 |
@@ -506,6 +506,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [2027 Summer Intern, PhD, Software Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=8227640) 🆕 | Software | Mountain View, CA, USA | 2026-09-24 | 2026-09-24 |
 | [2027 Summer Intern, MS/PhD, Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8224729) 🆕 | Software | Mountain View, California | 2026-09-23 | 2026-09-23 |
 | [2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer](https://careers.withwaymo.com/jobs?gh_jid=8224746) 🆕 | AI/ML | Mountain View, California | 2026-09-23 | 2026-09-23 |
 | [2027 Summer Intern, PhD, Data Science](https://careers.withwaymo.com/jobs?gh_jid=8221956) 🆕 | Data | Mountain View, CA, USA; San Francisco, CA, USA | 2026-09-22 | 2026-09-23 |
