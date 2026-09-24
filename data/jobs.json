@@ -2189,6 +2189,108 @@
       "title": "Software Engineer Data & AI I (Intern) \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2026306"
     },
+    "cisco:2026798": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Cisco",
+      "external_id": "2026798",
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "locations": [
+        "Milpitas, California, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Francisco, California, United States of America",
+        "San Jose, California, United States of America"
+      ],
+      "posted": "2026-09-24",
+      "title": "Software Engineer Data & AI II (Intern) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2026798"
+    },
+    "cisco:2026800": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Cisco",
+      "external_id": "2026800",
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "locations": [
+        "Milpitas, California, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Francisco, California, United States of America",
+        "San Jose, California, United States of America"
+      ],
+      "posted": "2026-09-24",
+      "title": "Software Engineer Full Stack / Backend II (Intern) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2026800"
+    },
+    "cisco:2026802": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Cisco",
+      "external_id": "2026802",
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "locations": [
+        "Milpitas, California, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Francisco, California, United States of America",
+        "San Jose, California, United States of America"
+      ],
+      "posted": "2026-09-24",
+      "title": "Machine Learning Engineer II (Intern) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2026802"
+    },
+    "cisco:2026803": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Cisco",
+      "external_id": "2026803",
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "locations": [
+        "Milpitas, California, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Francisco, California, United States of America",
+        "San Jose, California, United States of America"
+      ],
+      "posted": "2026-09-24",
+      "title": "Machine Learning Engineer I (Intern) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2026803"
+    },
+    "cisco:2026804": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Cisco",
+      "external_id": "2026804",
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "locations": [
+        "Milpitas, California, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Francisco, California, United States of America",
+        "San Jose, California, United States of America"
+      ],
+      "posted": "2026-09-24",
+      "title": "AI Operations Engineer I (Intern) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2026804"
+    },
+    "cisco:2026805": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Cisco",
+      "external_id": "2026805",
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-24",
+      "locations": [
+        "Milpitas, California, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Francisco, California, United States of America",
+        "San Jose, California, United States of America"
+      ],
+      "posted": "2026-09-24",
+      "title": "Software Engineer Embedded Systems II (Intern) \u2013 United States",
+      "url": "https://careers.cisco.com/global/en/job/2026805"
+    },
     "cloudflare:7606240": {
       "active": false,
       "category": "AI/ML",
@@ -8782,5 +8884,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746"
     }
   },
-  "updated_at": "2026-09-24T11:56:07Z"
+  "updated_at": "2026-09-24T17:21:21Z"
 }
