@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-24 11:56:07 UTC** · 📌 **349** open internships
+> 🕐 Last updated: **2026-09-24 17:21:21 UTC** · 📌 **355** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -20,7 +20,7 @@ GitHub Actions.
 | Anthropic | — |
 | [Apple](#apple) | 19 |
 | Bloomberg | — |
-| [Cisco](#cisco) | 14 |
+| [Cisco](#cisco) | 20 |
 | Cloudflare | — |
 | [Coinbase](#coinbase) | 7 |
 | [Databricks](#databricks) | 2 |
@@ -157,6 +157,12 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineer Full Stack / Backend II (Intern) – United States](https://careers.cisco.com/global/en/job/2026800) 🆕 | Backend/Infra | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-24 | 2026-09-24 |
+| [Software Engineer Embedded Systems II (Intern) – United States](https://careers.cisco.com/global/en/job/2026805) 🆕 | Backend/Infra | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-24 | 2026-09-24 |
+| [Software Engineer Data & AI II (Intern) – United States](https://careers.cisco.com/global/en/job/2026798) 🆕 | AI/ML | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-24 | 2026-09-24 |
+| [Machine Learning Engineer II (Intern) – United States](https://careers.cisco.com/global/en/job/2026802) 🆕 | AI/ML | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-24 | 2026-09-24 |
+| [Machine Learning Engineer I (Intern) – United States](https://careers.cisco.com/global/en/job/2026803) 🆕 | AI/ML | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-24 | 2026-09-24 |
+| [AI Operations Engineer I (Intern) – United States](https://careers.cisco.com/global/en/job/2026804) 🆕 | AI/ML | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-24 | 2026-09-24 |
 | [Software Engineer Full Stack / Backend I (Intern) – United States](https://careers.cisco.com/global/en/job/2025924) 🆕 | Backend/Infra | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-21 | 2026-09-22 |
 | [Software Engineer Embedded Systems I (Intern) – United States](https://careers.cisco.com/global/en/job/2025926) 🆕 | Backend/Infra | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-21 | 2026-09-22 |
 | [Software Engineer Data & AI I (Intern) – United States](https://careers.cisco.com/global/en/job/2026306) 🆕 | AI/ML | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-21 | 2026-09-22 |
