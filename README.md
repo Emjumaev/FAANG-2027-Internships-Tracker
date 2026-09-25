@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-25 18:45:50 UTC** · 📌 **358** open internships
+> 🕐 Last updated: **2026-09-25 23:25:46 UTC** · 📌 **359** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -16,7 +16,7 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 2 |
 | Airbnb | — |
-| [Amazon](#amazon) | 61 |
+| [Amazon](#amazon) | 53 |
 | Anthropic | — |
 | [Apple](#apple) | 19 |
 | Bloomberg | — |
@@ -24,13 +24,13 @@ GitHub Actions.
 | Cloudflare | — |
 | [Coinbase](#coinbase) | 7 |
 | [Databricks](#databricks) | 2 |
-| [DoorDash](#doordash) | 1 |
+| [DoorDash](#doordash) | 3 |
 | [Dropbox](#dropbox) | 1 |
 | [Figma](#figma) | 6 |
 | GitHub | — |
 | [Google](#google) | 40 |
 | [Hudson River Trading](#hudson-river-trading) | 3 |
-| [Intel](#intel) | 19 |
+| [Intel](#intel) | 21 |
 | [Jane Street](#jane-street) | 19 |
 | [Lyft](#lyft) | 13 |
 | [Meta](#meta) | 4 |
@@ -50,7 +50,7 @@ GitHub Actions.
 | Spotify | — |
 | [Stripe](#stripe) | 8 |
 | Uber | — |
-| [Waymo](#waymo) | 25 |
+| [Waymo](#waymo) | 30 |
 | ByteDance | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* |
 | Tesla | *careers site and its JSON API sit behind Akamai bot protection that returns 403 to every non-browser client; needs a headless browser* |
 
@@ -103,19 +103,11 @@ GitHub Actions.
 | [2027 Applied Science Intern (Machine Learning, Recommender Systems), Amazon International Machine Learning](https://www.amazon.jobs/en/jobs/10456239/2027-applied-science-intern-machine-learning-recommender-systems-amazon-international-machine-learning) | AI/ML | Melbourne, Victoria, AUS | 2026-06-23 | 2026-07-09 |
 | [2027 Software Dev Engineer Intern](https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern) | Software | Dublin, IRL | 2026-05-13 | 2026-07-09 |
 | [Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)](https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us) | Data | Seattle, Washington, USA | 2026-05-06 | 2026-07-09 |
-| [2026 Fall Research Science Internship - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10398392/2026-fall-research-science-internship-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-21 | 2026-07-09 |
 | [Technical Business Developer Intern, 2026 Hong Kong](https://www.amazon.jobs/en/jobs/10394507/technical-business-developer-intern-2026-hong-kong) | Software | Hong Kong, Hong Kong SAR, HKG | 2026-04-17 | 2026-07-24 |
-| [2026 Fall Applied Science Internship - Gen AI & Large Language Models - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10394934/2026-fall-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-17 | 2026-07-09 |
-| [2026 Fall Applied Science Internship - Reinforcement Learning & Optimization (Machine Learning) - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-16 | 2026-07-09 |
-| [2026 Fall Applied Science Internship - Natural Language Processing and Speech Technologies - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10394268/2026-fall-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-16 | 2026-07-09 |
 | [2026 Fall Applied Science Internship - Automated Reasoning - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10394156/2026-fall-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-16 | 2026-07-09 |
-| [2026 Fall Applied Science Internship - Computer Vision - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10391901/2026-fall-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-14 | 2026-07-09 |
-| [2026  Fall Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10391774/2026-fall-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) | AI/ML | Seattle, Washington, USA | 2026-04-14 | 2026-07-09 |
 | [Software Development Engineer Internship - Vaga para mulheres, IES- LATECH](https://www.amazon.jobs/en/jobs/3139827/software-development-engineer-internship-vaga-para-mulheres-ies-latech) | Software | BRA | 2025-12-09 | 2026-07-09 |
 | [Robotics - Software Development Engineer Intern - 2026 - Toronto](https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto) | AI/ML | Toronto, Ontario, CAN | 2025-12-03 | 2026-07-09 |
 | [Software Dev Engineer internship - Embedded Development](https://www.amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development) | Backend/Infra | Berlin, Berlin, DEU | 2025-12-01 | 2026-07-09 |
-| [2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics](https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics) | AI/ML | San Francisco, California, USA | 2025-11-24 | 2026-07-09 |
-| [2026 Applied Science Internship - United States, PhD Student Science Recruiting, Frontier AI & Robotics](https://www.amazon.jobs/en/jobs/3131315/2026-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics) | AI/ML | San Francisco, California, USA | 2025-11-24 | 2026-07-09 |
 | [Software Dev Engineer Internship - Embedded Development (Linux)](https://www.amazon.jobs/en/jobs/3130528/software-dev-engineer-internship-embedded-development-linux) | Backend/Infra | Dresden, Saxony, DEU | 2025-11-21 | 2026-07-20 |
 | [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3128215/2026-applied-scientist-intern-amazon-university-talent-acquisition) | AI/ML | Luxembourg, LUX | 2025-11-18 | 2026-07-09 |
 | [2026 Applied Science Internship - United States, PhD Student Science Recruiting, Frontier AI & Robotics](https://www.amazon.jobs/en/jobs/3127861/2026-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics) | AI/ML | San Francisco, California, USA | 2025-11-17 | 2026-07-09 |
@@ -200,6 +192,8 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Machine Learning Intern (PhD) - Summer 2027](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) 🆕 | AI/ML | New York City, NY; San Francisco, CA; Seattle, WA *(+1 more)* | 2026-09-25 | 2026-09-25 |
+| [Machine Learning Intern (Masters) - Summer 2027](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) 🆕 | AI/ML | New York City, NY; San Francisco, CA; Seattle, WA *(+1 more)* | 2026-09-23 | 2026-09-25 |
 | [Software Engineer, Intern (Summer 2027) - US](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) | Software | Los Angeles, CA; New York, NY; San Francisco, CA *(+2 more)* | 2026-09-14 | 2026-09-14 |
 
 ## Dropbox
@@ -276,6 +270,8 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [System Software Engineering - PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457) 🆕 | Software | US, Oregon, Hillsboro | 2026-09-25 | 2026-09-25 |
+| [Software Solutions PhD Intern New 2027](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314) 🆕 | Software | US, Oregon, Hillsboro | 2026-09-25 | 2026-09-25 |
 | [Software Solutions Eng PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944) | Software | Ireland, Leixlip | 2026-09-24 | 2026-09-08 |
 | [Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools-_JR0287250) 🆕 | Backend/Infra | Ireland, Leixlip | 2026-09-23 | 2026-09-23 |
 | [Firmware Development Undergraduate Engineering Co-op](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862) 🆕 | Backend/Infra | Virtual Canada | 2026-09-23 | 2026-09-23 |
@@ -351,9 +347,9 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineer: Intern Opportunities for University Students, Atlanta](https://apply.careers.microsoft.com/careers/job/1970393557008714) 🆕 | Software | United States, Georgia, Atlanta | 2026-09-25 | 2026-09-25 |
 | [Applied Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556997800) | AI/ML | India, Multiple Locations, Multiple Locations | 2026-09-25 | 2026-09-14 |
 | [Data Science INTERN](https://apply.careers.microsoft.com/careers/job/1970393556917520) | Data | India, Multiple Locations, Multiple Locations | 2026-09-24 | 2026-07-09 |
-| [Software Engineer: Intern Opportunity for University Students](https://apply.careers.microsoft.com/careers/job/1970393557004819) 🆕 | Software | United States, California, Mountain View | 2026-09-23 | 2026-09-23 |
 | [Security Research INTERN](https://apply.careers.microsoft.com/careers/job/1970393556962157) 🆕 | Security | United States, Washington, Redmond | 2026-09-21 | 2026-09-22 |
 | [Software Engineering Internship (6-month Program)](https://apply.careers.microsoft.com/careers/job/1970393556982258) 🆕 | Software | United States, California, Santa Clara; United States, Washington, Redmond | 2026-09-18 | 2026-09-18 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556911730) | Software | India, Multiple Locations, Multiple Locations | 2026-09-18 | 2026-07-09 |
@@ -508,6 +504,11 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks & Diagnostics](https://careers.withwaymo.com/jobs?gh_jid=8231711) 🆕 | AI/ML | Mountain View, CA, USA | 2026-09-25 | 2026-09-25 |
+| [2027 Summer Intern, MS/PhD, Software Engineering, Sys Intel & ML](https://careers.withwaymo.com/jobs?gh_jid=8234161) 🆕 | AI/ML | Mountain View, CA, USA | 2026-09-25 | 2026-09-25 |
+| [2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning](https://careers.withwaymo.com/jobs?gh_jid=8233746) 🆕 | AI/ML | Mountain View, CA, USA | 2026-09-25 | 2026-09-25 |
+| [2027 Summer Intern, MS/PhD, Perception, Machine Learning](https://careers.withwaymo.com/jobs?gh_jid=8227411) 🆕 | AI/ML | Mountain View, CA, USA | 2026-09-25 | 2026-09-25 |
+| [2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations](https://careers.withwaymo.com/jobs?gh_jid=8224900) 🆕 | Software | Mountain View, CA, USA | 2026-09-25 | 2026-09-25 |
 | [2027 Summer Intern, PhD, Software Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=8227640) 🆕 | Software | Mountain View, CA, USA | 2026-09-24 | 2026-09-24 |
 | [2027 Summer Intern, MS/PhD, Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8224729) 🆕 | Software | Mountain View, California | 2026-09-23 | 2026-09-23 |
 | [2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer](https://careers.withwaymo.com/jobs?gh_jid=8224746) 🆕 | AI/ML | Mountain View, California | 2026-09-23 | 2026-09-23 |
@@ -517,10 +518,10 @@ GitHub Actions.
 | [2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=8221851) 🆕 | AI/ML | Mountain View, California, USA | 2026-09-21 | 2026-09-21 |
 | [2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model](https://careers.withwaymo.com/jobs?gh_jid=8221795) 🆕 | AI/ML | Mountain View, California, USA | 2026-09-21 | 2026-09-21 |
 | [2027 Summer Intern, BS/MS, Embedded, Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8221198) 🆕 | Backend/Infra | Mountain View, CA, USA | 2026-09-21 | 2026-09-21 |
-| [2027 Summer Intern, MS/PhD, Software Engineer, RO Performance team, Release Evaluation (Simulation)](https://careers.withwaymo.com/jobs?gh_jid=8214729) 🆕 | Software | Warsaw, Poland | 2026-09-18 | 2026-09-19 |
 | [2027 Summer Intern, MS/PhD, Software Engineer, Multiverse](https://careers.withwaymo.com/jobs?gh_jid=8214519) 🆕 | Software | Mountain View, California, USA | 2026-09-18 | 2026-09-19 |
 | [2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure](https://careers.withwaymo.com/jobs?gh_jid=8205680) 🆕 | AI/ML | London, England, United Kingdom | 2026-09-18 | 2026-09-18 |
 | [2027 Summer Intern, MS/PhD, Product Data Science](https://careers.withwaymo.com/jobs?gh_jid=8199365) 🆕 | Data | San Francisco, California, United States | 2026-09-18 | 2026-09-18 |
+| [2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)](https://careers.withwaymo.com/jobs?gh_jid=8214729) 🆕 | Software | Warsaw, Poland | 2026-09-18 | 2026-09-19 |
 | [2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=8208465) | AI/ML | London, England, United Kingdom | 2026-09-17 | 2026-09-17 |
 | [2027 Summer Intern, PhD, Quantitative Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8197554) | Software | Mountain View, California, United States \| San Francisco, California, United States | 2026-09-16 | 2026-09-16 |
 | [2027 Summer Intern, PhD, Machine Learning, Computer Vision](https://careers.withwaymo.com/jobs?gh_jid=8202025) | AI/ML | Mountain View, California, United States | 2026-09-16 | 2026-09-16 |
