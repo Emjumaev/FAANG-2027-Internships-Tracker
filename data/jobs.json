@@ -239,8 +239,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10387163/software-development-engineer-internship-fall-2026-canada"
     },
     "amazon:10391774": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-25",
       "company": "Amazon",
       "external_id": "10391774",
       "first_seen": "2026-07-09",
@@ -253,8 +254,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10391774/2026-fall-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting"
     },
     "amazon:10391901": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-25",
       "company": "Amazon",
       "external_id": "10391901",
       "first_seen": "2026-07-09",
@@ -311,8 +313,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting"
     },
     "amazon:10394268": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-25",
       "company": "Amazon",
       "external_id": "10394268",
       "first_seen": "2026-07-09",
@@ -325,8 +328,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10394268/2026-fall-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting"
     },
     "amazon:10394278": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-25",
       "company": "Amazon",
       "external_id": "10394278",
       "first_seen": "2026-07-09",
@@ -353,8 +357,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10394507/technical-business-developer-intern-2026-hong-kong"
     },
     "amazon:10394934": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-25",
       "company": "Amazon",
       "external_id": "10394934",
       "first_seen": "2026-07-09",
@@ -382,8 +387,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10395459/software-dev-engineer-intern-devices-2026-beijing"
     },
     "amazon:10398392": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-25",
       "company": "Amazon",
       "external_id": "10398392",
       "first_seen": "2026-07-09",
@@ -1368,8 +1374,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3130528/software-dev-engineer-internship-embedded-development-linux"
     },
     "amazon:3131315": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-25",
       "company": "Amazon",
       "external_id": "3131315",
       "first_seen": "2026-07-09",
@@ -1382,8 +1389,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3131315/2026-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics"
     },
     "amazon:3131316": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-25",
       "company": "Amazon",
       "external_id": "3131316",
       "first_seen": "2026-07-09",
@@ -2631,6 +2639,40 @@
       "posted": "2026-09-14",
       "title": "Software Engineer, Intern (Summer 2027) - US",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041"
+    },
+    "doordash:8204111": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "DoorDash",
+      "external_id": "8204111",
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "locations": [
+        "New York City, NY",
+        "San Francisco, CA",
+        "Seattle, WA",
+        "Sunnyvale, CA"
+      ],
+      "posted": "2026-09-23",
+      "title": "Machine Learning Intern (Masters) - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8204111"
+    },
+    "doordash:8233953": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "DoorDash",
+      "external_id": "8233953",
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "locations": [
+        "New York City, NY",
+        "San Francisco, CA",
+        "Seattle, WA",
+        "Sunnyvale, CA"
+      ],
+      "posted": "2026-09-25",
+      "title": "Machine Learning Intern (PhD) - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8233953"
     },
     "dropbox:8106224": {
       "active": true,
@@ -4851,6 +4893,34 @@
       "title": "AI Compiler and Library Engineer Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/AI-Compiler-and-Library-Engineer-Intern_JR0287303"
     },
+    "intel:JR0287314": {
+      "active": true,
+      "category": "Software",
+      "company": "Intel",
+      "external_id": "JR0287314",
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "locations": [
+        "US, Oregon, Hillsboro"
+      ],
+      "posted": "2026-09-25",
+      "title": "Software Solutions PhD Intern New 2027",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314"
+    },
+    "intel:JR0287457": {
+      "active": true,
+      "category": "Software",
+      "company": "Intel",
+      "external_id": "JR0287457",
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "locations": [
+        "US, Oregon, Hillsboro"
+      ],
+      "posted": "2026-09-25",
+      "title": "System Software Engineering - PhD Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457"
+    },
     "jane-street:5866838002": {
       "active": true,
       "category": "Backend/Infra",
@@ -6551,8 +6621,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556999316"
     },
     "microsoft:1970393557004819": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-09-25",
       "company": "Microsoft",
       "external_id": "1970393557004819",
       "first_seen": "2026-09-23",
@@ -6563,6 +6634,20 @@
       "posted": "2026-09-23",
       "title": "Software Engineer: Intern Opportunity for University Students",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557004819"
+    },
+    "microsoft:1970393557008714": {
+      "active": true,
+      "category": "Software",
+      "company": "Microsoft",
+      "external_id": "1970393557008714",
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "locations": [
+        "United States, Georgia, Atlanta"
+      ],
+      "posted": "2026-09-25",
+      "title": "Software Engineer: Intern Opportunities for University Students, Atlanta",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557008714"
     },
     "netflix:790313241540": {
       "active": false,
@@ -8873,7 +8958,7 @@
         "Warsaw, Poland"
       ],
       "posted": "2026-09-18",
-      "title": "2027 Summer Intern, MS/PhD, Software Engineer, RO Performance team, Release Evaluation (Simulation)",
+      "title": "2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8214729"
     },
     "waymo:8221198": {
@@ -8975,6 +9060,34 @@
       "title": "2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746"
     },
+    "waymo:8224900": {
+      "active": true,
+      "category": "Software",
+      "company": "Waymo",
+      "external_id": "8224900",
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-09-25",
+      "title": "2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900"
+    },
+    "waymo:8227411": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "external_id": "8227411",
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-09-25",
+      "title": "2027 Summer Intern, MS/PhD, Perception, Machine Learning",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8227411"
+    },
     "waymo:8227640": {
       "active": true,
       "category": "Software",
@@ -8988,7 +9101,49 @@
       "posted": "2026-09-24",
       "title": "2027 Summer Intern, PhD, Software Engineer, Simulation",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8227640"
+    },
+    "waymo:8231711": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "external_id": "8231711",
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-09-25",
+      "title": "2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks & Diagnostics",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8231711"
+    },
+    "waymo:8233746": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "external_id": "8233746",
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-09-25",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8233746"
+    },
+    "waymo:8234161": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "external_id": "8234161",
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-09-25",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineering, Sys Intel & ML",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8234161"
     }
   },
-  "updated_at": "2026-09-25T18:45:50Z"
+  "updated_at": "2026-09-25T23:25:46Z"
 }
