@@ -1050,9 +1050,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa"
     },
     "amazon:3063220": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-09-22",
+      "closed": "2026-09-25",
       "company": "Amazon",
       "external_id": "3063220",
       "first_seen": "2026-07-09",
@@ -2895,7 +2895,7 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/111285665542349510"
     },
     "google:112518690523488966": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-09-25",
       "company": "Google",
@@ -6506,17 +6506,17 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556991773"
     },
     "microsoft:1970393556997800": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-09-24",
       "company": "Microsoft",
       "external_id": "1970393556997800",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-09-25",
       "locations": [
         "India, Multiple Locations, Multiple Locations"
       ],
-      "posted": "2026-09-14",
+      "posted": "2026-09-25",
       "title": "Applied Sciences INTERN",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556997800"
     },
@@ -8990,5 +8990,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8227640"
     }
   },
-  "updated_at": "2026-09-25T07:58:24Z"
+  "updated_at": "2026-09-25T13:59:08Z"
 }
