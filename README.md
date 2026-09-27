@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-27 08:20:40 UTC** · 📌 **361** open internships
+> 🕐 Last updated: **2026-09-27 14:08:55 UTC** · 📌 **360** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -34,7 +34,7 @@ GitHub Actions.
 | [Jane Street](#jane-street) | 19 |
 | [Lyft](#lyft) | 13 |
 | [Meta](#meta) | 4 |
-| [Microsoft](#microsoft) | 22 |
+| [Microsoft](#microsoft) | 21 |
 | MongoDB | — |
 | [NVIDIA](#nvidia) | 71 |
 | [Netflix](#netflix) | 2 |
@@ -355,7 +355,6 @@ GitHub Actions.
 | [Security Research INTERN](https://apply.careers.microsoft.com/careers/job/1970393556962157) 🆕 | Security | United States, Washington, Redmond | 2026-09-21 | 2026-09-22 |
 | [Software Engineering Internship (6-month Program)](https://apply.careers.microsoft.com/careers/job/1970393556982258) | Software | United States, California, Santa Clara; United States, Washington, Redmond | 2026-09-18 | 2026-09-18 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556911730) | Software | India, Multiple Locations, Multiple Locations | 2026-09-18 | 2026-07-09 |
-| [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556999316) | Software | Mexico, Multiple Locations, Multiple Locations | 2026-09-16 | 2026-09-16 |
 | [Data Science: PhD Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556982928) | Data | United States, Washington, Redmond | 2026-09-16 | 2026-09-02 |
 | [Applied Science: PhD Microsoft AI Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393556868271) | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-09-16 | 2026-07-09 |
 | [Applied Science: PhD Internship Opportunities - Multiple Locations](https://apply.careers.microsoft.com/careers/job/1970393556986140) | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-09-16 | 2026-09-03 |
