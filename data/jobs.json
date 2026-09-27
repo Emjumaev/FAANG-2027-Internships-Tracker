@@ -6606,7 +6606,7 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556998387"
     },
     "microsoft:1970393556999316": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-09-27",
       "company": "Microsoft",
@@ -9159,5 +9159,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8234161"
     }
   },
-  "updated_at": "2026-09-27T18:32:48Z"
+  "updated_at": "2026-09-27T23:11:28Z"
 }
