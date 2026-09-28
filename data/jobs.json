@@ -447,8 +447,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10405581/quality-assurance-engineer-fall-internship-2026-us"
     },
     "amazon:10412530": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-09-28",
       "company": "Amazon",
       "external_id": "10412530",
       "first_seen": "2026-07-09",
@@ -1057,13 +1058,13 @@
       "url": "https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa"
     },
     "amazon:3063220": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-09-25",
       "company": "Amazon",
       "external_id": "3063220",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-28",
       "locations": [
         "Sao Paulo, Sao Paulo, BRA"
       ],
@@ -5478,6 +5479,22 @@
       "title": "Research Scientist Intern, 3D Scene Understanding (PhD)",
       "url": "https://www.metacareers.com/jobs/1029177790044680"
     },
+    "meta:1373603594867455": {
+      "active": true,
+      "category": "Data",
+      "company": "Meta",
+      "external_id": "1373603594867455",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "locations": [
+        "Menlo Park, CA",
+        "New York, NY",
+        "Seattle, WA"
+      ],
+      "posted": null,
+      "title": "Data Engineer Intern, Product Analytics (Summer 2027)",
+      "url": "https://www.metacareers.com/jobs/1373603594867455"
+    },
     "meta:1412139847020398": {
       "active": true,
       "category": "Backend/Infra",
@@ -9219,7 +9236,21 @@
       "posted": "2026-09-25",
       "title": "2027 Summer Intern, MS/PhD, Software Engineering, Sys Intel & ML",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8234161"
+    },
+    "waymo:8234670": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "external_id": "8234670",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "locations": [
+        "San Francisco, California"
+      ],
+      "posted": "2026-09-28",
+      "title": "2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8234670"
     }
   },
-  "updated_at": "2026-09-28T14:07:13Z"
+  "updated_at": "2026-09-28T20:41:13Z"
 }
