@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-29 16:38:51 UTC** · 📌 **370** open internships
+> 🕐 Last updated: **2026-09-29 22:25:04 UTC** · 📌 **367** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -34,9 +34,9 @@ GitHub Actions.
 | [Jane Street](#jane-street) | 19 |
 | [Lyft](#lyft) | 14 |
 | [Meta](#meta) | 5 |
-| [Microsoft](#microsoft) | 21 |
+| [Microsoft](#microsoft) | 22 |
 | MongoDB | — |
-| [NVIDIA](#nvidia) | 78 |
+| [NVIDIA](#nvidia) | 79 |
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
 | [Oracle](#oracle) | 3 |
@@ -46,11 +46,11 @@ GitHub Actions.
 | [Salesforce](#salesforce) | 3 |
 | [Scale AI](#scale-ai) | 3 |
 | Snap | — |
-| [Snowflake](#snowflake) | 7 |
+| [Snowflake](#snowflake) | 4 |
 | Spotify | — |
 | [Stripe](#stripe) | 8 |
 | Uber | — |
-| [Waymo](#waymo) | 31 |
+| [Waymo](#waymo) | 29 |
 | ByteDance | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* |
 | Tesla | *careers site and its JSON API sit behind Akamai bot protection that returns 403 to every non-browser client; needs a headless browser* |
 
@@ -354,6 +354,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Penetration Testing INTERN](https://apply.careers.microsoft.com/careers/job/1970393556999315) 🆕 | Security | United States, Washington, Redmond | 2026-09-29 | 2026-09-29 |
 | [Software Engineer Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557007677) 🆕 | Software | Romania, Bucharest, Bucharest; Romania, Iasi, Iasi; Romania, Timis, Timisoara | 2026-09-28 | 2026-09-29 |
 | [Software Engineer: Intern Opportunity for University Students](https://apply.careers.microsoft.com/careers/job/1970393557004819) 🆕 | Software | United States, California, Mountain View | 2026-09-26 | 2026-09-23 |
 | [Software Engineer: Intern Opportunities for University Students, Atlanta](https://apply.careers.microsoft.com/careers/job/1970393557008714) 🆕 | Software | United States, Georgia, Atlanta | 2026-09-25 | 2026-09-25 |
@@ -381,6 +382,7 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Software CAD Engineer, VLSI (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-CAD-Engineer--VLSI--RDSS-Intern-_JR2026181) 🆕 | Software | 2 Locations | 2026-09-29 | 2026-09-29 |
+| [PhD Research Intern, AI Accelerator Design and VLSI - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1) 🆕 | AI/ML | US, CA, Santa Clara | 2026-09-29 | 2026-09-29 |
 | [Image and Data Processing Libraries Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517) 🆕 | Data | 2 Locations | 2026-09-29 | 2026-09-29 |
 | [Image and Data Processing Libraries Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026569) 🆕 | Data | 3 Locations | 2026-09-29 | 2026-09-29 |
 | [AI Computing Software Development Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298) 🆕 | AI/ML | Taiwan, Taipei | 2026-09-29 | 2026-09-29 |
@@ -495,9 +497,6 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Software Engineer Intern - Berlin (2027)](https://careers.snowflake.com/us/en/job/36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e) 🆕 | Software | Berlin, Germany | 2026-09-29 | 2026-09-22 |
-| [Software Engineer Intern (Database Engineering) - Spring 2027](https://careers.snowflake.com/us/en/job/c3cfbee9-0bdd-4320-b540-44ee31d945a0) 🆕 | Backend/Infra | Bellevue, Washington, United States; Menlo Park, California, United States | 2026-09-25 | 2026-09-25 |
-| [Software Engineer Intern (Core, Infrastructure & Security) — Spring 2027](https://careers.snowflake.com/us/en/job/b497fa45-a044-49c9-a9b8-2749beb58e69) 🆕 | Security | Bellevue, Washington, United States; Menlo Park, California, United States | 2026-09-25 | 2026-09-25 |
-| [Software Engineer Intern (AI / ML) - Spring 2027](https://careers.snowflake.com/us/en/job/8f474d88-1b9a-4957-b018-9633a5434752) 🆕 | AI/ML | Bellevue, Washington, United States; Menlo Park, California, United States | 2026-09-25 | 2026-09-25 |
 | [Applied AI Intern - Warsaw](https://careers.snowflake.com/us/en/job/efbbdddd-18a1-4d9d-9455-3e82166b42f6) | AI/ML | Warsaw, Poland | 2026-09-08 | 2026-09-08 |
 | [Software Engineer Intern - Warsaw Security](https://careers.snowflake.com/us/en/job/3045856c-74a4-469e-ba81-a176cc0bef8f) | Security | Warsaw, Poland | 2026-08-05 | 2026-08-05 |
 | [Software Engineer Intern - Berlin (2026)](https://careers.snowflake.com/us/en/job/3a9baeaf-b107-41fb-a9b3-a98ab78275ed) | Software | Berlin, Germany | 2026-06-02 | 2026-07-09 |
@@ -519,6 +518,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [2027 Summer Intern, PhD, Planner Machine Learning](https://careers.withwaymo.com/jobs?gh_jid=8234876) 🆕 | AI/ML | San Francisco, California | 2026-09-29 | 2026-09-29 |
 | [2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision](https://careers.withwaymo.com/jobs?gh_jid=8234670) 🆕 | AI/ML | San Francisco, California | 2026-09-28 | 2026-09-28 |
 | [2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction](https://careers.withwaymo.com/jobs?gh_jid=8237997) 🆕 | AI/ML | Mountain View, CA, USA | 2026-09-28 | 2026-09-29 |
 | [2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks & Diagnostics](https://careers.withwaymo.com/jobs?gh_jid=8231711) 🆕 | AI/ML | Mountain View, CA, USA | 2026-09-25 | 2026-09-25 |
@@ -543,13 +543,10 @@ GitHub Actions.
 | [2027 Summer Intern, PhD, Quantitative Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8197554) | Software | Mountain View, California, United States \| San Francisco, California, United States | 2026-09-16 | 2026-09-16 |
 | [2027 Summer Intern, PhD, Machine Learning, Computer Vision](https://careers.withwaymo.com/jobs?gh_jid=8202025) | AI/ML | Mountain View, California, United States | 2026-09-16 | 2026-09-16 |
 | [2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8202801) | AI/ML | Mountain View, California, USA | 2026-09-16 | 2026-09-16 |
-| [2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech](https://careers.withwaymo.com/jobs?gh_jid=8203200) | Software | San Francisco, California | 2026-09-16 | 2026-09-17 |
 | [2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics](https://careers.withwaymo.com/jobs?gh_jid=8197899) | Data | Mountain View, CA, USA | 2026-09-14 | 2026-09-14 |
 | [2027 Summer Intern, BS/MS, Software Engineering, Commercialization](https://careers.withwaymo.com/jobs?gh_jid=8198218) | Software | Mountain View, California, United States; San Francisco, California, United States | 2026-09-14 | 2026-09-14 |
 | [2027 Summer Intern, PhD, Machine Learning, Computer Vision](https://careers.withwaymo.com/jobs?gh_jid=8193295) | AI/ML | Mountain View, California | 2026-09-10 | 2026-09-11 |
 | [2027 Summer Intern, MS, Software Engineering, Behavior Test](https://careers.withwaymo.com/jobs?gh_jid=8174504) | Software | San Francisco, California, USA | 2026-09-03 | 2026-09-04 |
-| [2027 Summer Intern, BS, SysEng Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8174099) | Software | Mountain View, California, USA | 2026-09-03 | 2026-09-04 |
-| [2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing](https://careers.withwaymo.com/jobs?gh_jid=8167323) | Data | San Francisco, California, United States | 2026-08-31 | 2026-09-04 |
 
 
 ---
