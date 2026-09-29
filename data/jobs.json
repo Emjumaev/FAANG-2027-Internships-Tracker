@@ -6728,6 +6728,20 @@
       "title": "Cloud Solution Architecture Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556998387"
     },
+    "microsoft:1970393556999315": {
+      "active": true,
+      "category": "Security",
+      "company": "Microsoft",
+      "external_id": "1970393556999315",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "posted": "2026-09-29",
+      "title": "Penetration Testing INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999315"
+    },
     "microsoft:1970393556999316": {
       "active": true,
       "category": "Software",
@@ -8375,6 +8389,20 @@
       "title": "Image and Data Processing Libraries Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026569"
     },
+    "nvidia:JR2026584": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2026584",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "locations": [
+        "US, CA, Santa Clara"
+      ],
+      "posted": "2026-09-29",
+      "title": "PhD Research Intern, AI Accelerator Design and VLSI - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1"
+    },
     "oracle:334325": {
       "active": false,
       "category": "Software",
@@ -8727,8 +8755,9 @@
       "url": "https://careers.snowflake.com/us/en/job/4298e941-d129-4d7f-a965-faa68e6e599e"
     },
     "snowflake:8f474d88-1b9a-4957-b018-9633a5434752": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-29",
       "company": "Snowflake",
       "external_id": "8f474d88-1b9a-4957-b018-9633a5434752",
       "first_seen": "2026-09-25",
@@ -8757,8 +8786,9 @@
       "url": "https://careers.snowflake.com/us/en/job/a92a900c-56c2-4cf6-8c2e-fcd183a84e58"
     },
     "snowflake:b497fa45-a044-49c9-a9b8-2749beb58e69": {
-      "active": true,
+      "active": false,
       "category": "Security",
+      "closed": "2026-09-29",
       "company": "Snowflake",
       "external_id": "b497fa45-a044-49c9-a9b8-2749beb58e69",
       "first_seen": "2026-09-25",
@@ -8772,8 +8802,9 @@
       "url": "https://careers.snowflake.com/us/en/job/b497fa45-a044-49c9-a9b8-2749beb58e69"
     },
     "snowflake:c3cfbee9-0bdd-4320-b540-44ee31d945a0": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-09-29",
       "company": "Snowflake",
       "external_id": "c3cfbee9-0bdd-4320-b540-44ee31d945a0",
       "first_seen": "2026-09-25",
@@ -8975,8 +9006,9 @@
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     },
     "waymo:8167323": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-09-29",
       "company": "Waymo",
       "external_id": "8167323",
       "first_seen": "2026-09-04",
@@ -8989,8 +9021,9 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8167323"
     },
     "waymo:8174099": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-09-29",
       "company": "Waymo",
       "external_id": "8174099",
       "first_seen": "2026-09-04",
@@ -9131,8 +9164,9 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8202801"
     },
     "waymo:8203200": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-09-29",
       "company": "Waymo",
       "external_id": "8203200",
       "first_seen": "2026-09-17",
@@ -9411,6 +9445,20 @@
       "title": "2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8234670"
     },
+    "waymo:8234876": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "external_id": "8234876",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "locations": [
+        "San Francisco, California"
+      ],
+      "posted": "2026-09-29",
+      "title": "2027 Summer Intern, PhD, Planner Machine Learning",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8234876"
+    },
     "waymo:8237997": {
       "active": true,
       "category": "AI/ML",
@@ -9426,5 +9474,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8237997"
     }
   },
-  "updated_at": "2026-09-29T16:38:51Z"
+  "updated_at": "2026-09-29T22:25:04Z"
 }
