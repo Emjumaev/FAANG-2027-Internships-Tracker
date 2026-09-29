@@ -1898,6 +1898,20 @@
       "title": "GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture",
       "url": "https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture"
     },
+    "apple:200682900": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Apple",
+      "external_id": "200682900",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "locations": [
+        "Shanghai"
+      ],
+      "posted": "2026-09-29",
+      "title": "AI & Project Operations Intern \u2013 Managing Director Office, Greater China",
+      "url": "https://jobs.apple.com/en-us/details/200682900/ai-project-operations-intern-managing-director-office-greater-china"
+    },
     "apple:200683768": {
       "active": true,
       "category": "AI/ML",
@@ -1939,6 +1953,34 @@
       "posted": "2026-09-22",
       "title": "Internship - Machine Learning (Foundation Models)",
       "url": "https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models"
+    },
+    "apple:200686332": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Apple",
+      "external_id": "200686332",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "locations": [
+        "Munich"
+      ],
+      "posted": "2026-09-29",
+      "title": "Internship Computer Vision & Machine Learning Research",
+      "url": "https://jobs.apple.com/en-us/details/200686332/internship-computer-vision-machine-learning-research"
+    },
+    "apple:200686336": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Apple",
+      "external_id": "200686336",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "locations": [
+        "Zurich"
+      ],
+      "posted": "2026-09-29",
+      "title": "Internship Computer Vision & Machine Learning Research",
+      "url": "https://jobs.apple.com/en-us/details/200686336/internship-computer-vision-machine-learning-research"
     },
     "cisco:2005347": {
       "active": false,
@@ -8249,6 +8291,34 @@
       "title": "Software Engineering Intern, Compiler Verification - Spring 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Software-Engineering-Intern--Compiler-Verification---Spring-2027_JR2026177"
     },
+    "nvidia:JR2026181": {
+      "active": true,
+      "category": "Software",
+      "company": "NVIDIA",
+      "external_id": "JR2026181",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "locations": [
+        "2 Locations"
+      ],
+      "posted": "2026-09-29",
+      "title": "Software CAD Engineer, VLSI (RDSS Intern)",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-CAD-Engineer--VLSI--RDSS-Intern-_JR2026181"
+    },
+    "nvidia:JR2026298": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2026298",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "locations": [
+        "Taiwan, Taipei"
+      ],
+      "posted": "2026-09-29",
+      "title": "AI Computing Software Development Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298"
+    },
     "nvidia:JR2026402": {
       "active": true,
       "category": "AI/ML",
@@ -8276,6 +8346,34 @@
       "posted": "2026-09-28",
       "title": "Managed Language Compiler Engineering Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Managed-Language-Compiler-Engineering-Intern---2027_JR2026437"
+    },
+    "nvidia:JR2026517": {
+      "active": true,
+      "category": "Data",
+      "company": "NVIDIA",
+      "external_id": "JR2026517",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "locations": [
+        "2 Locations"
+      ],
+      "posted": "2026-09-29",
+      "title": "Image and Data Processing Libraries Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517"
+    },
+    "nvidia:JR2026569": {
+      "active": true,
+      "category": "Data",
+      "company": "NVIDIA",
+      "external_id": "JR2026569",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "locations": [
+        "3 Locations"
+      ],
+      "posted": "2026-09-29",
+      "title": "Image and Data Processing Libraries Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026569"
     },
     "oracle:334325": {
       "active": false,
@@ -8933,8 +9031,9 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8193295"
     },
     "waymo:8193731": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-09-29",
       "company": "Waymo",
       "external_id": "8193731",
       "first_seen": "2026-09-14",
@@ -9327,5 +9426,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8237997"
     }
   },
-  "updated_at": "2026-09-29T08:40:57Z"
+  "updated_at": "2026-09-29T16:38:51Z"
 }
