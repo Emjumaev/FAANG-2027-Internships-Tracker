@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-09-29 08:40:57 UTC** · 📌 **364** open internships
+> 🕐 Last updated: **2026-09-29 16:38:51 UTC** · 📌 **370** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -18,7 +18,7 @@ GitHub Actions.
 | Airbnb | — |
 | [Amazon](#amazon) | 51 |
 | Anthropic | — |
-| [Apple](#apple) | 19 |
+| [Apple](#apple) | 22 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 20 |
 | [Cloudflare](#cloudflare) | 1 |
@@ -36,7 +36,7 @@ GitHub Actions.
 | [Meta](#meta) | 5 |
 | [Microsoft](#microsoft) | 21 |
 | MongoDB | — |
-| [NVIDIA](#nvidia) | 74 |
+| [NVIDIA](#nvidia) | 78 |
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
 | [Oracle](#oracle) | 3 |
@@ -50,7 +50,7 @@ GitHub Actions.
 | Spotify | — |
 | [Stripe](#stripe) | 8 |
 | Uber | — |
-| [Waymo](#waymo) | 32 |
+| [Waymo](#waymo) | 31 |
 | ByteDance | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* |
 | Tesla | *careers site and its JSON API sit behind Akamai bot protection that returns 403 to every non-browser client; needs a headless browser* |
 
@@ -123,6 +123,9 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Internship Computer Vision & Machine Learning Research](https://jobs.apple.com/en-us/details/200686332/internship-computer-vision-machine-learning-research) 🆕 | AI/ML | Munich | 2026-09-29 | 2026-09-29 |
+| [Internship Computer Vision & Machine Learning Research](https://jobs.apple.com/en-us/details/200686336/internship-computer-vision-machine-learning-research) 🆕 | AI/ML | Zurich | 2026-09-29 | 2026-09-29 |
+| [AI & Project Operations Intern – Managing Director Office, Greater China](https://jobs.apple.com/en-us/details/200682900/ai-project-operations-intern-managing-director-office-greater-china) 🆕 | AI/ML | Shanghai | 2026-09-29 | 2026-09-29 |
 | [Internship - Machine Learning (Foundation Models)](https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models) 🆕 | AI/ML | Zurich | 2026-09-22 | 2026-09-22 |
 | [Information Security Internship Program (FY27 Summer Intake)](https://jobs.apple.com/en-us/details/200684585/information-security-internship-program-fy27-summer-intake) | Security | Singapore | 2026-09-18 | 2026-09-18 |
 | [Internship - Machine Learning Research](https://jobs.apple.com/en-us/details/200683768/internship-machine-learning-research) | AI/ML | Paris | 2026-09-16 | 2026-09-16 |
@@ -377,6 +380,10 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software CAD Engineer, VLSI (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-CAD-Engineer--VLSI--RDSS-Intern-_JR2026181) 🆕 | Software | 2 Locations | 2026-09-29 | 2026-09-29 |
+| [Image and Data Processing Libraries Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517) 🆕 | Data | 2 Locations | 2026-09-29 | 2026-09-29 |
+| [Image and Data Processing Libraries Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026569) 🆕 | Data | 3 Locations | 2026-09-29 | 2026-09-29 |
+| [AI Computing Software Development Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298) 🆕 | AI/ML | Taiwan, Taipei | 2026-09-29 | 2026-09-29 |
 | [PhD Research Intern, Autonomous Systems and Physical AI Research - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1) 🆕 | AI/ML | Switzerland, Zurich | 2026-09-28 | 2026-09-28 |
 | [Managed Language Compiler Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Managed-Language-Compiler-Engineering-Intern---2027_JR2026437) 🆕 | Backend/Infra | China, Shanghai | 2026-09-28 | 2026-09-28 |
 | [AI Infra Development Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Infra-Development-Intern---2027_JR2026402) 🆕 | AI/ML | China, Shanghai | 2026-09-28 | 2026-09-28 |
@@ -539,7 +546,6 @@ GitHub Actions.
 | [2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech](https://careers.withwaymo.com/jobs?gh_jid=8203200) | Software | San Francisco, California | 2026-09-16 | 2026-09-17 |
 | [2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics](https://careers.withwaymo.com/jobs?gh_jid=8197899) | Data | Mountain View, CA, USA | 2026-09-14 | 2026-09-14 |
 | [2027 Summer Intern, BS/MS, Software Engineering, Commercialization](https://careers.withwaymo.com/jobs?gh_jid=8198218) | Software | Mountain View, California, United States; San Francisco, California, United States | 2026-09-14 | 2026-09-14 |
-| [2027 Summer Intern, BS/MS, Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8193731) | Software | San Francisco, California | 2026-09-14 | 2026-09-14 |
 | [2027 Summer Intern, PhD, Machine Learning, Computer Vision](https://careers.withwaymo.com/jobs?gh_jid=8193295) | AI/ML | Mountain View, California | 2026-09-10 | 2026-09-11 |
 | [2027 Summer Intern, MS, Software Engineering, Behavior Test](https://careers.withwaymo.com/jobs?gh_jid=8174504) | Software | San Francisco, California, USA | 2026-09-03 | 2026-09-04 |
 | [2027 Summer Intern, BS, SysEng Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8174099) | Software | Mountain View, California, USA | 2026-09-03 | 2026-09-04 |
