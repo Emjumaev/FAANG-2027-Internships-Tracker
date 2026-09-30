@@ -1213,6 +1213,20 @@
       "title": "2027 Research Science Internship - United States, PhD Student Science Recruiting",
       "url": "https://www.amazon.jobs/en/jobs/10564602/2027-research-science-internship-united-states-phd-student-science-recruiting"
     },
+    "amazon:10565667": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Amazon",
+      "external_id": "10565667",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "posted": "2026-09-30",
+      "title": "Software Development Engineer Intern, AWS Database - 2027 (US)",
+      "url": "https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us"
+    },
     "amazon:3063220": {
       "active": false,
       "category": "Software",
@@ -1259,8 +1273,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3072042/2026-software-dev-engineer-intern-ireland"
     },
     "amazon:3072061": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-09-30",
       "company": "Amazon",
       "external_id": "3072061",
       "first_seen": "2026-08-31",
@@ -1273,8 +1288,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern-uk"
     },
     "amazon:3074226": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-09-30",
       "company": "Amazon",
       "external_id": "3074226",
       "first_seen": "2026-07-13",
@@ -2137,6 +2153,34 @@
       "posted": "2026-09-29",
       "title": "Internship Computer Vision & Machine Learning Research",
       "url": "https://jobs.apple.com/en-us/details/200686336/internship-computer-vision-machine-learning-research"
+    },
+    "apple:200686569": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Apple",
+      "external_id": "200686569",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "locations": [
+        "Munich"
+      ],
+      "posted": "2026-09-30",
+      "title": "Internship Computer Vision & Machine Learning Research - LLM Efficiency",
+      "url": "https://jobs.apple.com/en-us/details/200686569/internship-computer-vision-machine-learning-research-llm-efficiency"
+    },
+    "apple:200686571": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Apple",
+      "external_id": "200686571",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "locations": [
+        "Zurich"
+      ],
+      "posted": "2026-09-30",
+      "title": "Internship Computer Vision & Machine Learning Research - LLM Efficiency",
+      "url": "https://jobs.apple.com/en-us/details/200686571/internship-computer-vision-machine-learning-research-llm-efficiency"
     },
     "cisco:2005347": {
       "active": false,
@@ -5155,6 +5199,34 @@
       "posted": "2026-09-25",
       "title": "System Software Engineering - PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457"
+    },
+    "intel:JR0287525": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Intel",
+      "external_id": "JR0287525",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "locations": [
+        "Virtual US"
+      ],
+      "posted": "2026-09-30",
+      "title": "Research Scientist Intern - Graphics, ML",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525"
+    },
+    "intel:JR0287538": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Intel",
+      "external_id": "JR0287538",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "locations": [
+        "US, Oregon, Hillsboro"
+      ],
+      "posted": "2026-09-30",
+      "title": "AI SOC Power Delivery Pathfinding PhD Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538"
     },
     "intel:JR0287585": {
       "active": true,
@@ -8338,8 +8410,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783"
     },
     "nvidia:JR2025784": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-30",
       "company": "NVIDIA",
       "external_id": "JR2025784",
       "first_seen": "2026-09-22",
@@ -8364,6 +8437,20 @@
       "posted": "2026-09-22",
       "title": "System Software Engineer - USB (RDSS Intern)",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---USB--RDSS-Intern-_JR2025914-1"
+    },
+    "nvidia:JR2025966": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2025966",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "locations": [
+        "2 Locations"
+      ],
+      "posted": "2026-09-30",
+      "title": "Deep Learning Performance Software Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Software-Intern---2027_JR2025966"
     },
     "nvidia:JR2026004": {
       "active": true,
@@ -8477,6 +8564,20 @@
       "title": "Software CAD Engineer, VLSI (RDSS Intern)",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-CAD-Engineer--VLSI--RDSS-Intern-_JR2026181"
     },
+    "nvidia:JR2026262": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2026262",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "locations": [
+        "2 Locations"
+      ],
+      "posted": "2026-09-30",
+      "title": "Deep Learning Compiler Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Compiler-Intern---2027_JR2026262"
+    },
     "nvidia:JR2026298": {
       "active": true,
       "category": "AI/ML",
@@ -8490,6 +8591,20 @@
       "posted": "2026-09-29",
       "title": "AI Computing Software Development Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298"
+    },
+    "nvidia:JR2026307": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2026307",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "locations": [
+        "China, Shanghai"
+      ],
+      "posted": "2026-09-30",
+      "title": "Software Engineer Intern, AI and DL Kernel Libraries - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineer-Intern--AI-and-DL-Kernel-Libraries---2027_JR2026307"
     },
     "nvidia:JR2026402": {
       "active": true,
@@ -8560,6 +8675,20 @@
       "posted": "2026-09-29",
       "title": "PhD Research Intern, AI Accelerator Design and VLSI - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1"
+    },
+    "nvidia:JR2026775": {
+      "active": true,
+      "category": "Software",
+      "company": "NVIDIA",
+      "external_id": "JR2026775",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "locations": [
+        "5 Locations"
+      ],
+      "posted": "2026-09-30",
+      "title": "Developer Technology Engineering Intern - Compute Performance",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775"
     },
     "oracle:334325": {
       "active": false,
@@ -9502,7 +9631,7 @@
         "Mountain View, California"
       ],
       "posted": "2026-09-23",
-      "title": "2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer",
+      "title": "2027 Summer Intern, PhD, Road Understanding, ML Engineer",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746"
     },
     "waymo:8224900": {
@@ -9630,7 +9759,35 @@
       "posted": "2026-09-28",
       "title": "2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8237997"
+    },
+    "waymo:8238525": {
+      "active": true,
+      "category": "Software",
+      "company": "Waymo",
+      "external_id": "8238525",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-09-30",
+      "title": "2027 Summer Intern, BS, Software Engineering, Labeling",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8238525"
+    },
+    "waymo:8240198": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Waymo",
+      "external_id": "8240198",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-09-30",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8240198"
     }
   },
-  "updated_at": "2026-09-30T12:45:20Z"
+  "updated_at": "2026-09-30T19:30:02Z"
 }
