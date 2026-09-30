@@ -2817,7 +2817,7 @@
       "first_seen": "2026-09-09",
       "last_seen": "2026-09-30",
       "locations": [
-        "Hybrid - San Francisco, CA"
+        "Hybrid - New York, NY"
       ],
       "posted": "2026-09-08",
       "title": "Data Science Intern",
@@ -2831,7 +2831,7 @@
       "first_seen": "2026-09-09",
       "last_seen": "2026-09-30",
       "locations": [
-        "Hybrid - San Francisco, CA"
+        "Hybrid - New York, NY"
       ],
       "posted": "2026-09-08",
       "title": "Analytics Engineer Intern",
@@ -7046,6 +7046,20 @@
       "title": "Software Engineer: Intern Opportunities for University Students, Atlanta",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557008714"
     },
+    "microsoft:1970393557019490": {
+      "active": true,
+      "category": "Security",
+      "company": "Microsoft",
+      "external_id": "1970393557019490",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "posted": "2026-09-30",
+      "title": "Security Operations Engineering INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557019490"
+    },
     "netflix:790313241540": {
       "active": false,
       "category": "Software",
@@ -8377,8 +8391,8 @@
       "locations": [
         "2 Locations"
       ],
-      "posted": "2026-09-21",
-      "title": "Research Intern, Robotics - Summer 2027",
+      "posted": "2026-09-30",
+      "title": "PhD Research Intern, Robotics - Summer 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647"
     },
     "nvidia:JR2025701": {
@@ -9245,6 +9259,20 @@
       "title": "Financial Data Analyst Intern, Technical Operations",
       "url": "https://stripe.com/jobs/search?gh_jid=8186442"
     },
+    "stripe:8241260": {
+      "active": true,
+      "category": "Software",
+      "company": "Stripe",
+      "external_id": "8241260",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "locations": [
+        "Seattle, San Francisco"
+      ],
+      "posted": "2026-09-30",
+      "title": "High School Internship, Software Engineering (Summer 2027)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8241260"
+    },
     "uber:301541": {
       "active": false,
       "category": "Data",
@@ -9789,5 +9817,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8240198"
     }
   },
-  "updated_at": "2026-09-30T19:30:02Z"
+  "updated_at": "2026-09-30T23:59:11Z"
 }
