@@ -2391,17 +2391,17 @@
       "url": "https://careers.cisco.com/global/en/job/2025061"
     },
     "cisco:2025180": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-09-25",
       "company": "Cisco",
       "external_id": "2025180",
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-10-01",
       "locations": [
         "RESEARCH_TRIANGLE_PARK, North Carolina, United States of America"
       ],
-      "posted": "2026-09-08",
+      "posted": "2026-10-01",
       "title": "Software Consulting Engineer I (Intern) United States",
       "url": "https://careers.cisco.com/global/en/job/2025180"
     },
@@ -5243,6 +5243,20 @@
       "title": "AI SOC Power Delivery Pathfinding PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538"
     },
+    "intel:JR0287544": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Intel",
+      "external_id": "JR0287544",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "locations": [
+        "US, California, Santa Clara"
+      ],
+      "posted": "2026-10-01",
+      "title": "AI Software Technical Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544"
+    },
     "intel:JR0287583": {
       "active": true,
       "category": "AI/ML",
@@ -6415,17 +6429,17 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929"
     },
     "microsoft:1970393556922930": {
-      "active": false,
+      "active": true,
       "category": "Security",
       "closed": "2026-09-08",
       "company": "Microsoft",
       "external_id": "1970393556922930",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-10-01",
       "locations": [
         "United States, Washington, Redmond"
       ],
-      "posted": "2026-09-01",
+      "posted": "2026-10-01",
       "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930"
     },
@@ -7032,8 +7046,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557004819"
     },
     "microsoft:1970393557007677": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-01",
       "company": "Microsoft",
       "external_id": "1970393557007677",
       "first_seen": "2026-09-29",
@@ -7089,6 +7104,20 @@
       "posted": "2026-09-30",
       "title": "Security Operations Engineering INTERN",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557019490"
+    },
+    "microsoft:1970393557021513": {
+      "active": true,
+      "category": "Software",
+      "company": "Microsoft",
+      "external_id": "1970393557021513",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "locations": [
+        "Czech Republic, Prague, Prague"
+      ],
+      "posted": "2026-10-01",
+      "title": "Software Engineering Internship Opportunities - CoreAI",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557021513"
     },
     "netflix:790313241540": {
       "active": false,
@@ -8883,6 +8912,159 @@
       "title": "PhD Fall Machine Learning Intern (ATG \u2014 Visual, Multimodal, and Recommender Systems)",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7255640"
     },
+    "pinterest:7838577": {
+      "active": true,
+      "category": "Software",
+      "company": "Pinterest",
+      "external_id": "7838577",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "locations": [
+        "Remote, US",
+        "San Francisco, CA, US"
+      ],
+      "posted": "2026-10-01",
+      "title": "Software Engineer Intern 2027 (USA)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577"
+    },
+    "pinterest:8138034": {
+      "active": true,
+      "category": "Software",
+      "company": "Pinterest",
+      "external_id": "8138034",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "locations": [
+        "Dublin, IE"
+      ],
+      "posted": "2026-10-01",
+      "title": "Software Engineering Intern 2027 (Dublin)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138034"
+    },
+    "pinterest:8138039": {
+      "active": true,
+      "category": "Software",
+      "company": "Pinterest",
+      "external_id": "8138039",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "locations": [
+        "Toronto, ON, CA"
+      ],
+      "posted": "2026-10-01",
+      "title": "Software Engineering Intern 2027 (Toronto)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138039"
+    },
+    "pinterest:8138080": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Pinterest",
+      "external_id": "8138080",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "locations": [
+        "Toronto, ON, CA"
+      ],
+      "posted": "2026-10-01",
+      "title": "Machine Learning Intern 2027 (Toronto)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080"
+    },
+    "pinterest:8138090": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Pinterest",
+      "external_id": "8138090",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "locations": [
+        "New York, NY, US",
+        "Palo Alto, CA, US",
+        "San Francisco, CA, US",
+        "Seattle, WA, US"
+      ],
+      "posted": "2026-10-01",
+      "title": "Master's Machine Learning Internship 2027 (USA)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090"
+    },
+    "pinterest:8138097": {
+      "active": true,
+      "category": "Data",
+      "company": "Pinterest",
+      "external_id": "8138097",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "locations": [
+        "New York, NY, US",
+        "Palo Alto, CA, US",
+        "San Francisco, CA, US",
+        "Seattle, WA, US"
+      ],
+      "posted": "2026-10-01",
+      "title": "Master's Data Science Internship 2027 (USA)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138097"
+    },
+    "pinterest:8140140": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Pinterest",
+      "external_id": "8140140",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "locations": [
+        "New York, NY, US",
+        "Palo Alto, CA, US",
+        "San Francisco, CA, US",
+        "Seattle, WA, US"
+      ],
+      "posted": "2026-10-01",
+      "title": "PhD Machine Learning Internship 2027 (USA)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140140"
+    },
+    "pinterest:8140169": {
+      "active": true,
+      "category": "Data",
+      "company": "Pinterest",
+      "external_id": "8140169",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "locations": [
+        "New York, NY, US",
+        "Palo Alto, CA, US",
+        "San Francisco, CA, US",
+        "Seattle, WA, US"
+      ],
+      "posted": "2026-10-01",
+      "title": "PhD Data Science Internship 2027 (USA)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140169"
+    },
+    "pinterest:8214745": {
+      "active": true,
+      "category": "Software",
+      "company": "Pinterest",
+      "external_id": "8214745",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "locations": [
+        "Zurich, CH"
+      ],
+      "posted": "2026-10-01",
+      "title": "Software Engineering Intern 2027 (Zurich)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214745"
+    },
+    "pinterest:8214757": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Pinterest",
+      "external_id": "8214757",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "locations": [
+        "Zurich, CH"
+      ],
+      "posted": "2026-10-01",
+      "title": "Machine Learning Intern 2027 (Zurich)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214757"
+    },
     "salesforce:JR337715": {
       "active": false,
       "category": "Software",
@@ -9288,6 +9470,62 @@
       "posted": "2026-09-24",
       "title": "Financial Data Analyst Intern, Technical Operations",
       "url": "https://stripe.com/jobs/search?gh_jid=8186442"
+    },
+    "stripe:8194283": {
+      "active": true,
+      "category": "Data",
+      "company": "Stripe",
+      "external_id": "8194283",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "locations": [
+        "New York, Seattle, South San Francisco HQ"
+      ],
+      "posted": "2026-10-01",
+      "title": "PhD Data Scientist, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194283"
+    },
+    "stripe:8194285": {
+      "active": true,
+      "category": "Data",
+      "company": "Stripe",
+      "external_id": "8194285",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "locations": [
+        "Toronto"
+      ],
+      "posted": "2026-10-01",
+      "title": "PhD Data Scientist, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194285"
+    },
+    "stripe:8194287": {
+      "active": true,
+      "category": "Data",
+      "company": "Stripe",
+      "external_id": "8194287",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "locations": [
+        "Toronto"
+      ],
+      "posted": "2026-10-01",
+      "title": "Data Analyst, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194287"
+    },
+    "stripe:8194291": {
+      "active": true,
+      "category": "Data",
+      "company": "Stripe",
+      "external_id": "8194291",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "locations": [
+        "New York, Seattle, South San Francisco HQ"
+      ],
+      "posted": "2026-10-01",
+      "title": "Data Analyst, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194291"
     },
     "stripe:8241260": {
       "active": true,
@@ -9845,7 +10083,21 @@
       "posted": "2026-09-30",
       "title": "2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8240198"
+    },
+    "waymo:8243556": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "external_id": "8243556",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-10-01",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8243556"
     }
   },
-  "updated_at": "2026-10-01T13:27:24Z"
+  "updated_at": "2026-10-01T19:40:41Z"
 }
