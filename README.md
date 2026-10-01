@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-10-01 13:27:24 UTC** · 📌 **386** open internships
+> 🕐 Last updated: **2026-10-01 19:40:41 UTC** · 📌 **404** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -20,7 +20,7 @@ GitHub Actions.
 | Anthropic | — |
 | [Apple](#apple) | 25 |
 | Bloomberg | — |
-| [Cisco](#cisco) | 20 |
+| [Cisco](#cisco) | 21 |
 | [Cloudflare](#cloudflare) | 1 |
 | [Coinbase](#coinbase) | 7 |
 | [Databricks](#databricks) | 2 |
@@ -30,27 +30,27 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 36 |
 | [Hudson River Trading](#hudson-river-trading) | 3 |
-| [Intel](#intel) | 22 |
+| [Intel](#intel) | 23 |
 | [Jane Street](#jane-street) | 19 |
 | [Lyft](#lyft) | 14 |
 | [Meta](#meta) | 5 |
-| [Microsoft](#microsoft) | 26 |
+| [Microsoft](#microsoft) | 27 |
 | MongoDB | — |
 | [NVIDIA](#nvidia) | 81 |
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
 | [Oracle](#oracle) | 3 |
 | PayPal | — |
-| Pinterest | — |
+| [Pinterest](#pinterest) | 10 |
 | Reddit | — |
 | [Salesforce](#salesforce) | 3 |
 | [Scale AI](#scale-ai) | 3 |
 | Snap | — |
 | [Snowflake](#snowflake) | 4 |
 | Spotify | — |
-| [Stripe](#stripe) | 9 |
+| [Stripe](#stripe) | 13 |
 | Uber | — |
-| [Waymo](#waymo) | 31 |
+| [Waymo](#waymo) | 32 |
 | ByteDance | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* |
 | Tesla | *careers site and its JSON API sit behind Akamai bot protection that returns 403 to every non-browser client; needs a headless browser* |
 
@@ -160,6 +160,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Consulting Engineer I (Intern) United States](https://careers.cisco.com/global/en/job/2025180) | Software | RESEARCH_TRIANGLE_PARK, North Carolina, United States of America | 2026-10-01 | 2026-09-08 |
 | [Network Engineer Intern, Australia](https://careers.cisco.com/global/en/job/2024351) 🆕 | Backend/Infra | North Sydney, New South Wales, Australia | 2026-09-29 | 2026-09-29 |
 | [Software Engineer Full Stack / Backend II (Intern) – United States](https://careers.cisco.com/global/en/job/2026800) 🆕 | Backend/Infra | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-24 | 2026-09-24 |
 | [Software Engineer Embedded Systems II (Intern) – United States](https://careers.cisco.com/global/en/job/2026805) 🆕 | Backend/Infra | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-24 | 2026-09-24 |
@@ -284,6 +285,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [AI Software Technical Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544) 🆕 | AI/ML | US, California, Santa Clara | 2026-10-01 | 2026-10-01 |
 | [Research Scientist Intern - Graphics, ML](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525) 🆕 | AI/ML | Virtual US | 2026-09-30 | 2026-09-30 |
 | [AI Software Engineering Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/AI-Software-Engineering-Undergraduate-Intern_JR0287583) 🆕 | AI/ML | Costa Rica, San Jose | 2026-09-30 | 2026-10-01 |
 | [AI SOC Power Delivery Pathfinding PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538) 🆕 | AI/ML | US, Oregon, Hillsboro | 2026-09-30 | 2026-09-30 |
@@ -364,6 +366,8 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineering Internship Opportunities - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557021513) 🆕 | Software | Czech Republic, Prague, Prague | 2026-10-01 | 2026-10-01 |
+| [Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond](https://apply.careers.microsoft.com/careers/job/1970393556922930) | Security | United States, Washington, Redmond | 2026-10-01 | 2026-08-04 |
 | [Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA](https://apply.careers.microsoft.com/careers/job/1970393556951950) | Software | United States, Washington, Redmond | 2026-10-01 | 2026-08-03 |
 | [Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,](https://apply.careers.microsoft.com/careers/job/1970393556922922) | Software | United States, Washington, Redmond | 2026-10-01 | 2026-08-04 |
 | [Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond](https://apply.careers.microsoft.com/careers/job/1970393556922931) | Data | United States, Washington, Redmond | 2026-10-01 | 2026-08-04 |
@@ -371,7 +375,6 @@ GitHub Actions.
 | [Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond](https://apply.careers.microsoft.com/careers/job/1970393556922929) | AI/ML | United States, Washington, Redmond | 2026-10-01 | 2026-08-04 |
 | [Security Operations Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557019490) 🆕 | Security | United States, Washington, Redmond | 2026-09-30 | 2026-09-30 |
 | [Penetration Testing INTERN](https://apply.careers.microsoft.com/careers/job/1970393556999315) 🆕 | Security | United States, Washington, Redmond | 2026-09-29 | 2026-09-29 |
-| [Software Engineer Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557007677) 🆕 | Software | Romania, Bucharest, Bucharest; Romania, Iasi, Iasi; Romania, Timis, Timisoara | 2026-09-28 | 2026-09-29 |
 | [Research Intern - Data Systems](https://apply.careers.microsoft.com/careers/job/1970393557008574) 🆕 | Data | United States, Washington, Redmond | 2026-09-25 | 2026-09-26 |
 | [Applied Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556997800) | AI/ML | India, Multiple Locations, Multiple Locations | 2026-09-25 | 2026-09-14 |
 | [Data Science INTERN](https://apply.careers.microsoft.com/careers/job/1970393556917520) | Data | India, Multiple Locations, Multiple Locations | 2026-09-24 | 2026-07-09 |
@@ -492,6 +495,21 @@ GitHub Actions.
 | [ONA AI Agent Intern (Logistics Focus) - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334345) | AI/ML | Austin, TX, United States; United States | 2026-05-22 | 2026-07-09 |
 | [OCI Software Engineer Intern - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334333) | Software | Austin, TX, United States; Nashville, TN, United States; United States | 2026-05-22 | 2026-07-09 |
 
+## Pinterest
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [Software Engineering Intern 2027 (Zurich)](https://www.pinterestcareers.com/jobs/?gh_jid=8214745) 🆕 | Software | Zurich, CH | 2026-10-01 | 2026-10-01 |
+| [Software Engineering Intern 2027 (Toronto)](https://www.pinterestcareers.com/jobs/?gh_jid=8138039) 🆕 | Software | Toronto, ON, CA | 2026-10-01 | 2026-10-01 |
+| [Software Engineering Intern 2027 (Dublin)](https://www.pinterestcareers.com/jobs/?gh_jid=8138034) 🆕 | Software | Dublin, IE | 2026-10-01 | 2026-10-01 |
+| [Software Engineer Intern 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=7838577) 🆕 | Software | Remote, US; San Francisco, CA, US | 2026-10-01 | 2026-10-01 |
+| [PhD Machine Learning Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140140) 🆕 | AI/ML | New York, NY, US; Palo Alto, CA, US; San Francisco, CA, US *(+1 more)* | 2026-10-01 | 2026-10-01 |
+| [PhD Data Science Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140169) 🆕 | Data | New York, NY, US; Palo Alto, CA, US; San Francisco, CA, US *(+1 more)* | 2026-10-01 | 2026-10-01 |
+| [Master's Machine Learning Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) 🆕 | AI/ML | New York, NY, US; Palo Alto, CA, US; San Francisco, CA, US *(+1 more)* | 2026-10-01 | 2026-10-01 |
+| [Master's Data Science Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) 🆕 | Data | New York, NY, US; Palo Alto, CA, US; San Francisco, CA, US *(+1 more)* | 2026-10-01 | 2026-10-01 |
+| [Machine Learning Intern 2027 (Zurich)](https://www.pinterestcareers.com/jobs/?gh_jid=8214757) 🆕 | AI/ML | Zurich, CH | 2026-10-01 | 2026-10-01 |
+| [Machine Learning Intern 2027 (Toronto)](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) 🆕 | AI/ML | Toronto, ON, CA | 2026-10-01 | 2026-10-01 |
+
 ## Salesforce
 
 | Role | Category | Location | Posted | First seen |
@@ -521,6 +539,10 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285) 🆕 | Data | Toronto | 2026-10-01 | 2026-10-01 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283) 🆕 | Data | New York, Seattle, South San Francisco HQ | 2026-10-01 | 2026-10-01 |
+| [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291) 🆕 | Data | New York, Seattle, South San Francisco HQ | 2026-10-01 | 2026-10-01 |
+| [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287) 🆕 | Data | Toronto | 2026-10-01 | 2026-10-01 |
 | [High School Internship, Software Engineering (Summer 2027)](https://stripe.com/jobs/search?gh_jid=8241260) 🆕 | Software | Seattle, San Francisco | 2026-09-30 | 2026-09-30 |
 | [Financial Data Analyst Intern, Technical Operations](https://stripe.com/jobs/search?gh_jid=8186442) 🆕 | Data | Singapore | 2026-09-24 | 2026-09-24 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883) | Software | Singapore | 2026-09-07 | 2026-09-07 |
@@ -535,6 +557,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations](https://careers.withwaymo.com/jobs?gh_jid=8243556) 🆕 | AI/ML | Mountain View, CA, USA | 2026-10-01 | 2026-10-01 |
 | [2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform](https://careers.withwaymo.com/jobs?gh_jid=8240198) 🆕 | Backend/Infra | Mountain View, CA, USA | 2026-09-30 | 2026-09-30 |
 | [2027 Summer Intern, BS, Software Engineering, Labeling](https://careers.withwaymo.com/jobs?gh_jid=8238525) 🆕 | Software | Mountain View, CA, USA | 2026-09-30 | 2026-09-30 |
 | [2027 Summer Intern, PhD, Planner Machine Learning](https://careers.withwaymo.com/jobs?gh_jid=8234876) 🆕 | AI/ML | San Francisco, California | 2026-09-29 | 2026-09-29 |
