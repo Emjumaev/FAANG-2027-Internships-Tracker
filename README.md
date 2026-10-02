@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-10-01 19:40:41 UTC** · 📌 **404** open internships
+> 🕐 Last updated: **2026-10-02 00:01:44 UTC** · 📌 **409** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -30,11 +30,11 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 36 |
 | [Hudson River Trading](#hudson-river-trading) | 3 |
-| [Intel](#intel) | 23 |
+| [Intel](#intel) | 25 |
 | [Jane Street](#jane-street) | 19 |
 | [Lyft](#lyft) | 14 |
-| [Meta](#meta) | 5 |
-| [Microsoft](#microsoft) | 27 |
+| [Meta](#meta) | 6 |
+| [Microsoft](#microsoft) | 28 |
 | MongoDB | — |
 | [NVIDIA](#nvidia) | 81 |
 | [Netflix](#netflix) | 2 |
@@ -50,7 +50,7 @@ GitHub Actions.
 | Spotify | — |
 | [Stripe](#stripe) | 13 |
 | Uber | — |
-| [Waymo](#waymo) | 32 |
+| [Waymo](#waymo) | 33 |
 | ByteDance | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* |
 | Tesla | *careers site and its JSON API sit behind Akamai bot protection that returns 403 to every non-browser client; needs a headless browser* |
 
@@ -60,8 +60,8 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [2027 Intern - Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519) | AI/ML | 7 Locations | 2026-10-01 | 2026-08-31 |
 | [2027 Intern - Software Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666) | Software | 7 Locations | 2026-09-18 | 2026-09-03 |
-| [2027 Intern - Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519) | AI/ML | 6 Locations | 2026-09-18 | 2026-08-31 |
 
 ## Amazon
 
@@ -162,12 +162,12 @@ GitHub Actions.
 |---|---|---|---|---|
 | [Software Consulting Engineer I (Intern) United States](https://careers.cisco.com/global/en/job/2025180) | Software | RESEARCH_TRIANGLE_PARK, North Carolina, United States of America | 2026-10-01 | 2026-09-08 |
 | [Network Engineer Intern, Australia](https://careers.cisco.com/global/en/job/2024351) 🆕 | Backend/Infra | North Sydney, New South Wales, Australia | 2026-09-29 | 2026-09-29 |
-| [Software Engineer Full Stack / Backend II (Intern) – United States](https://careers.cisco.com/global/en/job/2026800) 🆕 | Backend/Infra | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-24 | 2026-09-24 |
-| [Software Engineer Embedded Systems II (Intern) – United States](https://careers.cisco.com/global/en/job/2026805) 🆕 | Backend/Infra | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-24 | 2026-09-24 |
-| [Software Engineer Data & AI II (Intern) – United States](https://careers.cisco.com/global/en/job/2026798) 🆕 | AI/ML | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-24 | 2026-09-24 |
-| [Machine Learning Engineer II (Intern) – United States](https://careers.cisco.com/global/en/job/2026802) 🆕 | AI/ML | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-24 | 2026-09-24 |
-| [Machine Learning Engineer I (Intern) – United States](https://careers.cisco.com/global/en/job/2026803) 🆕 | AI/ML | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-24 | 2026-09-24 |
-| [AI Operations Engineer I (Intern) – United States](https://careers.cisco.com/global/en/job/2026804) 🆕 | AI/ML | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-24 | 2026-09-24 |
+| [Software Engineer Full Stack / Backend II (Intern) – United States](https://careers.cisco.com/global/en/job/2026800) | Backend/Infra | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-24 | 2026-09-24 |
+| [Software Engineer Embedded Systems II (Intern) – United States](https://careers.cisco.com/global/en/job/2026805) | Backend/Infra | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-24 | 2026-09-24 |
+| [Software Engineer Data & AI II (Intern) – United States](https://careers.cisco.com/global/en/job/2026798) | AI/ML | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-24 | 2026-09-24 |
+| [Machine Learning Engineer II (Intern) – United States](https://careers.cisco.com/global/en/job/2026802) | AI/ML | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-24 | 2026-09-24 |
+| [Machine Learning Engineer I (Intern) – United States](https://careers.cisco.com/global/en/job/2026803) | AI/ML | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-24 | 2026-09-24 |
+| [AI Operations Engineer I (Intern) – United States](https://careers.cisco.com/global/en/job/2026804) | AI/ML | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-24 | 2026-09-24 |
 | [Software Engineer Full Stack / Backend I (Intern) – United States](https://careers.cisco.com/global/en/job/2025924) | Backend/Infra | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-21 | 2026-09-22 |
 | [Software Engineer Embedded Systems I (Intern) – United States](https://careers.cisco.com/global/en/job/2025926) | Backend/Infra | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-21 | 2026-09-22 |
 | [Software Engineer Data & AI I (Intern) – United States](https://careers.cisco.com/global/en/job/2026306) | AI/ML | Milpitas, California, United States of America; Research Triangle Park, North Carolina, United States of America; San Francisco, California, United States of America *(+1 more)* | 2026-09-21 | 2026-09-22 |
@@ -285,6 +285,8 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineering PhD Intern New 2027](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1) 🆕 | Software | US, Oregon, Hillsboro | 2026-10-01 | 2026-10-02 |
+| [Platform Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Platform-Validation-Intern_JR0287673) 🆕 | QA | Mexico, Guadalajara | 2026-10-01 | 2026-10-02 |
 | [AI Software Technical Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544) 🆕 | AI/ML | US, California, Santa Clara | 2026-10-01 | 2026-10-01 |
 | [Research Scientist Intern - Graphics, ML](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525) 🆕 | AI/ML | Virtual US | 2026-09-30 | 2026-09-30 |
 | [AI Software Engineering Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/AI-Software-Engineering-Undergraduate-Intern_JR0287583) 🆕 | AI/ML | Costa Rica, San Jose | 2026-09-30 | 2026-10-01 |
@@ -356,6 +358,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Research Scientist Intern, Robotics - Meta Superintelligence Labs (PhD)](https://www.metacareers.com/jobs/1940312740718917) 🆕 | AI/ML | Menlo Park, CA | — | 2026-10-02 |
 | [Data Engineer Intern, Product Analytics (Summer 2027)](https://www.metacareers.com/jobs/1373603594867455) 🆕 | Data | Menlo Park, CA; New York, NY; Seattle, WA | — | 2026-09-28 |
 | [Network Production Engineer Intern](https://www.metacareers.com/jobs/1412139847020398) | Backend/Infra | Menlo Park, CA | — | 2026-09-23 |
 | [Network Production Engineer Intern](https://www.metacareers.com/jobs/2558941294546763) | Backend/Infra | Dublin, Ireland; London, UK | — | 2026-09-23 |
@@ -373,6 +376,7 @@ GitHub Actions.
 | [Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond](https://apply.careers.microsoft.com/careers/job/1970393556922931) | Data | United States, Washington, Redmond | 2026-10-01 | 2026-08-04 |
 | [Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond](https://apply.careers.microsoft.com/careers/job/1970393556922923) | Backend/Infra | United States, Washington, Redmond | 2026-10-01 | 2026-08-04 |
 | [Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond](https://apply.careers.microsoft.com/careers/job/1970393556922929) | AI/ML | United States, Washington, Redmond | 2026-10-01 | 2026-08-04 |
+| [Research Intern - Security Research Group, Microsoft Research Redmond](https://apply.careers.microsoft.com/careers/job/1970393557022480) 🆕 | Security | United States, Washington, Redmond | 2026-10-01 | 2026-10-02 |
 | [Security Operations Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557019490) 🆕 | Security | United States, Washington, Redmond | 2026-09-30 | 2026-09-30 |
 | [Penetration Testing INTERN](https://apply.careers.microsoft.com/careers/job/1970393556999315) 🆕 | Security | United States, Washington, Redmond | 2026-09-29 | 2026-09-29 |
 | [Research Intern - Data Systems](https://apply.careers.microsoft.com/careers/job/1970393557008574) 🆕 | Data | United States, Washington, Redmond | 2026-09-25 | 2026-09-26 |
@@ -539,12 +543,12 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285) 🆕 | Data | Toronto | 2026-10-01 | 2026-10-01 |
 | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283) 🆕 | Data | New York, Seattle, South San Francisco HQ | 2026-10-01 | 2026-10-01 |
-| [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291) 🆕 | Data | New York, Seattle, South San Francisco HQ | 2026-10-01 | 2026-10-01 |
+| [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285) 🆕 | Data | Toronto | 2026-10-01 | 2026-10-01 |
 | [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287) 🆕 | Data | Toronto | 2026-10-01 | 2026-10-01 |
+| [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291) 🆕 | Data | New York, Seattle, South San Francisco HQ | 2026-10-01 | 2026-10-01 |
 | [High School Internship, Software Engineering (Summer 2027)](https://stripe.com/jobs/search?gh_jid=8241260) 🆕 | Software | Seattle, San Francisco | 2026-09-30 | 2026-09-30 |
-| [Financial Data Analyst Intern, Technical Operations](https://stripe.com/jobs/search?gh_jid=8186442) 🆕 | Data | Singapore | 2026-09-24 | 2026-09-24 |
+| [Financial Data Analyst Intern, Technical Operations](https://stripe.com/jobs/search?gh_jid=8186442) | Data | Singapore | 2026-09-24 | 2026-09-24 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883) | Software | Singapore | 2026-09-07 | 2026-09-07 |
 | [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745) | Software | San Francisco, Seattle, New York City | 2026-08-31 | 2026-08-31 |
 | [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8130805) | Software | Toronto | 2026-08-31 | 2026-09-01 |
@@ -558,6 +562,7 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations](https://careers.withwaymo.com/jobs?gh_jid=8243556) 🆕 | AI/ML | Mountain View, CA, USA | 2026-10-01 | 2026-10-01 |
+| [2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern](https://careers.withwaymo.com/jobs?gh_jid=8248060) 🆕 | AI/ML | Mountain View, CA, USA | 2026-10-01 | 2026-10-02 |
 | [2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform](https://careers.withwaymo.com/jobs?gh_jid=8240198) 🆕 | Backend/Infra | Mountain View, CA, USA | 2026-09-30 | 2026-09-30 |
 | [2027 Summer Intern, BS, Software Engineering, Labeling](https://careers.withwaymo.com/jobs?gh_jid=8238525) 🆕 | Software | Mountain View, CA, USA | 2026-09-30 | 2026-09-30 |
 | [2027 Summer Intern, PhD, Planner Machine Learning](https://careers.withwaymo.com/jobs?gh_jid=8234876) 🆕 | AI/ML | San Francisco, California | 2026-09-29 | 2026-09-29 |
@@ -568,7 +573,7 @@ GitHub Actions.
 | [2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning](https://careers.withwaymo.com/jobs?gh_jid=8233746) 🆕 | AI/ML | Mountain View, CA, USA | 2026-09-25 | 2026-09-25 |
 | [2027 Summer Intern, MS/PhD, Perception, Machine Learning](https://careers.withwaymo.com/jobs?gh_jid=8227411) 🆕 | AI/ML | Mountain View, CA, USA | 2026-09-25 | 2026-09-25 |
 | [2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations](https://careers.withwaymo.com/jobs?gh_jid=8224900) 🆕 | Software | Mountain View, CA, USA | 2026-09-25 | 2026-09-25 |
-| [2027 Summer Intern, PhD, Software Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=8227640) 🆕 | Software | Mountain View, CA, USA | 2026-09-24 | 2026-09-24 |
+| [2027 Summer Intern, PhD, Software Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=8227640) | Software | Mountain View, CA, USA | 2026-09-24 | 2026-09-24 |
 | [2027 Summer Intern, PhD, Road Understanding, ML Engineer](https://careers.withwaymo.com/jobs?gh_jid=8224746) | AI/ML | Mountain View, California | 2026-09-23 | 2026-09-23 |
 | [2027 Summer Intern, MS/PhD, Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8224729) | Software | Mountain View, California | 2026-09-23 | 2026-09-23 |
 | [2027 Summer Intern, PhD, Data Science](https://careers.withwaymo.com/jobs?gh_jid=8221956) | Data | Mountain View, CA, USA; San Francisco, CA, USA | 2026-09-22 | 2026-09-23 |
