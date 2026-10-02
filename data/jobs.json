@@ -5512,6 +5512,20 @@
       "title": "AI SOC Power Delivery Pathfinding PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538"
     },
+    "intel:JR0287539": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Intel",
+      "external_id": "JR0287539",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "locations": [
+        "Canada, Toronto"
+      ],
+      "posted": "2026-10-02",
+      "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539"
+    },
     "intel:JR0287544": {
       "active": true,
       "category": "AI/ML",
@@ -6090,6 +6104,20 @@
       "title": "Applied Scientist Intern (Summer 2027)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002"
     },
+    "lyft:8862215002": {
+      "active": true,
+      "category": "QA",
+      "company": "Lyft",
+      "external_id": "8862215002",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "locations": [
+        "Longueuil, Canada"
+      ],
+      "posted": "2026-10-02",
+      "title": "Hardware Field Quality Engineer Intern (Summer 2027)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002"
+    },
     "meta:1027438186737957": {
       "active": false,
       "category": "Security",
@@ -6605,9 +6633,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867858"
     },
     "microsoft:1970393556868271": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-08-01",
+      "closed": "2026-10-02",
       "company": "Microsoft",
       "external_id": "1970393556868271",
       "first_seen": "2026-07-09",
@@ -7150,17 +7178,17 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223"
     },
     "microsoft:1970393556986137": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-09-18",
       "company": "Microsoft",
       "external_id": "1970393556986137",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-10-02",
       "locations": [
         "United States, Washington, Redmond"
       ],
-      "posted": "2026-09-03",
+      "posted": "2026-10-02",
       "title": "Data Science: AI Experiences PhD Internship Opportunities - Redmond",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556986137"
     },
@@ -10451,7 +10479,21 @@
       "posted": "2026-10-01",
       "title": "2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8248060"
+    },
+    "waymo:8248327": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "external_id": "8248327",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-10-02",
+      "title": "2027 Summer Intern, Perception - Evaluation",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8248327"
     }
   },
-  "updated_at": "2026-10-02T19:27:55Z"
+  "updated_at": "2026-10-02T23:55:26Z"
 }
