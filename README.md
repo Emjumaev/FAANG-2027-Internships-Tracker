@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-10-02 12:45:58 UTC** · 📌 **417** open internships
+> 🕐 Last updated: **2026-10-02 19:27:55 UTC** · 📌 **424** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -16,19 +16,19 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 2 |
 | Airbnb | — |
-| [Amazon](#amazon) | 64 |
+| [Amazon](#amazon) | 68 |
 | Anthropic | — |
 | [Apple](#apple) | 25 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 20 |
 | [Cloudflare](#cloudflare) | 1 |
 | [Coinbase](#coinbase) | 7 |
-| [Databricks](#databricks) | 2 |
+| [Databricks](#databricks) | 7 |
 | [DoorDash](#doordash) | 3 |
-| [Dropbox](#dropbox) | 1 |
+| Dropbox | — |
 | [Figma](#figma) | 6 |
 | GitHub | — |
-| [Google](#google) | 37 |
+| [Google](#google) | 36 |
 | [Hudson River Trading](#hudson-river-trading) | 3 |
 | [Intel](#intel) | 26 |
 | [Jane Street](#jane-street) | 19 |
@@ -36,7 +36,7 @@ GitHub Actions.
 | [Meta](#meta) | 6 |
 | [Microsoft](#microsoft) | 29 |
 | MongoDB | — |
-| [NVIDIA](#nvidia) | 81 |
+| [NVIDIA](#nvidia) | 82 |
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
 | [Oracle](#oracle) | 3 |
@@ -46,7 +46,7 @@ GitHub Actions.
 | [Salesforce](#salesforce) | 3 |
 | [Scale AI](#scale-ai) | 3 |
 | Snap | — |
-| [Snowflake](#snowflake) | 4 |
+| [Snowflake](#snowflake) | 3 |
 | Spotify | — |
 | [Stripe](#stripe) | 13 |
 | Uber | — |
@@ -67,6 +67,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)](https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa) 🆕 | Backend/Infra | Seattle, Washington, USA | 2026-10-02 | 2026-10-02 |
 | [Cloud Support Associate Internship - April 2027 start, Support Engineering, Support Engineering](https://www.amazon.jobs/en/jobs/10567710/cloud-support-associate-internship-april-2027-start-support-engineering-support-engineering) 🆕 | Backend/Infra | Nairobi, KEN | 2026-10-02 | 2026-10-02 |
 | [Cloud Support Associate Internship - April 2027 start, Support Engineering](https://www.amazon.jobs/en/jobs/10567708/cloud-support-associate-internship-april-2027-start-support-engineering) 🆕 | Backend/Infra | Cape Town, Western Cape, ZAF | 2026-10-02 | 2026-10-02 |
 | [Cloud Support Associate Internship - April 2027 start, Support Engineering](https://www.amazon.jobs/en/jobs/10567711/cloud-support-associate-internship-april-2027-start-support-engineering) 🆕 | Backend/Infra | Dublin, IRL | 2026-10-02 | 2026-10-02 |
@@ -74,6 +75,9 @@ GitHub Actions.
 | [Business Intelligence Engineer Intern Germany](https://www.amazon.jobs/en/jobs/10567688/business-intelligence-engineer-intern-germany) 🆕 | Data | Munich, Bavaria, DEU | 2026-10-02 | 2026-10-02 |
 | [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10567690/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) 🆕 | AI/ML | Tel Aviv-Yafo, Tel Aviv, ISR | 2026-10-02 | 2026-10-02 |
 | [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10567694/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) 🆕 | AI/ML | London, England, GBR | 2026-10-02 | 2026-10-02 |
+| [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10567744/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) 🆕 | AI/ML | Madrid, Community of Madrid, ESP | 2026-10-02 | 2026-10-02 |
+| [(Physical) Security Specialist Intern -  2027 Internship](https://www.amazon.jobs/en/jobs/10567818/physical-security-specialist-intern-2027-internship) 🆕 | Security | Paris, Ile-de-France, FRA | 2026-10-02 | 2026-10-02 |
+| [(Physical) Security Specialist Intern -  2027 Internship](https://www.amazon.jobs/en/jobs/10567769/physical-security-specialist-intern-2027-internship) 🆕 | Security | Zaragoza, Aragon, ESP | 2026-10-02 | 2026-10-02 |
 | [Software Development Engineer Intern, AWS Database - 2027 (US)](https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us) 🆕 | Backend/Infra | Seattle, Washington, USA | 2026-09-30 | 2026-09-30 |
 | [2027 Summer Applied Science Internship - Information & Knowledge Management (Machine Learning)- United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10564585/2027-summer-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) 🆕 | AI/ML | Seattle, Washington, USA | 2026-09-30 | 2026-09-30 |
 | [2027 Research Science Internship - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10564602/2027-research-science-internship-united-states-phd-student-science-recruiting) 🆕 | AI/ML | Seattle, Washington, USA | 2026-09-30 | 2026-09-30 |
@@ -209,8 +213,13 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineering Intern (2027 Start) - London](https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002) 🆕 | Software | London, United Kingdom | 2026-10-02 | 2026-10-02 |
 | [Software Engineering Intern (2027 Start) - Winter](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) | Software | Bellevue, Washington; Mountain View, California; San Francisco, California | 2026-08-20 | 2026-08-21 |
+| [Software Engineering Intern (2027 Start) - Aarhus](https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002) 🆕 | Software | Aarhus, Denmark | 2025-08-29 | 2026-10-02 |
+| [Software Engineering Intern (2027 Start) - Belgrade](https://databricks.com/company/careers/open-positions/job?gh_jid=7640764002) 🆕 | Software | Belgrade, Serbia | 2024-09-27 | 2026-10-02 |
 | [PhD GenAI Research Scientist Intern](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) | AI/ML | San Francisco, California | 2023-11-07 | 2026-07-09 |
+| [Software Engineering Intern (2027 Start) - Berlin](https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002) 🆕 | Software | Berlin, Germany | 2023-09-01 | 2026-10-02 |
+| [Software Engineering Intern (2027 Start) - Amsterdam](https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002) 🆕 | Software | Amsterdam, Netherlands | 2023-09-01 | 2026-10-02 |
 
 ## DoorDash
 
@@ -219,12 +228,6 @@ GitHub Actions.
 | [Machine Learning Intern (PhD) - Summer 2027](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) 🆕 | AI/ML | New York City, NY; San Francisco, CA; Seattle, WA *(+1 more)* | 2026-09-25 | 2026-09-25 |
 | [Machine Learning Intern (Masters) - Summer 2027](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) 🆕 | AI/ML | New York City, NY; San Francisco, CA; Seattle, WA *(+1 more)* | 2026-09-23 | 2026-09-25 |
 | [Software Engineer, Intern (Summer 2027) - US](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) | Software | Los Angeles, CA; New York, NY; San Francisco, CA *(+2 more)* | 2026-09-14 | 2026-09-14 |
-
-## Dropbox
-
-| Role | Category | Location | Posted | First seen |
-|---|---|---|---|---|
-| [Software Engineering Intern (Summer 2027)](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224) | Software | Remote - US: All locations | 2026-09-07 | 2026-09-07 |
 
 ## Figma
 
@@ -265,10 +268,9 @@ GitHub Actions.
 | [Software Developer Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) | Software | Toronto, ON, Canada; Waterloo, ON, Canada | 2026-08-24 | 2026-08-24 |
 | [Software Engineering Intern, PhD, Summer 2027](https://www.google.com/about/careers/applications/jobs/results/104551723757904582) | Software | New Taipei, Banqiao District, New Taipei City, Taiwan; Taipei, Taiwan | 2026-08-20 | 2026-08-20 |
 | [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/93078491720753862) | Software | Zürich, Switzerland | 2026-08-18 | 2026-08-18 |
-| [Software Engineering or SRE, PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/80037545080955590) | Backend/Infra | London, UK | 2026-08-17 | 2026-08-17 |
 | [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/107087730147500742) | Software | Kraków, Poland; Warsaw, Poland | 2026-08-17 | 2026-08-17 |
+| [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/80037545080955590) | Software | London, UK | 2026-08-17 | 2026-08-17 |
 | [Research Scientist PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/111285665542349510) | AI/ML | Munich, Germany; Paris, France; Zürich, Switzerland | 2026-08-17 | 2026-08-17 |
-| [Research Scientist PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/134795423167455942) | AI/ML | London, UK | 2026-08-17 | 2026-08-17 |
 | [Part-Time Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/74922616988541638) | Software | Tel Aviv, Israel | 2026-08-17 | 2026-08-17 |
 | [Part-Time Research Scientist PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/88486192428786374) | AI/ML | Haifa, Israel; Tel Aviv, Israel | 2026-08-17 | 2026-08-17 |
 | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/73321728058499782) | Data | London, UK | 2026-08-17 | 2026-08-17 |
@@ -410,6 +412,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [PhD Research Intern, Embodied and Agentic AI - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Embodied-and-Agentic-AI---2027_JR2025792) 🆕 | AI/ML | 2 Locations | 2026-10-02 | 2026-10-02 |
 | [Software Engineer Intern, AI and DL Kernel Libraries - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineer-Intern--AI-and-DL-Kernel-Libraries---2027_JR2026307) 🆕 | AI/ML | China, Shanghai | 2026-09-30 | 2026-09-30 |
 | [PhD Research Intern, Robotics - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647) | AI/ML | 2 Locations | 2026-09-30 | 2026-09-21 |
 | [Developer Technology Engineering Intern - Compute Performance](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775) 🆕 | Software | 5 Locations | 2026-09-30 | 2026-09-30 |
@@ -543,7 +546,6 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Software Engineer Intern - Berlin (2027)](https://careers.snowflake.com/us/en/job/36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e) | Software | Berlin, Germany | 2026-09-29 | 2026-09-22 |
-| [Applied AI Intern - Warsaw](https://careers.snowflake.com/us/en/job/efbbdddd-18a1-4d9d-9455-3e82166b42f6) | AI/ML | Warsaw, Poland | 2026-09-08 | 2026-09-08 |
 | [Software Engineer Intern - Warsaw Security](https://careers.snowflake.com/us/en/job/3045856c-74a4-469e-ba81-a176cc0bef8f) | Security | Warsaw, Poland | 2026-08-05 | 2026-08-05 |
 | [Software Engineer Intern - Berlin (2026)](https://careers.snowflake.com/us/en/job/3a9baeaf-b107-41fb-a9b3-a98ab78275ed) | Software | Berlin, Germany | 2026-06-02 | 2026-07-09 |
 
