@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-10-02 19:27:55 UTC** · 📌 **424** open internships
+> 🕐 Last updated: **2026-10-02 23:55:26 UTC** · 📌 **427** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -30,9 +30,9 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 36 |
 | [Hudson River Trading](#hudson-river-trading) | 3 |
-| [Intel](#intel) | 26 |
+| [Intel](#intel) | 27 |
 | [Jane Street](#jane-street) | 19 |
-| [Lyft](#lyft) | 14 |
+| [Lyft](#lyft) | 15 |
 | [Meta](#meta) | 6 |
 | [Microsoft](#microsoft) | 29 |
 | MongoDB | — |
@@ -50,7 +50,7 @@ GitHub Actions.
 | Spotify | — |
 | [Stripe](#stripe) | 13 |
 | Uber | — |
-| [Waymo](#waymo) | 33 |
+| [Waymo](#waymo) | 34 |
 | ByteDance | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* |
 | Tesla | *careers site and its JSON API sit behind Akamai bot protection that returns 403 to every non-browser client; needs a headless browser* |
 
@@ -76,8 +76,8 @@ GitHub Actions.
 | [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10567690/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) 🆕 | AI/ML | Tel Aviv-Yafo, Tel Aviv, ISR | 2026-10-02 | 2026-10-02 |
 | [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10567694/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) 🆕 | AI/ML | London, England, GBR | 2026-10-02 | 2026-10-02 |
 | [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10567744/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) 🆕 | AI/ML | Madrid, Community of Madrid, ESP | 2026-10-02 | 2026-10-02 |
-| [(Physical) Security Specialist Intern -  2027 Internship](https://www.amazon.jobs/en/jobs/10567818/physical-security-specialist-intern-2027-internship) 🆕 | Security | Paris, Ile-de-France, FRA | 2026-10-02 | 2026-10-02 |
 | [(Physical) Security Specialist Intern -  2027 Internship](https://www.amazon.jobs/en/jobs/10567769/physical-security-specialist-intern-2027-internship) 🆕 | Security | Zaragoza, Aragon, ESP | 2026-10-02 | 2026-10-02 |
+| [(Physical) Security Specialist Intern -  2027 Internship](https://www.amazon.jobs/en/jobs/10567818/physical-security-specialist-intern-2027-internship) 🆕 | Security | Paris, Ile-de-France, FRA | 2026-10-02 | 2026-10-02 |
 | [Software Development Engineer Intern, AWS Database - 2027 (US)](https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us) 🆕 | Backend/Infra | Seattle, Washington, USA | 2026-09-30 | 2026-09-30 |
 | [2027 Summer Applied Science Internship - Information & Knowledge Management (Machine Learning)- United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10564585/2027-summer-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) 🆕 | AI/ML | Seattle, Washington, USA | 2026-09-30 | 2026-09-30 |
 | [2027 Research Science Internship - United States, PhD Student Science Recruiting](https://www.amazon.jobs/en/jobs/10564602/2027-research-science-internship-united-states-phd-student-science-recruiting) 🆕 | AI/ML | Seattle, Washington, USA | 2026-09-30 | 2026-09-30 |
@@ -294,6 +294,7 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Software Engineering - PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1) 🆕 | Software | US, Oregon, Hillsboro | 2026-10-02 | 2026-10-02 |
+| [GPU & AI Accelerator Hardware Design Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539) 🆕 | AI/ML | Canada, Toronto | 2026-10-02 | 2026-10-02 |
 | [Platform Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Platform-Validation-Intern_JR0287673) 🆕 | QA | Mexico, Guadalajara | 2026-10-01 | 2026-10-02 |
 | [Graphics Hardware Validation Undergraduate Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535) 🆕 | QA | Canada, Toronto | 2026-10-01 | 2026-10-02 |
 | [AI Software Technical Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544) 🆕 | AI/ML | US, California, Santa Clara | 2026-10-01 | 2026-10-01 |
@@ -348,6 +349,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Hardware Field Quality Engineer Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002) 🆕 | QA | Longueuil, Canada | 2026-10-02 | 2026-10-02 |
 | [Applied Scientist Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) 🆕 | AI/ML | San Francisco, CA | 2026-09-28 | 2026-09-29 |
 | [Software Engineer Intern, Test Automation (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002) | Software | Montreal, Canada | 2026-09-11 | 2026-09-11 |
 | [Software Engineer Intern, Machine Learning (Summer 2027 - Toronto)](https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002) | AI/ML | Toronto, Canada | 2026-09-11 | 2026-09-11 |
@@ -379,6 +381,7 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Penetration Tester: Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393556999327) 🆕 | Security | United States, Washington, Redmond | 2026-10-02 | 2026-10-02 |
+| [Data Science: AI Experiences PhD Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556986137) | AI/ML | United States, Washington, Redmond | 2026-10-02 | 2026-09-04 |
 | [Software Engineering Internship Opportunities - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557021513) 🆕 | Software | Czech Republic, Prague, Prague | 2026-10-01 | 2026-10-01 |
 | [Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond](https://apply.careers.microsoft.com/careers/job/1970393556922930) | Security | United States, Washington, Redmond | 2026-10-01 | 2026-08-04 |
 | [Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA](https://apply.careers.microsoft.com/careers/job/1970393556951950) | Software | United States, Washington, Redmond | 2026-10-01 | 2026-08-03 |
@@ -395,7 +398,6 @@ GitHub Actions.
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556911730) | Software | India, Multiple Locations, Multiple Locations | 2026-09-18 | 2026-07-09 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556999316) | Software | Mexico, Multiple Locations, Multiple Locations | 2026-09-16 | 2026-09-16 |
 | [Data Science: PhD Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556982928) | Data | United States, Washington, Redmond | 2026-09-16 | 2026-09-02 |
-| [Applied Science: PhD Microsoft AI Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393556868271) | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-09-16 | 2026-07-09 |
 | [Applied Science: PhD Internship Opportunities - Multiple Locations](https://apply.careers.microsoft.com/careers/job/1970393556986140) | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-09-16 | 2026-09-03 |
 | [Cloud Solution Architecture Intern](https://apply.careers.microsoft.com/careers/job/1970393556998387) | Backend/Infra | Belgium, Brussels Region, Brussels | 2026-09-14 | 2026-09-14 |
 | [Software Engineering Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556983221) | Software | United States, Washington, Redmond | 2026-09-11 | 2026-09-11 |
@@ -571,6 +573,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [2027 Summer Intern, Perception - Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8248327) 🆕 | AI/ML | Mountain View, CA, USA | 2026-10-02 | 2026-10-02 |
 | [2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations](https://careers.withwaymo.com/jobs?gh_jid=8243556) 🆕 | AI/ML | Mountain View, CA, USA | 2026-10-01 | 2026-10-01 |
 | [2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern](https://careers.withwaymo.com/jobs?gh_jid=8248060) 🆕 | AI/ML | Mountain View, CA, USA | 2026-10-01 | 2026-10-02 |
 | [2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform](https://careers.withwaymo.com/jobs?gh_jid=8240198) 🆕 | Backend/Infra | Mountain View, CA, USA | 2026-09-30 | 2026-09-30 |
