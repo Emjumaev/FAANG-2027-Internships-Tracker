@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-10-04 19:46:44 UTC** · 📌 **427** open internships
+> 🕐 Last updated: **2026-10-04 23:18:56 UTC** · 📌 **428** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -36,7 +36,7 @@ GitHub Actions.
 | [Meta](#meta) | 6 |
 | [Microsoft](#microsoft) | 29 |
 | MongoDB | — |
-| [NVIDIA](#nvidia) | 82 |
+| [NVIDIA](#nvidia) | 83 |
 | [Netflix](#netflix) | 2 |
 | OpenAI | — |
 | [Oracle](#oracle) | 3 |
@@ -414,6 +414,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Data Processing Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708) 🆕 | Data | 6 Locations | 2026-10-04 | 2026-10-04 |
 | [PhD Research Intern, Embodied and Agentic AI - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Embodied-and-Agentic-AI---2027_JR2025792) 🆕 | AI/ML | 2 Locations | 2026-10-02 | 2026-10-02 |
 | [Software Engineer Intern, AI and DL Kernel Libraries - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineer-Intern--AI-and-DL-Kernel-Libraries---2027_JR2026307) 🆕 | AI/ML | China, Shanghai | 2026-09-30 | 2026-09-30 |
 | [PhD Research Intern, Robotics - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647) | AI/ML | 2 Locations | 2026-09-30 | 2026-09-21 |
