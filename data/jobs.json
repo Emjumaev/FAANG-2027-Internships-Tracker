@@ -58,6 +58,20 @@
       "title": "2027 Intern - Software Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666"
     },
+    "adobe:R172064": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Adobe",
+      "external_id": "R172064",
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
+      "locations": [
+        "6 Locations"
+      ],
+      "posted": "2026-10-05",
+      "title": "2027 Intern - Applied and Research Scientist/Engineer",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064"
+    },
     "amazon:10375983": {
       "active": false,
       "category": "Software",
@@ -2591,8 +2605,9 @@
       "url": "https://careers.cisco.com/global/en/job/2025886"
     },
     "cisco:2025890": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-05",
       "company": "Cisco",
       "external_id": "2025890",
       "first_seen": "2026-09-16",
@@ -2935,6 +2950,20 @@
       "posted": "2026-09-16",
       "title": "Software Engineer Intern (2027) - Austin, TX",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958"
+    },
+    "cloudflare:8241790": {
+      "active": true,
+      "category": "Data",
+      "company": "Cloudflare",
+      "external_id": "8241790",
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
+      "locations": [
+        "Hybrid"
+      ],
+      "posted": "2026-10-05",
+      "title": "People Analytics Data Engineering Intern (Winter/Spring 2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790"
     },
     "coinbase:8168315": {
       "active": true,
@@ -3284,6 +3313,20 @@
       "posted": "2026-09-21",
       "title": "PhD Intern, Data Science (2027)",
       "url": "https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004"
+    },
+    "figma:6207801004": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Figma",
+      "external_id": "6207801004",
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
+      "locations": [
+        "San Francisco, CA \u2022 New York, NY"
+      ],
+      "posted": "2026-10-05",
+      "title": "PhD Intern, AI Applied Scientist (2027)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004"
     },
     "google:100028133205254854": {
       "active": true,
@@ -4613,8 +4656,9 @@
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083"
     },
     "hudson-river-trading:8222413": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-10-05",
       "company": "Hudson River Trading",
       "external_id": "8222413",
       "first_seen": "2026-09-23",
@@ -4627,8 +4671,9 @@
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222413"
     },
     "hudson-river-trading:8222414": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-10-05",
       "company": "Hudson River Trading",
       "external_id": "8222414",
       "first_seen": "2026-09-23",
@@ -4639,6 +4684,21 @@
       "posted": "2026-09-22",
       "title": "Data Scientist Intern - 2027",
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414"
+    },
+    "hudson-river-trading:8257369": {
+      "active": true,
+      "category": "Data",
+      "company": "Hudson River Trading",
+      "external_id": "8257369",
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
+      "locations": [
+        "London, United Kingdom",
+        "New York, NY, United States"
+      ],
+      "posted": "2026-10-05",
+      "title": "Data Scientist Intern - 2027",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369"
     },
     "intel:JR0282639": {
       "active": false,
@@ -5234,17 +5294,17 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836"
     },
     "intel:JR0286849": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-09-21",
       "company": "Intel",
       "external_id": "JR0286849",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-10-05",
       "locations": [
         "Canada, Toronto"
       ],
-      "posted": "2026-09-10",
+      "posted": "2026-10-05",
       "title": "Compiler Engineering Undergraduate Intern - SYCL Runtime",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849"
     },
@@ -5507,6 +5567,20 @@
       "title": "Software Engineering - PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1"
     },
+    "intel:JR0287524": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Intel",
+      "external_id": "JR0287524",
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
+      "locations": [
+        "US, California, Santa Clara"
+      ],
+      "posted": "2026-10-05",
+      "title": "AI Solution Architect - Graduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524"
+    },
     "intel:JR0287525": {
       "active": true,
       "category": "AI/ML",
@@ -5520,6 +5594,34 @@
       "posted": "2026-09-30",
       "title": "Research Scientist Intern - Graphics, ML",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525"
+    },
+    "intel:JR0287530": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Intel",
+      "external_id": "JR0287530",
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
+      "locations": [
+        "US, California, Santa Clara"
+      ],
+      "posted": "2026-10-05",
+      "title": "AI Solution Architect Graduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530"
+    },
+    "intel:JR0287531": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Intel",
+      "external_id": "JR0287531",
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
+      "locations": [
+        "US, Oregon, Hillsboro"
+      ],
+      "posted": "2026-10-05",
+      "title": "AI Solution Architect - Undergraduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Solution-Architect---Graduate-Intern_JR0287531"
     },
     "intel:JR0287535": {
       "active": true,
@@ -5564,8 +5666,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539"
     },
     "intel:JR0287544": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-05",
       "company": "Intel",
       "external_id": "JR0287544",
       "first_seen": "2026-10-01",
@@ -5578,8 +5681,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544"
     },
     "intel:JR0287583": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-05",
       "company": "Intel",
       "external_id": "JR0287583",
       "first_seen": "2026-10-01",
@@ -6273,9 +6377,9 @@
       "url": "https://www.metacareers.com/jobs/1710381673750348"
     },
     "meta:1782902493113620": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-09-11",
+      "closed": "2026-10-05",
       "company": "Meta",
       "external_id": "1782902493113620",
       "first_seen": "2026-07-09",
@@ -9182,6 +9286,20 @@
       "title": "Image and Data Processing Libraries Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517"
     },
+    "nvidia:JR2026567": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "NVIDIA",
+      "external_id": "JR2026567",
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
+      "locations": [
+        "China, Shanghai"
+      ],
+      "posted": "2026-10-05",
+      "title": "GPU Compiler LLVM Backend Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/GPU-Compiler-LLVM-Backend-Intern---2027_JR2026567"
+    },
     "nvidia:JR2026569": {
       "active": true,
       "category": "Data",
@@ -9595,6 +9713,20 @@
       "posted": "2026-10-01",
       "title": "Machine Learning Intern 2027 (Zurich)",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214757"
+    },
+    "pinterest:8244922": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Pinterest",
+      "external_id": "8244922",
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
+      "locations": [
+        "Dublin, IE"
+      ],
+      "posted": "2026-10-05",
+      "title": "Machine Learning Intern 2027 (Dublin)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8244922"
     },
     "salesforce:JR337715": {
       "active": false,
@@ -10459,7 +10591,7 @@
         "Mountain View, California"
       ],
       "posted": "2026-09-23",
-      "title": "2027 Summer Intern, PhD, Road Understanding, ML Engineer",
+      "title": "2027 Summer Intern, PhD, Perception/Road Understanding, ML Engineer",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746"
     },
     "waymo:8224900": {
@@ -10657,7 +10789,35 @@
       "posted": "2026-10-02",
       "title": "2027 Summer Intern, Perception - Evaluation",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8248327"
+    },
+    "waymo:8257159": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "external_id": "8257159",
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-10-05",
+      "title": "2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8257159"
+    },
+    "waymo:8257205": {
+      "active": true,
+      "category": "Data",
+      "company": "Waymo",
+      "external_id": "8257205",
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-10-05",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8257205"
     }
   },
-  "updated_at": "2026-10-05T14:52:51Z"
+  "updated_at": "2026-10-05T22:47:01Z"
 }
