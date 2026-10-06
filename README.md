@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-10-06 15:21:04 UTC** · 📌 **448** open internships
+> 🕐 Last updated: **2026-10-06 21:07:42 UTC** · 📌 **457** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -16,7 +16,7 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 3 |
 | Airbnb | — |
-| [Amazon](#amazon) | 69 |
+| [Amazon](#amazon) | 72 |
 | Anthropic | — |
 | [Apple](#apple) | 27 |
 | Bloomberg | — |
@@ -30,16 +30,16 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 38 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [Intel](#intel) | 29 |
+| [Intel](#intel) | 28 |
 | [Jane Street](#jane-street) | 19 |
-| [Lyft](#lyft) | 15 |
-| [Meta](#meta) | 5 |
+| [Lyft](#lyft) | 16 |
+| [Meta](#meta) | 9 |
 | [Microsoft](#microsoft) | 28 |
 | MongoDB | — |
 | [NVIDIA](#nvidia) | 93 |
 | [Netflix](#netflix) | 1 |
 | OpenAI | — |
-| [Oracle](#oracle) | 3 |
+| [Oracle](#oracle) | 2 |
 | PayPal | — |
 | [Pinterest](#pinterest) | 11 |
 | Reddit | — |
@@ -50,7 +50,7 @@ GitHub Actions.
 | Spotify | — |
 | [Stripe](#stripe) | 13 |
 | Uber | — |
-| [Waymo](#waymo) | 36 |
+| [Waymo](#waymo) | 39 |
 | ByteDance | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* |
 | Tesla | *careers site and its JSON API sit behind Akamai bot protection that returns 403 to every non-browser client; needs a headless browser* |
 
@@ -68,6 +68,8 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)](https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa) 🆕 | Mobile | Seattle, Washington, USA | 2026-10-06 | 2026-10-06 |
+| [Network Development Engineer Intern](https://www.amazon.jobs/en/jobs/10571025/network-development-engineer-intern) 🆕 | Backend/Infra | Dublin, IRL | 2026-10-06 | 2026-10-06 |
 | [Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)](https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa) 🆕 | Backend/Infra | Seattle, Washington, USA | 2026-10-02 | 2026-10-02 |
 | [Cloud Support Associate Internship - April 2027 start, Support Engineering, Support Engineering](https://www.amazon.jobs/en/jobs/10567710/cloud-support-associate-internship-april-2027-start-support-engineering-support-engineering) 🆕 | Backend/Infra | Nairobi, KEN | 2026-10-02 | 2026-10-02 |
 | [Cloud Support Associate Internship - April 2027 start, Support Engineering](https://www.amazon.jobs/en/jobs/10567708/cloud-support-associate-internship-april-2027-start-support-engineering) 🆕 | Backend/Infra | Cape Town, Western Cape, ZAF | 2026-10-02 | 2026-10-02 |
@@ -105,6 +107,7 @@ GitHub Actions.
 | [2027 Software Dev Engineer Intern - Luxembourg](https://www.amazon.jobs/en/jobs/10554706/2027-software-dev-engineer-intern-luxembourg) | Software | Luxembourg, LUX | 2026-09-21 | 2026-09-22 |
 | [2027 Software Dev Engineer Intern - Iași, Romania](https://www.amazon.jobs/en/jobs/10554652/2027-software-dev-engineer-intern-ia-i-romania) | Software | Iasi, ROU | 2026-09-21 | 2026-09-21 |
 | [2027 Software Dev Engineer Intern - Germany](https://www.amazon.jobs/en/jobs/10554717/2027-software-dev-engineer-intern-germany) 🆕 | Software | Berlin, Berlin, DEU | 2026-09-21 | 2026-10-06 |
+| [2027 Software Dev Engineer Intern - Germany](https://www.amazon.jobs/en/jobs/10554701/2027-software-dev-engineer-intern-germany) 🆕 | Software | Berlin, Berlin, DEU | 2026-09-21 | 2026-10-06 |
 | [2027 Software Dev Engineer Intern - Bucharest, Romania](https://www.amazon.jobs/en/jobs/10554669/2027-software-dev-engineer-intern-bucharest-romania) | Software | Bucharest, ROU | 2026-09-21 | 2026-09-21 |
 | [Software Development Engineer Intern - Summer 2027 (CAN)](https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can) | Software | Vancouver, British Columbia, CAN | 2026-09-18 | 2026-09-18 |
 | [Business Intelligence Intern 2027, AUTA](https://www.amazon.jobs/en/jobs/10553707/business-intelligence-intern-2027-auta) | Data | Mexico City, Mexico City, MEX | 2026-09-18 | 2026-09-18 |
@@ -302,7 +305,6 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675) 🆕 | Backend/Infra | Germany, Munich | 2026-10-05 | 2026-10-05 |
-| [Compiler Engineering Undergraduate Intern - SYCL Runtime](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849) | Backend/Infra | Canada, Toronto | 2026-10-05 | 2026-09-10 |
 | [AI Solution Architect Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530) 🆕 | AI/ML | US, California, Santa Clara | 2026-10-05 | 2026-10-05 |
 | [AI Solution Architect - Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Solution-Architect---Graduate-Intern_JR0287531) 🆕 | AI/ML | US, Oregon, Hillsboro | 2026-10-05 | 2026-10-05 |
 | [AI Solution Architect - Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524) 🆕 | AI/ML | US, California, Santa Clara | 2026-10-05 | 2026-10-05 |
@@ -359,8 +361,9 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [PhD Machine Learning Software Engineer Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) 🆕 | AI/ML | San Francisco, CA | 2026-10-06 | 2026-10-06 |
 | [Hardware Field Quality Engineer Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002) 🆕 | QA | Longueuil, Canada | 2026-10-02 | 2026-10-02 |
-| [Applied Scientist Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) 🆕 | AI/ML | San Francisco, CA | 2026-09-28 | 2026-09-29 |
+| [Applied Scientist Intern, PhD (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) 🆕 | AI/ML | San Francisco, CA | 2026-09-28 | 2026-09-29 |
 | [Software Engineer Intern, Test Automation (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002) | Software | Montreal, Canada | 2026-09-11 | 2026-09-11 |
 | [Software Engineer Intern, Machine Learning (Summer 2027 - Toronto)](https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002) | AI/ML | Toronto, Canada | 2026-09-11 | 2026-09-11 |
 | [Software Engineer Intern, Fullstack (Summer 2027 - Toronto)](https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002) | Software | Toronto, Canada | 2026-09-11 | 2026-09-11 |
@@ -379,6 +382,10 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineering Intern](https://www.metacareers.com/jobs/1952991802037374) 🆕 | Software | Bellevue, WA; Menlo Park, CA; New York, NY *(+1 more)* | — | 2026-10-06 |
+| [Software Engineer Intern, Systems and Infrastructure (PhD)](https://www.metacareers.com/jobs/945520495299801) 🆕 | Backend/Infra | Bellevue, WA; Burlingame, CA; Menlo Park, CA *(+4 more)* | — | 2026-10-06 |
+| [Software Engineer Intern, Machine Learning (PhD)](https://www.metacareers.com/jobs/2180490782513668) 🆕 | AI/ML | Bellevue, WA; Burlingame, CA; Menlo Park, CA *(+4 more)* | — | 2026-10-06 |
+| [Data Scientist Intern, Product Analytics (Summer 2027)](https://www.metacareers.com/jobs/1633096478817942) 🆕 | Data | Menlo Park, CA; New York, NY | — | 2026-10-06 |
 | [Research Scientist Intern, Robotics - Meta Superintelligence Labs (PhD)](https://www.metacareers.com/jobs/1940312740718917) 🆕 | AI/ML | Menlo Park, CA | — | 2026-10-02 |
 | [Data Engineer Intern, Product Analytics (Summer 2027)](https://www.metacareers.com/jobs/1373603594867455) | Data | Menlo Park, CA; New York, NY; Seattle, WA | — | 2026-09-28 |
 | [Network Production Engineer Intern](https://www.metacareers.com/jobs/1412139847020398) | Backend/Infra | Menlo Park, CA | — | 2026-09-23 |
@@ -528,7 +535,6 @@ GitHub Actions.
 |---|---|---|---|---|
 | [CEGIU Demo Data Strategy Intern - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334396) | Data | Redwood City, CA, United States; Rocklin, CA, United States; Santa Clara, CA, United States *(+3 more)* | 2026-05-23 | 2026-07-09 |
 | [ONA AI Agent Intern (Logistics Focus) - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334345) | AI/ML | Austin, TX, United States; United States | 2026-05-22 | 2026-07-09 |
-| [OCI Software Engineer Intern - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334333) | Software | Austin, TX, United States; Nashville, TN, United States; United States | 2026-05-22 | 2026-07-09 |
 
 ## Pinterest
 
@@ -592,6 +598,9 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [2027 Summer Intern, MS, PhD, Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8250220) 🆕 | Software | Mountain View, California, United States | 2026-10-06 | 2026-10-06 |
+| [2027 Summer Intern, BS, Waymo ML Ops & Automation](https://careers.withwaymo.com/jobs?gh_jid=8257237) 🆕 | AI/ML | Mountain View, CA, USA | 2026-10-06 | 2026-10-06 |
+| [2027 Summer Intern, BS, Software Engineer, Model Eval](https://careers.withwaymo.com/jobs?gh_jid=8257660) 🆕 | Software | Mountain View, CA, USA | 2026-10-06 | 2026-10-06 |
 | [2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra](https://careers.withwaymo.com/jobs?gh_jid=8257205) 🆕 | Data | Mountain View, CA, USA | 2026-10-05 | 2026-10-05 |
 | [2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery](https://careers.withwaymo.com/jobs?gh_jid=8257159) 🆕 | AI/ML | Mountain View, CA, USA | 2026-10-05 | 2026-10-05 |
 | [2027 Summer Intern, MS/PhD, Perception, Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8248327) 🆕 | AI/ML | Mountain View, CA, USA | 2026-10-02 | 2026-10-02 |
