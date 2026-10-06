@@ -859,6 +859,20 @@
       "title": "2027 Software Dev Engineer Intern - Bucharest, Romania",
       "url": "https://www.amazon.jobs/en/jobs/10554669/2027-software-dev-engineer-intern-bucharest-romania"
     },
+    "amazon:10554701": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10554701",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "locations": [
+        "Berlin, Berlin, DEU"
+      ],
+      "posted": "2026-09-21",
+      "title": "2027 Software Dev Engineer Intern - Germany",
+      "url": "https://www.amazon.jobs/en/jobs/10554701/2027-software-dev-engineer-intern-germany"
+    },
     "amazon:10554706": {
       "active": true,
       "category": "Software",
@@ -1408,6 +1422,34 @@
       "posted": "2026-10-02",
       "title": "Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)",
       "url": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa"
+    },
+    "amazon:10571004": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Amazon",
+      "external_id": "10571004",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "posted": "2026-10-06",
+      "title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
+      "url": "https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa"
+    },
+    "amazon:10571025": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Amazon",
+      "external_id": "10571025",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "locations": [
+        "Dublin, IRL"
+      ],
+      "posted": "2026-10-06",
+      "title": "Network Development Engineer Intern",
+      "url": "https://www.amazon.jobs/en/jobs/10571025/network-development-engineer-intern"
     },
     "amazon:3063220": {
       "active": false,
@@ -5365,9 +5407,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836"
     },
     "intel:JR0286849": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-09-21",
+      "closed": "2026-10-06",
       "company": "Intel",
       "external_id": "JR0286849",
       "first_seen": "2026-09-10",
@@ -6316,6 +6358,20 @@
       "title": "Software Engineer Intern, Machine Learning (Summer 2027 - Toronto)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002"
     },
+    "lyft:8817974002": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Lyft",
+      "external_id": "8817974002",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "posted": "2026-10-06",
+      "title": "PhD Machine Learning Software Engineer Intern (Summer 2027)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002"
+    },
     "lyft:8843341002": {
       "active": true,
       "category": "AI/ML",
@@ -6327,7 +6383,7 @@
         "San Francisco, CA"
       ],
       "posted": "2026-09-28",
-      "title": "Applied Scientist Intern (Summer 2027)",
+      "title": "Applied Scientist Intern, PhD (Summer 2027)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002"
     },
     "lyft:8862215002": {
@@ -6432,6 +6488,21 @@
       "title": "Research Scientist Intern, Applied Vision and Image Quality (PhD)",
       "url": "https://www.metacareers.com/jobs/1422892385992613"
     },
+    "meta:1633096478817942": {
+      "active": true,
+      "category": "Data",
+      "company": "Meta",
+      "external_id": "1633096478817942",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "locations": [
+        "Menlo Park, CA",
+        "New York, NY"
+      ],
+      "posted": null,
+      "title": "Data Scientist Intern, Product Analytics (Summer 2027)",
+      "url": "https://www.metacareers.com/jobs/1633096478817942"
+    },
     "meta:1710381673750348": {
       "active": false,
       "category": "AI/ML",
@@ -6495,6 +6566,23 @@
       "title": "Research Scientist Intern, Robotics - Meta Superintelligence Labs (PhD)",
       "url": "https://www.metacareers.com/jobs/1940312740718917"
     },
+    "meta:1952991802037374": {
+      "active": true,
+      "category": "Software",
+      "company": "Meta",
+      "external_id": "1952991802037374",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "locations": [
+        "Bellevue, WA",
+        "Menlo Park, CA",
+        "New York, NY",
+        "Seattle, WA"
+      ],
+      "posted": null,
+      "title": "Software Engineering Intern",
+      "url": "https://www.metacareers.com/jobs/1952991802037374"
+    },
     "meta:1976111093092020": {
       "active": false,
       "category": "AI/ML",
@@ -6542,6 +6630,26 @@
       "posted": null,
       "title": "Research Scientist Intern, Embedded Contextual AI on Wearables (PhD)",
       "url": "https://www.metacareers.com/jobs/2160167211413098"
+    },
+    "meta:2180490782513668": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "external_id": "2180490782513668",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "locations": [
+        "Bellevue, WA",
+        "Burlingame, CA",
+        "Menlo Park, CA",
+        "New York, NY",
+        "Redmond, WA",
+        "Seattle, WA",
+        "Sunnyvale, CA"
+      ],
+      "posted": null,
+      "title": "Software Engineer Intern, Machine Learning (PhD)",
+      "url": "https://www.metacareers.com/jobs/2180490782513668"
     },
     "meta:2281218542616482": {
       "active": false,
@@ -6691,6 +6799,26 @@
       "posted": null,
       "title": "Research Scientist Intern, Photorealistic Telepresence (PhD)",
       "url": "https://www.metacareers.com/jobs/924149567345400"
+    },
+    "meta:945520495299801": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Meta",
+      "external_id": "945520495299801",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "locations": [
+        "Bellevue, WA",
+        "Burlingame, CA",
+        "Menlo Park, CA",
+        "New York, NY",
+        "Redmond, WA",
+        "Seattle, WA",
+        "Sunnyvale, CA"
+      ],
+      "posted": null,
+      "title": "Software Engineer Intern, Systems and Infrastructure (PhD)",
+      "url": "https://www.metacareers.com/jobs/945520495299801"
     },
     "microsoft:1970393556625311": {
       "active": false,
@@ -9558,8 +9686,9 @@
       "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334325"
     },
     "oracle:334333": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-06",
       "company": "Oracle",
       "external_id": "334333",
       "first_seen": "2026-07-09",
@@ -10918,6 +11047,20 @@
       "title": "2027 Summer Intern, MS/PhD, Perception, Evaluation",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8248327"
     },
+    "waymo:8250220": {
+      "active": true,
+      "category": "Software",
+      "company": "Waymo",
+      "external_id": "8250220",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "locations": [
+        "Mountain View, California, United States"
+      ],
+      "posted": "2026-10-06",
+      "title": "2027 Summer Intern, MS, PhD, Software Engineer",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8250220"
+    },
     "waymo:8257159": {
       "active": true,
       "category": "AI/ML",
@@ -10945,7 +11088,35 @@
       "posted": "2026-10-05",
       "title": "2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8257205"
+    },
+    "waymo:8257237": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "external_id": "8257237",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-10-06",
+      "title": "2027 Summer Intern, BS, Waymo ML Ops & Automation",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8257237"
+    },
+    "waymo:8257660": {
+      "active": true,
+      "category": "Software",
+      "company": "Waymo",
+      "external_id": "8257660",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-10-06",
+      "title": "2027 Summer Intern, BS, Software Engineer, Model Eval",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8257660"
     }
   },
-  "updated_at": "2026-10-06T15:21:04Z"
+  "updated_at": "2026-10-06T21:07:42Z"
 }
