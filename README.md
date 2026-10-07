@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-10-07 17:33:44 UTC** · 📌 **467** open internships
+> 🕐 Last updated: **2026-10-07 23:14:06 UTC** · 📌 **467** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -26,17 +26,17 @@ GitHub Actions.
 | [Databricks](#databricks) | 7 |
 | [DoorDash](#doordash) | 3 |
 | Dropbox | — |
-| [Figma](#figma) | 7 |
+| [Figma](#figma) | 6 |
 | GitHub | — |
 | [Google](#google) | 38 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [Intel](#intel) | 30 |
+| [Intel](#intel) | 29 |
 | [Jane Street](#jane-street) | 19 |
 | [Lyft](#lyft) | 16 |
 | [Meta](#meta) | 10 |
 | [Microsoft](#microsoft) | 33 |
 | MongoDB | — |
-| [NVIDIA](#nvidia) | 91 |
+| [NVIDIA](#nvidia) | 92 |
 | [Netflix](#netflix) | 1 |
 | OpenAI | — |
 | [Oracle](#oracle) | 2 |
@@ -50,7 +50,7 @@ GitHub Actions.
 | Spotify | — |
 | [Stripe](#stripe) | 13 |
 | Uber | — |
-| [Waymo](#waymo) | 40 |
+| [Waymo](#waymo) | 41 |
 | ByteDance | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* |
 | Tesla | *careers site and its JSON API sit behind Akamai bot protection that returns 403 to every non-browser client; needs a headless browser* |
 
@@ -251,7 +251,6 @@ GitHub Actions.
 | [Software Engineer Intern (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004) | Software | San Francisco, CA • New York, NY | 2026-09-14 | 2026-09-14 |
 | [Software Engineer Intern (London, United Kingdom) (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004) | Software | London, England | 2026-09-14 | 2026-09-14 |
 | [Data Science Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) | Data | San Francisco, CA • New York, NY | 2026-09-14 | 2026-09-14 |
-| [Software Engineer Intern (Winter 2027)](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004) | Software | San Francisco, CA • New York, NY | 2026-08-10 | 2026-09-04 |
 
 ## Google
 
@@ -307,7 +306,6 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Research Engineering - (PhD Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019) | AI/ML | US, Oregon, Hillsboro | 2026-10-07 | 2026-09-09 |
 | [Intern C++ Developer - Graphics Compute Driver (AI, HPC)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Intern-C---Developer---Graphics-Compute-Driver--AI--HPC-_JR0287886) 🆕 | AI/ML | Poland, Gdansk | 2026-10-07 | 2026-10-07 |
 | [GPU Software Performance Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Performance-Intern_JR0287884) 🆕 | Software | Poland, Gdansk | 2026-10-07 | 2026-10-07 |
 | [Data Science and Analytics - PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Data-Science-and-Analytics---PhD-Intern_JR0287859) 🆕 | Data | US, Oregon, Hillsboro | 2026-10-07 | 2026-10-07 |
@@ -440,13 +438,14 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [PhD Research Intern, Efficient Deep Learning - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478) 🆕 | AI/ML | 2 Locations | 2026-10-07 | 2026-10-06 |
+| [PhD Research Intern, AI-Aided Engineering – 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940) 🆕 | AI/ML | US, CA, Santa Clara | 2026-10-07 | 2026-10-07 |
 | [Software Engineer, Data Center Compute Software Tools (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Data-Center-Compute-Software-Tools--RDSS-Intern-_JR2025645) 🆕 | Data | Taiwan, Taipei | 2026-10-06 | 2026-10-06 |
 | [GPU Compiler LLVM Backend Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/GPU-Compiler-LLVM-Backend-Intern---2027_JR2026567) 🆕 | Backend/Infra | China, Shanghai | 2026-10-06 | 2026-10-05 |
 | [APAC Ecommerce Backend Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/APAC-Ecommerce-Backend-Intern---2027_JR2027030) 🆕 | Backend/Infra | 2 Locations | 2026-10-06 | 2026-10-06 |
 | [System Software Engineer - Embedded and Automotive (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-and-Automotive--RDSS-Intern-_JR2026965) 🆕 | Backend/Infra | Taiwan, Taipei | 2026-10-05 | 2026-10-05 |
 | [Software Engineering Intern, Nsight Systems - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/Software-Engineering-Intern--Nsight-Systems---2026_JR2007248) 🆕 | Software | 2 Locations | 2026-10-05 | 2026-10-05 |
 | [Software Engineer – DFT CAD Tools (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer---DFT-CAD-Tools--RDSS-Intern-_JR2026878-1) 🆕 | Software | Taiwan, Taipei | 2026-10-05 | 2026-10-05 |
-| [Research Intern, Efficient Deep Learning - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478) 🆕 | AI/ML | 2 Locations | 2026-10-05 | 2026-10-06 |
 | [NVIDIA 2027 Ignite Internships: Software Engineering](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958) 🆕 | Software | US, CA, Santa Clara | 2026-10-05 | 2026-10-05 |
 | [Data Processing Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708) 🆕 | Data | 6 Locations | 2026-10-05 | 2026-10-04 |
 | [AI Compiler Formal Verification Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025) 🆕 | AI/ML | 2 Locations | 2026-10-05 | 2026-10-05 |
@@ -607,6 +606,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [2027 Summer Intern, MS/PhD, Perception, Robotics](https://careers.withwaymo.com/jobs?gh_jid=8227633) 🆕 | AI/ML | Mountain View, CA, USA | 2026-10-07 | 2026-10-07 |
 | [2027 Summer Intern, MS/PhD,  Research, Perception Foundation Models](https://careers.withwaymo.com/jobs?gh_jid=8257801) 🆕 | AI/ML | Mountain View, CA, USA | 2026-10-07 | 2026-10-07 |
 | [2027 Summer Intern, MS, PhD, Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8250220) 🆕 | Software | Mountain View, California, United States | 2026-10-06 | 2026-10-06 |
 | [2027 Summer Intern, BS, Waymo ML Ops & Automation](https://careers.withwaymo.com/jobs?gh_jid=8257237) 🆕 | AI/ML | Mountain View, CA, USA | 2026-10-06 | 2026-10-06 |
