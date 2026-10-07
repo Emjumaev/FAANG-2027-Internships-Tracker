@@ -1423,6 +1423,20 @@
       "title": "Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)",
       "url": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa"
     },
+    "amazon:10568017": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10568017",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "locations": [
+        "Amsterdam, North Holland, NLD"
+      ],
+      "posted": "2026-10-05",
+      "title": "2027 Software Dev Engineer Intern - Netherlands",
+      "url": "https://www.amazon.jobs/en/jobs/10568017/2027-software-dev-engineer-intern-netherlands"
+    },
     "amazon:10571004": {
       "active": true,
       "category": "Mobile",
@@ -2281,17 +2295,17 @@
       "url": "https://jobs.apple.com/en-us/details/200680345/secure-kernel-engineering-intern-sydney"
     },
     "apple:200682229": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-09-23",
       "company": "Apple",
       "external_id": "200682229",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-10-07",
       "locations": [
         "Munich"
       ],
-      "posted": "2026-09-07",
+      "posted": "2026-10-07",
       "title": "PHY Cellular Firmware Engineer Internship",
       "url": "https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship"
     },
@@ -2463,6 +2477,20 @@
       "posted": "2026-10-06",
       "title": "Internship - Software Engineering - AI-Augmented Static Code Analysis",
       "url": "https://jobs.apple.com/en-us/details/200687209/internship-software-engineering-ai-augmented-static-code-analysis"
+    },
+    "apple:200687726": {
+      "active": true,
+      "category": "QA",
+      "company": "Apple",
+      "external_id": "200687726",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "locations": [
+        "Nabern"
+      ],
+      "posted": "2026-10-07",
+      "title": "PMU Silicon Validation Intern (m/f/d)",
+      "url": "https://jobs.apple.com/en-us/details/200687726/pmu-silicon-validation-intern-m-f-d"
     },
     "cisco:2005347": {
       "active": false,
@@ -5635,7 +5663,7 @@
       "locations": [
         "US, Oregon, Hillsboro"
       ],
-      "posted": "2026-09-09",
+      "posted": "2026-10-07",
       "title": "Software Research Engineering - (PhD Intern)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019"
     },
@@ -5754,8 +5782,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530"
     },
     "intel:JR0287531": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-07",
       "company": "Intel",
       "external_id": "JR0287531",
       "first_seen": "2026-10-05",
@@ -5880,6 +5909,62 @@
       "posted": "2026-10-05",
       "title": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675"
+    },
+    "intel:JR0287859": {
+      "active": true,
+      "category": "Data",
+      "company": "Intel",
+      "external_id": "JR0287859",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "locations": [
+        "US, Oregon, Hillsboro"
+      ],
+      "posted": "2026-10-07",
+      "title": "Data Science and Analytics - PhD Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Data-Science-and-Analytics---PhD-Intern_JR0287859"
+    },
+    "intel:JR0287884": {
+      "active": true,
+      "category": "Software",
+      "company": "Intel",
+      "external_id": "JR0287884",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-07",
+      "title": "GPU Software Performance Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Performance-Intern_JR0287884"
+    },
+    "intel:JR0287886": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Intel",
+      "external_id": "JR0287886",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-07",
+      "title": "Intern C++ Developer - Graphics Compute Driver (AI, HPC)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Intern-C---Developer---Graphics-Compute-Driver--AI--HPC-_JR0287886"
+    },
+    "intel:JR0287931": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Intel",
+      "external_id": "JR0287931",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "locations": [
+        "US, Oregon, Hillsboro"
+      ],
+      "posted": "2026-10-07",
+      "title": "AI Solution Architect - Undergraduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Solution-Architect---Undergraduate-Intern_JR0287931"
     },
     "jane-street:5866838002": {
       "active": true,
@@ -7603,22 +7688,22 @@
         "United States, California, Mountain View",
         "United States, Washington, Redmond"
       ],
-      "posted": "2026-09-16",
+      "posted": "2026-10-07",
       "title": "Applied Science: PhD Internship Opportunities - Multiple Locations",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556986140"
     },
     "microsoft:1970393556986141": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-09-09",
       "company": "Microsoft",
       "external_id": "1970393556986141",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-10-07",
       "locations": [
         "United States, Washington, Redmond"
       ],
-      "posted": "2026-09-03",
+      "posted": "2026-10-07",
       "title": "Applied Science: Internship Opportunities - Redmond",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556986141"
     },
@@ -7697,17 +7782,17 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556991773"
     },
     "microsoft:1970393556997800": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-06",
       "company": "Microsoft",
       "external_id": "1970393556997800",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-07",
       "locations": [
         "India, Multiple Locations, Multiple Locations"
       ],
-      "posted": "2026-09-25",
+      "posted": "2026-10-07",
       "title": "Applied Sciences INTERN",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556997800"
     },
@@ -7800,6 +7885,20 @@
       "title": "Software Engineer: Intern Opportunity for University Students",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557004819"
     },
+    "microsoft:1970393557006399": {
+      "active": true,
+      "category": "Software",
+      "company": "Microsoft",
+      "external_id": "1970393557006399",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "locations": [
+        "Serbia, Belgrade, Belgrade"
+      ],
+      "posted": "2026-10-07",
+      "title": "Software Engineering INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557006399"
+    },
     "microsoft:1970393557007677": {
       "active": false,
       "category": "Software",
@@ -7861,19 +7960,33 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557019490"
     },
     "microsoft:1970393557021513": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-06",
       "company": "Microsoft",
       "external_id": "1970393557021513",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "locations": [
         "Czech Republic, Prague, Prague"
       ],
-      "posted": "2026-10-01",
+      "posted": "2026-10-07",
       "title": "Software Engineering Internship Opportunities - CoreAI",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557021513"
+    },
+    "microsoft:1970393557021515": {
+      "active": true,
+      "category": "Software",
+      "company": "Microsoft",
+      "external_id": "1970393557021515",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "locations": [
+        "Czech Republic, Multiple Locations, Multiple Locations"
+      ],
+      "posted": "2026-10-07",
+      "title": "Software Engineering Internship Opportunities",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557021515"
     },
     "microsoft:1970393557022480": {
       "active": true,
@@ -7902,6 +8015,34 @@
       "posted": "2026-10-05",
       "title": "Firmware Engineering Internship (6-month Program)",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557023161"
+    },
+    "microsoft:1970393557025004": {
+      "active": true,
+      "category": "Software",
+      "company": "Microsoft",
+      "external_id": "1970393557025004",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "locations": [
+        "United Kingdom, London, London"
+      ],
+      "posted": "2026-10-07",
+      "title": "Software Engineering Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557025004"
+    },
+    "microsoft:1970393557025005": {
+      "active": true,
+      "category": "Software",
+      "company": "Microsoft",
+      "external_id": "1970393557025005",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "locations": [
+        "Ireland, Dublin, Dublin"
+      ],
+      "posted": "2026-10-07",
+      "title": "Software Engineer Internship Opportunities",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557025005"
     },
     "netflix:790313241540": {
       "active": false,
@@ -11182,5 +11323,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8257801"
     }
   },
-  "updated_at": "2026-10-07T08:49:12Z"
+  "updated_at": "2026-10-07T17:33:44Z"
 }
