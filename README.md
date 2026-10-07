@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-10-07 08:49:12 UTC** · 📌 **454** open internships
+> 🕐 Last updated: **2026-10-07 17:33:44 UTC** · 📌 **467** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -16,9 +16,9 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 3 |
 | Airbnb | — |
-| [Amazon](#amazon) | 73 |
+| [Amazon](#amazon) | 74 |
 | Anthropic | — |
-| [Apple](#apple) | 26 |
+| [Apple](#apple) | 28 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 19 |
 | [Cloudflare](#cloudflare) | 4 |
@@ -30,11 +30,11 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 38 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [Intel](#intel) | 27 |
+| [Intel](#intel) | 30 |
 | [Jane Street](#jane-street) | 19 |
 | [Lyft](#lyft) | 16 |
 | [Meta](#meta) | 10 |
-| [Microsoft](#microsoft) | 26 |
+| [Microsoft](#microsoft) | 33 |
 | MongoDB | — |
 | [NVIDIA](#nvidia) | 91 |
 | [Netflix](#netflix) | 1 |
@@ -71,6 +71,7 @@ GitHub Actions.
 | [Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA)](https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) 🆕 | Backend/Infra | Redmond, Washington, USA | 2026-10-07 | 2026-10-07 |
 | [Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)](https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa) 🆕 | Mobile | Seattle, Washington, USA | 2026-10-06 | 2026-10-06 |
 | [Network Development Engineer Intern](https://www.amazon.jobs/en/jobs/10571025/network-development-engineer-intern) 🆕 | Backend/Infra | Dublin, IRL | 2026-10-06 | 2026-10-06 |
+| [2027 Software Dev Engineer Intern - Netherlands](https://www.amazon.jobs/en/jobs/10568017/2027-software-dev-engineer-intern-netherlands) 🆕 | Software | Amsterdam, North Holland, NLD | 2026-10-05 | 2026-10-07 |
 | [Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)](https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa) 🆕 | Backend/Infra | Seattle, Washington, USA | 2026-10-02 | 2026-10-02 |
 | [Cloud Support Associate Internship - April 2027 start, Support Engineering, Support Engineering](https://www.amazon.jobs/en/jobs/10567710/cloud-support-associate-internship-april-2027-start-support-engineering-support-engineering) 🆕 | Backend/Infra | Nairobi, KEN | 2026-10-02 | 2026-10-02 |
 | [Cloud Support Associate Internship - April 2027 start, Support Engineering](https://www.amazon.jobs/en/jobs/10567708/cloud-support-associate-internship-april-2027-start-support-engineering) 🆕 | Backend/Infra | Cape Town, Western Cape, ZAF | 2026-10-02 | 2026-10-02 |
@@ -146,6 +147,8 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [PMU Silicon Validation Intern (m/f/d)](https://jobs.apple.com/en-us/details/200687726/pmu-silicon-validation-intern-m-f-d) 🆕 | QA | Nabern | 2026-10-07 | 2026-10-07 |
+| [PHY Cellular Firmware Engineer Internship](https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship) | Backend/Infra | Munich | 2026-10-07 | 2026-09-07 |
 | [Internship - Software Engineering - Wireless Data Science](https://jobs.apple.com/en-us/details/200686958/internship-software-engineering-wireless-data-science) 🆕 | Data | Munich | 2026-10-06 | 2026-10-06 |
 | [Internship - Software Engineering - AI-Augmented Static Code Analysis](https://jobs.apple.com/en-us/details/200687209/internship-software-engineering-ai-augmented-static-code-analysis) 🆕 | AI/ML | Munich | 2026-10-06 | 2026-10-06 |
 | [AMS Lab Validation Intern](https://jobs.apple.com/en-us/details/200686742/ams-lab-validation-intern) 🆕 | QA | Munich | 2026-10-01 | 2026-10-01 |
@@ -304,9 +307,13 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Research Engineering - (PhD Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019) | AI/ML | US, Oregon, Hillsboro | 2026-10-07 | 2026-09-09 |
+| [Intern C++ Developer - Graphics Compute Driver (AI, HPC)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Intern-C---Developer---Graphics-Compute-Driver--AI--HPC-_JR0287886) 🆕 | AI/ML | Poland, Gdansk | 2026-10-07 | 2026-10-07 |
+| [GPU Software Performance Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Performance-Intern_JR0287884) 🆕 | Software | Poland, Gdansk | 2026-10-07 | 2026-10-07 |
+| [Data Science and Analytics - PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Data-Science-and-Analytics---PhD-Intern_JR0287859) 🆕 | Data | US, Oregon, Hillsboro | 2026-10-07 | 2026-10-07 |
+| [AI Solution Architect - Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Solution-Architect---Undergraduate-Intern_JR0287931) 🆕 | AI/ML | US, Oregon, Hillsboro | 2026-10-07 | 2026-10-07 |
 | [Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675) 🆕 | Backend/Infra | Germany, Munich | 2026-10-05 | 2026-10-05 |
 | [AI Solution Architect Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530) 🆕 | AI/ML | US, California, Santa Clara | 2026-10-05 | 2026-10-05 |
-| [AI Solution Architect - Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Solution-Architect---Graduate-Intern_JR0287531) 🆕 | AI/ML | US, Oregon, Hillsboro | 2026-10-05 | 2026-10-05 |
 | [AI Solution Architect - Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524) 🆕 | AI/ML | US, California, Santa Clara | 2026-10-05 | 2026-10-05 |
 | [Software Engineering - PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1) 🆕 | Software | US, Oregon, Hillsboro | 2026-10-02 | 2026-10-02 |
 | [GPU & AI Accelerator Hardware Design Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539) 🆕 | AI/ML | Canada, Toronto | 2026-10-02 | 2026-10-02 |
@@ -322,7 +329,6 @@ GitHub Actions.
 | [Operations Research, Engineering Analytics Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502) | Data | US, Arizona, Phoenix | 2026-09-16 | 2026-09-16 |
 | [System Technology Research Engineer - (PhD Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000) | AI/ML | 3 Locations | 2026-09-14 | 2026-09-14 |
 | [System Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/System-Software-Engineering-Intern_JR0286933) | Software | Malaysia, Kulim | 2026-09-09 | 2026-09-09 |
-| [Software Research Engineering - (PhD Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019) | AI/ML | US, Oregon, Hillsboro | 2026-09-09 | 2026-09-09 |
 | [DevOps and Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/DevOps-and-Software-Engineering-Intern_JR0286934) | Backend/Infra | Malaysia, Kulim | 2026-09-08 | 2026-09-08 |
 | [Intern System Software Development Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/Intern-System-Software-Development-Engineer_JR0286935) | Software | Malaysia, Kulim | 2026-09-07 | 2026-09-07 |
 | [Intern System Software Development Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286955) | Software | Malaysia, Penang | 2026-09-07 | 2026-09-07 |
@@ -396,6 +402,14 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineering Internship Opportunities - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557021513) 🆕 | Software | Czech Republic, Prague, Prague | 2026-10-07 | 2026-10-01 |
+| [Software Engineering Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557021515) 🆕 | Software | Czech Republic, Multiple Locations, Multiple Locations | 2026-10-07 | 2026-10-07 |
+| [Software Engineering Intern](https://apply.careers.microsoft.com/careers/job/1970393557025004) 🆕 | Software | United Kingdom, London, London | 2026-10-07 | 2026-10-07 |
+| [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557006399) 🆕 | Software | Serbia, Belgrade, Belgrade | 2026-10-07 | 2026-10-07 |
+| [Software Engineer Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557025005) 🆕 | Software | Ireland, Dublin, Dublin | 2026-10-07 | 2026-10-07 |
+| [Applied Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556997800) | AI/ML | India, Multiple Locations, Multiple Locations | 2026-10-07 | 2026-09-14 |
+| [Applied Science: PhD Internship Opportunities - Multiple Locations](https://apply.careers.microsoft.com/careers/job/1970393556986140) | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-10-07 | 2026-09-03 |
+| [Applied Science: Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556986141) | AI/ML | United States, Washington, Redmond | 2026-10-07 | 2026-09-03 |
 | [Applied Science: PhD Microsoft AI Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393556868271) | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-10-06 | 2026-07-09 |
 | [Firmware Engineering Internship (6-month Program)](https://apply.careers.microsoft.com/careers/job/1970393557023161) 🆕 | Backend/Infra | United States, California, Santa Clara | 2026-10-05 | 2026-10-05 |
 | [Penetration Tester: Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393556999327) 🆕 | Security | United States, Washington, Redmond | 2026-10-02 | 2026-10-02 |
@@ -413,7 +427,6 @@ GitHub Actions.
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556911730) | Software | India, Multiple Locations, Multiple Locations | 2026-09-18 | 2026-07-09 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556999316) | Software | Mexico, Multiple Locations, Multiple Locations | 2026-09-16 | 2026-09-16 |
 | [Data Science: PhD Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556982928) | Data | United States, Washington, Redmond | 2026-09-16 | 2026-09-02 |
-| [Applied Science: PhD Internship Opportunities - Multiple Locations](https://apply.careers.microsoft.com/careers/job/1970393556986140) | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-09-16 | 2026-09-03 |
 | [Cloud Solution Architecture Intern](https://apply.careers.microsoft.com/careers/job/1970393556998387) | Backend/Infra | Belgium, Brussels Region, Brussels | 2026-09-14 | 2026-09-14 |
 | [Software Engineering Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556983221) | Software | United States, Washington, Redmond | 2026-09-11 | 2026-09-11 |
 | [Software Engineering Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556983223) | Software | United States, Virginia, Reston | 2026-09-11 | 2026-09-11 |
