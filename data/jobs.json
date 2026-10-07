@@ -3401,8 +3401,9 @@
       "url": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224"
     },
     "figma:6131089004": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-07",
       "company": "Figma",
       "external_id": "6131089004",
       "first_seen": "2026-09-04",
@@ -5654,8 +5655,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000"
     },
     "intel:JR0287019": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-07",
       "company": "Intel",
       "external_id": "JR0287019",
       "first_seen": "2026-09-09",
@@ -9364,8 +9366,8 @@
       "locations": [
         "2 Locations"
       ],
-      "posted": "2026-10-05",
-      "title": "Research Intern, Efficient Deep Learning - 2027",
+      "posted": "2026-10-07",
+      "title": "PhD Research Intern, Efficient Deep Learning - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478"
     },
     "nvidia:JR2025538": {
@@ -9788,6 +9790,20 @@
       "posted": "2026-10-05",
       "title": "Software Engineer \u2013 DFT CAD Tools (RDSS Intern)",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer---DFT-CAD-Tools--RDSS-Intern-_JR2026878-1"
+    },
+    "nvidia:JR2026940": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2026940",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "locations": [
+        "US, CA, Santa Clara"
+      ],
+      "posted": "2026-10-07",
+      "title": "PhD Research Intern, AI-Aided Engineering \u2013 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940"
     },
     "nvidia:JR2026958": {
       "active": true,
@@ -11070,6 +11086,20 @@
       "title": "2027 Summer Intern, MS/PhD, Perception, Machine Learning",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8227411"
     },
+    "waymo:8227633": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "external_id": "8227633",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-10-07",
+      "title": "2027 Summer Intern, MS/PhD, Perception, Robotics",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8227633"
+    },
     "waymo:8227640": {
       "active": true,
       "category": "Software",
@@ -11323,5 +11353,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8257801"
     }
   },
-  "updated_at": "2026-10-07T17:33:44Z"
+  "updated_at": "2026-10-07T23:14:06Z"
 }
