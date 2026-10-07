@@ -1,6 +1,5 @@
 {
   "failed": {
-    "Microsoft": "request failed after 3 attempts: GET https://apply.careers.microsoft.com/api/pcsx/search (HTTP 429)",
     "Uber": "request failed after 3 attempts: POST https://www.uber.com/api/loadSearchJobsResults?localeCode=en (404 Client Error: Not Found for url: https://www.uber.com/api/loadSearchJobsResults?localeCode=en)"
   },
   "succeeded": [
@@ -24,6 +23,7 @@
     "Jane Street",
     "Lyft",
     "Meta",
+    "Microsoft",
     "MongoDB",
     "NVIDIA",
     "Netflix",
