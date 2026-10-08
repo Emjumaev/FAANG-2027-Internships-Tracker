@@ -1522,14 +1522,28 @@
       "title": "(Physical) Security Specialist Intern -  2027 Internship",
       "url": "https://www.amazon.jobs/en/jobs/10573018/physical-security-specialist-intern-2027-internship"
     },
+    "amazon:10573570": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "external_id": "10573570",
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "locations": [
+        "North Reading, Massachusetts, USA"
+      ],
+      "posted": "2026-10-08",
+      "title": "Embedded Firmware Co-op, Amazon Robotics - Spring 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027"
+    },
     "amazon:3063220": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-09-30",
       "company": "Amazon",
       "external_id": "3063220",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-08",
       "locations": [
         "Sao Paulo, Sao Paulo, BRA"
       ],
@@ -3443,8 +3457,9 @@
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8233953"
     },
     "doordash:8263774": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-08",
       "company": "DoorDash",
       "external_id": "8263774",
       "first_seen": "2026-10-08",
@@ -5569,8 +5584,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850"
     },
     "intel:JR0286862": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-10-08",
       "company": "Intel",
       "external_id": "JR0286862",
       "first_seen": "2026-09-23",
@@ -5728,17 +5744,17 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000"
     },
     "intel:JR0287019": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-07",
       "company": "Intel",
       "external_id": "JR0287019",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-08",
       "locations": [
         "US, Oregon, Hillsboro"
       ],
-      "posted": "2026-10-07",
+      "posted": "2026-10-08",
       "title": "Software Research Engineering - (PhD Intern)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019"
     },
@@ -6083,6 +6099,20 @@
       "title": "AI Frameworks Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Frameworks-Intern_JR0287895"
     },
+    "intel:JR0287923": {
+      "active": true,
+      "category": "Software",
+      "company": "Intel",
+      "external_id": "JR0287923",
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "locations": [
+        "Germany, Munich"
+      ],
+      "posted": "2026-10-08",
+      "title": "Software Engineering Undergraduate Intern (f/m/d)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923"
+    },
     "intel:JR0287931": {
       "active": true,
       "category": "AI/ML",
@@ -6096,6 +6126,20 @@
       "posted": "2026-10-07",
       "title": "AI Solution Architect - Undergraduate Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Solution-Architect---Undergraduate-Intern_JR0287931"
+    },
+    "intel:JR0287941": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Intel",
+      "external_id": "JR0287941",
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "locations": [
+        "PRC, Shanghai"
+      ],
+      "posted": "2026-10-08",
+      "title": "Compiler Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Compiler-Engineering-Intern_JR0287941"
     },
     "jane-street:5866838002": {
       "active": true,
@@ -7319,14 +7363,14 @@
       "locations": [
         "India, Multiple Locations, Multiple Locations"
       ],
-      "posted": "2026-09-24",
+      "posted": "2026-10-08",
       "title": "Data Science INTERN",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556917520"
     },
     "microsoft:1970393556922922": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-09-08",
+      "closed": "2026-10-08",
       "company": "Microsoft",
       "external_id": "1970393556922922",
       "first_seen": "2026-08-04",
@@ -7339,9 +7383,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922"
     },
     "microsoft:1970393556922923": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-09-08",
+      "closed": "2026-10-08",
       "company": "Microsoft",
       "external_id": "1970393556922923",
       "first_seen": "2026-08-04",
@@ -7354,9 +7398,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923"
     },
     "microsoft:1970393556922929": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-09-08",
+      "closed": "2026-10-08",
       "company": "Microsoft",
       "external_id": "1970393556922929",
       "first_seen": "2026-08-04",
@@ -7369,9 +7413,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929"
     },
     "microsoft:1970393556922930": {
-      "active": true,
+      "active": false,
       "category": "Security",
-      "closed": "2026-09-08",
+      "closed": "2026-10-08",
       "company": "Microsoft",
       "external_id": "1970393556922930",
       "first_seen": "2026-08-04",
@@ -7384,9 +7428,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930"
     },
     "microsoft:1970393556922931": {
-      "active": true,
+      "active": false,
       "category": "Data",
-      "closed": "2026-09-08",
+      "closed": "2026-10-08",
       "company": "Microsoft",
       "external_id": "1970393556922931",
       "first_seen": "2026-08-04",
@@ -7459,9 +7503,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556944017"
     },
     "microsoft:1970393556951950": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-09-08",
+      "closed": "2026-10-08",
       "company": "Microsoft",
       "external_id": "1970393556951950",
       "first_seen": "2026-08-03",
@@ -7883,17 +7927,17 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556990727"
     },
     "microsoft:1970393556991724": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-07",
       "company": "Microsoft",
       "external_id": "1970393556991724",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-08",
       "locations": [
         "United Kingdom, Cambridgeshire, Cambridge"
       ],
-      "posted": "2026-09-10",
+      "posted": "2026-10-08",
       "title": "Cambridge Internship Program - Robotics Systems and Control",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556991724"
     },
@@ -8148,8 +8192,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557023161"
     },
     "microsoft:1970393557025004": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-08",
       "company": "Microsoft",
       "external_id": "1970393557025004",
       "first_seen": "2026-10-07",
@@ -8174,6 +8219,20 @@
       "posted": "2026-10-07",
       "title": "Software Engineer Internship Opportunities",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557025005"
+    },
+    "microsoft:1970393557027064": {
+      "active": true,
+      "category": "Software",
+      "company": "Microsoft",
+      "external_id": "1970393557027064",
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "locations": [
+        "United Kingdom, London, London"
+      ],
+      "posted": "2026-10-08",
+      "title": "Software Engineering Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557027064"
     },
     "netflix:790313241540": {
       "active": false,
@@ -9808,6 +9867,20 @@
       "title": "Software Engineer Intern, AI and DL Kernel Libraries - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineer-Intern--AI-and-DL-Kernel-Libraries---2027_JR2026307"
     },
+    "nvidia:JR2026322": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2026322",
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "locations": [
+        "2 Locations"
+      ],
+      "posted": "2026-10-08",
+      "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Remote/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2026322"
+    },
     "nvidia:JR2026402": {
       "active": true,
       "category": "AI/ML",
@@ -10017,6 +10090,20 @@
       "posted": "2026-10-06",
       "title": "APAC Ecommerce Backend Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/APAC-Ecommerce-Backend-Intern---2027_JR2027030"
+    },
+    "nvidia:JR2027497": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2027497",
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "locations": [
+        "2 Locations"
+      ],
+      "posted": "2026-10-08",
+      "title": "AI Developer Technology Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497"
     },
     "oracle:334325": {
       "active": false,
@@ -10904,8 +10991,9 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
     },
     "waymo:8193295": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-08",
       "company": "Waymo",
       "external_id": "8193295",
       "first_seen": "2026-09-11",
@@ -11494,7 +11582,21 @@
       "posted": "2026-10-07",
       "title": "2027 Summer Intern, MS/PhD,  Research, Perception Foundation Models",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8257801"
+    },
+    "waymo:8262154": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "external_id": "8262154",
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-10-08",
+      "title": "2027 Summer Intern, PhD, Machine Learning, Planning/Prediction",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8262154"
     }
   },
-  "updated_at": "2026-10-08T13:41:40Z"
+  "updated_at": "2026-10-08T20:05:20Z"
 }
