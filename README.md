@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-10-09 09:15:31 UTC** · 📌 **481** open internships
+> 🕐 Last updated: **2026-10-09 17:07:51 UTC** · 📌 **479** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -16,9 +16,9 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 3 |
 | Airbnb | — |
-| [Amazon](#amazon) | 80 |
+| [Amazon](#amazon) | 78 |
 | Anthropic | — |
-| [Apple](#apple) | 30 |
+| [Apple](#apple) | 28 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 17 |
 | [Cloudflare](#cloudflare) | 4 |
@@ -31,12 +31,12 @@ GitHub Actions.
 | [Google](#google) | 38 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
 | [Intel](#intel) | 38 |
-| [Jane Street](#jane-street) | 19 |
+| [Jane Street](#jane-street) | 18 |
 | [Lyft](#lyft) | 16 |
-| [Meta](#meta) | 10 |
-| [Microsoft](#microsoft) | 26 |
-| MongoDB | — |
-| [NVIDIA](#nvidia) | 98 |
+| [Meta](#meta) | 12 |
+| [Microsoft](#microsoft) | 27 |
+| [MongoDB](#mongodb) | 1 |
+| [NVIDIA](#nvidia) | 97 |
 | [Netflix](#netflix) | 1 |
 | OpenAI | — |
 | [Oracle](#oracle) | 2 |
@@ -68,6 +68,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10574920/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) 🆕 | AI/ML | Luxembourg, LUX | 2026-10-09 | 2026-10-09 |
 | [(Physical) Security Specialist Intern -  2027 Internship](https://www.amazon.jobs/en/jobs/10574402/physical-security-specialist-intern-2027-internship) 🆕 | Security | Riyadh, SAU | 2026-10-09 | 2026-10-09 |
 | [Embedded Firmware Co-op, Amazon Robotics - Spring 2027](https://www.amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027) 🆕 | AI/ML | North Reading, Massachusetts, USA | 2026-10-08 | 2026-10-08 |
 | [(Physical) Security Specialist Intern -  2027 Internship](https://www.amazon.jobs/en/jobs/10573018/physical-security-specialist-intern-2027-internship) 🆕 | Security | Milan, Lombardy, ITA | 2026-10-08 | 2026-10-08 |
@@ -113,7 +114,6 @@ GitHub Actions.
 | [2027 Software Dev Engineer Intern - Iași, Romania](https://www.amazon.jobs/en/jobs/10554652/2027-software-dev-engineer-intern-ia-i-romania) | Software | Iasi, ROU | 2026-09-21 | 2026-09-21 |
 | [2027 Software Dev Engineer Intern - Germany](https://www.amazon.jobs/en/jobs/10554701/2027-software-dev-engineer-intern-germany) 🆕 | Software | Berlin, Berlin, DEU | 2026-09-21 | 2026-10-06 |
 | [2027 Software Dev Engineer Intern - Germany](https://www.amazon.jobs/en/jobs/10554717/2027-software-dev-engineer-intern-germany) 🆕 | Software | Berlin, Berlin, DEU | 2026-09-21 | 2026-10-06 |
-| [2027 Software Dev Engineer Intern - Bucharest, Romania](https://www.amazon.jobs/en/jobs/10554669/2027-software-dev-engineer-intern-bucharest-romania) | Software | Bucharest, ROU | 2026-09-21 | 2026-09-21 |
 | [Software Development Engineer Intern - Summer 2027 (CAN)](https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can) | Software | Vancouver, British Columbia, CAN | 2026-09-18 | 2026-09-18 |
 | [Data Engineer Internship - 2027 (US)](https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us) 🆕 | Data | Seattle, Washington, USA | 2026-09-18 | 2026-10-08 |
 | [Business Intelligence Intern 2027, AUTA](https://www.amazon.jobs/en/jobs/10553707/business-intelligence-intern-2027-auta) | Data | Mexico City, Mexico City, MEX | 2026-09-18 | 2026-09-18 |
@@ -141,13 +141,11 @@ GitHub Actions.
 | [Software Dev Engineer internship - Embedded Development](https://www.amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development) | Backend/Infra | Berlin, Berlin, DEU | 2025-12-01 | 2026-07-09 |
 | [Software Dev Engineer Internship - Embedded Development (Linux)](https://www.amazon.jobs/en/jobs/3130528/software-dev-engineer-internship-embedded-development-linux) | Backend/Infra | Dresden, Saxony, DEU | 2025-11-21 | 2026-07-20 |
 | [2026 Applied Science Internship - United States, PhD Student Science Recruiting, Frontier AI & Robotics](https://www.amazon.jobs/en/jobs/3127861/2026-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics) | AI/ML | San Francisco, California, USA | 2025-11-17 | 2026-07-09 |
-| [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3126764/2026-applied-scientist-intern-amazon-university-talent-acquisition) | AI/ML | London, England, GBR | 2025-11-14 | 2026-07-09 |
 | [Software Development Engineer Internship, Mexico City](https://www.amazon.jobs/en/jobs/3123246/software-development-engineer-internship-mexico-city) | Software | Mexico City, Mexico City, MEX | 2025-11-07 | 2026-07-09 |
 | [Software Development Engineer Internship, Guadalajara](https://www.amazon.jobs/en/jobs/3123243/software-development-engineer-internship-guadalajara) | Software | Zapopan, Jalisco, MEX | 2025-11-07 | 2026-07-09 |
 | [Software Development Intern, Intech](https://www.amazon.jobs/en/jobs/3120598/software-development-intern-intech) | Software | BRA | 2025-11-04 | 2026-07-09 |
 | [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition) | AI/ML | Barcelona, Catalonia, ESP | 2025-11-03 | 2026-07-09 |
 | [Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | AI/ML | North Reading, Massachusetts, USA | 2025-10-08 | 2026-07-09 |
-| [Software Development Engineer Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3063220/software-development-engineer-intern-amazon-university-talent-acquisition) | Software | Sao Paulo, Sao Paulo, BRA | 2025-08-20 | 2026-07-09 |
 
 ## Apple
 
@@ -181,8 +179,6 @@ GitHub Actions.
 | [Software PhD Internships](https://jobs.apple.com/en-us/details/200664323/software-phd-internships) | Software | United States | 2026-05-21 | 2026-07-09 |
 | [Software Engineering Masters Internships](https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships) | Software | United States | 2026-05-21 | 2026-07-09 |
 | [Machine Learning and Artificial Intelligence Undergrad Internships](https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships) | AI/ML | United States | 2026-05-21 | 2026-07-09 |
-| [SoC Performance Modeling Internship - Platform Architecture](https://jobs.apple.com/en-us/details/200629965/soc-performance-modeling-internship-platform-architecture) | Backend/Infra | London | 2025-11-04 | 2026-07-09 |
-| [SoC Performance Modeling Internship - Platform Architecture (m/f/d)](https://jobs.apple.com/en-us/details/200622296/soc-performance-modeling-internship-platform-architecture-m-f-d) | Backend/Infra | Munich | 2025-09-22 | 2026-07-09 |
 
 ## Cisco
 
@@ -369,7 +365,6 @@ GitHub Actions.
 | [Data Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8631973002/) | Data | NYC | — | 2026-07-14 |
 | [Tools and Compilers Research and Development (Summer Internship)](https://www.janestreet.com/join-jane-street/position/5869205002/) | Backend/Infra | NYC | — | 2026-07-09 |
 | [Tools & Compilers Research and Development (Summer Internship)](https://www.janestreet.com/join-jane-street/position/5866838002/) | Backend/Infra | LDN | — | 2026-07-09 |
-| [Software Engineer (Winter Co-Op)](https://www.janestreet.com/join-jane-street/position/8419303002/) | Software | NYC | — | 2026-07-09 |
 | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8599644002/) | Software | NYC | — | 2026-07-09 |
 | [Network Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8620793002/) | Backend/Infra | NYC | — | 2026-07-09 |
 | [Machine Learning Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8384490002/) | AI/ML | NYC | — | 2026-07-09 |
@@ -400,6 +395,8 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)](https://www.metacareers.com/jobs/1674394627579563) 🆕 | AI/ML | Redmond, WA | — | 2026-10-09 |
+| [Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)](https://www.metacareers.com/jobs/2211974449401350) 🆕 | AI/ML | Burlingame, CA; Redmond, WA | — | 2026-10-09 |
 | [Data Scientist Intern, Product Analytics (PhD) (Summer 2027)](https://www.metacareers.com/jobs/929757023499411) 🆕 | Data | Menlo Park, CA | — | 2026-10-07 |
 | [Software Engineering Intern](https://www.metacareers.com/jobs/1952991802037374) 🆕 | Software | Bellevue, WA; Menlo Park, CA; New York, NY *(+1 more)* | — | 2026-10-06 |
 | [Software Engineer Intern, Systems and Infrastructure (PhD)](https://www.metacareers.com/jobs/945520495299801) 🆕 | Backend/Infra | Bellevue, WA; Burlingame, CA; Menlo Park, CA *(+4 more)* | — | 2026-10-06 |
@@ -415,6 +412,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [AI Software Engineering Intern](https://apply.careers.microsoft.com/careers/job/1970393556962891) | AI/ML | United States, California, Mountain View; United States, Washington, Redmond | 2026-10-09 | 2026-08-19 |
 | [Software Engineering Intern](https://apply.careers.microsoft.com/careers/job/1970393557027064) 🆕 | Software | United Kingdom, London, London | 2026-10-08 | 2026-10-08 |
 | [Data Science: PhD Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556982928) | Data | United States, Washington, Redmond | 2026-10-08 | 2026-09-02 |
 | [Data Science INTERN](https://apply.careers.microsoft.com/careers/job/1970393556917520) | Data | India, Multiple Locations, Multiple Locations | 2026-10-08 | 2026-07-09 |
@@ -442,6 +440,12 @@ GitHub Actions.
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556957962) | Software | Israel, Multiple Locations, Multiple Locations | 2026-08-07 | 2026-08-07 |
 | [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556641091) | AI/ML | India, Multiple Locations, Multiple Locations | 2026-02-27 | 2026-07-09 |
 
+## MongoDB
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [2027 - Software Engineer Intern, Dublin - 6 Month Internship](https://www.mongodb.com/careers/job/?gh_jid=8258279) 🆕 | Software | Dublin | 2026-10-09 | 2026-10-09 |
+
 ## NVIDIA
 
 | Role | Category | Location | Posted | First seen |
@@ -450,7 +454,6 @@ GitHub Actions.
 | [PhD Research Intern, Robotics - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Robotics---Summer-2027_JR2027294) 🆕 | AI/ML | Switzerland, Zurich | 2026-10-09 | 2026-10-09 |
 | [CPU Compiler Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251) 🆕 | Backend/Infra | UK, Cambridge | 2026-10-09 | 2026-10-09 |
 | [Silicon Validation Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Validation-Engineer--RDSS-Intern-_JR2026767) 🆕 | QA | Taiwan, Taipei | 2026-10-08 | 2026-10-08 |
-| [PhD Research Intern, Autonomous Systems and Physical AI Research - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Remote/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2026322) 🆕 | AI/ML | 2 Locations | 2026-10-08 | 2026-10-08 |
 | [AI Research Intern, TAO Multi-Modal Model Development - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Vietnam-Hanoi/AI-Research-Intern--TAO-Multi-Modal-Model-Development---2026_JR2021301) | AI/ML | 2 Locations | 2026-10-08 | 2026-08-25 |
 | [AI Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497) 🆕 | AI/ML | 2 Locations | 2026-10-08 | 2026-10-08 |
 | [PhD Research Intern, Efficient Deep Learning - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478) 🆕 | AI/ML | 2 Locations | 2026-10-07 | 2026-10-06 |
