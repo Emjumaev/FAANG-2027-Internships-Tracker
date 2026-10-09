@@ -875,8 +875,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10554652/2027-software-dev-engineer-intern-ia-i-romania"
     },
     "amazon:10554669": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-09",
       "company": "Amazon",
       "external_id": "10554669",
       "first_seen": "2026-09-21",
@@ -1550,10 +1551,24 @@
       "title": "(Physical) Security Specialist Intern -  2027 Internship",
       "url": "https://www.amazon.jobs/en/jobs/10574402/physical-security-specialist-intern-2027-internship"
     },
-    "amazon:3063220": {
+    "amazon:10574920": {
       "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "external_id": "10574920",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "locations": [
+        "Luxembourg, LUX"
+      ],
+      "posted": "2026-10-09",
+      "title": "2027 Applied Scientist Internship \u2013 PhD, Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/10574920/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition"
+    },
+    "amazon:3063220": {
+      "active": false,
       "category": "Software",
-      "closed": "2026-09-30",
+      "closed": "2026-10-09",
       "company": "Amazon",
       "external_id": "3063220",
       "first_seen": "2026-07-09",
@@ -1816,8 +1831,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3126153/2026-applied-scientist-intern-amazon-university-talent-acquisition"
     },
     "amazon:3126764": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-09",
       "company": "Amazon",
       "external_id": "3126764",
       "first_seen": "2026-07-09",
@@ -2183,8 +2199,9 @@
       "url": "https://jobs.apple.com/en-us/details/200617616/gpu-internship-platform-architecture"
     },
     "apple:200622296": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-10-09",
       "company": "Apple",
       "external_id": "200622296",
       "first_seen": "2026-07-09",
@@ -2197,8 +2214,9 @@
       "url": "https://jobs.apple.com/en-us/details/200622296/soc-performance-modeling-internship-platform-architecture-m-f-d"
     },
     "apple:200629965": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-10-09",
       "company": "Apple",
       "external_id": "200629965",
       "first_seen": "2026-07-09",
@@ -6302,8 +6320,9 @@
       "url": "https://www.janestreet.com/join-jane-street/position/8384490002/"
     },
     "jane-street:8419303002": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-09",
       "company": "Jane Street",
       "external_id": "8419303002",
       "first_seen": "2026-07-09",
@@ -6867,6 +6886,20 @@
       "title": "Data Scientist Intern, Product Analytics (Summer 2027)",
       "url": "https://www.metacareers.com/jobs/1633096478817942"
     },
+    "meta:1674394627579563": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "external_id": "1674394627579563",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)",
+      "url": "https://www.metacareers.com/jobs/1674394627579563"
+    },
     "meta:1710381673750348": {
       "active": false,
       "category": "AI/ML",
@@ -7014,6 +7047,21 @@
       "posted": null,
       "title": "Software Engineer Intern, Machine Learning (PhD)",
       "url": "https://www.metacareers.com/jobs/2180490782513668"
+    },
+    "meta:2211974449401350": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "external_id": "2211974449401350",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "locations": [
+        "Burlingame, CA",
+        "Redmond, WA"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)",
+      "url": "https://www.metacareers.com/jobs/2211974449401350"
     },
     "meta:2281218542616482": {
       "active": false,
@@ -7680,18 +7728,18 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556962158"
     },
     "microsoft:1970393556962891": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-09-16",
       "company": "Microsoft",
       "external_id": "1970393556962891",
       "first_seen": "2026-08-19",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-10-09",
       "locations": [
         "United States, California, Mountain View",
         "United States, Washington, Redmond"
       ],
-      "posted": "2026-09-14",
+      "posted": "2026-10-09",
       "title": "AI Software Engineering Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891"
     },
@@ -8308,6 +8356,20 @@
       "posted": "2026-10-08",
       "title": "Software Engineering Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557027064"
+    },
+    "mongodb:8258279": {
+      "active": true,
+      "category": "Software",
+      "company": "MongoDB",
+      "external_id": "8258279",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "locations": [
+        "Dublin"
+      ],
+      "posted": "2026-10-09",
+      "title": "2027 - Software Engineer Intern, Dublin - 6 Month Internship",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8258279"
     },
     "netflix:790313241540": {
       "active": false,
@@ -9943,8 +10005,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineer-Intern--AI-and-DL-Kernel-Libraries---2027_JR2026307"
     },
     "nvidia:JR2026322": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-09",
       "company": "NVIDIA",
       "external_id": "JR2026322",
       "first_seen": "2026-10-08",
@@ -11715,5 +11778,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8262154"
     }
   },
-  "updated_at": "2026-10-09T09:15:31Z"
+  "updated_at": "2026-10-09T17:07:51Z"
 }
