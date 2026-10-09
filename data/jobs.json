@@ -3505,13 +3505,13 @@
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8233953"
     },
     "doordash:8263774": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-08",
       "company": "DoorDash",
       "external_id": "8263774",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-09",
       "locations": [
         "San Francisco, CA",
         "Sunnyvale, CA"
@@ -6034,6 +6034,20 @@
       "posted": "2026-09-28",
       "title": "IT Undergrad Technical Intern - AI and Data Analytics",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/IT-Undergrad-Technical-Intern---AI-and-Data-Analytics_JR0287585"
+    },
+    "intel:JR0287661": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Intel",
+      "external_id": "JR0287661",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "locations": [
+        "5 Locations"
+      ],
+      "posted": "2026-10-09",
+      "title": "AI-Driven Physical Design Engineering (PhD Intern)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Driven-Physical-Design-Engineering--PhD-Intern-_JR0287661"
     },
     "intel:JR0287673": {
       "active": false,
@@ -10131,6 +10145,20 @@
       "title": "Developer Technology Engineering Intern - Compute Performance",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775"
     },
+    "nvidia:JR2026839": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2026839",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "locations": [
+        "US, CA, Santa Clara"
+      ],
+      "posted": "2026-10-09",
+      "title": "Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1"
+    },
     "nvidia:JR2026878": {
       "active": true,
       "category": "Software",
@@ -11778,5 +11806,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8262154"
     }
   },
-  "updated_at": "2026-10-09T17:07:51Z"
+  "updated_at": "2026-10-09T22:47:41Z"
 }
