@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-10-09 17:07:51 UTC** · 📌 **479** open internships
+> 🕐 Last updated: **2026-10-09 22:47:41 UTC** · 📌 **482** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -24,19 +24,19 @@ GitHub Actions.
 | [Cloudflare](#cloudflare) | 4 |
 | [Coinbase](#coinbase) | 7 |
 | [Databricks](#databricks) | 7 |
-| [DoorDash](#doordash) | 3 |
+| [DoorDash](#doordash) | 4 |
 | Dropbox | — |
 | [Figma](#figma) | 6 |
 | GitHub | — |
 | [Google](#google) | 38 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [Intel](#intel) | 38 |
+| [Intel](#intel) | 39 |
 | [Jane Street](#jane-street) | 18 |
 | [Lyft](#lyft) | 16 |
 | [Meta](#meta) | 12 |
 | [Microsoft](#microsoft) | 27 |
 | [MongoDB](#mongodb) | 1 |
-| [NVIDIA](#nvidia) | 97 |
+| [NVIDIA](#nvidia) | 98 |
 | [Netflix](#netflix) | 1 |
 | OpenAI | — |
 | [Oracle](#oracle) | 2 |
@@ -239,6 +239,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineer, Intern - Labs (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) 🆕 | Software | San Francisco, CA; Sunnyvale, CA | 2026-10-08 | 2026-10-08 |
 | [Machine Learning Intern (PhD) - Summer 2027](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) | AI/ML | New York City, NY; San Francisco, CA; Seattle, WA *(+1 more)* | 2026-09-25 | 2026-09-25 |
 | [Machine Learning Intern (Masters) - Summer 2027](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) | AI/ML | New York City, NY; San Francisco, CA; Seattle, WA *(+1 more)* | 2026-09-23 | 2026-09-25 |
 | [Software Engineer, Intern (Summer 2027) - US](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) | Software | Los Angeles, CA; New York, NY; San Francisco, CA *(+2 more)* | 2026-09-14 | 2026-09-14 |
@@ -308,6 +309,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [AI-Driven Physical Design Engineering (PhD Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Driven-Physical-Design-Engineering--PhD-Intern-_JR0287661) 🆕 | AI/ML | 5 Locations | 2026-10-09 | 2026-10-09 |
 | [AI Software Engineering Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/AI-Software-Engineering-Graduate-Intern_JR0287917) 🆕 | AI/ML | 2 Locations | 2026-10-09 | 2026-10-09 |
 | [AI GPU Arch Perf Optimization Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/AI-GPU-Arch-Perf-Optimization-Intern_JR0287915) 🆕 | AI/ML | 2 Locations | 2026-10-09 | 2026-10-09 |
 | [AI GPU Arch Perf Analysis Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Beijing/AI-GPU-Arch-Perf-Analysis-Intern_JR0287928) 🆕 | AI/ML | PRC, Beijing | 2026-10-09 | 2026-10-09 |
@@ -451,6 +453,7 @@ GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Robotics Simulation and Evaluation PhD Intern - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Robotics-Simulation-and-Evaluation-PhD-Intern---Summer-2027_JR2027531) 🆕 | AI/ML | Switzerland, Zurich | 2026-10-09 | 2026-10-09 |
+| [Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1) 🆕 | AI/ML | US, CA, Santa Clara | 2026-10-09 | 2026-10-09 |
 | [PhD Research Intern, Robotics - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Robotics---Summer-2027_JR2027294) 🆕 | AI/ML | Switzerland, Zurich | 2026-10-09 | 2026-10-09 |
 | [CPU Compiler Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251) 🆕 | Backend/Infra | UK, Cambridge | 2026-10-09 | 2026-10-09 |
 | [Silicon Validation Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Validation-Engineer--RDSS-Intern-_JR2026767) 🆕 | QA | Taiwan, Taipei | 2026-10-08 | 2026-10-08 |
