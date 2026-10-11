@@ -7609,9 +7609,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556939161"
     },
     "microsoft:1970393556942310": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-08-31",
+      "closed": "2026-10-11",
       "company": "Microsoft",
       "external_id": "1970393556942310",
       "first_seen": "2026-07-31",
@@ -8078,9 +8078,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556990727"
     },
     "microsoft:1970393556991724": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-07",
+      "closed": "2026-10-11",
       "company": "Microsoft",
       "external_id": "1970393556991724",
       "first_seen": "2026-09-10",
@@ -10302,6 +10302,20 @@
       "title": "CPU Compiler Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251"
     },
+    "nvidia:JR2027260": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "NVIDIA",
+      "external_id": "JR2027260",
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11",
+      "locations": [
+        "2 Locations"
+      ],
+      "posted": "2026-10-11",
+      "title": "CPU Compiler Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1"
+    },
     "nvidia:JR2027294": {
       "active": true,
       "category": "AI/ML",
@@ -11837,5 +11851,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8262154"
     }
   },
-  "updated_at": "2026-10-11T19:04:21Z"
+  "updated_at": "2026-10-11T23:47:51Z"
 }
