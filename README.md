@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-10-11 19:04:21 UTC** · 📌 **480** open internships
+> 🕐 Last updated: **2026-10-11 23:47:51 UTC** · 📌 **479** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -34,9 +34,9 @@ GitHub Actions.
 | [Jane Street](#jane-street) | 18 |
 | [Lyft](#lyft) | 16 |
 | [Meta](#meta) | 12 |
-| [Microsoft](#microsoft) | 26 |
+| [Microsoft](#microsoft) | 24 |
 | [MongoDB](#mongodb) | 1 |
-| [NVIDIA](#nvidia) | 98 |
+| [NVIDIA](#nvidia) | 99 |
 | [Netflix](#netflix) | 1 |
 | OpenAI | — |
 | [Oracle](#oracle) | 2 |
@@ -417,7 +417,6 @@ GitHub Actions.
 | [Software Engineering Intern](https://apply.careers.microsoft.com/careers/job/1970393557027064) 🆕 | Software | United Kingdom, London, London | 2026-10-08 | 2026-10-08 |
 | [Data Science: PhD Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556982928) | Data | United States, Washington, Redmond | 2026-10-08 | 2026-09-02 |
 | [Data Science INTERN](https://apply.careers.microsoft.com/careers/job/1970393556917520) | Data | India, Multiple Locations, Multiple Locations | 2026-10-08 | 2026-07-09 |
-| [Cambridge Internship Program - Robotics Systems and Control](https://apply.careers.microsoft.com/careers/job/1970393556991724) | AI/ML | United Kingdom, Cambridgeshire, Cambridge | 2026-10-08 | 2026-09-10 |
 | [Software Engineering Internship Opportunities - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557021513) | Software | Czech Republic, Prague, Prague | 2026-10-07 | 2026-10-01 |
 | [Software Engineering Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557021515) 🆕 | Software | Czech Republic, Multiple Locations, Multiple Locations | 2026-10-07 | 2026-10-07 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557006399) 🆕 | Software | Serbia, Belgrade, Belgrade | 2026-10-07 | 2026-10-07 |
@@ -435,7 +434,6 @@ GitHub Actions.
 | [Software Engineering Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556983221) | Software | United States, Washington, Redmond | 2026-09-11 | 2026-09-11 |
 | [Software Engineering Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556983223) | Software | United States, Virginia, Reston | 2026-09-11 | 2026-09-11 |
 | [Security Assurance Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556988203) | Security | United States, Washington, Redmond | 2026-09-11 | 2026-09-11 |
-| [Cloud Solution Architect - Erada Internship](https://apply.careers.microsoft.com/careers/job/1970393556942310) | Backend/Infra | Qatar, Ad-Daw?ah, Doha | 2026-09-11 | 2026-07-31 |
 | [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556972877) | AI/ML | Japan, Tokyo-to, Tokyo | 2026-08-20 | 2026-08-20 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556957962) | Software | Israel, Multiple Locations, Multiple Locations | 2026-08-07 | 2026-08-07 |
 | [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556641091) | AI/ML | India, Multiple Locations, Multiple Locations | 2026-02-27 | 2026-07-09 |
@@ -450,6 +448,7 @@ GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [CPU Compiler Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1) 🆕 | Backend/Infra | 2 Locations | 2026-10-11 | 2026-10-11 |
 | [Robotics Simulation and Evaluation PhD Intern - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Robotics-Simulation-and-Evaluation-PhD-Intern---Summer-2027_JR2027531) 🆕 | AI/ML | Switzerland, Zurich | 2026-10-09 | 2026-10-09 |
 | [Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1) 🆕 | AI/ML | US, CA, Santa Clara | 2026-10-09 | 2026-10-09 |
 | [PhD Research Intern, Robotics - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Robotics---Summer-2027_JR2027294) 🆕 | AI/ML | Switzerland, Zurich | 2026-10-09 | 2026-10-09 |
