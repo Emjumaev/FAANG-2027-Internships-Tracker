@@ -350,6 +350,10 @@
         <div id="cat-list"></div>
       </div>
       <div class="fgroup">
+        <h3>Degree</h3>
+        <div id="deg-list"></div>
+      </div>
+      <div class="fgroup">
         <h3>Company</h3>
         <div class="co-list" id="co-list"></div>
       </div>
@@ -543,10 +547,22 @@
     return keys.length ? keys : ["other"];
   }
 
+  /* ---------- degree levels ---------- */
+  // The scraper tags each title with the degree levels it names (BS/MS/PhD).
+  // Untagged roles are listed under "Not specified" — usually open to all.
+  var DEGREES = [
+    ["BS",  "🎓 Bachelor's (BS)"],
+    ["MS",  "🎓 Master's (MS)"],
+    ["PhD", "🎓 PhD"],
+    ["any", "Not specified"]
+  ];
+  var DEGREE_LABEL = {};
+  DEGREES.forEach(function (d) { DEGREE_LABEL[d[0]] = d[1]; });
+
   /* ---------- state (synced to URL hash) ---------- */
   var state = {
     q: "", region: "", sort: "posted", dp: "",
-    cats: {}, cos: {},
+    cats: {}, cos: {}, degs: {},
     newonly: false, savedonly: false
   };
   function setFromCSV(str) {
@@ -564,6 +580,7 @@
     state.dp = p.get("dp") || "";
     state.cats = setFromCSV(p.get("cat"));
     state.cos = setFromCSV(p.get("co"));
+    state.degs = setFromCSV(p.get("deg"));
     state.newonly = p.get("new") === "1";
     state.savedonly = p.get("saved") === "1";
   }
@@ -572,6 +589,7 @@
     if (state.q) p.set("q", state.q);
     if (Object.keys(state.cos).length) p.set("co", csvFromSet(state.cos));
     if (Object.keys(state.cats).length) p.set("cat", csvFromSet(state.cats));
+    if (Object.keys(state.degs).length) p.set("deg", csvFromSet(state.degs));
     if (state.region) p.set("r", state.region);
     if (state.dp) p.set("dp", state.dp);
     if (state.sort !== "posted") p.set("s", state.sort);
@@ -594,7 +612,9 @@
         j.isNew = j.first_seen && new Date(j.first_seen + "T00:00:00Z").getTime() >= newCutoff;
         j.postedTs = j.posted ? new Date(j.posted + "T00:00:00Z").getTime() : 0;
         j.regions = classifyJob(j);
-        j.search = (j.title + " " + j.company + " " + j.category + " " + j.locations.join(" ")).toLowerCase();
+        j.degrees = (j.degrees && j.degrees.length) ? j.degrees : ["any"];
+        j.search = (j.title + " " + j.company + " " + j.category + " " + j.locations.join(" ") + " " +
+          j.degrees.map(function (d) { return DEGREE_LABEL[d] || d; }).join(" ")).toLowerCase();
         return j;
       });
       init(updated);
@@ -633,6 +653,19 @@
     Object.keys(cats).sort(function (a, b) { return cats[b] - cats[a]; }).forEach(function (c) {
       catBox.appendChild(checkboxOpt(c, cats[c], !!state.cats[c], function (checked) {
         if (checked) state.cats[c] = true; else delete state.cats[c];
+        refresh();
+      }));
+    });
+
+    // sidebar: degree checkboxes (fixed order, hide levels with no listings)
+    var degs = {};
+    jobs.forEach(function (j) { j.degrees.forEach(function (d) { degs[d] = (degs[d] || 0) + 1; }); });
+    var degBox = $("deg-list");
+    DEGREES.forEach(function (d) {
+      var key = d[0];
+      if (!degs[key]) return;
+      degBox.appendChild(checkboxOpt(d[1], degs[key], !!state.degs[key], function (checked) {
+        if (checked) state.degs[key] = true; else delete state.degs[key];
         refresh();
       }));
     });
@@ -728,20 +761,20 @@
 
   function activeFilterCount() {
     return (state.q ? 1 : 0) + Object.keys(state.cos).length + Object.keys(state.cats).length +
-           (state.region ? 1 : 0) + (state.dp ? 1 : 0) +
+           Object.keys(state.degs).length + (state.region ? 1 : 0) + (state.dp ? 1 : 0) +
            (state.newonly ? 1 : 0) + (state.savedonly ? 1 : 0);
   }
 
   function clearFilters() {
     state.q = ""; state.region = ""; state.dp = "";
-    state.cats = {}; state.cos = {};
+    state.cats = {}; state.cos = {}; state.degs = {};
     state.newonly = false; state.savedonly = false;
     $("q").value = ""; $("region").value = "";
     $("f-new").checked = false; $("f-saved").checked = false;
     Array.prototype.forEach.call(document.querySelectorAll('input[name="dp"]'), function (r) {
       r.checked = r.value === "";
     });
-    Array.prototype.forEach.call(document.querySelectorAll("#cat-list input, #co-list input"), function (cb) {
+    Array.prototype.forEach.call(document.querySelectorAll("#cat-list input, #deg-list input, #co-list input"), function (cb) {
       cb.checked = false;
     });
     refresh();
@@ -751,11 +784,13 @@
   function render() {
     var catsOn = Object.keys(state.cats).length;
     var cosOn = Object.keys(state.cos).length;
+    var degsOn = Object.keys(state.degs).length;
     var dpCutoff = state.dp ? Date.now() - (+state.dp) * 864e5 : 0;
 
     var rows = jobs.filter(function (j) {
       if (cosOn && !state.cos[j.company]) return false;
       if (catsOn && !state.cats[j.category]) return false;
+      if (degsOn && !j.degrees.some(function (d) { return state.degs[d]; })) return false;
       if (state.region && j.regions.indexOf(state.region) === -1) return false;
       if (state.dp && (!j.postedTs || j.postedTs < dpCutoff)) return false;
       if (state.newonly && !j.isNew) return false;
@@ -826,6 +861,7 @@
         '<div class="tags">' +
           (j.isNew ? '<span class="tag new">🆕 New</span>' : "") +
           '<span class="tag">' + esc(j.category) + "</span>" +
+          (j.degrees[0] !== "any" ? '<span class="tag" title="Degree level named in the title">🎓 ' + esc(j.degrees.join("/")) + "</span>" : "") +
           (j.posted ? '<span class="tag posted" title="posted ' + esc(j.posted) + '">Posted ' + relDate(j.posted) + "</span>" : "") +
         "</div>" +
       "</div>" +
