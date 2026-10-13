@@ -16,7 +16,8 @@ GitHub Actions.
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
 > 🕐 Last updated: **{updated}** · 📌 **{n_open}** open internships
-> · 🆕 = added in the last {new_days} days
+> · 🆕 = added in the last {new_days} days · 🎓 Degree = BS / MS / PhD when the
+> title names one (— = not specified, usually open to all levels)
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
 
@@ -32,6 +33,7 @@ so this page stays front and center) queries each company's official careers
 API (Greenhouse, Ashby, Workday, Eightfold or their in-house endpoints),
 filters titles matching *intern / internship / co-op*, keeps only
 software-engineering roles ([categories.py]({repo}/blob/scraper/scraper/categories.py)),
+tags the degree level named in the title ([degrees.py]({repo}/blob/scraper/scraper/degrees.py)),
 and diffs against [`data/jobs.json`]({repo}/blob/scraper/data/jobs.json).
 A GitHub Actions [workflow]({repo}/blob/main/.github/workflows/update.yml)
 runs it on a cron schedule and commits only when something changed. Positions
@@ -97,13 +99,14 @@ def render(state):
                                      j["title"]),
                       reverse=True)
         out.append("## {}\n\n".format(c))
-        out.append("| Role | Category | Location | Posted | First seen |\n"
-                   "|---|---|---|---|---|\n")
+        out.append("| Role | Category | Degree | Location | Posted | First seen |\n"
+                   "|---|---|---|---|---|---|\n")
         for j in rows:
             badge = " 🆕" if j.get("first_seen", "") >= cutoff else ""
             out.append("| [{}]({}){} | {} | {} | {} | {} |\n".format(
                 _md_escape(j["title"]), j["url"], badge,
                 j.get("category") or "—",
+                "/".join(j.get("degrees") or []) or "—",
                 _fmt_locations(j.get("locations", [])),
                 j.get("posted") or "—",
                 j.get("first_seen", "—"),

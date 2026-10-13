@@ -16,6 +16,7 @@ import traceback
 from . import store
 from .categories import categorize
 from .companies import COMPANIES
+from .degrees import detect_degrees
 from .render_readme import render
 
 HEALTH_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "health.json")
@@ -33,6 +34,7 @@ def run(only=None):
             interns = [j for j in fetched if j.looks_like_internship() and j.url]
             for j in interns:
                 j.category = categorize(j.title)
+                j.degrees = detect_degrees(j.title)
             in_scope = [j for j in interns if j.category]
             print("[ok]   {:<24} {:>4} postings, {:>3} internships, {:>3} in scope".format(
                 name, len(fetched), len(interns), len(in_scope)))

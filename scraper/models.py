@@ -52,6 +52,9 @@ class Job:
     category: Optional[str] = None
     # Publication date (YYYY-MM-DD) from the ATS, when it exposes one
     posted: Optional[str] = None
+    # Degree levels named in the title ("BS", "MS", "PhD"), assigned in
+    # main.py via degrees.detect_degrees. Empty = not specified / any.
+    degrees: List[str] = field(default_factory=list)
 
     def looks_like_internship(self) -> bool:
         if self.is_intern is not None:
@@ -73,4 +76,5 @@ class Job:
             "locations": sorted(set(l.strip() for l in self.locations if l and l.strip())),
             "category": self.category,
             "posted": self.posted,
+            "degrees": list(self.degrees),
         }
