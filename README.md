@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-10-13 16:09:58 UTC** · 📌 **504** open internships
+> 🕐 Last updated: **2026-10-13 21:25:32 UTC** · 📌 **514** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -17,7 +17,7 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 3 |
 | Airbnb | — |
-| [Amazon](#amazon) | 78 |
+| [Amazon](#amazon) | 80 |
 | Anthropic | — |
 | [Apple](#apple) | 29 |
 | Bloomberg | — |
@@ -27,14 +27,14 @@ GitHub Actions.
 | [Databricks](#databricks) | 8 |
 | [DoorDash](#doordash) | 4 |
 | Dropbox | — |
-| [Figma](#figma) | 6 |
+| [Figma](#figma) | 7 |
 | GitHub | — |
 | [Google](#google) | 36 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
 | [Intel](#intel) | 43 |
 | [Jane Street](#jane-street) | 18 |
 | [Lyft](#lyft) | 16 |
-| [Meta](#meta) | 17 |
+| [Meta](#meta) | 22 |
 | [Microsoft](#microsoft) | 25 |
 | [MongoDB](#mongodb) | 1 |
 | [NVIDIA](#nvidia) | 112 |
@@ -51,7 +51,7 @@ GitHub Actions.
 | Spotify | — |
 | [Stripe](#stripe) | 13 |
 | Uber | — |
-| [Waymo](#waymo) | 43 |
+| [Waymo](#waymo) | 45 |
 | ByteDance | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* |
 | Tesla | *careers site and its JSON API sit behind Akamai bot protection that returns 403 to every non-browser client; needs a headless browser* |
 
@@ -72,7 +72,9 @@ GitHub Actions.
 | [2027 Software Dev Engineer Intern - ZAF](https://www.amazon.jobs/en/jobs/10576864/2027-software-dev-engineer-intern-zaf) 🆕 | Software | — | Cape Town, Western Cape, ZAF | 2026-10-13 |
 | [2027 Business Developer Intern, Amazon Payments](https://www.amazon.jobs/en/jobs/10576785/2027-business-developer-intern-amazon-payments) 🆕 | Software | — | Cape Town, Western Cape, ZAF | 2026-10-13 |
 | [(Physical) Security Specialist Intern - 2027 Internship, DUB West](https://www.amazon.jobs/en/jobs/10576777/physical-security-specialist-intern-2027-internship-dub-west) 🆕 | Security | — | Dublin, IRL | 2026-10-13 |
+| [(Physical) Security Specialist Intern - 2027 Internship, DC Security](https://www.amazon.jobs/en/jobs/10577611/physical-security-specialist-intern-2027-internship-dc-security) 🆕 | Security | — | London, England, GBR | 2026-10-13 |
 | [Software Development Engineer Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10574925/software-development-engineer-intern-amazon-university-talent-acquisition) 🆕 | Software | — | Mexico City, Mexico City, MEX | 2026-10-09 |
+| [Software Development Engineer Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10574927/software-development-engineer-intern-amazon-university-talent-acquisition) 🆕 | Software | — | Zapopan, Jalisco, MEX | 2026-10-09 |
 | [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10574920/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) 🆕 | AI/ML | PhD | Luxembourg, LUX | 2026-10-09 |
 | [(Physical) Security Specialist Intern -  2027 Internship](https://www.amazon.jobs/en/jobs/10574402/physical-security-specialist-intern-2027-internship) 🆕 | Security | — | Riyadh, SAU | 2026-10-09 |
 | [Embedded Firmware Co-op, Amazon Robotics - Spring 2027](https://www.amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027) 🆕 | AI/ML | — | North Reading, Massachusetts, USA | 2026-10-08 |
@@ -250,6 +252,7 @@ GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [PhD Intern, Software Engineer - Graphics (2027)](https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004) 🆕 | Software | PhD | San Francisco, CA • New York, NY | 2026-10-13 |
 | [PhD Intern, AI Applied Scientist (2027)](https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004) | AI/ML | PhD | San Francisco, CA • New York, NY | 2026-10-05 |
 | [Data Engineer Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) | Data | — | San Francisco, CA • New York, NY | 2026-09-23 |
 | [PhD Intern, Data Science (2027)](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) | Data | PhD | San Francisco, CA • New York, NY | 2026-09-21 |
@@ -310,8 +313,8 @@ GitHub Actions.
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Intern System Software Development Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286955) | Software | — | Malaysia, Penang | 2026-10-13 |
-| [GPU Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287894) 🆕 | Software | — | Poland, Gdansk | 2026-10-13 |
 | [GPU Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287893) 🆕 | Software | — | Poland, Gdansk | 2026-10-13 |
+| [GPU Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287894) 🆕 | Software | — | Poland, Gdansk | 2026-10-13 |
 | [Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675) | Backend/Infra | BS | Germany, Munich | 2026-10-12 |
 | [Student Intern, Collaboration Services System Programmer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/Student-Intern--Collaboration-Services-System-Programmer_JR0287833) 🆕 | Software | — | Costa Rica, San Jose | 2026-10-12 |
 | [AI Software Development Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/AI-Software-Development-Engineer-Intern_JR0288056) 🆕 | AI/ML | — | PRC, Shanghai | 2026-10-12 |
@@ -401,10 +404,15 @@ GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Research Scientist Intern, VLM and Omni Model Post-Training (PhD)](https://www.metacareers.com/jobs/2988199118196184) 🆕 | AI/ML | PhD | Sunnyvale, CA | — |
+| [Research Scientist Intern, Systems ML - SW/HW Co-Design - CPUSys (PhD)](https://www.metacareers.com/jobs/2192664358300823) 🆕 | AI/ML | PhD | Menlo Park, CA | — |
 | [Research Scientist Intern, Multimodal Generative AI and Robotics (PhD)](https://www.metacareers.com/jobs/1139865145249047) 🆕 | AI/ML | PhD | Redmond, WA; Sunnyvale, CA | — |
 | [Research Scientist Intern, Language and Agents (PhD)](https://www.metacareers.com/jobs/2168438160696161) 🆕 | AI/ML | PhD | Bellevue, WA; Menlo Park, CA | — |
 | [Research Scientist Intern, Egocentric Vision-Language Models (PhD)](https://www.metacareers.com/jobs/2067000203934229) 🆕 | AI/ML | PhD | Redmond, WA; Sunnyvale, CA | — |
-| [Research Scientist Intern, 3D World Modeling, Robotics and Generative AI (PhD)](https://www.metacareers.com/jobs/1839680137188723) 🆕 | AI/ML | PhD | Redmond, WA | — |
+| [Research Scientist Intern, Audio-Visual Conversation Scene Generation (PhD)](https://www.metacareers.com/jobs/3364701000388712) 🆕 | AI/ML | PhD | Redmond, WA | — |
+| [Research Scientist Intern, AI & System Co-Design (PhD)](https://www.metacareers.com/jobs/1062032900196411) 🆕 | AI/ML | PhD | Menlo Park, CA | — |
+| [Research Scientist Intern, AI & Compute Foundation - MTIA SW (PhD)](https://www.metacareers.com/jobs/1866761794487684) 🆕 | AI/ML | PhD | Menlo Park, CA | — |
+| [Research Scientist Intern, 3D World Modeling, Robotics and Generative AI (PhD)](https://www.metacareers.com/jobs/1839680137188723) 🆕 | AI/ML | PhD | Burlingame, CA; Redmond, WA; Sunnyvale, CA | — |
 | [Research Scientist Intern, Robotics - Meta Reality Labs Research (PhD)](https://www.metacareers.com/jobs/2586686598441521) 🆕 | AI/ML | PhD | Redmond, WA | — |
 | [Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)](https://www.metacareers.com/jobs/1674394627579563) 🆕 | AI/ML | PhD | Redmond, WA | — |
 | [Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)](https://www.metacareers.com/jobs/2211974449401350) 🆕 | AI/ML | PhD | Burlingame, CA; Redmond, WA | — |
@@ -462,6 +470,8 @@ GitHub Actions.
 | [Software Engineering Intern, Multi-Agent Systems - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Multi-Agent-Systems---2027_JR2027701-1) 🆕 | Software | — | China, Shanghai | 2026-10-13 |
 | [Software Engineering Intern, Deep Learning - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596) 🆕 | AI/ML | — | 2 Locations | 2026-10-13 |
 | [Planning and Control Adaptation Intern, Autonomous Driving - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Planning-and-Control-Adaptation-Intern--Autonomous-Driving---2027_JR2027182) 🆕 | AI/ML | — | 2 Locations | 2026-10-13 |
+| [Developer Technology Engineering Intern - Compute Performance](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775) | Software | — | 3 Locations | 2026-10-13 |
+| [Data Processing Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708) | Data | — | 4 Locations | 2026-10-13 |
 | [Applied Research Intern, Robotics - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Applied-Research-Intern--Robotics---2027_JR2027628) 🆕 | AI/ML | — | China, Shanghai | 2026-10-13 |
 | [Applied Deep Learning Algorithm Intern, Autonomous Driving - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Applied-Deep-Learning-Algorithm-Intern--Autonomous-Driving---2027_JR2027181) 🆕 | AI/ML | — | 2 Locations | 2026-10-13 |
 | [Test Development Software Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2027347) 🆕 | Software | — | China, Shanghai | 2026-10-12 |
@@ -509,11 +519,9 @@ GitHub Actions.
 | [System Software Engineer - Embedded and Automotive (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-and-Automotive--RDSS-Intern-_JR2026965) | Backend/Infra | — | Taiwan, Taipei | 2026-10-05 |
 | [Software Engineering Intern, Nsight Systems - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/Software-Engineering-Intern--Nsight-Systems---2026_JR2007248) | Software | — | 2 Locations | 2026-10-05 |
 | [Software Engineer – DFT CAD Tools (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer---DFT-CAD-Tools--RDSS-Intern-_JR2026878-1) | Software | — | Taiwan, Taipei | 2026-10-05 |
-| [Data Processing Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708) | Data | — | 6 Locations | 2026-10-05 |
 | [AI Compiler Formal Verification Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025) | AI/ML | — | 2 Locations | 2026-10-05 |
 | [AI Agent Development Engineer (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Agent-Development-Engineer--RDSS-Intern-_JR2026971) | AI/ML | — | 2 Locations | 2026-10-05 |
 | [Software Engineer Intern, AI and DL Kernel Libraries - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineer-Intern--AI-and-DL-Kernel-Libraries---2027_JR2026307) | AI/ML | — | China, Shanghai | 2026-09-30 |
-| [Developer Technology Engineering Intern - Compute Performance](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775) | Software | — | 5 Locations | 2026-09-30 |
 | [Deep Learning Performance Software Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Software-Intern---2027_JR2025966) | AI/ML | — | 2 Locations | 2026-09-30 |
 | [Deep Learning Compiler Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Compiler-Intern---2027_JR2026262) | AI/ML | — | 2 Locations | 2026-09-30 |
 | [Software CAD Engineer, VLSI (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-CAD-Engineer--VLSI--RDSS-Intern-_JR2026181) | Software | — | 2 Locations | 2026-09-29 |
@@ -647,6 +655,8 @@ GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [2027 Summer Intern, PhD, Machine Learning, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=8265868) 🆕 | AI/ML | PhD | London, England, United Kingdom | 2026-10-13 |
+| [2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction](https://careers.withwaymo.com/jobs?gh_jid=8279620) 🆕 | AI/ML | MS/PhD | Mountain View, CA, USA | 2026-10-13 |
 | [2027 Summer Intern, MS/PhD, Perception, Model Lifecycle](https://careers.withwaymo.com/jobs?gh_jid=8248411) 🆕 | AI/ML | MS/PhD | Mountain View, CA, USA | 2026-10-12 |
 | [2027 Summer Intern, BS/MS, Software Engineering, Commercialization](https://careers.withwaymo.com/jobs?gh_jid=8268204) 🆕 | Software | BS/MS | Warsaw, Poland | 2026-10-12 |
 | [2027 Summer Intern, PhD, Machine Learning, Planning/Prediction](https://careers.withwaymo.com/jobs?gh_jid=8262154) 🆕 | AI/ML | PhD | Mountain View, CA, USA | 2026-10-08 |
