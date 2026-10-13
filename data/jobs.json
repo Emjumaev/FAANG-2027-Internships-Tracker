@@ -1744,6 +1744,21 @@
       "title": "Software Development Engineer Intern, Amazon University Talent Acquisition",
       "url": "https://www.amazon.jobs/en/jobs/10574925/software-development-engineer-intern-amazon-university-talent-acquisition"
     },
+    "amazon:10574927": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10574927",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "locations": [
+        "Zapopan, Jalisco, MEX"
+      ],
+      "posted": "2026-10-09",
+      "title": "Software Development Engineer Intern, Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/10574927/software-development-engineer-intern-amazon-university-talent-acquisition"
+    },
     "amazon:10576777": {
       "active": true,
       "category": "Security",
@@ -1788,6 +1803,21 @@
       "posted": "2026-10-13",
       "title": "2027 Software Dev Engineer Intern - ZAF",
       "url": "https://www.amazon.jobs/en/jobs/10576864/2027-software-dev-engineer-intern-zaf"
+    },
+    "amazon:10577611": {
+      "active": true,
+      "category": "Security",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10577611",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "posted": "2026-10-13",
+      "title": "(Physical) Security Specialist Intern - 2027 Internship, DC Security",
+      "url": "https://www.amazon.jobs/en/jobs/10577611/physical-security-specialist-intern-2027-internship-dc-security"
     },
     "amazon:3063220": {
       "active": false,
@@ -4048,6 +4078,23 @@
       "posted": "2026-10-05",
       "title": "PhD Intern, AI Applied Scientist (2027)",
       "url": "https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004"
+    },
+    "figma:6219995004": {
+      "active": true,
+      "category": "Software",
+      "company": "Figma",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "6219995004",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "locations": [
+        "San Francisco, CA \u2022 New York, NY"
+      ],
+      "posted": "2026-10-13",
+      "title": "PhD Intern, Software Engineer - Graphics (2027)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004"
     },
     "google:100028133205254854": {
       "active": true,
@@ -7736,6 +7783,23 @@
       "title": "Research Scientist Intern, 3D Scene Understanding (PhD)",
       "url": "https://www.metacareers.com/jobs/1029177790044680"
     },
+    "meta:1062032900196411": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1062032900196411",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, AI & System Co-Design (PhD)",
+      "url": "https://www.metacareers.com/jobs/1062032900196411"
+    },
     "meta:1139865145249047": {
       "active": true,
       "category": "AI/ML",
@@ -7918,11 +7982,30 @@
       "first_seen": "2026-10-13",
       "last_seen": "2026-10-13",
       "locations": [
-        "Redmond, WA"
+        "Burlingame, CA",
+        "Redmond, WA",
+        "Sunnyvale, CA"
       ],
       "posted": null,
       "title": "Research Scientist Intern, 3D World Modeling, Robotics and Generative AI (PhD)",
       "url": "https://www.metacareers.com/jobs/1839680137188723"
+    },
+    "meta:1866761794487684": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1866761794487684",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, AI & Compute Foundation - MTIA SW (PhD)",
+      "url": "https://www.metacareers.com/jobs/1866761794487684"
     },
     "meta:1940312740718917": {
       "active": true,
@@ -8074,6 +8157,23 @@
       "posted": null,
       "title": "Software Engineer Intern, Machine Learning (PhD)",
       "url": "https://www.metacareers.com/jobs/2180490782513668"
+    },
+    "meta:2192664358300823": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "2192664358300823",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Systems ML - SW/HW Co-Design - CPUSys (PhD)",
+      "url": "https://www.metacareers.com/jobs/2192664358300823"
     },
     "meta:2211974449401350": {
       "active": true,
@@ -8232,6 +8332,40 @@
       "posted": null,
       "title": "Research Scientist Intern, Monetization Generative AI - LLM (PhD)",
       "url": "https://www.metacareers.com/jobs/2916726525182155"
+    },
+    "meta:2988199118196184": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "2988199118196184",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, VLM and Omni Model Post-Training (PhD)",
+      "url": "https://www.metacareers.com/jobs/2988199118196184"
+    },
+    "meta:3364701000388712": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "3364701000388712",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Audio-Visual Conversation Scene Generation (PhD)",
+      "url": "https://www.metacareers.com/jobs/3364701000388712"
     },
     "meta:771948392580541": {
       "active": false,
@@ -10834,9 +10968,9 @@
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-13",
       "locations": [
-        "6 Locations"
+        "4 Locations"
       ],
-      "posted": "2026-10-05",
+      "posted": "2026-10-13",
       "title": "Data Processing Developer Technology Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708"
     },
@@ -11565,11 +11699,11 @@
       "first_seen": "2026-09-30",
       "last_seen": "2026-10-13",
       "locations": [
-        "5 Locations"
+        "3 Locations"
       ],
-      "posted": "2026-09-30",
+      "posted": "2026-10-13",
       "title": "Developer Technology Engineering Intern - Compute Performance",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775"
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775"
     },
     "nvidia:JR2026839": {
       "active": true,
@@ -13716,6 +13850,23 @@
       "title": "2027 Summer Intern, PhD, Machine Learning, Planning/Prediction",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8262154"
     },
+    "waymo:8265868": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "8265868",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "locations": [
+        "London, England, United Kingdom"
+      ],
+      "posted": "2026-10-13",
+      "title": "2027 Summer Intern, PhD, Machine Learning, Simulation Realism",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8265868"
+    },
     "waymo:8268204": {
       "active": true,
       "category": "Software",
@@ -13733,7 +13884,25 @@
       "posted": "2026-10-12",
       "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8268204"
+    },
+    "waymo:8279620": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "degrees": [
+        "MS",
+        "PhD"
+      ],
+      "external_id": "8279620",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-10-13",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8279620"
     }
   },
-  "updated_at": "2026-10-13T16:09:58Z"
+  "updated_at": "2026-10-13T21:25:32Z"
 }
