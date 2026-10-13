@@ -549,13 +549,14 @@
 
   /* ---------- degree levels ---------- */
   // The scraper tags each title with the degree levels it names (BS/MS/PhD).
-  // Untagged roles are listed under "Not specified" — usually open to all.
+  // A title that names none is treated as open to Bachelor's and Master's
+  // students for filtering (PhD roles almost always say so in the title).
   var DEGREES = [
     ["BS",  "🎓 Bachelor's (BS)"],
     ["MS",  "🎓 Master's (MS)"],
-    ["PhD", "🎓 PhD"],
-    ["any", "Not specified"]
+    ["PhD", "🎓 PhD"]
   ];
+  var DEFAULT_DEGREES = ["BS", "MS"];
   var DEGREE_LABEL = {};
   DEGREES.forEach(function (d) { DEGREE_LABEL[d[0]] = d[1]; });
 
@@ -612,7 +613,8 @@
         j.isNew = j.first_seen && new Date(j.first_seen + "T00:00:00Z").getTime() >= newCutoff;
         j.postedTs = j.posted ? new Date(j.posted + "T00:00:00Z").getTime() : 0;
         j.regions = classifyJob(j);
-        j.degrees = (j.degrees && j.degrees.length) ? j.degrees : ["any"];
+        j.degrees = j.degrees || [];                       // named in the title (shown as a tag)
+        j.degFilter = j.degrees.length ? j.degrees : DEFAULT_DEGREES; // used by the Degree filter
         j.search = (j.title + " " + j.company + " " + j.category + " " + j.locations.join(" ") + " " +
           j.degrees.map(function (d) { return DEGREE_LABEL[d] || d; }).join(" ")).toLowerCase();
         return j;
@@ -659,7 +661,7 @@
 
     // sidebar: degree checkboxes (fixed order, hide levels with no listings)
     var degs = {};
-    jobs.forEach(function (j) { j.degrees.forEach(function (d) { degs[d] = (degs[d] || 0) + 1; }); });
+    jobs.forEach(function (j) { j.degFilter.forEach(function (d) { degs[d] = (degs[d] || 0) + 1; }); });
     var degBox = $("deg-list");
     DEGREES.forEach(function (d) {
       var key = d[0];
@@ -790,7 +792,7 @@
     var rows = jobs.filter(function (j) {
       if (cosOn && !state.cos[j.company]) return false;
       if (catsOn && !state.cats[j.category]) return false;
-      if (degsOn && !j.degrees.some(function (d) { return state.degs[d]; })) return false;
+      if (degsOn && !j.degFilter.some(function (d) { return state.degs[d]; })) return false;
       if (state.region && j.regions.indexOf(state.region) === -1) return false;
       if (state.dp && (!j.postedTs || j.postedTs < dpCutoff)) return false;
       if (state.newonly && !j.isNew) return false;
@@ -861,7 +863,7 @@
         '<div class="tags">' +
           (j.isNew ? '<span class="tag new">🆕 New</span>' : "") +
           '<span class="tag">' + esc(j.category) + "</span>" +
-          (j.degrees[0] !== "any" ? '<span class="tag" title="Degree level named in the title">🎓 ' + esc(j.degrees.join("/")) + "</span>" : "") +
+          (j.degrees.length ? '<span class="tag" title="Degree level named in the title">🎓 ' + esc(j.degrees.join("/")) + "</span>" : "") +
           (j.posted ? '<span class="tag posted" title="posted ' + esc(j.posted) + '">Posted ' + relDate(j.posted) + "</span>" : "") +
         "</div>" +
       "</div>" +
