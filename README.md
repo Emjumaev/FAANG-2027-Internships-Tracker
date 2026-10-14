@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-10-14 13:52:57 UTC** · 📌 **521** open internships
+> 🕐 Last updated: **2026-10-14 18:47:04 UTC** · 📌 **526** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -17,9 +17,9 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 3 |
 | Airbnb | — |
-| [Amazon](#amazon) | 80 |
+| [Amazon](#amazon) | 79 |
 | Anthropic | — |
-| [Apple](#apple) | 30 |
+| [Apple](#apple) | 31 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 17 |
 | [Cloudflare](#cloudflare) | 3 |
@@ -32,10 +32,10 @@ GitHub Actions.
 | [Google](#google) | 36 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
 | [Intel](#intel) | 45 |
-| [Jane Street](#jane-street) | 18 |
+| [Jane Street](#jane-street) | 17 |
 | [Lyft](#lyft) | 16 |
-| [Meta](#meta) | 22 |
-| [Microsoft](#microsoft) | 27 |
+| [Meta](#meta) | 26 |
+| [Microsoft](#microsoft) | 29 |
 | [MongoDB](#mongodb) | 1 |
 | [NVIDIA](#nvidia) | 114 |
 | [Netflix](#netflix) | 1 |
@@ -136,7 +136,6 @@ GitHub Actions.
 | [Robotics - Software Development Engineer Fall Intern/Co-op - 2026](https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026) | AI/ML | — | Westborough, Massachusetts, USA | 2026-08-27 |
 | [Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027](https://www.amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027) | Backend/Infra | — | Austin, Texas, USA | 2026-08-27 |
 | [【Class of 2029／Internship】Applied Scientists , Amazon International Stores, Amazon Japan Store Tech](https://www.amazon.jobs/en/jobs/10504617/class-of-2029-internship-applied-scientists-amazon-international-stores-amazon-japan-store-tech) | AI/ML | — | Tokyo, JPN | 2026-08-18 |
-| [【Class of 2028 & 2029／Internship】Software Development Engineers , Amazon International Stores](https://www.amazon.jobs/en/jobs/10503558/class-of-2028-2029-internship-software-development-engineers-amazon-international-stores) | Software | — | Tokyo, JPN | 2026-08-17 |
 | [2027 Applied Science Intern (Computer Vision), Amazon International Machine Learning](https://www.amazon.jobs/en/jobs/10459543/2027-applied-science-intern-computer-vision-amazon-international-machine-learning) | AI/ML | — | Melbourne, Victoria, AUS | 2026-06-26 |
 | [2027 Applied Science Intern (Machine Learning, Recommender Systems), Amazon International Machine Learning](https://www.amazon.jobs/en/jobs/10456239/2027-applied-science-intern-machine-learning-recommender-systems-amazon-international-machine-learning) | AI/ML | — | Melbourne, Victoria, AUS | 2026-06-23 |
 | [2027 Software Dev Engineer Intern](https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern) | Software | — | Dublin, IRL | 2026-05-13 |
@@ -155,6 +154,7 @@ GitHub Actions.
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Software Engineering Intern – AI Tools for Hardware Engineering](https://jobs.apple.com/en-us/details/200688936/software-engineering-intern-ai-tools-for-hardware-engineering) 🆕 | AI/ML | — | Shanghai | 2026-10-14 |
+| [RF System Validation Internship](https://jobs.apple.com/en-us/details/200689039/rf-system-validation-internship) 🆕 | QA | — | Linz | 2026-10-14 |
 | [Internship - Machine Learning (Foundation Models)](https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models) | AI/ML | — | Zurich | 2026-10-13 |
 | [AI & Project Operations Intern – Managing Director Office, Greater China](https://jobs.apple.com/en-us/details/200682902/ai-project-operations-intern-managing-director-office-greater-china) 🆕 | AI/ML | — | Shanghai | 2026-10-09 |
 | [Mac Hardware System Design Engineer Intern (AI Tools for Hardware Engineering)](https://jobs.apple.com/en-us/details/200686707/mac-hardware-system-design-engineer-intern-ai-tools-for-hardware-engineering) 🆕 | AI/ML | — | Shanghai | 2026-10-08 |
@@ -378,7 +378,6 @@ GitHub Actions.
 | [Tools and Compilers Research and Development (Summer Internship)](https://www.janestreet.com/join-jane-street/position/5869205002/) | Backend/Infra | — | NYC | — |
 | [Tools & Compilers Research and Development (Summer Internship)](https://www.janestreet.com/join-jane-street/position/5866838002/) | Backend/Infra | — | LDN | — |
 | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8599644002/) | Software | — | NYC | — |
-| [Network Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8620793002/) | Backend/Infra | — | NYC | — |
 | [Machine Learning Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8384490002/) | AI/ML | — | NYC | — |
 | [Machine Learning Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8611307002/) | AI/ML | — | NYC | — |
 
@@ -407,6 +406,10 @@ GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Research Scientist Intern, Robotics Foundation Models Mid-Training (PhD)](https://www.metacareers.com/jobs/1658187582680157) 🆕 | AI/ML | PhD | Menlo Park, CA | — |
+| [Research Scientist Intern, Hearing Science and Auditory Perception (PhD)](https://www.metacareers.com/jobs/2637905303337145) 🆕 | AI/ML | PhD | Redmond, WA | — |
+| [Research Scientist Intern, Audio, Numerical Acoustics (PhD)](https://www.metacareers.com/jobs/2237519230439134) 🆕 | AI/ML | PhD | Redmond, WA | — |
+| [Computer Vision Engineer Intern, Advanced Manufacturing (Reality Labs)](https://www.metacareers.com/jobs/1758435721926913) 🆕 | AI/ML | — | Sunnyvale, CA | — |
 | [Research Scientist Intern, VLM and Omni Model Post-Training (PhD)](https://www.metacareers.com/jobs/2988199118196184) 🆕 | AI/ML | PhD | Sunnyvale, CA | — |
 | [Research Scientist Intern, Systems ML - SW/HW Co-Design - CPUSys (PhD)](https://www.metacareers.com/jobs/2192664358300823) 🆕 | AI/ML | PhD | Menlo Park, CA | — |
 | [Research Scientist Intern, Multimodal Generative AI and Robotics (PhD)](https://www.metacareers.com/jobs/1139865145249047) 🆕 | AI/ML | PhD | Redmond, WA; Sunnyvale, CA | — |
@@ -434,6 +437,7 @@ GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Stagiaire en recherche - apprentissage automatique; Research Intern - Machine Learning](https://apply.careers.microsoft.com/careers/job/1970393557040927) 🆕 | AI/ML | — | Canada, Québec, Montreal | 2026-10-14 |
 | [Research Intern - Machine Learning for Biology and Healthcare](https://apply.careers.microsoft.com/careers/job/1970393557040333) 🆕 | AI/ML | — | United States, Massachusetts, Cambridge | 2026-10-13 |
 | [Research Intern - Machine Learning and Statistics](https://apply.careers.microsoft.com/careers/job/1970393557040502) 🆕 | AI/ML | — | United States, Massachusetts, Cambridge; United States, Washington, Redmond | 2026-10-13 |
 | [Research Intern - Agentic Data Memory](https://apply.careers.microsoft.com/careers/job/1970393557040344) 🆕 | Data | — | United States, Washington, Redmond | 2026-10-13 |
@@ -454,6 +458,7 @@ GitHub Actions.
 | [Data Science: AI Experiences PhD Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556986137) | AI/ML | PhD | United States, Washington, Redmond | 2026-10-02 |
 | [Research Intern - Security Research Group, Microsoft Research Redmond](https://apply.careers.microsoft.com/careers/job/1970393557022480) | Security | — | United States, Washington, Redmond | 2026-10-01 |
 | [Research Intern - Data Systems](https://apply.careers.microsoft.com/careers/job/1970393557008574) | Data | — | United States, Washington, Redmond | 2026-09-25 |
+| [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556999316) | Software | — | Mexico, Multiple Locations, Multiple Locations | 2026-09-16 |
 | [Cloud Solution Architecture Intern](https://apply.careers.microsoft.com/careers/job/1970393556998387) | Backend/Infra | — | Belgium, Brussels Region, Brussels | 2026-09-14 |
 | [Software Engineering Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556983221) | Software | — | United States, Washington, Redmond | 2026-09-11 |
 | [Software Engineering Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556983223) | Software | — | United States, Virginia, Reston | 2026-09-11 |
