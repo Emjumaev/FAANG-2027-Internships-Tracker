@@ -635,8 +635,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10504617/class-of-2029-internship-applied-scientists-amazon-international-stores-amazon-japan-store-tech"
     },
     "amazon:10517149": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-14",
       "company": "Amazon",
       "degrees": [],
       "external_id": "10517149",
@@ -8358,6 +8359,23 @@
       "title": "Research Scientist Intern, Monetization Computer Vision (PhD)",
       "url": "https://www.metacareers.com/jobs/2281218542616482"
     },
+    "meta:2374839409720164": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "2374839409720164",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Wireless Research (PhD)",
+      "url": "https://www.metacareers.com/jobs/2374839409720164"
+    },
     "meta:24536664159369645": {
       "active": false,
       "category": "AI/ML",
@@ -11324,6 +11342,23 @@
       "title": "Post Silicon Validation Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Post-Silicon-Validation-Intern---2027_JR2025052"
     },
+    "nvidia:JR2025096": {
+      "active": true,
+      "category": "Security",
+      "company": "NVIDIA",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "JR2025096",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "locations": [
+        "2 Locations"
+      ],
+      "posted": "2026-10-14",
+      "title": "PhD Research Intern, Security and Privacy - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096"
+    },
     "nvidia:JR2025098": {
       "active": true,
       "category": "Backend/Infra",
@@ -12858,6 +12893,21 @@
       "title": "Software Engineering Intern (Summer 2027)",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005"
     },
+    "snap:R0047179": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Snap",
+      "degrees": [],
+      "external_id": "R0047179",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "locations": [
+        "Los Angeles, California"
+      ],
+      "posted": "2026-10-14",
+      "title": "2027 Generative Media Research Intern",
+      "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179"
+    },
     "snowflake:3045856c-74a4-469e-ba81-a176cc0bef8f": {
       "active": false,
       "category": "Security",
@@ -14175,5 +14225,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8279620"
     }
   },
-  "updated_at": "2026-10-14T18:47:04Z"
+  "updated_at": "2026-10-14T23:23:20Z"
 }
