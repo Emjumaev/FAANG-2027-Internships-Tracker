@@ -2957,6 +2957,21 @@
       "title": "PMU Silicon Validation Intern (m/f/d)",
       "url": "https://jobs.apple.com/en-us/details/200687726/pmu-silicon-validation-intern-m-f-d"
     },
+    "apple:200688936": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Apple",
+      "degrees": [],
+      "external_id": "200688936",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "locations": [
+        "Shanghai"
+      ],
+      "posted": "2026-10-14",
+      "title": "Software Engineering Intern \u2013 AI Tools for Hardware Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200688936/software-engineering-intern-ai-tools-for-hardware-engineering"
+    },
     "cisco:2005347": {
       "active": false,
       "category": "AI/ML",
@@ -6423,8 +6438,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/System-Software-Engineering-Intern_JR0286933"
     },
     "intel:JR0286934": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-10-14",
       "company": "Intel",
       "degrees": [],
       "external_id": "JR0286934",
@@ -7041,6 +7057,21 @@
       "title": "AI Frameworks Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Frameworks-Intern_JR0287895"
     },
+    "intel:JR0287897": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Intel",
+      "degrees": [],
+      "external_id": "JR0287897",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-14",
+      "title": "Compiler Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897"
+    },
     "intel:JR0287915": {
       "active": true,
       "category": "AI/ML",
@@ -7152,6 +7183,41 @@
       "posted": "2026-10-08",
       "title": "Compiler Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Compiler-Engineering-Intern_JR0287941"
+    },
+    "intel:JR0287942": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Intel",
+      "degrees": [
+        "BS"
+      ],
+      "external_id": "JR0287942",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "locations": [
+        "Germany, Munich"
+      ],
+      "posted": "2026-10-14",
+      "title": "MLIR Compiler Engineering Undergraduate Intern (f/m/d)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942"
+    },
+    "intel:JR0287943": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Intel",
+      "degrees": [
+        "MS",
+        "PhD"
+      ],
+      "external_id": "JR0287943",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "locations": [
+        "Germany, Munich"
+      ],
+      "posted": "2026-10-14",
+      "title": "MLIR Compiler Engineering Graduate Intern (f/m/d)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943"
     },
     "intel:JR0288056": {
       "active": false,
@@ -8690,9 +8756,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556875247"
     },
     "microsoft:1970393556911730": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-08-22",
+      "closed": "2026-10-14",
       "company": "Microsoft",
       "degrees": [],
       "external_id": "1970393556911730",
@@ -9422,9 +9488,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556999315"
     },
     "microsoft:1970393556999316": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-05",
+      "closed": "2026-10-14",
       "company": "Microsoft",
       "degrees": [],
       "external_id": "1970393556999316",
@@ -11194,18 +11260,18 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Intern--Video-Chips---Summer-2027_JR2025179"
     },
     "nvidia:JR2025334": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-09-15",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2025334",
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-10-14",
       "locations": [
         "2 Locations"
       ],
-      "posted": "2026-09-11",
+      "posted": "2026-10-14",
       "title": "System Software Engineering Intern, GPU - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
     },
@@ -12194,6 +12260,21 @@
       "posted": "2026-10-13",
       "title": "Software Engineering Intern, Multi-Agent Systems - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Multi-Agent-Systems---2027_JR2027701-1"
+    },
+    "nvidia:JR2027948": {
+      "active": true,
+      "category": "Data",
+      "company": "NVIDIA",
+      "degrees": [],
+      "external_id": "JR2027948",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "locations": [
+        "2 Locations"
+      ],
+      "posted": "2026-10-14",
+      "title": "Data Processing Developer Technology Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948"
     },
     "oracle:334325": {
       "active": false,
@@ -13997,5 +14078,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8279620"
     }
   },
-  "updated_at": "2026-10-14T07:47:51Z"
+  "updated_at": "2026-10-14T13:52:57Z"
 }
