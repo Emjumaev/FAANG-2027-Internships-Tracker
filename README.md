@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-10-14 18:47:04 UTC** · 📌 **526** open internships
+> 🕐 Last updated: **2026-10-14 23:23:20 UTC** · 📌 **528** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -17,7 +17,7 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 3 |
 | Airbnb | — |
-| [Amazon](#amazon) | 79 |
+| [Amazon](#amazon) | 78 |
 | Anthropic | — |
 | [Apple](#apple) | 31 |
 | Bloomberg | — |
@@ -34,10 +34,10 @@ GitHub Actions.
 | [Intel](#intel) | 45 |
 | [Jane Street](#jane-street) | 17 |
 | [Lyft](#lyft) | 16 |
-| [Meta](#meta) | 26 |
+| [Meta](#meta) | 27 |
 | [Microsoft](#microsoft) | 29 |
 | [MongoDB](#mongodb) | 1 |
-| [NVIDIA](#nvidia) | 114 |
+| [NVIDIA](#nvidia) | 115 |
 | [Netflix](#netflix) | 1 |
 | OpenAI | — |
 | [Oracle](#oracle) | 2 |
@@ -46,7 +46,7 @@ GitHub Actions.
 | Reddit | — |
 | [Salesforce](#salesforce) | 3 |
 | [Scale AI](#scale-ai) | 3 |
-| Snap | — |
+| [Snap](#snap) | 1 |
 | [Snowflake](#snowflake) | 3 |
 | Spotify | — |
 | [Stripe](#stripe) | 13 |
@@ -133,7 +133,6 @@ GitHub Actions.
 | [Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027](https://www.amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) | AI/ML | — | North Reading, Massachusetts, USA | 2026-09-09 |
 | [Software Development Engineer Intern/Co-Op, ROBOTICS -  2027](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027) | AI/ML | — | North Reading, Massachusetts, USA | 2026-09-04 |
 | [Software Development Engineer Intern, Annapurna Labs - 2027](https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) | Software | — | Cupertino, California, USA | 2026-08-27 |
-| [Robotics - Software Development Engineer Fall Intern/Co-op - 2026](https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026) | AI/ML | — | Westborough, Massachusetts, USA | 2026-08-27 |
 | [Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027](https://www.amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027) | Backend/Infra | — | Austin, Texas, USA | 2026-08-27 |
 | [【Class of 2029／Internship】Applied Scientists , Amazon International Stores, Amazon Japan Store Tech](https://www.amazon.jobs/en/jobs/10504617/class-of-2029-internship-applied-scientists-amazon-international-stores-amazon-japan-store-tech) | AI/ML | — | Tokyo, JPN | 2026-08-18 |
 | [2027 Applied Science Intern (Computer Vision), Amazon International Machine Learning](https://www.amazon.jobs/en/jobs/10459543/2027-applied-science-intern-computer-vision-amazon-international-machine-learning) | AI/ML | — | Melbourne, Victoria, AUS | 2026-06-26 |
@@ -406,6 +405,7 @@ GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Research Scientist Intern, Wireless Research (PhD)](https://www.metacareers.com/jobs/2374839409720164) 🆕 | AI/ML | PhD | Sunnyvale, CA | — |
 | [Research Scientist Intern, Robotics Foundation Models Mid-Training (PhD)](https://www.metacareers.com/jobs/1658187582680157) 🆕 | AI/ML | PhD | Menlo Park, CA | — |
 | [Research Scientist Intern, Hearing Science and Auditory Perception (PhD)](https://www.metacareers.com/jobs/2637905303337145) 🆕 | AI/ML | PhD | Redmond, WA | — |
 | [Research Scientist Intern, Audio, Numerical Acoustics (PhD)](https://www.metacareers.com/jobs/2237519230439134) 🆕 | AI/ML | PhD | Redmond, WA | — |
@@ -479,6 +479,7 @@ GitHub Actions.
 |---|---|---|---|---|---|
 | [System Software Engineering Intern, GPU - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334) | Software | — | 2 Locations | 2026-10-14 |
 | [System Software Engineer - Base OS (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948) 🆕 | Software | — | Taiwan, Taipei | 2026-10-14 |
+| [PhD Research Intern, Security and Privacy - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096) 🆕 | Security | PhD | 2 Locations | 2026-10-14 |
 | [Data Processing Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948) 🆕 | Data | — | 2 Locations | 2026-10-14 |
 | [Software Engineering Intern, Multi-Agent Systems - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Multi-Agent-Systems---2027_JR2027701-1) 🆕 | Software | — | China, Shanghai | 2026-10-13 |
 | [Software Engineering Intern, Deep Learning - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596) 🆕 | AI/ML | — | 2 Locations | 2026-10-13 |
@@ -636,6 +637,12 @@ GitHub Actions.
 | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730834005) | Software | — | Doha, Qatar | 2026-09-14 |
 | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730846005) | Software | — | London, UK | 2026-09-14 |
 | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) | Software | — | San Francisco, CA | 2026-09-04 |
+
+## Snap
+
+| Role | Category | Degree | Location | Posted | First seen |
+|---|---|---|---|---|---|
+| [2027 Generative Media Research Intern](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179) 🆕 | AI/ML | — | Los Angeles, California | 2026-10-14 |
 
 ## Snowflake
 
