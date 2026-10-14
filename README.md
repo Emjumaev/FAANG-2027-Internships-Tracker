@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-10-14 07:47:51 UTC** · 📌 **518** open internships
+> 🕐 Last updated: **2026-10-14 13:52:57 UTC** · 📌 **521** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -19,7 +19,7 @@ GitHub Actions.
 | Airbnb | — |
 | [Amazon](#amazon) | 80 |
 | Anthropic | — |
-| [Apple](#apple) | 29 |
+| [Apple](#apple) | 30 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 17 |
 | [Cloudflare](#cloudflare) | 3 |
@@ -31,13 +31,13 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 36 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [Intel](#intel) | 43 |
+| [Intel](#intel) | 45 |
 | [Jane Street](#jane-street) | 18 |
 | [Lyft](#lyft) | 16 |
 | [Meta](#meta) | 22 |
-| [Microsoft](#microsoft) | 29 |
+| [Microsoft](#microsoft) | 27 |
 | [MongoDB](#mongodb) | 1 |
-| [NVIDIA](#nvidia) | 112 |
+| [NVIDIA](#nvidia) | 114 |
 | [Netflix](#netflix) | 1 |
 | OpenAI | — |
 | [Oracle](#oracle) | 2 |
@@ -154,6 +154,7 @@ GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Software Engineering Intern – AI Tools for Hardware Engineering](https://jobs.apple.com/en-us/details/200688936/software-engineering-intern-ai-tools-for-hardware-engineering) 🆕 | AI/ML | — | Shanghai | 2026-10-14 |
 | [Internship - Machine Learning (Foundation Models)](https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models) | AI/ML | — | Zurich | 2026-10-13 |
 | [AI & Project Operations Intern – Managing Director Office, Greater China](https://jobs.apple.com/en-us/details/200682902/ai-project-operations-intern-managing-director-office-greater-china) 🆕 | AI/ML | — | Shanghai | 2026-10-09 |
 | [Mac Hardware System Design Engineer Intern (AI Tools for Hardware Engineering)](https://jobs.apple.com/en-us/details/200686707/mac-hardware-system-design-engineer-intern-ai-tools-for-hardware-engineering) 🆕 | AI/ML | — | Shanghai | 2026-10-08 |
@@ -312,6 +313,9 @@ GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [MLIR Compiler Engineering Undergraduate Intern (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942) 🆕 | Backend/Infra | BS | Germany, Munich | 2026-10-14 |
+| [MLIR Compiler Engineering Graduate Intern (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943) 🆕 | Backend/Infra | MS/PhD | Germany, Munich | 2026-10-14 |
+| [Compiler Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897) 🆕 | Backend/Infra | — | Poland, Gdansk | 2026-10-14 |
 | [Platform Validation Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/Platform-Validation-Engineering-Intern_JR0287927) 🆕 | QA | — | Mexico, Guadalajara | 2026-10-13 |
 | [Intern System Software Development Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286955) | Software | — | Malaysia, Penang | 2026-10-13 |
 | [GPU Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287893) 🆕 | Software | — | Poland, Gdansk | 2026-10-13 |
@@ -348,7 +352,6 @@ GitHub Actions.
 | [Software Solutions Eng PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944) | Software | PhD | Ireland, Leixlip | 2026-09-24 |
 | [Operations Research, Engineering Analytics Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502) | Data | MS/PhD | US, Arizona, Phoenix | 2026-09-16 |
 | [System Technology Research Engineer - (PhD Intern)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000) | AI/ML | PhD | 3 Locations | 2026-09-14 |
-| [DevOps and Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/DevOps-and-Software-Engineering-Intern_JR0286934) | Backend/Infra | — | Malaysia, Kulim | 2026-09-09 |
 | [Intern System Software Development Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/Intern-System-Software-Development-Engineer_JR0286935) | Software | — | Malaysia, Kulim | 2026-09-08 |
 | [AI/ML Software App Development Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Chengdu/AI-ML-Software-App-Development-Intern_JR0286946) | AI/ML | — | PRC, Chengdu | 2026-09-08 |
 | [Software Engineering - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836) | Software | MS/PhD | 5 Locations | 2026-09-03 |
@@ -451,8 +454,6 @@ GitHub Actions.
 | [Data Science: AI Experiences PhD Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556986137) | AI/ML | PhD | United States, Washington, Redmond | 2026-10-02 |
 | [Research Intern - Security Research Group, Microsoft Research Redmond](https://apply.careers.microsoft.com/careers/job/1970393557022480) | Security | — | United States, Washington, Redmond | 2026-10-01 |
 | [Research Intern - Data Systems](https://apply.careers.microsoft.com/careers/job/1970393557008574) | Data | — | United States, Washington, Redmond | 2026-09-25 |
-| [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556911730) | Software | — | India, Multiple Locations, Multiple Locations | 2026-09-18 |
-| [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393556999316) | Software | — | Mexico, Multiple Locations, Multiple Locations | 2026-09-16 |
 | [Cloud Solution Architecture Intern](https://apply.careers.microsoft.com/careers/job/1970393556998387) | Backend/Infra | — | Belgium, Brussels Region, Brussels | 2026-09-14 |
 | [Software Engineering Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556983221) | Software | — | United States, Washington, Redmond | 2026-09-11 |
 | [Software Engineering Intern - CTJ - TS](https://apply.careers.microsoft.com/careers/job/1970393556983223) | Software | — | United States, Virginia, Reston | 2026-09-11 |
@@ -471,7 +472,9 @@ GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [System Software Engineering Intern, GPU - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334) | Software | — | 2 Locations | 2026-10-14 |
 | [System Software Engineer - Base OS (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948) 🆕 | Software | — | Taiwan, Taipei | 2026-10-14 |
+| [Data Processing Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948) 🆕 | Data | — | 2 Locations | 2026-10-14 |
 | [Software Engineering Intern, Multi-Agent Systems - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Multi-Agent-Systems---2027_JR2027701-1) 🆕 | Software | — | China, Shanghai | 2026-10-13 |
 | [Software Engineering Intern, Deep Learning - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596) 🆕 | AI/ML | — | 2 Locations | 2026-10-13 |
 | [Planning and Control Adaptation Intern, Autonomous Driving - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Planning-and-Control-Adaptation-Intern--Autonomous-Driving---2027_JR2027182) 🆕 | AI/ML | — | 2 Locations | 2026-10-13 |
