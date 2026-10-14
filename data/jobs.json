@@ -604,9 +604,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10459543/2027-applied-science-intern-computer-vision-amazon-international-machine-learning"
     },
     "amazon:10503558": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-08",
+      "closed": "2026-10-14",
       "company": "Amazon",
       "degrees": [],
       "external_id": "10503558",
@@ -2971,6 +2971,21 @@
       "posted": "2026-10-14",
       "title": "Software Engineering Intern \u2013 AI Tools for Hardware Engineering",
       "url": "https://jobs.apple.com/en-us/details/200688936/software-engineering-intern-ai-tools-for-hardware-engineering"
+    },
+    "apple:200689039": {
+      "active": true,
+      "category": "QA",
+      "company": "Apple",
+      "degrees": [],
+      "external_id": "200689039",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "locations": [
+        "Linz"
+      ],
+      "posted": "2026-10-14",
+      "title": "RF System Validation Internship",
+      "url": "https://jobs.apple.com/en-us/details/200689039/rf-system-validation-internship"
     },
     "cisco:2005347": {
       "active": false,
@@ -7420,8 +7435,9 @@
       "url": "https://www.janestreet.com/join-jane-street/position/8617298002/"
     },
     "jane-street:8620793002": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-10-14",
       "company": "Jane Street",
       "degrees": [],
       "external_id": "8620793002",
@@ -7980,6 +7996,23 @@
       "title": "Data Scientist Intern, Product Analytics (Summer 2027)",
       "url": "https://www.metacareers.com/jobs/1633096478817942"
     },
+    "meta:1658187582680157": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1658187582680157",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Robotics Foundation Models Mid-Training (PhD)",
+      "url": "https://www.metacareers.com/jobs/1658187582680157"
+    },
     "meta:1674394627579563": {
       "active": true,
       "category": "AI/ML",
@@ -8014,6 +8047,21 @@
       "posted": null,
       "title": "Research Scientist Intern, Optical System Design (PhD)",
       "url": "https://www.metacareers.com/jobs/1710381673750348"
+    },
+    "meta:1758435721926913": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [],
+      "external_id": "1758435721926913",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "posted": null,
+      "title": "Computer Vision Engineer Intern, Advanced Manufacturing (Reality Labs)",
+      "url": "https://www.metacareers.com/jobs/1758435721926913"
     },
     "meta:1782902493113620": {
       "active": false,
@@ -8275,6 +8323,23 @@
       "title": "Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)",
       "url": "https://www.metacareers.com/jobs/2211974449401350"
     },
+    "meta:2237519230439134": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "2237519230439134",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Audio, Numerical Acoustics (PhD)",
+      "url": "https://www.metacareers.com/jobs/2237519230439134"
+    },
     "meta:2281218542616482": {
       "active": false,
       "category": "AI/ML",
@@ -8362,6 +8427,23 @@
       "posted": null,
       "title": "Research Scientist Intern PhD,  Applied Research",
       "url": "https://www.metacareers.com/jobs/2633206137040139"
+    },
+    "meta:2637905303337145": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "2637905303337145",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Hearing Science and Auditory Perception (PhD)",
+      "url": "https://www.metacareers.com/jobs/2637905303337145"
     },
     "meta:2774289902955470": {
       "active": false,
@@ -9488,7 +9570,7 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556999315"
     },
     "microsoft:1970393556999316": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-14",
       "company": "Microsoft",
@@ -9846,6 +9928,21 @@
       "posted": "2026-10-13",
       "title": "Research Intern - Machine Learning and Statistics",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502"
+    },
+    "microsoft:1970393557040927": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "degrees": [],
+      "external_id": "1970393557040927",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "locations": [
+        "Canada, Qu\u00e9bec, Montreal"
+      ],
+      "posted": "2026-10-14",
+      "title": "Stagiaire en recherche - apprentissage automatique; Research Intern - Machine Learning",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557040927"
     },
     "mongodb:8258279": {
       "active": true,
@@ -14078,5 +14175,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8279620"
     }
   },
-  "updated_at": "2026-10-14T13:52:57Z"
+  "updated_at": "2026-10-14T18:47:04Z"
 }
