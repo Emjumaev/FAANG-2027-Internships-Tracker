@@ -1,13 +1,13 @@
 # 🎯 Software Engineering Internship Tracker
 
 Auto-updated list of **open software-engineering internships** — AI/ML, Data,
-Mobile, Frontend, Backend/Infra, QA and Security roles — at 40 top tech
+Mobile, Frontend, Backend/Infra, QA and Security roles — at 42 top tech
 companies, scraped directly from each company's careers API every 2 hours by
 GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-10-15 05:44:18 UTC** · 📌 **657** open internships
+> 🕐 Last updated: **2026-10-15 08:39:42 UTC** · 📌 **661** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -44,6 +44,7 @@ GitHub Actions.
 | OpenAI | — |
 | [Oracle](#oracle) | 2 |
 | PayPal | — |
+| [Perplexity AI](#perplexity-ai) | 4 |
 | [Pinterest](#pinterest) | 11 |
 | Reddit | — |
 | [Salesforce](#salesforce) | 3 |
@@ -55,8 +56,11 @@ GitHub Actions.
 | Uber | — |
 | [Visa](#visa) | 3 |
 | [Waymo](#waymo) | 45 |
+| Wise | — |
 | ByteDance | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* |
+| Revolut | *revolut.com serves a 'quick security check' browser challenge to every non-browser client, careers pages and sitemaps included; needs a headless browser* |
 | Tesla | *careers site and its JSON API sit behind Akamai bot protection that returns 403 to every non-browser client; needs a headless browser* |
+| TikTok | *careers.tiktok.com now redirects to lifeattiktok.com, a Next.js app that loads jobs through server actions; the old /api/v1/search/job/posts endpoint answers 405 or an empty body; needs a headless browser* |
 
 ---
 
@@ -739,6 +743,15 @@ GitHub Actions.
 |---|---|---|---|---|---|
 | [CEGIU Demo Data Strategy Intern - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334396) | Data | — | Redwood City, CA, United States; Rocklin, CA, United States; Santa Clara, CA, United States *(+3 more)* | 2026-05-23 |
 | [ONA AI Agent Intern (Logistics Focus) - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334345) | AI/ML | — | Austin, TX, United States; United States | 2026-05-22 |
+
+## Perplexity AI
+
+| Role | Category | Degree | Location | Posted | First seen |
+|---|---|---|---|---|---|
+| [Internship - Machine Learning Research Engineer](https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c) 🆕 | AI/ML | — | Berlin | 2026-09-02 |
+| [Internship - Search Backend Infra Engineer](https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92) 🆕 | Backend/Infra | — | Belgrade | 2026-07-01 |
+| [Internship - Search Machine Learning Engineer](https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d) 🆕 | AI/ML | — | London | 2026-04-08 |
+| [Internship - Search Machine Learning Engineer](https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2) 🆕 | AI/ML | — | Belgrade | 2026-01-13 |
 
 ## Pinterest
 

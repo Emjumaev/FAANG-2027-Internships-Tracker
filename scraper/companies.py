@@ -7,10 +7,17 @@ opens a `scraper-health` issue automatically — see .github/workflows/update.ym
 from .adapters import (amazon, apple, ashby, bloomberg, eightfold,
                        github_careers, google, greenhouse, ibm, janestreet,
                        meta, microsoft, oracle_hcm, phenom, spotify, uber,
-                       workday)
+                       wise, workday)
 
 # Companies we can't cover, and why — rendered into the README summary table.
 UNSUPPORTED = {
+    "Revolut": ("revolut.com serves a 'quick security check' browser "
+                "challenge to every non-browser client, careers pages and "
+                "sitemaps included; needs a headless browser"),
+    "TikTok": ("careers.tiktok.com now redirects to lifeattiktok.com, a "
+               "Next.js app that loads jobs through server actions; the old "
+               "/api/v1/search/job/posts endpoint answers 405 or an empty "
+               "body; needs a headless browser"),
     "Tesla": ("careers site and its JSON API sit behind Akamai bot protection "
               "that returns 403 to every non-browser client; needs a headless browser"),
     "ByteDance": ("joinbytedance.com's job-search API rejects requests that "
@@ -38,6 +45,7 @@ COMPANIES = [
 
     # --- Ashby ---------------------------------------------------------------
     {"name": "OpenAI", "fetch": ashby.fetch, "org": "openai"},
+    {"name": "Perplexity AI", "fetch": ashby.fetch, "org": "perplexity"},
 
     # --- Workday CXS ---------------------------------------------------------
     {"name": "NVIDIA", "fetch": workday.fetch,
@@ -88,4 +96,5 @@ COMPANIES = [
     {"name": "Spotify", "fetch": spotify.fetch},
     {"name": "Bloomberg", "fetch": bloomberg.fetch},
     {"name": "IBM", "fetch": ibm.fetch},
+    {"name": "Wise", "fetch": wise.fetch},
 ]
