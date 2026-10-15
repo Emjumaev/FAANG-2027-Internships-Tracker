@@ -6115,8 +6115,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=123754"
     },
     "ibm:128497": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-15",
       "company": "IBM",
       "degrees": [],
       "external_id": "128497",
@@ -6143,6 +6144,21 @@
       "posted": null,
       "title": "Software Developer Spring Co-op 2027",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128506"
+    },
+    "ibm:128510": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128510",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "Site Reliability Engineer Spring Co-op 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128510"
     },
     "ibm:128513": {
       "active": true,
@@ -6173,6 +6189,36 @@
       "posted": null,
       "title": "Intern Application Developer - ServiceNow 2027",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128540"
+    },
+    "ibm:128560": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128560",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Chicago, United States"
+      ],
+      "posted": null,
+      "title": "Intern Oracle Cloud - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128560"
+    },
+    "ibm:128562": {
+      "active": true,
+      "category": "Data",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128562",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "University Park, United States"
+      ],
+      "posted": null,
+      "title": "Co-Op Data Engineer - Data Services 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128562"
     },
     "ibm:128591": {
       "active": true,
@@ -6235,8 +6281,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128716"
     },
     "ibm:128737": {
-      "active": true,
+      "active": false,
       "category": "Security",
+      "closed": "2026-10-15",
       "company": "IBM",
       "degrees": [],
       "external_id": "128737",
@@ -6415,8 +6462,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128823"
     },
     "ibm:128825": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-15",
       "company": "IBM",
       "degrees": [],
       "external_id": "128825",
@@ -6520,8 +6568,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129780"
     },
     "ibm:129781": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-10-15",
       "company": "IBM",
       "degrees": [],
       "external_id": "129781",
@@ -6593,6 +6642,21 @@
       "posted": null,
       "title": "IBM Z Engineering System Test Hardware Developer - Poughkeepsie, NY - Intern 2027",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129926"
+    },
+    "ibm:129929": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "129929",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "POUGHKEEPSIE, United States"
+      ],
+      "posted": null,
+      "title": "IBM Z Engineering System Test Back-End Developer - Systems Assurance Kernel (SAK) Intern 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129929"
     },
     "ibm:129936": {
       "active": true,
@@ -6730,8 +6794,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130103"
     },
     "ibm:130104": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-10-15",
       "company": "IBM",
       "degrees": [],
       "external_id": "130104",
@@ -6850,8 +6915,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130758"
     },
     "ibm:130759": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-15",
       "company": "IBM",
       "degrees": [],
       "external_id": "130759",
@@ -6910,8 +6976,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130774"
     },
     "ibm:130787": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-10-15",
       "company": "IBM",
       "degrees": [],
       "external_id": "130787",
@@ -7119,9 +7186,25 @@
       "title": "Cloud Developer Intern - Network - Austin, TX - 2027",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131292"
     },
-    "ibm:131364": {
+    "ibm:131307": {
       "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "131307",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "AI Foundations - Software Engineer - Research Internship 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131307"
+    },
+    "ibm:131364": {
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-10-15",
       "company": "IBM",
       "degrees": [],
       "external_id": "131364",
@@ -7209,6 +7292,21 @@
       "title": "Site Reliability Engineering Professional Intern - Austin, TX - 2027",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131810"
     },
+    "ibm:131816": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "131816",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Chicago, United States"
+      ],
+      "posted": null,
+      "title": "Cloud Developer Intern - Chicago, IL - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131816"
+    },
     "ibm:131827": {
       "active": true,
       "category": "AI/ML",
@@ -7240,8 +7338,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131988"
     },
     "ibm:131999": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-15",
       "company": "IBM",
       "degrees": [],
       "external_id": "131999",
@@ -7315,8 +7414,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132423"
     },
     "ibm:132430": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-15",
       "company": "IBM",
       "degrees": [],
       "external_id": "132430",
@@ -7329,9 +7429,25 @@
       "title": "Silicon Technology Research and Development Research Scientist Intern - 2027",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132430"
     },
-    "ibm:132433": {
+    "ibm:132431": {
       "active": true,
+      "category": "Data",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "132431",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "Quantum Data Analyst Intern 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132431"
+    },
+    "ibm:132433": {
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-15",
       "company": "IBM",
       "degrees": [],
       "external_id": "132433",
@@ -7358,6 +7474,21 @@
       "posted": null,
       "title": "Research Intern \u2014 AI and Quantum Algorithms for Optimization 2027",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132434"
+    },
+    "ibm:132567": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "132567",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "San Jose, United States"
+      ],
+      "posted": null,
+      "title": "Storage Systems Research Scientist Intern 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132567"
     },
     "ibm:132569": {
       "active": true,
@@ -7478,6 +7609,21 @@
       "posted": null,
       "title": "Site Reliability Engineer Intern - OneIT - Rochester, MN",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132822"
+    },
+    "ibm:132880": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "132880",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "POUGHKEEPSIE, United States"
+      ],
+      "posted": null,
+      "title": "Site Reliability Engineer Intern - OneIT - Poughkeepsie, NY",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132880"
     },
     "ibm:132886": {
       "active": true,
@@ -7602,8 +7748,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133462"
     },
     "ibm:133782": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-10-15",
       "company": "IBM",
       "degrees": [],
       "external_id": "133782",
@@ -7632,8 +7779,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133801"
     },
     "ibm:133909": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-15",
       "company": "IBM",
       "degrees": [],
       "external_id": "133909",
@@ -7692,8 +7840,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134098"
     },
     "ibm:134121": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-10-15",
       "company": "IBM",
       "degrees": [],
       "external_id": "134121",
@@ -7720,6 +7869,21 @@
       "posted": null,
       "title": "Intern Application Developer - Full Stack",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134417"
+    },
+    "ibm:134474": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "134474",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Yorktown Heights, United States"
+      ],
+      "posted": null,
+      "title": "Summer Research Intern 2027 - Edge communications processing with AI accelerators",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134474"
     },
     "ibm:134486": {
       "active": true,
@@ -7752,8 +7916,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134568"
     },
     "ibm:134679": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-10-15",
       "company": "IBM",
       "degrees": [],
       "external_id": "134679",
@@ -7782,8 +7947,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134708"
     },
     "ibm:134827": {
-      "active": true,
+      "active": false,
       "category": "Security",
+      "closed": "2026-10-15",
       "company": "IBM",
       "degrees": [],
       "external_id": "134827",
@@ -7857,8 +8023,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=135235"
     },
     "ibm:135256": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-15",
       "company": "IBM",
       "degrees": [],
       "external_id": "135256",
@@ -7872,8 +8039,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=135256"
     },
     "ibm:135456": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-15",
       "company": "IBM",
       "degrees": [
         "MS"
@@ -7962,6 +8130,21 @@
       "posted": null,
       "title": "Hardware Developer Intern - Poughkeepsie, NY - 2027",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=136727"
+    },
+    "ibm:136943": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "136943",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "Internship Cloud FullStack Developer",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=136943"
     },
     "ibm:136983": {
       "active": true,
@@ -16562,5 +16745,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8279620"
     }
   },
-  "updated_at": "2026-10-15T05:25:29Z"
+  "updated_at": "2026-10-15T05:35:34Z"
 }
