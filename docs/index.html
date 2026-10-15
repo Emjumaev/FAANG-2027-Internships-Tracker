@@ -21,10 +21,6 @@
     --brand-soft: #e8f1fa;
     --new-fg: #157347;
     --new-bg: #e3f4ea;
-    --warn-fg: #8a5a00;
-    --warn-bg: #fdf1dc;
-    --bad-fg: #b42318;
-    --bad-bg: #fde8e6;
     --save: #0b66c2;
     --shadow: 0 1px 2px rgba(28, 31, 35, .06);
     --shadow-lift: 0 3px 10px rgba(28, 31, 35, .1);
@@ -45,10 +41,6 @@
       --brand-soft: #17293c;
       --new-fg: #57cf8b;
       --new-bg: #143526;
-      --warn-fg: #f0b848;
-      --warn-bg: #3a2c0e;
-      --bad-fg: #f28b82;
-      --bad-bg: #3b1a18;
       --save: #6ab1f7;
       --shadow: 0 1px 2px rgba(0, 0, 0, .4);
       --shadow-lift: 0 3px 12px rgba(0, 0, 0, .5);
@@ -69,10 +61,6 @@
     --brand-soft: #17293c;
     --new-fg: #57cf8b;
     --new-bg: #143526;
-    --warn-fg: #f0b848;
-    --warn-bg: #3a2c0e;
-    --bad-fg: #f28b82;
-    --bad-bg: #3b1a18;
     --save: #6ab1f7;
     --shadow: 0 1px 2px rgba(0, 0, 0, .4);
     --shadow-lift: 0 3px 12px rgba(0, 0, 0, .5);
@@ -259,11 +247,6 @@
     background: var(--surface-2); color: var(--dim);
   }
   .tag.new { background: var(--new-bg); color: var(--new-fg); }
-  a.tag { text-decoration: none; }
-  a.tag:hover { text-decoration: underline; text-underline-offset: 2px; }
-  .tag.visa-yes { background: var(--new-bg); color: var(--new-fg); }
-  .tag.visa-limited { background: var(--warn-bg); color: var(--warn-fg); }
-  .tag.visa-no { background: var(--bad-bg); color: var(--bad-fg); }
   .tag.posted { background: none; color: var(--faint); font-weight: 400; padding-left: 0; }
 
   .job-actions {
@@ -369,10 +352,6 @@
       <div class="fgroup">
         <h3>Degree</h3>
         <div id="deg-list"></div>
-      </div>
-      <div class="fgroup">
-        <h3 title="Whether the company sponsors work visas for interns — checked against company FAQs and postings; the posting itself always wins">Visa sponsorship</h3>
-        <div id="visa-list"></div>
       </div>
       <div class="fgroup">
         <h3>Company</h3>
@@ -581,19 +560,10 @@
   var DEGREE_LABEL = {};
   DEGREES.forEach(function (d) { DEGREE_LABEL[d[0]] = d[1]; });
 
-  /* ---------- visa sponsorship (company-level, from jobs.json "companies") ---------- */
-  var VISA_LEVELS = [
-    ["yes",     "✅ Sponsors interns"],
-    ["limited", "⚠️ Case-by-case"],
-    ["no",      "❌ No sponsorship"],
-    ["unknown", "❔ Unknown"]
-  ];
-  var VISA_UNKNOWN = { status: "unknown", label: "❔ Unknown", note: "", source: "" };
-
   /* ---------- state (synced to URL hash) ---------- */
   var state = {
     q: "", region: "", sort: "posted", dp: "",
-    cats: {}, cos: {}, degs: {}, visas: {},
+    cats: {}, cos: {}, degs: {},
     newonly: false, savedonly: false
   };
   function setFromCSV(str) {
@@ -612,7 +582,6 @@
     state.cats = setFromCSV(p.get("cat"));
     state.cos = setFromCSV(p.get("co"));
     state.degs = setFromCSV(p.get("deg"));
-    state.visas = setFromCSV(p.get("visa"));
     state.newonly = p.get("new") === "1";
     state.savedonly = p.get("saved") === "1";
   }
@@ -622,7 +591,6 @@
     if (Object.keys(state.cos).length) p.set("co", csvFromSet(state.cos));
     if (Object.keys(state.cats).length) p.set("cat", csvFromSet(state.cats));
     if (Object.keys(state.degs).length) p.set("deg", csvFromSet(state.degs));
-    if (Object.keys(state.visas).length) p.set("visa", csvFromSet(state.visas));
     if (state.region) p.set("r", state.region);
     if (state.dp) p.set("dp", state.dp);
     if (state.sort !== "posted") p.set("s", state.sort);
@@ -639,7 +607,6 @@
     .then(function (data) {
       var updated = new Date(data.updated_at);
       var newCutoff = updated.getTime() - 7 * 864e5;
-      var companies = data.companies || {};
       jobs = Object.keys(data.jobs).map(function (k) {
         var j = data.jobs[k]; j.key = k; return j;
       }).filter(function (j) { return j.active; }).map(function (j) {
@@ -648,9 +615,8 @@
         j.regions = classifyJob(j);
         j.degrees = j.degrees || [];                       // named in the title (shown as a tag)
         j.degFilter = j.degrees.length ? j.degrees : DEFAULT_DEGREES; // used by the Degree filter
-        j.visa = (companies[j.company] && companies[j.company].visa) || VISA_UNKNOWN;
         j.search = (j.title + " " + j.company + " " + j.category + " " + j.locations.join(" ") + " " +
-          j.degrees.map(function (d) { return DEGREE_LABEL[d] || d; }).join(" ") + " visa " + j.visa.label).toLowerCase();
+          j.degrees.map(function (d) { return DEGREE_LABEL[d] || d; }).join(" ")).toLowerCase();
         return j;
       });
       init(updated);
@@ -702,19 +668,6 @@
       if (!degs[key]) return;
       degBox.appendChild(checkboxOpt(d[1], degs[key], !!state.degs[key], function (checked) {
         if (checked) state.degs[key] = true; else delete state.degs[key];
-        refresh();
-      }));
-    });
-
-    // sidebar: visa sponsorship checkboxes (fixed order, hide levels with no listings)
-    var visas = {};
-    jobs.forEach(function (j) { visas[j.visa.status] = (visas[j.visa.status] || 0) + 1; });
-    var visaBox = $("visa-list");
-    VISA_LEVELS.forEach(function (v) {
-      var key = v[0];
-      if (!visas[key]) return;
-      visaBox.appendChild(checkboxOpt(v[1], visas[key], !!state.visas[key], function (checked) {
-        if (checked) state.visas[key] = true; else delete state.visas[key];
         refresh();
       }));
     });
@@ -810,21 +763,20 @@
 
   function activeFilterCount() {
     return (state.q ? 1 : 0) + Object.keys(state.cos).length + Object.keys(state.cats).length +
-           Object.keys(state.degs).length + Object.keys(state.visas).length +
-           (state.region ? 1 : 0) + (state.dp ? 1 : 0) +
+           Object.keys(state.degs).length + (state.region ? 1 : 0) + (state.dp ? 1 : 0) +
            (state.newonly ? 1 : 0) + (state.savedonly ? 1 : 0);
   }
 
   function clearFilters() {
     state.q = ""; state.region = ""; state.dp = "";
-    state.cats = {}; state.cos = {}; state.degs = {}; state.visas = {};
+    state.cats = {}; state.cos = {}; state.degs = {};
     state.newonly = false; state.savedonly = false;
     $("q").value = ""; $("region").value = "";
     $("f-new").checked = false; $("f-saved").checked = false;
     Array.prototype.forEach.call(document.querySelectorAll('input[name="dp"]'), function (r) {
       r.checked = r.value === "";
     });
-    Array.prototype.forEach.call(document.querySelectorAll("#cat-list input, #deg-list input, #visa-list input, #co-list input"), function (cb) {
+    Array.prototype.forEach.call(document.querySelectorAll("#cat-list input, #deg-list input, #co-list input"), function (cb) {
       cb.checked = false;
     });
     refresh();
@@ -835,14 +787,12 @@
     var catsOn = Object.keys(state.cats).length;
     var cosOn = Object.keys(state.cos).length;
     var degsOn = Object.keys(state.degs).length;
-    var visasOn = Object.keys(state.visas).length;
     var dpCutoff = state.dp ? Date.now() - (+state.dp) * 864e5 : 0;
 
     var rows = jobs.filter(function (j) {
       if (cosOn && !state.cos[j.company]) return false;
       if (catsOn && !state.cats[j.category]) return false;
       if (degsOn && !j.degFilter.some(function (d) { return state.degs[d]; })) return false;
-      if (visasOn && !state.visas[j.visa.status]) return false;
       if (state.region && j.regions.indexOf(state.region) === -1) return false;
       if (state.dp && (!j.postedTs || j.postedTs < dpCutoff)) return false;
       if (state.newonly && !j.isNew) return false;
@@ -914,7 +864,6 @@
           (j.isNew ? '<span class="tag new">🆕 New</span>' : "") +
           '<span class="tag">' + esc(j.category) + "</span>" +
           (j.degrees.length ? '<span class="tag" title="Degree level named in the title">🎓 ' + esc(j.degrees.join("/")) + "</span>" : "") +
-          visaTag(j.visa) +
           (j.posted ? '<span class="tag posted" title="posted ' + esc(j.posted) + '">Posted ' + relDate(j.posted) + "</span>" : "") +
         "</div>" +
       "</div>" +
@@ -924,17 +873,6 @@
         '<a class="apply-btn" href="' + esc(j.url) + '" target="_blank" rel="noopener">Apply ↗</a>' +
       "</div>" +
       "</article>";
-  }
-
-  function visaTag(v) {
-    var tip = "Visa sponsorship for interns: " + v.label.replace(/^\S+\s/, "") +
-      (v.note ? " — " + v.note : "") + (v.source ? " (click for source)" : "") +
-      ". Company-level info; the posting itself always wins.";
-    var cls = "tag visa-" + esc(v.status);
-    var body = "🛂 " + esc(v.label);
-    return v.source
-      ? '<a class="' + cls + '" href="' + esc(v.source) + '" target="_blank" rel="noopener" title="' + esc(tip) + '">' + body + "</a>"
-      : '<span class="' + cls + '" title="' + esc(tip) + '">' + body + "</span>";
   }
 
   /* ---------- utils ---------- */
