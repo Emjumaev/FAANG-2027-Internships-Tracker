@@ -1,70 +1,66 @@
 # 🎯 Software Engineering Internship Tracker
 
 Auto-updated list of **open software-engineering internships** — AI/ML, Data,
-Mobile, Frontend, Backend/Infra, QA and Security roles — at 39 top tech
+Mobile, Frontend, Backend/Infra, QA and Security roles — at 40 top tech
 companies, scraped directly from each company's careers API every 2 hours by
 GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-10-15 05:25:29 UTC** · 📌 **661** open internships
+> 🕐 Last updated: **2026-10-15 05:44:18 UTC** · 📌 **657** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
-> · 🛂 Visa = does the company sponsor work visas for interns (✅ yes ·
-> ⚠️ case-by-case · ❌ no · ❔ unknown) — hand-checked against company FAQs and
-> postings, but the individual posting always has the final word
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
 
-| Company | Open internships | 🛂 Visa sponsorship |
-|---|---|---|
-| [Adobe](#adobe) | 3 | ⚠️ Case-by-case — US 2027 SWE intern posting silent on sponsorship; F-1 CPT/OPT reported OK (secondary); some non-US postings bar sponsorship |
-| Airbnb | — | ❌ No sponsorship — SWE intern posting requires US work authorization; CPT/OPT accepted but no visa sponsorship (no J-1) |
-| [Amazon](#amazon) | 79 | ⚠️ Case-by-case — Decided per posting: SDE intern postings silent; several non-SDE postings say 'unable to offer visa sponsorship' |
-| Anthropic | — | ❌ No sponsorship — No traditional SWE internship; Fellows Program requires existing US/UK/CA work authorization, no visas |
-| [Apple](#apple) | 31 | ⚠️ Case-by-case — US intern postings state no sponsorship policy either way; F-1 CPT/OPT typically used; confirm per role with recruiter |
-| Bloomberg | — | ⚠️ Case-by-case — Non-eng NY intern post: no sponsorship now or future; eng interns reportedly sponsored case-by-case (secondary) |
-| [Cisco](#cisco) | 17 | ❌ No sponsorship — US SWE I Intern posting: must be a U.S. citizen with no need for visa sponsorship; other US intern roles say the same |
-| [Cloudflare](#cloudflare) | 3 | ⚠️ Case-by-case — US postings silent on sponsorship (export-control clause only); secondary guide: F-1 CPT accepted |
-| [Coinbase](#coinbase) | 7 | ⚠️ Case-by-case — Posting silent; secondary guide: sponsorship for US roles possible, approval needed, covers internship only |
-| [Databricks](#databricks) | 8 | ⚠️ Case-by-case — Official 2027 SWE intern posting silent on sponsorship; secondary guide: valid CPT required for US roles |
-| [DoorDash](#doordash) | 4 | ⚠️ Case-by-case — Must be US work-authorized; F-1 students OK on CPT; J-1 not supported; no H-1B sponsorship for interns |
-| Dropbox | — | ❔ Unknown — Summer 2027 SWE intern posting silent on visas; US-remote only, 'all authorized locations'; CPT likely OK |
-| [Figma](#figma) | 7 | ❔ Unknown — SWE intern postings (SF/NYC) do not mention work auth; Wellfound lists other intern roles as 'sponsorship not available' |
-| GitHub | — | ❔ Unknown — Remote-US SWE intern postings contain no sponsorship or work-authorization wording; no official FAQ found |
-| [Google](#google) | 36 | ⚠️ Case-by-case — F-1 students on CPT/OPT hired (secondary reports); all non-US 2026 postings say 'not eligible for immigration sponsorship' |
-| [Hudson River Trading](#hudson-river-trading) | 2 | ✅ Sponsors — Intern postings list 'Work Visa Sponsorship' as a benefit; no authorization clause; CPT reported accepted |
-| [IBM](#ibm) | 131 | ❌ No sponsorship — US 2026 Software Developer Intern postings: no visa sponsorship now or in future; need own work authorization |
-| [Intel](#intel) | 46 | ❌ No sponsorship — 2026/2027 US intern postings: not eligible for employment-based visa sponsorship (Intel sponsors only MS/PhD STEM roles) |
-| [Jane Street](#jane-street) | 17 | ✅ Sponsors — Internships in NY/London/HK; postings arrange visas, flights and housing; no authorization clause in US roles |
-| [Lyft](#lyft) | 16 | ❔ Unknown — Summer 2027 SF intern postings silent on visas; F-1 students can use CPT; sponsorship beyond CPT unconfirmed |
-| Mastercard | — | ❌ No sponsorship — US 2026 intern postings: not eligible for sponsorship; F-1 students incl. CPT/OPT are excluded |
-| [Meta](#meta) | 27 | ⚠️ Case-by-case — Postings require work authorization at hire (F-1 CPT works); J-1 for Canadian/abroad students reported on Blind (secondary) |
-| [Microsoft](#microsoft) | 29 | ⚠️ Case-by-case — No blanket policy; F-1 CPT/OPT accepted in US; some country postings (e.g. Israel) say interns cannot be sponsored |
-| [MongoDB](#mongodb) | 1 | ⚠️ Case-by-case — Must be authorized to work in the US; posting says sponsorship may be available for certain roles |
-| [NVIDIA](#nvidia) | 115 | ⚠️ Case-by-case — Intern JDs don't state a sponsorship policy; heavy H-1B sponsor overall; F-1 CPT/OPT used; ask recruiter per role |
-| [Netflix](#netflix) | 1 | ⚠️ Case-by-case — Summer 2026 SWE intern posting has no sponsorship statement; F-1 CPT used; decided per team, ask recruiter |
-| OpenAI | — | ⚠️ Case-by-case — SF intern postings silent on visas (relocation support only); Residency sponsors visas; ask recruiter |
-| [Oracle](#oracle) | 2 | ❌ No sponsorship — US intern postings: no sponsorship now or ever (H-1B, OPT, CPT, F-1 all excluded); must have US work auth |
-| PayPal | — | ⚠️ Case-by-case — Postings require ability to obtain US work authorization for the summer; sponsorship case-by-case, not guaranteed |
-| [Pinterest](#pinterest) | 11 | ❌ No sponsorship — US SWE intern postings require current US authorization with no sponsorship now or in future; US-based only |
-| Reddit | — | ❌ No sponsorship — Intern JDs state sponsorship not available; must be authorized to work in the US (secondary report of JD text) |
-| [Salesforce](#salesforce) | 3 | ⚠️ Case-by-case — F-1 CPT students at US/Canadian schools eligible; J-1 from abroad rare; some postings 'ineligible for visa sponsorship' |
-| [Scale AI](#scale-ai) | 3 | ❔ Unknown — Summer 2027 SF SWE intern posting silent on visas; secondary says US work auth required, sponsorship unconfirmed |
-| [Snap](#snap) | 1 | ⚠️ Case-by-case — LA SWE intern posting silent; secondary guide says interns need existing authorization, no sponsorship/relocation |
-| [Snowflake](#snowflake) | 3 | ⚠️ Case-by-case — US SWE intern postings silent on sponsorship; secondary guide: F-1 CPT accepted, no J-1 sponsorship |
-| Spotify | — | ❌ No sponsorship — NYC intern postings require existing US work authorization for June-Aug; no sponsorship mentioned |
-| [Stripe](#stripe) | 13 | ⚠️ Case-by-case — Official intern postings silent; secondary: CPT accepted for F-1 interns, sponsorship confirm with recruiter |
-| Uber | — | ⚠️ Case-by-case — US SWE intern postings silent on sponsorship; CPT typical but unconfirmed; confirm with recruiter |
-| [Waymo](#waymo) | 45 | ❔ Unknown — 2027 intern postings silent on visas; secondary guide says US work auth required, H-1B not standard for interns |
-| ByteDance | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* | |
-| Tesla | *careers site and its JSON API sit behind Akamai bot protection that returns 403 to every non-browser client; needs a headless browser* | |
+| Company | Open internships |
+|---|---|
+| [Adobe](#adobe) | 3 |
+| Airbnb | — |
+| [Amazon](#amazon) | 79 |
+| Anthropic | — |
+| [Apple](#apple) | 31 |
+| Bloomberg | — |
+| [Cisco](#cisco) | 17 |
+| [Cloudflare](#cloudflare) | 3 |
+| [Coinbase](#coinbase) | 7 |
+| [Databricks](#databricks) | 8 |
+| [DoorDash](#doordash) | 4 |
+| Dropbox | — |
+| [Figma](#figma) | 7 |
+| GitHub | — |
+| [Google](#google) | 36 |
+| [Hudson River Trading](#hudson-river-trading) | 2 |
+| [IBM](#ibm) | 124 |
+| [Intel](#intel) | 46 |
+| [Jane Street](#jane-street) | 17 |
+| [Lyft](#lyft) | 16 |
+| Mastercard | — |
+| [Meta](#meta) | 27 |
+| [Microsoft](#microsoft) | 29 |
+| [MongoDB](#mongodb) | 1 |
+| [NVIDIA](#nvidia) | 115 |
+| [Netflix](#netflix) | 1 |
+| OpenAI | — |
+| [Oracle](#oracle) | 2 |
+| PayPal | — |
+| [Pinterest](#pinterest) | 11 |
+| Reddit | — |
+| [Salesforce](#salesforce) | 3 |
+| [Scale AI](#scale-ai) | 3 |
+| [Snap](#snap) | 1 |
+| [Snowflake](#snowflake) | 3 |
+| Spotify | — |
+| [Stripe](#stripe) | 13 |
+| Uber | — |
+| [Visa](#visa) | 3 |
+| [Waymo](#waymo) | 45 |
+| ByteDance | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* |
+| Tesla | *careers site and its JSON API sit behind Akamai bot protection that returns 403 to every non-browser client; needs a headless browser* |
 
 ---
 
 ## Adobe
-
-> 🛂 **Visa:** ⚠️ Case-by-case — US 2027 SWE intern posting silent on sponsorship; F-1 CPT/OPT reported OK (secondary); some non-US postings bar sponsorship ([source](https://builtin.com/job/2026-intern-software-engineer/7422310))
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
@@ -73,8 +69,6 @@ GitHub Actions.
 | [2027 Intern - Software Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666) | Software | — | 7 Locations | 2026-09-19 |
 
 ## Amazon
-
-> 🛂 **Visa:** ⚠️ Case-by-case — Decided per posting: SDE intern postings silent; several non-SDE postings say 'unable to offer visa sponsorship' ([source](https://amazon.jobs/en/jobs/2713207/2025-program-manager-intern))
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
@@ -160,8 +154,6 @@ GitHub Actions.
 
 ## Apple
 
-> 🛂 **Visa:** ⚠️ Case-by-case — US intern postings state no sponsorship policy either way; F-1 CPT/OPT typically used; confirm per role with recruiter ([source](https://www.extern.com/post/apple-internship-guide))
-
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Software Engineering Intern – AI Tools for Hardware Engineering](https://jobs.apple.com/en-us/details/200688936/software-engineering-intern-ai-tools-for-hardware-engineering) 🆕 | AI/ML | — | Shanghai | 2026-10-14 |
@@ -198,8 +190,6 @@ GitHub Actions.
 
 ## Cisco
 
-> 🛂 **Visa:** ❌ No sponsorship — US SWE I Intern posting: must be a U.S. citizen with no need for visa sponsorship; other US intern roles say the same ([source](https://jobright.ai/jobs/info/6a0bf82d963f7a67d95d42af))
-
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Software Consulting Engineer I (Intern) United States](https://careers.cisco.com/global/en/job/2025180) | Software | — | RESEARCH_TRIANGLE_PARK, North Carolina, United States of America | 2026-10-01 |
@@ -222,8 +212,6 @@ GitHub Actions.
 
 ## Cloudflare
 
-> 🛂 **Visa:** ⚠️ Case-by-case — US postings silent on sponsorship (export-control clause only); secondary guide: F-1 CPT accepted ([source](https://job-boards.greenhouse.io/cloudflare/jobs/7738938))
-
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197) | Software | — | In-Office | 2026-10-05 |
@@ -231,8 +219,6 @@ GitHub Actions.
 | [Software Engineer Intern (2027) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958) | Software | — | In-Office | 2026-09-16 |
 
 ## Coinbase
-
-> 🛂 **Visa:** ⚠️ Case-by-case — Posting silent; secondary guide: sponsorship for US roles possible, approval needed, covers internship only ([source](https://www.extern.com/post/coinbase-internship-guide))
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
@@ -245,8 +231,6 @@ GitHub Actions.
 | [Analytics Engineer Intern](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) | Data | — | Hybrid - New York, NY | 2026-09-08 |
 
 ## Databricks
-
-> 🛂 **Visa:** ⚠️ Case-by-case — Official 2027 SWE intern posting silent on sponsorship; secondary guide: valid CPT required for US roles ([source](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2026-6865687002))
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
@@ -261,8 +245,6 @@ GitHub Actions.
 
 ## DoorDash
 
-> 🛂 **Visa:** ⚠️ Case-by-case — Must be US work-authorized; F-1 students OK on CPT; J-1 not supported; no H-1B sponsorship for interns ([source](https://jobs.khoslaventures.com/companies/doordash/jobs/60070337-software-engineer-intern-summer-2026-us))
-
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Software Engineer, Intern - Labs (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) 🆕 | Software | — | San Francisco, CA; Sunnyvale, CA | 2026-10-08 |
@@ -271,8 +253,6 @@ GitHub Actions.
 | [Software Engineer, Intern (Summer 2027) - US](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) | Software | — | Los Angeles, CA; New York, NY; San Francisco, CA *(+2 more)* | 2026-09-14 |
 
 ## Figma
-
-> 🛂 **Visa:** ❔ Unknown — SWE intern postings (SF/NYC) do not mention work auth; Wellfound lists other intern roles as 'sponsorship not available' ([source](https://www.extern.com/post/figma-internship-guide))
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
@@ -285,8 +265,6 @@ GitHub Actions.
 | [Data Science Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) | Data | — | San Francisco, CA • New York, NY | 2026-09-14 |
 
 ## Google
-
-> 🛂 **Visa:** ⚠️ Case-by-case — F-1 students on CPT/OPT hired (secondary reports); all non-US 2026 postings say 'not eligible for immigration sponsorship' ([source](https://jobs.anitab.org/companies/google-24698/jobs/58499871-software-engineering-site-reliability-engineering-bs-ms-intern-2026))
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
@@ -329,8 +307,6 @@ GitHub Actions.
 
 ## Hudson River Trading
 
-> 🛂 **Visa:** ✅ Sponsors — Intern postings list 'Work Visa Sponsorship' as a benefit; no authorization clause; CPT reported accepted ([source](https://www.themuse.com/jobs/hudsonrivertrading/software-engineering-internship-c-or-python-summer-2027))
-
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Data Scientist Intern - 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369) | Data | — | London, United Kingdom; New York, NY, United States | 2026-10-05 |
@@ -338,22 +314,20 @@ GitHub Actions.
 
 ## IBM
 
-> 🛂 **Visa:** ❌ No sponsorship — US 2026 Software Developer Intern postings: no visa sponsorship now or in future; need own work authorization ([source](https://www.themuse.com/jobs/ibm/software-developer-internship-2026))
-
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [[AI Foundation]Research Student Intern](https://careers.ibm.com/careers/JobDetail?jobId=131649) 🆕 | AI/ML | — | Tokyo, Japan | — |
 | [ZOS QA Test Developer Intern 2027 - Poughkeepsie](https://careers.ibm.com/careers/JobDetail?jobId=129780) 🆕 | QA | — | POUGHKEEPSIE, United States | — |
 | [Threat Intelligence Consultant-Threat Analysis](https://careers.ibm.com/careers/JobDetail?jobId=123754) 🆕 | Security | — | ABU DHABI, United Arab Emirates | — |
+| [Summer Research Intern 2027 - Edge communications processing with AI accelerators](https://careers.ibm.com/careers/JobDetail?jobId=134474) 🆕 | AI/ML | — | Yorktown Heights, United States | — |
+| [Storage Systems Research Scientist Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=132567) 🆕 | AI/ML | — | San Jose, United States | — |
 | [Software Strategy and M&A Summer Intern](https://careers.ibm.com/careers/JobDetail?jobId=130031) 🆕 | Software | — | Cambridge, United States | — |
 | [Software Engineering Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=131545) 🆕 | Software | — | RESEARCH TRIANGLE PARK, United States | — |
 | [Software Engineer Intern - Entry Level Sales Program 2027](https://careers.ibm.com/careers/JobDetail?jobId=129258) 🆕 | Software | — | Austin, United States | — |
 | [Software Developer Spring Co-op 2027](https://careers.ibm.com/careers/JobDetail?jobId=128506) 🆕 | Software | — | Multiple Cities | — |
-| [Software Developer Spring Co-Op 2027 (Bellevue)](https://careers.ibm.com/careers/JobDetail?jobId=135256) 🆕 | Software | — | Bellevue, United States | — |
 | [Software Developer Intern/Tucson-AZ](https://careers.ibm.com/careers/JobDetail?jobId=130092) 🆕 | Software | — | TUCSON, United States | — |
 | [Software Developer Intern-Rochester, MN](https://careers.ibm.com/careers/JobDetail?jobId=130103) 🆕 | Software | — | ROCHESTER, United States | — |
 | [Software Developer Intern 2027 - CAMBRIDGE](https://careers.ibm.com/careers/JobDetail?jobId=134934) 🆕 | Software | — | Cambridge, United States | — |
-| [Software Developer Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=128497) 🆕 | Software | — | Multiple Cities | — |
 | [Software Developer Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=129661) 🆕 | Software | — | Markham, Canada | — |
 | [Software Developer Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=129778) 🆕 | Software | — | POUGHKEEPSIE, United States | — |
 | [Software Developer Intern -Tucson, AZ](https://careers.ibm.com/careers/JobDetail?jobId=130897) 🆕 | Software | — | TUCSON, United States | — |
@@ -361,48 +335,45 @@ GitHub Actions.
 | [Software Developer - Spring Co-Op 2027 - Cambridge](https://careers.ibm.com/careers/JobDetail?jobId=134974) 🆕 | Software | — | Cambridge, United States | — |
 | [Software Developer - Security - Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=131988) 🆕 | Security | — | Yorktown Heights, United States | — |
 | [Site Reliability Engineering Professional Intern - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131810) 🆕 | Backend/Infra | — | Austin, United States | — |
+| [Site Reliability Engineer Spring Co-op 2027](https://careers.ibm.com/careers/JobDetail?jobId=128510) 🆕 | Backend/Infra | — | Multiple Cities | — |
 | [Site Reliability Engineer Network Intern - OneIT - Austin, TX](https://careers.ibm.com/careers/JobDetail?jobId=132886) 🆕 | Backend/Infra | — | Austin, United States | — |
-| [Site Reliability Engineer Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=133062) 🆕 | Backend/Infra | — | Markham, Canada | — |
 | [Site Reliability Engineer Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=128513) 🆕 | Backend/Infra | — | Multiple Cities | — |
+| [Site Reliability Engineer Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=133062) 🆕 | Backend/Infra | — | Markham, Canada | — |
 | [Site Reliability Engineer Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=133067) 🆕 | Backend/Infra | — | Markham, Canada | — |
 | [Site Reliability Engineer Intern -Tucson, AZ](https://careers.ibm.com/careers/JobDetail?jobId=130927) 🆕 | Backend/Infra | — | TUCSON, United States | — |
 | [Site Reliability Engineer Intern - OneIT - Rochester, MN](https://careers.ibm.com/careers/JobDetail?jobId=132822) 🆕 | Backend/Infra | — | ROCHESTER, United States | — |
+| [Site Reliability Engineer Intern - OneIT - Poughkeepsie, NY](https://careers.ibm.com/careers/JobDetail?jobId=132880) 🆕 | Backend/Infra | — | POUGHKEEPSIE, United States | — |
 | [Silicon Technology Research and Development Software Engineering Intern - 2027](https://careers.ibm.com/careers/JobDetail?jobId=132407) 🆕 | Software | — | Multiple Cities | — |
-| [Silicon Technology Research and Development Research Scientist Intern - 2027](https://careers.ibm.com/careers/JobDetail?jobId=132430) 🆕 | AI/ML | — | Multiple Cities | — |
 | [SW Developer Intern: Systems Assurance - Austin, TX & Rochester, MN - 2027](https://careers.ibm.com/careers/JobDetail?jobId=130762) 🆕 | Software | — | Multiple Cities | — |
 | [SW Developer Intern \| Enterprise Platform-as-a-Service - Durham, NC - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131205) 🆕 | Backend/Infra | — | DURHAM, United States | — |
 | [SW Developer Intern \| Enterprise Platform-as-a-Service - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131195) 🆕 | Backend/Infra | — | Austin, United States | — |
 | [SW Developer Intern \| Enterprise Platform-as-a-Service](https://careers.ibm.com/careers/JobDetail?jobId=132000) 🆕 | Backend/Infra | — | Markham, Canada | — |
 | [SW Developer Intern \| AI Center of Excellence - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131176) 🆕 | AI/ML | — | Austin, United States | — |
-| [SW Developer Intern \| AI Center of Excellence](https://careers.ibm.com/careers/JobDetail?jobId=131999) 🆕 | AI/ML | — | Markham, Canada | — |
 | [Research internship: Quantum computing and AI for partial differential equations 2027](https://careers.ibm.com/careers/JobDetail?jobId=133430) 🆕 | AI/ML | — | Yorktown Heights, United States | — |
 | [Research Scientist - R&D Internship – 2027 Yorktown Heights & Cambridge](https://careers.ibm.com/careers/JobDetail?jobId=137066) 🆕 | AI/ML | — | Multiple Cities | — |
 | [Research Intern — AI and Quantum Algorithms for Optimization 2027](https://careers.ibm.com/careers/JobDetail?jobId=132434) 🆕 | AI/ML | — | Yorktown Heights, United States | — |
-| [Research Intern 2027 (3 months)  - Security & Privacy](https://careers.ibm.com/careers/JobDetail?jobId=134827) 🆕 | Security | — | Dublin, Ireland | — |
 | [Research Engineer - R&D Internship – 2027 Yorktown Heights & Cambridge](https://careers.ibm.com/careers/JobDetail?jobId=136630) 🆕 | AI/ML | — | Multiple Cities | — |
 | [Research AI Engineer Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=132569) 🆕 | AI/ML | — | Yorktown Heights, United States | — |
-| [Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134679) 🆕 | Backend/Infra | — | Ehningen, Germany | — |
 | [Quantum Security Intern 2027 - Cloud Compliance & Security Tooling](https://careers.ibm.com/careers/JobDetail?jobId=132708) 🆕 | Security | — | Yorktown Heights, United States | — |
 | [Quantum Information Software Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=134486) 🆕 | Software | — | Multiple Cities | — |
 | [Quantum Data Scientist Intern - 2027](https://careers.ibm.com/careers/JobDetail?jobId=132776) 🆕 | Data | — | Yorktown Heights, United States | — |
+| [Quantum Data Analyst Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=132431) 🆕 | Data | — | Multiple Cities | — |
 | [Quantum Control Systems FPGA Developer Internship 2027](https://careers.ibm.com/careers/JobDetail?jobId=133140) 🆕 | Software | — | Yorktown Heights, United States | — |
-| [Quantum Control Pulse-Level Compiler Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=133782) 🆕 | Backend/Infra | — | Multiple Cities | — |
 | [Quantum Control Distributed Runtime Internship 2027](https://careers.ibm.com/careers/JobDetail?jobId=133145) 🆕 | Backend/Infra | — | Multiple Cities | — |
 | [Quantum Cloud Services Software Development Intern - 2027](https://careers.ibm.com/careers/JobDetail?jobId=132699) 🆕 | Backend/Infra | — | Yorktown Heights, United States | — |
-| [Quantum Algorithms and Quantum Machine Learning Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=132433) 🆕 | AI/ML | — | Chicago, United States | — |
 | [QA/Test Engineer Intern-Tucson, AZ](https://careers.ibm.com/careers/JobDetail?jobId=130074) 🆕 | QA | — | TUCSON, United States | — |
 | [QA/Test Engineer Intern-Poughkeepsie, NY](https://careers.ibm.com/careers/JobDetail?jobId=130043) 🆕 | QA | — | POUGHKEEPSIE, United States | — |
 | [QA/Test Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027](https://careers.ibm.com/careers/JobDetail?jobId=130758) 🆕 | QA | — | POUGHKEEPSIE, United States | — |
 | [Product Management Intern \| Infrastructure Growth & Innovation - Poughkeepsie, NY / Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131158) 🆕 | Backend/Infra | — | Multiple Cities | — |
 | [Praktika im Bereich z/OS Softwareentwicklung (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134050) 🆕 | Software | — | Ehningen, Germany | — |
 | [Power Firmware Developer Intern - Rochester, MN & Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=130788) 🆕 | Backend/Infra | — | Multiple Cities | — |
-| [Power Backend Developer Intern - Rochester, MN & Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=130787) 🆕 | Backend/Infra | — | Multiple Cities | — |
 | [Microarchitecture / Software Intern  2027 - AI Accelerators Research](https://careers.ibm.com/careers/JobDetail?jobId=132416) 🆕 | AI/ML | — | Yorktown Heights, United States | — |
-| [Master@IBM Werkstudent - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135456) 🆕 | Software | MS | Ehningen, Germany | — |
 | [Machine Learning Developer Intern / Stagiaire développeur en apprentissage automatique](https://careers.ibm.com/careers/JobDetail?jobId=130140) 🆕 | AI/ML | — | Multiple Cities | — |
+| [Internship Cloud FullStack Developer](https://careers.ibm.com/careers/JobDetail?jobId=136943) 🆕 | Backend/Infra | — | Multiple Cities | — |
 | [Internship - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135502) 🆕 | Software | — | Ehningen, Germany | — |
 | [Intern Software Engineer / Agent Engineer - EDA - Austin 2027](https://careers.ibm.com/careers/JobDetail?jobId=130735) 🆕 | Software | — | Austin, United States | — |
 | [Intern Oracle Cloud 2027](https://careers.ibm.com/careers/JobDetail?jobId=128591) 🆕 | Backend/Infra | — | Dallas, United States | — |
+| [Intern Oracle Cloud - 2027](https://careers.ibm.com/careers/JobDetail?jobId=128560) 🆕 | Backend/Infra | — | Chicago, United States | — |
 | [Intern Developer – Adobe 2027](https://careers.ibm.com/careers/JobDetail?jobId=128716) 🆕 | Software | — | New York, United States | — |
 | [Intern Data Specialist 2027 - AI & Analytics](https://careers.ibm.com/careers/JobDetail?jobId=128792) 🆕 | AI/ML | — | Lansing, United States | — |
 | [Intern Data Engineers - AI & Analytics - 2027](https://careers.ibm.com/careers/JobDetail?jobId=128818) 🆕 | AI/ML | — | BATON ROUGE, United States | — |
@@ -413,12 +384,12 @@ GitHub Actions.
 | [Intern Application Developer – Azure and Microsoft - 2027](https://careers.ibm.com/careers/JobDetail?jobId=128784) 🆕 | Software | — | BATON ROUGE, United States | — |
 | [Intern Application Developer – Adobe - 2027](https://careers.ibm.com/careers/JobDetail?jobId=128797) 🆕 | Software | — | Buffalo, United States | — |
 | [Intern Application Developer 2027-ServiceNow](https://careers.ibm.com/careers/JobDetail?jobId=128816) 🆕 | Software | — | Chicago, United States | — |
-| [Intern Application Developer 2027 – DPE](https://careers.ibm.com/careers/JobDetail?jobId=128825) 🆕 | Software | — | Chicago, United States | — |
 | [Intern Application Developer 2027 - ServiceNow](https://careers.ibm.com/careers/JobDetail?jobId=131081) 🆕 | Software | — | BATON ROUGE, United States | — |
 | [Intern Application Developer - ServiceNow 2027](https://careers.ibm.com/careers/JobDetail?jobId=128540) 🆕 | Software | — | Dallas, United States | — |
 | [Intern Application Developer - Oracle - 2027](https://careers.ibm.com/careers/JobDetail?jobId=128815) 🆕 | Software | — | BATON ROUGE, United States | — |
 | [Intern Application Developer - Full Stack](https://careers.ibm.com/careers/JobDetail?jobId=134417) 🆕 | Software | — | BUENOS AIRES, Argentina | — |
 | [IBM Z Engineering System Test Hardware Developer - Poughkeepsie, NY - Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=129926) 🆕 | Software | — | POUGHKEEPSIE, United States | — |
+| [IBM Z Engineering System Test Back-End Developer - Systems Assurance Kernel (SAK) Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=129929) 🆕 | Backend/Infra | — | POUGHKEEPSIE, United States | — |
 | [IBM System Test SW Developer Intern - Poughkeepsie, NY - 2027](https://careers.ibm.com/careers/JobDetail?jobId=130049) 🆕 | Software | — | POUGHKEEPSIE, United States | — |
 | [IBM Research Intern 2027: AI Systems](https://careers.ibm.com/careers/JobDetail?jobId=131598) 🆕 | AI/ML | — | Multiple Cities | — |
 | [Hardware and Systems Developer Intern 2027 -Rochester, MN](https://careers.ibm.com/careers/JobDetail?jobId=130107) 🆕 | Software | — | ROCHESTER, United States | — |
@@ -440,24 +411,20 @@ GitHub Actions.
 | [Data Scientist Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=134939) 🆕 | Data | — | RESEARCH TRIANGLE PARK, United States | — |
 | [Data Scientist Intern - OneIT - Poughkeepsie, NY](https://careers.ibm.com/careers/JobDetail?jobId=132806) 🆕 | Data | — | POUGHKEEPSIE, United States | — |
 | [Data Science and AI Intern - RTP 2027](https://careers.ibm.com/careers/JobDetail?jobId=129906) 🆕 | AI/ML | — | Multiple Cities | — |
-| [Cost & Asset Optimization - Data Science Analyst Intern - Poughkeepsie, NY - 2027](https://careers.ibm.com/careers/JobDetail?jobId=130104) 🆕 | Data | — | POUGHKEEPSIE, United States | — |
-| [Compliance SW Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027](https://careers.ibm.com/careers/JobDetail?jobId=130759) 🆕 | Software | — | POUGHKEEPSIE, United States | — |
-| [Co-Op Security Consultant - Strategy, Risk & Compliance 2027](https://careers.ibm.com/careers/JobDetail?jobId=128771) 🆕 | Security | — | University Park, United States | — |
 | [Co-Op Security Consultant - Strategy, Risk & Compliance 2027](https://careers.ibm.com/careers/JobDetail?jobId=128770) 🆕 | Security | — | University Park, United States | — |
-| [Co-Op Security Consultant - Cyber Strategy & Risk 2027](https://careers.ibm.com/careers/JobDetail?jobId=128737) 🆕 | Security | — | University Park, United States | — |
+| [Co-Op Security Consultant - Strategy, Risk & Compliance 2027](https://careers.ibm.com/careers/JobDetail?jobId=128771) 🆕 | Security | — | University Park, United States | — |
 | [Co-Op Package Specialist - Oracle Finance Cloud 2027](https://careers.ibm.com/careers/JobDetail?jobId=129894) 🆕 | Backend/Infra | — | University Park, United States | — |
 | [Co-Op Developer – Adobe 2027](https://careers.ibm.com/careers/JobDetail?jobId=128711) 🆕 | Software | — | University Park, United States | — |
 | [Co-Op Developer - Digital Product 2027](https://careers.ibm.com/careers/JobDetail?jobId=129227) 🆕 | Software | — | University Park, United States | — |
 | [Co-Op Data Scientist - AI & Analytics 2027](https://careers.ibm.com/careers/JobDetail?jobId=128649) 🆕 | AI/ML | — | University Park, United States | — |
+| [Co-Op Data Engineer - Data Services 2027](https://careers.ibm.com/careers/JobDetail?jobId=128562) 🆕 | Data | — | University Park, United States | — |
 | [Cloud Infrastructure Network Monitoring and Automation Software Engineer Intern - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=135235) 🆕 | Backend/Infra | — | Austin, United States | — |
 | [Cloud Developer Intern - Network - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131292) 🆕 | Backend/Infra | — | Austin, United States | — |
-| [Backend Developer Intern - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=134121) 🆕 | Backend/Infra | — | Austin, United States | — |
+| [Cloud Developer Intern - Chicago, IL - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131816) 🆕 | Backend/Infra | — | Chicago, United States | — |
 | [Back-End Developer Intern 2027 -Tucson, AZ](https://careers.ibm.com/careers/JobDetail?jobId=131072) 🆕 | Backend/Infra | — | TUCSON, United States | — |
 | [Back-End Developer Intern 2027 -Houston, TX](https://careers.ibm.com/careers/JobDetail?jobId=131076) 🆕 | Backend/Infra | — | Houston, United States | — |
 | [Back End Developer Intern 2027 - Tucson](https://careers.ibm.com/careers/JobDetail?jobId=134568) 🆕 | Backend/Infra | — | TUCSON, United States | — |
-| [Back End Developer Intern 2027 - Poughkeepsie](https://careers.ibm.com/careers/JobDetail?jobId=129781) 🆕 | Backend/Infra | — | POUGHKEEPSIE, United States | — |
 | [Back End Developer Intern 2027 - Dallas](https://careers.ibm.com/careers/JobDetail?jobId=131367) 🆕 | Backend/Infra | — | Dallas, United States | — |
-| [Back End Developer Intern 2027 - Austin](https://careers.ibm.com/careers/JobDetail?jobId=131364) 🆕 | Backend/Infra | — | Austin, United States | — |
 | [Back End Developer Intern - Poughkeepsie, NY - 2027](https://careers.ibm.com/careers/JobDetail?jobId=130876) 🆕 | Backend/Infra | — | POUGHKEEPSIE, United States | — |
 | [Applied AI Research Intern - R&D Internship – 2027 Yorktown Heights & Cambridge](https://careers.ibm.com/careers/JobDetail?jobId=137070) 🆕 | AI/ML | — | Multiple Cities | — |
 | [Application Developer-Experience Front End - Internship](https://careers.ibm.com/careers/JobDetail?jobId=123742) 🆕 | Frontend | — | Doha, Qatar | — |
@@ -465,18 +432,16 @@ GitHub Actions.
 | [AI/ML Engineer Spring Co-op](https://careers.ibm.com/careers/JobDetail?jobId=134091) 🆕 | AI/ML | — | San Jose, United States | — |
 | [AI/ML Engineer Intern 2027 - SAN JOSE](https://careers.ibm.com/careers/JobDetail?jobId=135597) 🆕 | AI/ML | — | San Jose, United States | — |
 | [AI-Native Security Research Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=132704) 🆕 | Security | — | Yorktown Heights, United States | — |
-| [AI-First Transformation – Strategy Consultant Intern](https://careers.ibm.com/careers/JobDetail?jobId=133909) 🆕 | AI/ML | — | New York, United States | — |
 | [AI Software Engineer Intern](https://careers.ibm.com/careers/JobDetail?jobId=137214) 🆕 | AI/ML | — | Multiple Cities | — |
 | [AI Native Systems Research Scientist Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=132423) 🆕 | AI/ML | — | Yorktown Heights, United States | — |
 | [AI Native Hardware & Software Codesign internship 2027](https://careers.ibm.com/careers/JobDetail?jobId=132725) 🆕 | AI/ML | — | Multiple Cities | — |
+| [AI Foundations - Software Engineer - Research Internship 2027](https://careers.ibm.com/careers/JobDetail?jobId=131307) 🆕 | AI/ML | — | Multiple Cities | — |
 | [AI Foundations - Research Scientist - Research Internship - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131827) 🆕 | AI/ML | — | Multiple Cities | — |
 | [AI & Automation Data Scientist Intern / Stagiaire Data Scientist en IA et Automatisation](https://careers.ibm.com/careers/JobDetail?jobId=130139) 🆕 | AI/ML | — | Multiple Cities | — |
 | [2027 Software Developer Intern](https://careers.ibm.com/careers/JobDetail?jobId=134708) 🆕 | Software | — | POUGHKEEPSIE, United States | — |
 | [2027 Intern — Software Developer, AI & Marketing Platforms](https://careers.ibm.com/careers/JobDetail?jobId=133462) 🆕 | AI/ML | — | New York, United States | — |
 
 ## Intel
-
-> 🛂 **Visa:** ❌ No sponsorship — 2026/2027 US intern postings: not eligible for employment-based visa sponsorship (Intel sponsors only MS/PhD STEM roles) ([source](https://builtin.com/job/software-engineering-intern-bachelor-s/7557806))
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
@@ -529,8 +494,6 @@ GitHub Actions.
 
 ## Jane Street
 
-> 🛂 **Visa:** ✅ Sponsors — Internships in NY/London/HK; postings arrange visas, flights and housing; no authorization clause in US roles ([source](https://jobsconnect.prosple.com/graduate-employers/jane-street/jobs-internships/software-engineer-internship))
-
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Cybersecurity Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8810604002/) | Security | — | HKG | — |
@@ -553,8 +516,6 @@ GitHub Actions.
 
 ## Lyft
 
-> 🛂 **Visa:** ❔ Unknown — Summer 2027 SF intern postings silent on visas; F-1 students can use CPT; sponsorship beyond CPT unconfirmed ([source](https://www.extern.com/post/lyft-internship-guide))
-
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [PhD Machine Learning Software Engineer Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | AI/ML | PhD | San Francisco, CA | 2026-10-06 |
@@ -575,8 +536,6 @@ GitHub Actions.
 | [Data Analyst Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) | Data | — | New York, NY | 2026-09-11 |
 
 ## Meta
-
-> 🛂 **Visa:** ⚠️ Case-by-case — Postings require work authorization at hire (F-1 CPT works); J-1 for Canadian/abroad students reported on Blind (secondary) ([source](https://jobs.anitab.org/companies/meta-3-c00df464-9d7f-4a12-a5c0-f043ccf7bf75/jobs/58835198-software-engineer-intern-co-op))
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
@@ -609,8 +568,6 @@ GitHub Actions.
 | [Research Scientist Intern, Optical System Design (PhD)](https://www.metacareers.com/jobs/1796691991338568) | AI/ML | PhD | Menlo Park, CA; Redmond, WA | — |
 
 ## Microsoft
-
-> 🛂 **Visa:** ⚠️ Case-by-case — No blanket policy; F-1 CPT/OPT accepted in US; some country postings (e.g. Israel) say interns cannot be sponsored ([source](https://flexa.careers/jobs/microsoft-software-engineer-internship-opportunities-66e806d24731caf085f888f7))
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
@@ -646,15 +603,11 @@ GitHub Actions.
 
 ## MongoDB
 
-> 🛂 **Visa:** ⚠️ Case-by-case — Must be authorized to work in the US; posting says sponsorship may be available for certain roles ([source](https://jobs.alleycorp.com/companies/mongodb/jobs/58571316-2026-software-engineering-intern-amer))
-
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [2027 - Software Engineer Intern, Dublin - 6 Month Internship](https://www.mongodb.com/careers/job/?gh_jid=8258279) 🆕 | Software | — | Dublin | 2026-10-09 |
 
 ## NVIDIA
-
-> 🛂 **Visa:** ⚠️ Case-by-case — Intern JDs don't state a sponsorship policy; heavy H-1B sponsor overall; F-1 CPT/OPT used; ask recruiter per role ([source](https://www.extern.com/post/nvidia-internship-guide))
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
@@ -776,15 +729,11 @@ GitHub Actions.
 
 ## Netflix
 
-> 🛂 **Visa:** ⚠️ Case-by-case — Summer 2026 SWE intern posting has no sponsorship statement; F-1 CPT used; decided per team, ask recruiter ([source](https://www.extern.com/post/netflix-internship-guide))
-
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027](https://explore.jobs.netflix.net/careers/job/790317917022) | AI/ML | PhD | Los Gatos,California,United States of America | 2026-08-19 |
 
 ## Oracle
-
-> 🛂 **Visa:** ❌ No sponsorship — US intern postings: no sponsorship now or ever (H-1B, OPT, CPT, F-1 all excluded); must have US work auth ([source](https://simplify.jobs/p/c8105a36-7da9-4019-bfdb-e9668188553d/Java-Software-Engineer-Intern))
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
@@ -792,8 +741,6 @@ GitHub Actions.
 | [ONA AI Agent Intern (Logistics Focus) - OVIP](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/334345) | AI/ML | — | Austin, TX, United States; United States | 2026-05-22 |
 
 ## Pinterest
-
-> 🛂 **Visa:** ❌ No sponsorship — US SWE intern postings require current US authorization with no sponsorship now or in future; US-based only ([source](https://builtin.com/job/software-engineer-intern-2026/7199234))
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
@@ -811,8 +758,6 @@ GitHub Actions.
 
 ## Salesforce
 
-> 🛂 **Visa:** ⚠️ Case-by-case — F-1 CPT students at US/Canadian schools eligible; J-1 from abroad rare; some postings 'ineligible for visa sponsorship' ([source](https://www.extern.com/post/salesforce-internship-guide))
-
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [AI Builder Intern [Mexico]](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Mexico---Mexico-City/AI-Builder-Intern--Mexico-_JR359971-2) | AI/ML | — | Mexico - Mexico City | 2026-09-12 |
@@ -820,8 +765,6 @@ GitHub Actions.
 | [Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) | Software | — | 8 Locations | 2026-09-01 |
 
 ## Scale AI
-
-> 🛂 **Visa:** ❔ Unknown — Summer 2027 SF SWE intern posting silent on visas; secondary says US work auth required, sponsorship unconfirmed ([source](https://jobs.accel.com/companies/scale-ai/jobs/92358520-software-engineering-intern-summer-2027))
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
@@ -831,15 +774,11 @@ GitHub Actions.
 
 ## Snap
 
-> 🛂 **Visa:** ⚠️ Case-by-case — LA SWE intern posting silent; secondary guide says interns need existing authorization, no sponsorship/relocation ([source](https://blog.internset.com/what-are-the-eligibility-criteria-for-snap-internships/))
-
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [2027 Generative Media Research Intern](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179) 🆕 | AI/ML | — | Los Angeles, California | 2026-10-15 |
 
 ## Snowflake
-
-> 🛂 **Visa:** ⚠️ Case-by-case — US SWE intern postings silent on sponsorship; secondary guide: F-1 CPT accepted, no J-1 sponsorship ([source](https://www.extern.com/post/snowflake-internship-guide))
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
@@ -848,8 +787,6 @@ GitHub Actions.
 | [Software Engineer Intern - Berlin (2026)](https://careers.snowflake.com/us/en/job/3a9baeaf-b107-41fb-a9b3-a98ab78275ed) | Software | — | Berlin, Germany | 2026-06-02 |
 
 ## Stripe
-
-> 🛂 **Visa:** ⚠️ Case-by-case — Official intern postings silent; secondary: CPT accepted for F-1 interns, sponsorship confirm with recruiter ([source](https://www.extern.com/post/stripe-internship-guide))
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
@@ -867,9 +804,15 @@ GitHub Actions.
 | [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801) | Software | — | Dublin | 2026-08-17 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833) | Software | — | Bengaluru | 2026-07-10 |
 
-## Waymo
+## Visa
 
-> 🛂 **Visa:** ❔ Unknown — 2027 intern postings silent on visas; secondary guide says US work auth required, H-1B not standard for interns ([source](https://www.extern.com/post/waymo-internship-guide))
+| Role | Category | Degree | Location | Posted | First seen |
+|---|---|---|---|---|---|
+| [Staff Research Scientist, Intern - PhD Quantum](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Staff-Research-Scientist--Intern---PhD-Quantum_REF088578W-2) 🆕 | AI/ML | PhD | US - Foster City, CA | 2026-09-18 |
+| [Staff Research Scientist, Intern - PhD Foundational AI](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Staff-Research-Scientist--Intern---PhD-Foundational-AI_REF088579W-1) 🆕 | AI/ML | PhD | US - Foster City, CA | 2026-09-18 |
+| [Staff Research Scientist, Intern - PhD Agentic AI](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Staff-Research-Scientist--Intern---PhD-Agentic-AI_REF088582W-1) 🆕 | AI/ML | PhD | US - Austin, TX | 2026-09-18 |
+
+## Waymo
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
@@ -934,8 +877,5 @@ and diffs against [`data/jobs.json`](https://github.com/Emjumaev/FAANG-2027-Inte
 A GitHub Actions [workflow](https://github.com/Emjumaev/FAANG-2027-Internships-Tracker/blob/main/.github/workflows/update.yml)
 runs it on a cron schedule and commits only when something changed. Positions
 that disappear from a careers page are closed automatically.
-Visa-sponsorship notes are a hand-maintained table
-([visa.py](https://github.com/Emjumaev/FAANG-2027-Internships-Tracker/blob/scraper/scraper/visa.py)) checked against each
-company's student FAQ or intern postings — corrections welcome.
 
 Found a problem or want another company added? Open an issue or PR.

@@ -58,6 +58,10 @@ COMPANIES = [
      "host": "mastercard.wd1.myworkdayjobs.com", "site": "CorporateCareers",
      "search_text": "",
      "applied_facets": {"workerSubType": ["cfba33fac07f49c9b6d3d53336c6a291"]}},
+    # Visa likewise: its "Intern" jobFamily facet holds every intern posting.
+    {"name": "Visa", "fetch": workday.fetch,
+     "host": "visa.wd5.myworkdayjobs.com", "site": "Visa", "search_text": "",
+     "applied_facets": {"jobFamily": ["2745bc1368021016a99151158b7a3a64"]}},
 
     # --- Eightfold -----------------------------------------------------------
     {"name": "Netflix", "fetch": eightfold.fetch,

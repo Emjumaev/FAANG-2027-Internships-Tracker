@@ -1,357 +1,4 @@
 {
-  "companies": {
-    "Adobe": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u26a0\ufe0f Case-by-case",
-        "note": "US 2027 SWE intern posting silent on sponsorship; F-1 CPT/OPT reported OK (secondary); some non-US postings bar sponsorship",
-        "source": "https://builtin.com/job/2026-intern-software-engineer/7422310",
-        "status": "limited"
-      }
-    },
-    "Airbnb": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u274c No sponsorship",
-        "note": "SWE intern posting requires US work authorization; CPT/OPT accepted but no visa sponsorship (no J-1)",
-        "source": "https://builtin.com/job/software-engineering-intern/7916098",
-        "status": "no"
-      }
-    },
-    "Amazon": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u26a0\ufe0f Case-by-case",
-        "note": "Decided per posting: SDE intern postings silent; several non-SDE postings say 'unable to offer visa sponsorship'",
-        "source": "https://amazon.jobs/en/jobs/2713207/2025-program-manager-intern",
-        "status": "limited"
-      }
-    },
-    "Anthropic": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u274c No sponsorship",
-        "note": "No traditional SWE internship; Fellows Program requires existing US/UK/CA work authorization, no visas",
-        "source": "https://jobs.accel.com/companies/anthropic/jobs/74068663-anthropic-fellows-program",
-        "status": "no"
-      }
-    },
-    "Apple": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u26a0\ufe0f Case-by-case",
-        "note": "US intern postings state no sponsorship policy either way; F-1 CPT/OPT typically used; confirm per role with recruiter",
-        "source": "https://www.extern.com/post/apple-internship-guide",
-        "status": "limited"
-      }
-    },
-    "Bloomberg": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u26a0\ufe0f Case-by-case",
-        "note": "Non-eng NY intern post: no sponsorship now or future; eng interns reportedly sponsored case-by-case (secondary)",
-        "source": "https://www.extern.com/post/bloomberg-internship-guide",
-        "status": "limited"
-      }
-    },
-    "Cisco": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u274c No sponsorship",
-        "note": "US SWE I Intern posting: must be a U.S. citizen with no need for visa sponsorship; other US intern roles say the same",
-        "source": "https://jobright.ai/jobs/info/6a0bf82d963f7a67d95d42af",
-        "status": "no"
-      }
-    },
-    "Cloudflare": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u26a0\ufe0f Case-by-case",
-        "note": "US postings silent on sponsorship (export-control clause only); secondary guide: F-1 CPT accepted",
-        "source": "https://job-boards.greenhouse.io/cloudflare/jobs/7738938",
-        "status": "limited"
-      }
-    },
-    "Coinbase": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u26a0\ufe0f Case-by-case",
-        "note": "Posting silent; secondary guide: sponsorship for US roles possible, approval needed, covers internship only",
-        "source": "https://www.extern.com/post/coinbase-internship-guide",
-        "status": "limited"
-      }
-    },
-    "Databricks": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u26a0\ufe0f Case-by-case",
-        "note": "Official 2027 SWE intern posting silent on sponsorship; secondary guide: valid CPT required for US roles",
-        "source": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2026-6865687002",
-        "status": "limited"
-      }
-    },
-    "DoorDash": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u26a0\ufe0f Case-by-case",
-        "note": "Must be US work-authorized; F-1 students OK on CPT; J-1 not supported; no H-1B sponsorship for interns",
-        "source": "https://jobs.khoslaventures.com/companies/doordash/jobs/60070337-software-engineer-intern-summer-2026-us",
-        "status": "limited"
-      }
-    },
-    "Dropbox": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u2754 Unknown",
-        "note": "Summer 2027 SWE intern posting silent on visas; US-remote only, 'all authorized locations'; CPT likely OK",
-        "source": "https://jobs.accel.com/companies/dropbox/jobs/92531026-software-engineering-intern-summer-2027",
-        "status": "unknown"
-      }
-    },
-    "Figma": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u2754 Unknown",
-        "note": "SWE intern postings (SF/NYC) do not mention work auth; Wellfound lists other intern roles as 'sponsorship not available'",
-        "source": "https://www.extern.com/post/figma-internship-guide",
-        "status": "unknown"
-      }
-    },
-    "GitHub": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u2754 Unknown",
-        "note": "Remote-US SWE intern postings contain no sponsorship or work-authorization wording; no official FAQ found",
-        "source": "https://nodesk.co/remote-jobs/github-software-engineering-intern/",
-        "status": "unknown"
-      }
-    },
-    "Google": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u26a0\ufe0f Case-by-case",
-        "note": "F-1 students on CPT/OPT hired (secondary reports); all non-US 2026 postings say 'not eligible for immigration sponsorship'",
-        "source": "https://jobs.anitab.org/companies/google-24698/jobs/58499871-software-engineering-site-reliability-engineering-bs-ms-intern-2026",
-        "status": "limited"
-      }
-    },
-    "Hudson River Trading": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u2705 Sponsors",
-        "note": "Intern postings list 'Work Visa Sponsorship' as a benefit; no authorization clause; CPT reported accepted",
-        "source": "https://www.themuse.com/jobs/hudsonrivertrading/software-engineering-internship-c-or-python-summer-2027",
-        "status": "yes"
-      }
-    },
-    "IBM": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u274c No sponsorship",
-        "note": "US 2026 Software Developer Intern postings: no visa sponsorship now or in future; need own work authorization",
-        "source": "https://www.themuse.com/jobs/ibm/software-developer-internship-2026",
-        "status": "no"
-      }
-    },
-    "Intel": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u274c No sponsorship",
-        "note": "2026/2027 US intern postings: not eligible for employment-based visa sponsorship (Intel sponsors only MS/PhD STEM roles)",
-        "source": "https://builtin.com/job/software-engineering-intern-bachelor-s/7557806",
-        "status": "no"
-      }
-    },
-    "Jane Street": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u2705 Sponsors",
-        "note": "Internships in NY/London/HK; postings arrange visas, flights and housing; no authorization clause in US roles",
-        "source": "https://jobsconnect.prosple.com/graduate-employers/jane-street/jobs-internships/software-engineer-internship",
-        "status": "yes"
-      }
-    },
-    "Lyft": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u2754 Unknown",
-        "note": "Summer 2027 SF intern postings silent on visas; F-1 students can use CPT; sponsorship beyond CPT unconfirmed",
-        "source": "https://www.extern.com/post/lyft-internship-guide",
-        "status": "unknown"
-      }
-    },
-    "Mastercard": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u274c No sponsorship",
-        "note": "US 2026 intern postings: not eligible for sponsorship; F-1 students incl. CPT/OPT are excluded",
-        "source": "https://builtin.com/job/platform-engineering-intern-summer-2026-st-louis-mo/7232224",
-        "status": "no"
-      }
-    },
-    "Meta": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u26a0\ufe0f Case-by-case",
-        "note": "Postings require work authorization at hire (F-1 CPT works); J-1 for Canadian/abroad students reported on Blind (secondary)",
-        "source": "https://jobs.anitab.org/companies/meta-3-c00df464-9d7f-4a12-a5c0-f043ccf7bf75/jobs/58835198-software-engineer-intern-co-op",
-        "status": "limited"
-      }
-    },
-    "Microsoft": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u26a0\ufe0f Case-by-case",
-        "note": "No blanket policy; F-1 CPT/OPT accepted in US; some country postings (e.g. Israel) say interns cannot be sponsored",
-        "source": "https://flexa.careers/jobs/microsoft-software-engineer-internship-opportunities-66e806d24731caf085f888f7",
-        "status": "limited"
-      }
-    },
-    "MongoDB": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u26a0\ufe0f Case-by-case",
-        "note": "Must be authorized to work in the US; posting says sponsorship may be available for certain roles",
-        "source": "https://jobs.alleycorp.com/companies/mongodb/jobs/58571316-2026-software-engineering-intern-amer",
-        "status": "limited"
-      }
-    },
-    "NVIDIA": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u26a0\ufe0f Case-by-case",
-        "note": "Intern JDs don't state a sponsorship policy; heavy H-1B sponsor overall; F-1 CPT/OPT used; ask recruiter per role",
-        "source": "https://www.extern.com/post/nvidia-internship-guide",
-        "status": "limited"
-      }
-    },
-    "Netflix": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u26a0\ufe0f Case-by-case",
-        "note": "Summer 2026 SWE intern posting has no sponsorship statement; F-1 CPT used; decided per team, ask recruiter",
-        "source": "https://www.extern.com/post/netflix-internship-guide",
-        "status": "limited"
-      }
-    },
-    "OpenAI": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u26a0\ufe0f Case-by-case",
-        "note": "SF intern postings silent on visas (relocation support only); Residency sponsors visas; ask recruiter",
-        "source": "https://jobs.stripes.co/companies/openai/jobs/65336977-software-engineer-internship-co-op-applied-emerging-talent-fall-2026",
-        "status": "limited"
-      }
-    },
-    "Oracle": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u274c No sponsorship",
-        "note": "US intern postings: no sponsorship now or ever (H-1B, OPT, CPT, F-1 all excluded); must have US work auth",
-        "source": "https://simplify.jobs/p/c8105a36-7da9-4019-bfdb-e9668188553d/Java-Software-Engineer-Intern",
-        "status": "no"
-      }
-    },
-    "PayPal": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u26a0\ufe0f Case-by-case",
-        "note": "Postings require ability to obtain US work authorization for the summer; sponsorship case-by-case, not guaranteed",
-        "source": "https://www.extern.com/post/paypal-internship-guide",
-        "status": "limited"
-      }
-    },
-    "Pinterest": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u274c No sponsorship",
-        "note": "US SWE intern postings require current US authorization with no sponsorship now or in future; US-based only",
-        "source": "https://builtin.com/job/software-engineer-intern-2026/7199234",
-        "status": "no"
-      }
-    },
-    "Reddit": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u274c No sponsorship",
-        "note": "Intern JDs state sponsorship not available; must be authorized to work in the US (secondary report of JD text)",
-        "source": "https://www.extern.com/post/reddit-internship-guide",
-        "status": "no"
-      }
-    },
-    "Salesforce": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u26a0\ufe0f Case-by-case",
-        "note": "F-1 CPT students at US/Canadian schools eligible; J-1 from abroad rare; some postings 'ineligible for visa sponsorship'",
-        "source": "https://www.extern.com/post/salesforce-internship-guide",
-        "status": "limited"
-      }
-    },
-    "Scale AI": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u2754 Unknown",
-        "note": "Summer 2027 SF SWE intern posting silent on visas; secondary says US work auth required, sponsorship unconfirmed",
-        "source": "https://jobs.accel.com/companies/scale-ai/jobs/92358520-software-engineering-intern-summer-2027",
-        "status": "unknown"
-      }
-    },
-    "Snap": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u26a0\ufe0f Case-by-case",
-        "note": "LA SWE intern posting silent; secondary guide says interns need existing authorization, no sponsorship/relocation",
-        "source": "https://blog.internset.com/what-are-the-eligibility-criteria-for-snap-internships/",
-        "status": "limited"
-      }
-    },
-    "Snowflake": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u26a0\ufe0f Case-by-case",
-        "note": "US SWE intern postings silent on sponsorship; secondary guide: F-1 CPT accepted, no J-1 sponsorship",
-        "source": "https://www.extern.com/post/snowflake-internship-guide",
-        "status": "limited"
-      }
-    },
-    "Spotify": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u274c No sponsorship",
-        "note": "NYC intern postings require existing US work authorization for June-Aug; no sponsorship mentioned",
-        "source": "https://jobs.lever.co/spotify/4261f025-4ea4-4d24-9edd-ec0db9696152",
-        "status": "no"
-      }
-    },
-    "Stripe": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u26a0\ufe0f Case-by-case",
-        "note": "Official intern postings silent; secondary: CPT accepted for F-1 interns, sponsorship confirm with recruiter",
-        "source": "https://www.extern.com/post/stripe-internship-guide",
-        "status": "limited"
-      }
-    },
-    "Uber": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u26a0\ufe0f Case-by-case",
-        "note": "US SWE intern postings silent on sponsorship; CPT typical but unconfirmed; confirm with recruiter",
-        "source": "https://www.themuse.com/jobs/uber/2026-software-engineering-internship-amsterdam",
-        "status": "limited"
-      }
-    },
-    "Waymo": {
-      "visa": {
-        "checked": "2026-10-15",
-        "label": "\u2754 Unknown",
-        "note": "2027 intern postings silent on visas; secondary guide says US work auth required, H-1B not standard for interns",
-        "source": "https://www.extern.com/post/waymo-internship-guide",
-        "status": "unknown"
-      }
-    }
-  },
   "jobs": {
     "adobe:R160317": {
       "active": false,
@@ -15855,6 +15502,57 @@
       "title": "2027 Software Engineering Internship, Uber Career Prep",
       "url": "https://www.uber.com/global/en/careers/list/302133/"
     },
+    "visa:REF088578W": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Visa",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "REF088578W",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "US - Foster City, CA"
+      ],
+      "posted": "2026-09-18",
+      "title": "Staff Research Scientist, Intern - PhD Quantum",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Staff-Research-Scientist--Intern---PhD-Quantum_REF088578W-2"
+    },
+    "visa:REF088579W": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Visa",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "REF088579W",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "US - Foster City, CA"
+      ],
+      "posted": "2026-09-18",
+      "title": "Staff Research Scientist, Intern - PhD Foundational AI",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Staff-Research-Scientist--Intern---PhD-Foundational-AI_REF088579W-1"
+    },
+    "visa:REF088582W": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Visa",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "REF088582W",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "US - Austin, TX"
+      ],
+      "posted": "2026-09-18",
+      "title": "Staff Research Scientist, Intern - PhD Agentic AI",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Staff-Research-Scientist--Intern---PhD-Agentic-AI_REF088582W-1"
+    },
     "waymo:8167323": {
       "active": false,
       "category": "Data",
@@ -16745,5 +16443,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8279620"
     }
   },
-  "updated_at": "2026-10-15T05:35:34Z"
+  "updated_at": "2026-10-15T05:44:18Z"
 }
