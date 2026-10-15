@@ -3,6 +3,9 @@
 jobs.json layout:
 {
   "updated_at": "2026-07-09T12:00:00Z",
+  "companies": {
+    "<display name>": {"visa": {"status": "yes|limited|no|unknown", "label": ..., "note": ..., "source": ..., "checked": ...}}
+  },
   "jobs": {
     "<uid>": {
       "company": ..., "external_id": ..., "title": ..., "url": ..., "locations": [...],

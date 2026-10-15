@@ -18,6 +18,9 @@ GitHub Actions.
 > 🕐 Last updated: **{updated}** · 📌 **{n_open}** open internships
 > · 🆕 = added in the last {new_days} days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
+> · 🛂 Visa = does the company sponsor work visas for interns (✅ yes ·
+> ⚠️ case-by-case · ❌ no · ❔ unknown) — hand-checked against company FAQs and
+> postings, but the individual posting always has the final word
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
 
@@ -38,6 +41,9 @@ and diffs against [`data/jobs.json`]({repo}/blob/scraper/data/jobs.json).
 A GitHub Actions [workflow]({repo}/blob/main/.github/workflows/update.yml)
 runs it on a cron schedule and commits only when something changed. Positions
 that disappear from a careers page are closed automatically.
+Visa-sponsorship notes are a hand-maintained table
+([visa.py]({repo}/blob/scraper/scraper/visa.py)) checked against each
+company's student FAQ or intern postings — corrections welcome.
 
 Found a problem or want another company added? Open an issue or PR.
 """.replace("{repo}", "https://github.com/Emjumaev/FAANG-2027-Internships-Tracker")
@@ -62,8 +68,18 @@ def _fmt_locations(locations, limit=3):
     return shown
 
 
+def _fmt_visa(v, with_source=False):
+    text = v["label"]
+    if v["note"]:
+        text += " — " + _md_escape(v["note"])
+    if with_source and v["source"]:
+        text += " ([source]({}))".format(v["source"])
+    return text
+
+
 def render(state):
     from .companies import COMPANIES, UNSUPPORTED
+    from .visa import visa_for
     tracked = [c["name"] for c in COMPANIES]
     jobs = [j for j in state["jobs"].values() if j.get("active", True)]
     updated = state.get("updated_at") or datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -82,13 +98,13 @@ def render(state):
     )]
 
     # summary table with anchors
-    out.append("| Company | Open internships |\n|---|---|\n")
+    out.append("| Company | Open internships | 🛂 Visa sponsorship |\n|---|---|---|\n")
     for c in companies:
         n = len(by_company[c])
         label = "[{}](#{})".format(c, _slug(c)) if n else c
-        out.append("| {} | {} |\n".format(label, n or "—"))
+        out.append("| {} | {} | {} |\n".format(label, n or "—", _fmt_visa(visa_for(c))))
     for name, why in sorted(UNSUPPORTED.items()):
-        out.append("| {} | *{}* |\n".format(name, why))
+        out.append("| {} | *{}* | |\n".format(name, why))
     out.append("\n---\n\n")
 
     for c in companies:
@@ -99,6 +115,7 @@ def render(state):
                                      j["title"]),
                       reverse=True)
         out.append("## {}\n\n".format(c))
+        out.append("> 🛂 **Visa:** {}\n\n".format(_fmt_visa(visa_for(c), with_source=True)))
         out.append("| Role | Category | Degree | Location | Posted | First seen |\n"
                    "|---|---|---|---|---|---|\n")
         for j in rows:

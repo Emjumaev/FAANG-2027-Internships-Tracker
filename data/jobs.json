@@ -1,4 +1,357 @@
 {
+  "companies": {
+    "Adobe": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "US 2027 SWE intern posting silent on sponsorship; F-1 CPT/OPT reported OK (secondary); some non-US postings bar sponsorship",
+        "source": "https://builtin.com/job/2026-intern-software-engineer/7422310",
+        "status": "limited"
+      }
+    },
+    "Airbnb": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u274c No sponsorship",
+        "note": "SWE intern posting requires US work authorization; CPT/OPT accepted but no visa sponsorship (no J-1)",
+        "source": "https://builtin.com/job/software-engineering-intern/7916098",
+        "status": "no"
+      }
+    },
+    "Amazon": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "Decided per posting: SDE intern postings silent; several non-SDE postings say 'unable to offer visa sponsorship'",
+        "source": "https://amazon.jobs/en/jobs/2713207/2025-program-manager-intern",
+        "status": "limited"
+      }
+    },
+    "Anthropic": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u274c No sponsorship",
+        "note": "No traditional SWE internship; Fellows Program requires existing US/UK/CA work authorization, no visas",
+        "source": "https://jobs.accel.com/companies/anthropic/jobs/74068663-anthropic-fellows-program",
+        "status": "no"
+      }
+    },
+    "Apple": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "US intern postings state no sponsorship policy either way; F-1 CPT/OPT typically used; confirm per role with recruiter",
+        "source": "https://www.extern.com/post/apple-internship-guide",
+        "status": "limited"
+      }
+    },
+    "Bloomberg": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "Non-eng NY intern post: no sponsorship now or future; eng interns reportedly sponsored case-by-case (secondary)",
+        "source": "https://www.extern.com/post/bloomberg-internship-guide",
+        "status": "limited"
+      }
+    },
+    "Cisco": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u274c No sponsorship",
+        "note": "US SWE I Intern posting: must be a U.S. citizen with no need for visa sponsorship; other US intern roles say the same",
+        "source": "https://jobright.ai/jobs/info/6a0bf82d963f7a67d95d42af",
+        "status": "no"
+      }
+    },
+    "Cloudflare": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "US postings silent on sponsorship (export-control clause only); secondary guide: F-1 CPT accepted",
+        "source": "https://job-boards.greenhouse.io/cloudflare/jobs/7738938",
+        "status": "limited"
+      }
+    },
+    "Coinbase": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "Posting silent; secondary guide: sponsorship for US roles possible, approval needed, covers internship only",
+        "source": "https://www.extern.com/post/coinbase-internship-guide",
+        "status": "limited"
+      }
+    },
+    "Databricks": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "Official 2027 SWE intern posting silent on sponsorship; secondary guide: valid CPT required for US roles",
+        "source": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2026-6865687002",
+        "status": "limited"
+      }
+    },
+    "DoorDash": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "Must be US work-authorized; F-1 students OK on CPT; J-1 not supported; no H-1B sponsorship for interns",
+        "source": "https://jobs.khoslaventures.com/companies/doordash/jobs/60070337-software-engineer-intern-summer-2026-us",
+        "status": "limited"
+      }
+    },
+    "Dropbox": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "Summer 2027 SWE intern posting silent on visas; US-remote only, 'all authorized locations'; CPT likely OK",
+        "source": "https://jobs.accel.com/companies/dropbox/jobs/92531026-software-engineering-intern-summer-2027",
+        "status": "unknown"
+      }
+    },
+    "Figma": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "SWE intern postings (SF/NYC) do not mention work auth; Wellfound lists other intern roles as 'sponsorship not available'",
+        "source": "https://www.extern.com/post/figma-internship-guide",
+        "status": "unknown"
+      }
+    },
+    "GitHub": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "Remote-US SWE intern postings contain no sponsorship or work-authorization wording; no official FAQ found",
+        "source": "https://nodesk.co/remote-jobs/github-software-engineering-intern/",
+        "status": "unknown"
+      }
+    },
+    "Google": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "F-1 students on CPT/OPT hired (secondary reports); all non-US 2026 postings say 'not eligible for immigration sponsorship'",
+        "source": "https://jobs.anitab.org/companies/google-24698/jobs/58499871-software-engineering-site-reliability-engineering-bs-ms-intern-2026",
+        "status": "limited"
+      }
+    },
+    "Hudson River Trading": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2705 Sponsors",
+        "note": "Intern postings list 'Work Visa Sponsorship' as a benefit; no authorization clause; CPT reported accepted",
+        "source": "https://www.themuse.com/jobs/hudsonrivertrading/software-engineering-internship-c-or-python-summer-2027",
+        "status": "yes"
+      }
+    },
+    "IBM": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u274c No sponsorship",
+        "note": "US 2026 Software Developer Intern postings: no visa sponsorship now or in future; need own work authorization",
+        "source": "https://www.themuse.com/jobs/ibm/software-developer-internship-2026",
+        "status": "no"
+      }
+    },
+    "Intel": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u274c No sponsorship",
+        "note": "2026/2027 US intern postings: not eligible for employment-based visa sponsorship (Intel sponsors only MS/PhD STEM roles)",
+        "source": "https://builtin.com/job/software-engineering-intern-bachelor-s/7557806",
+        "status": "no"
+      }
+    },
+    "Jane Street": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2705 Sponsors",
+        "note": "Internships in NY/London/HK; postings arrange visas, flights and housing; no authorization clause in US roles",
+        "source": "https://jobsconnect.prosple.com/graduate-employers/jane-street/jobs-internships/software-engineer-internship",
+        "status": "yes"
+      }
+    },
+    "Lyft": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "Summer 2027 SF intern postings silent on visas; F-1 students can use CPT; sponsorship beyond CPT unconfirmed",
+        "source": "https://www.extern.com/post/lyft-internship-guide",
+        "status": "unknown"
+      }
+    },
+    "Mastercard": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u274c No sponsorship",
+        "note": "US 2026 intern postings: not eligible for sponsorship; F-1 students incl. CPT/OPT are excluded",
+        "source": "https://builtin.com/job/platform-engineering-intern-summer-2026-st-louis-mo/7232224",
+        "status": "no"
+      }
+    },
+    "Meta": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "Postings require work authorization at hire (F-1 CPT works); J-1 for Canadian/abroad students reported on Blind (secondary)",
+        "source": "https://jobs.anitab.org/companies/meta-3-c00df464-9d7f-4a12-a5c0-f043ccf7bf75/jobs/58835198-software-engineer-intern-co-op",
+        "status": "limited"
+      }
+    },
+    "Microsoft": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "No blanket policy; F-1 CPT/OPT accepted in US; some country postings (e.g. Israel) say interns cannot be sponsored",
+        "source": "https://flexa.careers/jobs/microsoft-software-engineer-internship-opportunities-66e806d24731caf085f888f7",
+        "status": "limited"
+      }
+    },
+    "MongoDB": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "Must be authorized to work in the US; posting says sponsorship may be available for certain roles",
+        "source": "https://jobs.alleycorp.com/companies/mongodb/jobs/58571316-2026-software-engineering-intern-amer",
+        "status": "limited"
+      }
+    },
+    "NVIDIA": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "Intern JDs don't state a sponsorship policy; heavy H-1B sponsor overall; F-1 CPT/OPT used; ask recruiter per role",
+        "source": "https://www.extern.com/post/nvidia-internship-guide",
+        "status": "limited"
+      }
+    },
+    "Netflix": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "Summer 2026 SWE intern posting has no sponsorship statement; F-1 CPT used; decided per team, ask recruiter",
+        "source": "https://www.extern.com/post/netflix-internship-guide",
+        "status": "limited"
+      }
+    },
+    "OpenAI": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "SF intern postings silent on visas (relocation support only); Residency sponsors visas; ask recruiter",
+        "source": "https://jobs.stripes.co/companies/openai/jobs/65336977-software-engineer-internship-co-op-applied-emerging-talent-fall-2026",
+        "status": "limited"
+      }
+    },
+    "Oracle": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u274c No sponsorship",
+        "note": "US intern postings: no sponsorship now or ever (H-1B, OPT, CPT, F-1 all excluded); must have US work auth",
+        "source": "https://simplify.jobs/p/c8105a36-7da9-4019-bfdb-e9668188553d/Java-Software-Engineer-Intern",
+        "status": "no"
+      }
+    },
+    "PayPal": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "Postings require ability to obtain US work authorization for the summer; sponsorship case-by-case, not guaranteed",
+        "source": "https://www.extern.com/post/paypal-internship-guide",
+        "status": "limited"
+      }
+    },
+    "Pinterest": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u274c No sponsorship",
+        "note": "US SWE intern postings require current US authorization with no sponsorship now or in future; US-based only",
+        "source": "https://builtin.com/job/software-engineer-intern-2026/7199234",
+        "status": "no"
+      }
+    },
+    "Reddit": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u274c No sponsorship",
+        "note": "Intern JDs state sponsorship not available; must be authorized to work in the US (secondary report of JD text)",
+        "source": "https://www.extern.com/post/reddit-internship-guide",
+        "status": "no"
+      }
+    },
+    "Salesforce": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "F-1 CPT students at US/Canadian schools eligible; J-1 from abroad rare; some postings 'ineligible for visa sponsorship'",
+        "source": "https://www.extern.com/post/salesforce-internship-guide",
+        "status": "limited"
+      }
+    },
+    "Scale AI": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "Summer 2027 SF SWE intern posting silent on visas; secondary says US work auth required, sponsorship unconfirmed",
+        "source": "https://jobs.accel.com/companies/scale-ai/jobs/92358520-software-engineering-intern-summer-2027",
+        "status": "unknown"
+      }
+    },
+    "Snap": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "LA SWE intern posting silent; secondary guide says interns need existing authorization, no sponsorship/relocation",
+        "source": "https://blog.internset.com/what-are-the-eligibility-criteria-for-snap-internships/",
+        "status": "limited"
+      }
+    },
+    "Snowflake": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "US SWE intern postings silent on sponsorship; secondary guide: F-1 CPT accepted, no J-1 sponsorship",
+        "source": "https://www.extern.com/post/snowflake-internship-guide",
+        "status": "limited"
+      }
+    },
+    "Spotify": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u274c No sponsorship",
+        "note": "NYC intern postings require existing US work authorization for June-Aug; no sponsorship mentioned",
+        "source": "https://jobs.lever.co/spotify/4261f025-4ea4-4d24-9edd-ec0db9696152",
+        "status": "no"
+      }
+    },
+    "Stripe": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "Official intern postings silent; secondary: CPT accepted for F-1 interns, sponsorship confirm with recruiter",
+        "source": "https://www.extern.com/post/stripe-internship-guide",
+        "status": "limited"
+      }
+    },
+    "Uber": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "US SWE intern postings silent on sponsorship; CPT typical but unconfirmed; confirm with recruiter",
+        "source": "https://www.themuse.com/jobs/uber/2026-software-engineering-internship-amsterdam",
+        "status": "limited"
+      }
+    },
+    "Waymo": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "2027 intern postings silent on visas; secondary guide says US work auth required, H-1B not standard for interns",
+        "source": "https://www.extern.com/post/waymo-internship-guide",
+        "status": "unknown"
+      }
+    }
+  },
   "jobs": {
     "adobe:R160317": {
       "active": false,
@@ -5715,6 +6068,1975 @@
       "posted": "2026-10-05",
       "title": "Data Scientist Intern - 2027",
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369"
+    },
+    "ibm:123742": {
+      "active": true,
+      "category": "Frontend",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "123742",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Doha, Qatar"
+      ],
+      "posted": null,
+      "title": "Application Developer-Experience Front End - Internship",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=123742"
+    },
+    "ibm:123753": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "123753",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "ABU DHABI, United Arab Emirates"
+      ],
+      "posted": null,
+      "title": "Data Scientist-Artificial Intelligence",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=123753"
+    },
+    "ibm:123754": {
+      "active": true,
+      "category": "Security",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "123754",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "ABU DHABI, United Arab Emirates"
+      ],
+      "posted": null,
+      "title": "Threat Intelligence Consultant-Threat Analysis",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=123754"
+    },
+    "ibm:128497": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128497",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "Software Developer Intern 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128497"
+    },
+    "ibm:128506": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128506",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "Software Developer Spring Co-op 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128506"
+    },
+    "ibm:128513": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128513",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "Site Reliability Engineer Intern 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128513"
+    },
+    "ibm:128540": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128540",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Dallas, United States"
+      ],
+      "posted": null,
+      "title": "Intern Application Developer - ServiceNow 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128540"
+    },
+    "ibm:128591": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128591",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Dallas, United States"
+      ],
+      "posted": null,
+      "title": "Intern Oracle Cloud 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128591"
+    },
+    "ibm:128649": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128649",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "University Park, United States"
+      ],
+      "posted": null,
+      "title": "Co-Op Data Scientist - AI & Analytics 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128649"
+    },
+    "ibm:128711": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128711",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "University Park, United States"
+      ],
+      "posted": null,
+      "title": "Co-Op Developer \u2013 Adobe 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128711"
+    },
+    "ibm:128716": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128716",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "New York, United States"
+      ],
+      "posted": null,
+      "title": "Intern Developer \u2013 Adobe 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128716"
+    },
+    "ibm:128737": {
+      "active": true,
+      "category": "Security",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128737",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "University Park, United States"
+      ],
+      "posted": null,
+      "title": "Co-Op Security Consultant - Cyber Strategy & Risk 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128737"
+    },
+    "ibm:128770": {
+      "active": true,
+      "category": "Security",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128770",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "University Park, United States"
+      ],
+      "posted": null,
+      "title": "Co-Op Security Consultant - Strategy, Risk & Compliance 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128770"
+    },
+    "ibm:128771": {
+      "active": true,
+      "category": "Security",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128771",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "University Park, United States"
+      ],
+      "posted": null,
+      "title": "Co-Op Security Consultant - Strategy, Risk & Compliance 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128771"
+    },
+    "ibm:128784": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128784",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "BATON ROUGE, United States"
+      ],
+      "posted": null,
+      "title": "Intern Application Developer \u2013 Azure and Microsoft - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128784"
+    },
+    "ibm:128790": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128790",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "BATON ROUGE, United States"
+      ],
+      "posted": null,
+      "title": "Intern Application Developer \u2013 Oracle - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128790"
+    },
+    "ibm:128792": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128792",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Lansing, United States"
+      ],
+      "posted": null,
+      "title": "Intern Data Specialist 2027 - AI & Analytics",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128792"
+    },
+    "ibm:128797": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128797",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Buffalo, United States"
+      ],
+      "posted": null,
+      "title": "Intern Application Developer \u2013 Adobe - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128797"
+    },
+    "ibm:128807": {
+      "active": true,
+      "category": "Security",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128807",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "BATON ROUGE, United States"
+      ],
+      "posted": null,
+      "title": "Intern Cybersecurity Specialist \u2013 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128807"
+    },
+    "ibm:128815": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128815",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "BATON ROUGE, United States"
+      ],
+      "posted": null,
+      "title": "Intern Application Developer - Oracle - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128815"
+    },
+    "ibm:128816": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128816",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Chicago, United States"
+      ],
+      "posted": null,
+      "title": "Intern Application Developer 2027-ServiceNow",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128816"
+    },
+    "ibm:128818": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128818",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "BATON ROUGE, United States"
+      ],
+      "posted": null,
+      "title": "Intern Data Engineers - AI & Analytics - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128818"
+    },
+    "ibm:128823": {
+      "active": true,
+      "category": "Data",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128823",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "MONROE, United States"
+      ],
+      "posted": null,
+      "title": "Intern Data Engineer - Data Services - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128823"
+    },
+    "ibm:128825": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "128825",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Chicago, United States"
+      ],
+      "posted": null,
+      "title": "Intern Application Developer 2027 \u2013 DPE",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=128825"
+    },
+    "ibm:129227": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "129227",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "University Park, United States"
+      ],
+      "posted": null,
+      "title": "Co-Op Developer - Digital Product 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129227"
+    },
+    "ibm:129258": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "129258",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Austin, United States"
+      ],
+      "posted": null,
+      "title": "Software Engineer Intern - Entry Level Sales Program 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129258"
+    },
+    "ibm:129628": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "129628",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "MONROE, United States"
+      ],
+      "posted": null,
+      "title": "Intern Data Engineer - AI & Analytics - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129628"
+    },
+    "ibm:129661": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "129661",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Markham, Canada"
+      ],
+      "posted": null,
+      "title": "Software Developer Intern 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129661"
+    },
+    "ibm:129778": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "129778",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "POUGHKEEPSIE, United States"
+      ],
+      "posted": null,
+      "title": "Software Developer Intern 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129778"
+    },
+    "ibm:129780": {
+      "active": true,
+      "category": "QA",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "129780",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "POUGHKEEPSIE, United States"
+      ],
+      "posted": null,
+      "title": "ZOS QA Test Developer Intern 2027 - Poughkeepsie",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129780"
+    },
+    "ibm:129781": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "129781",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "POUGHKEEPSIE, United States"
+      ],
+      "posted": null,
+      "title": "Back End Developer Intern 2027 - Poughkeepsie",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129781"
+    },
+    "ibm:129894": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "129894",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "University Park, United States"
+      ],
+      "posted": null,
+      "title": "Co-Op Package Specialist - Oracle Finance Cloud 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129894"
+    },
+    "ibm:129906": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "129906",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "Data Science and AI Intern - RTP 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129906"
+    },
+    "ibm:129907": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "129907",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "POUGHKEEPSIE, United States"
+      ],
+      "posted": null,
+      "title": "Firmware Developer Intern - Poughkeepsie - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129907"
+    },
+    "ibm:129926": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "129926",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "POUGHKEEPSIE, United States"
+      ],
+      "posted": null,
+      "title": "IBM Z Engineering System Test Hardware Developer - Poughkeepsie, NY - Intern 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129926"
+    },
+    "ibm:129936": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "129936",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Austin, United States"
+      ],
+      "posted": null,
+      "title": "Hardware Developer Intern 2027 -Austin",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=129936"
+    },
+    "ibm:130026": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130026",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "POUGHKEEPSIE, United States"
+      ],
+      "posted": null,
+      "title": "Hardware Developer Intern 2027 -Poughkeepsie",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130026"
+    },
+    "ibm:130031": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130031",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Cambridge, United States"
+      ],
+      "posted": null,
+      "title": "Software Strategy and M&A Summer Intern",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130031"
+    },
+    "ibm:130043": {
+      "active": true,
+      "category": "QA",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130043",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "POUGHKEEPSIE, United States"
+      ],
+      "posted": null,
+      "title": "QA/Test Engineer Intern-Poughkeepsie, NY",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130043"
+    },
+    "ibm:130049": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130049",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "POUGHKEEPSIE, United States"
+      ],
+      "posted": null,
+      "title": "IBM System Test SW Developer Intern - Poughkeepsie, NY - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130049"
+    },
+    "ibm:130074": {
+      "active": true,
+      "category": "QA",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130074",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "TUCSON, United States"
+      ],
+      "posted": null,
+      "title": "QA/Test Engineer Intern-Tucson, AZ",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130074"
+    },
+    "ibm:130092": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130092",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "TUCSON, United States"
+      ],
+      "posted": null,
+      "title": "Software Developer Intern/Tucson-AZ",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130092"
+    },
+    "ibm:130095": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130095",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "ROCHESTER, United States"
+      ],
+      "posted": null,
+      "title": "Hardware Developer Intern - Rochester, MN - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130095"
+    },
+    "ibm:130103": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130103",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "ROCHESTER, United States"
+      ],
+      "posted": null,
+      "title": "Software Developer Intern-Rochester, MN",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130103"
+    },
+    "ibm:130104": {
+      "active": true,
+      "category": "Data",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130104",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "POUGHKEEPSIE, United States"
+      ],
+      "posted": null,
+      "title": "Cost & Asset Optimization - Data Science Analyst Intern - Poughkeepsie, NY - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130104"
+    },
+    "ibm:130107": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130107",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "ROCHESTER, United States"
+      ],
+      "posted": null,
+      "title": "Hardware and Systems Developer Intern 2027 -Rochester, MN",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130107"
+    },
+    "ibm:130110": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130110",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Austin, United States"
+      ],
+      "posted": null,
+      "title": "Hardware and Systems Developer Intern 2027 -Austin, TX",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130110"
+    },
+    "ibm:130114": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130114",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "Hardware and Systems Developer Intern 2027 -New York",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130114"
+    },
+    "ibm:130139": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130139",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "AI & Automation Data Scientist Intern / Stagiaire Data Scientist en IA et Automatisation",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130139"
+    },
+    "ibm:130140": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130140",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "Machine Learning Developer Intern / Stagiaire d\u00e9veloppeur en apprentissage automatique",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130140"
+    },
+    "ibm:130735": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130735",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Austin, United States"
+      ],
+      "posted": null,
+      "title": "Intern Software Engineer / Agent Engineer - EDA - Austin 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130735"
+    },
+    "ibm:130758": {
+      "active": true,
+      "category": "QA",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130758",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "POUGHKEEPSIE, United States"
+      ],
+      "posted": null,
+      "title": "QA/Test Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130758"
+    },
+    "ibm:130759": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130759",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "POUGHKEEPSIE, United States"
+      ],
+      "posted": null,
+      "title": "Compliance SW Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130759"
+    },
+    "ibm:130760": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130760",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "ROCHESTER, United States"
+      ],
+      "posted": null,
+      "title": "HW Developer Intern: Systems Assurance - Rochester, MN - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130760"
+    },
+    "ibm:130762": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130762",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "SW Developer Intern: Systems Assurance - Austin, TX & Rochester, MN - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130762"
+    },
+    "ibm:130774": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130774",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Austin, United States"
+      ],
+      "posted": null,
+      "title": "Hardware Developer Intern 2027 -Austin, TX",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130774"
+    },
+    "ibm:130787": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130787",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "Power Backend Developer Intern - Rochester, MN & Austin, TX - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130787"
+    },
+    "ibm:130788": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130788",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "Power Firmware Developer Intern - Rochester, MN & Austin, TX - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130788"
+    },
+    "ibm:130876": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130876",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "POUGHKEEPSIE, United States"
+      ],
+      "posted": null,
+      "title": "Back End Developer Intern - Poughkeepsie, NY - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130876"
+    },
+    "ibm:130897": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130897",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "TUCSON, United States"
+      ],
+      "posted": null,
+      "title": "Software Developer Intern -Tucson, AZ",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130897"
+    },
+    "ibm:130927": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130927",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "TUCSON, United States"
+      ],
+      "posted": null,
+      "title": "Site Reliability Engineer Intern -Tucson, AZ",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130927"
+    },
+    "ibm:131072": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "131072",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "TUCSON, United States"
+      ],
+      "posted": null,
+      "title": "Back-End Developer Intern 2027 -Tucson, AZ",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131072"
+    },
+    "ibm:131076": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "131076",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Houston, United States"
+      ],
+      "posted": null,
+      "title": "Back-End Developer Intern 2027 -Houston, TX",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131076"
+    },
+    "ibm:131081": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "131081",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "BATON ROUGE, United States"
+      ],
+      "posted": null,
+      "title": "Intern Application Developer 2027 - ServiceNow",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131081"
+    },
+    "ibm:131158": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "131158",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "Product Management Intern | Infrastructure Growth & Innovation - Poughkeepsie, NY / Austin, TX - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131158"
+    },
+    "ibm:131176": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "131176",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Austin, United States"
+      ],
+      "posted": null,
+      "title": "SW Developer Intern | AI Center of Excellence - Austin, TX - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131176"
+    },
+    "ibm:131192": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "131192",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "ROCHESTER, United States"
+      ],
+      "posted": null,
+      "title": "Hardware Developer Intern 2027 -Rochester, MN",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131192"
+    },
+    "ibm:131195": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "131195",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Austin, United States"
+      ],
+      "posted": null,
+      "title": "SW Developer Intern | Enterprise Platform-as-a-Service - Austin, TX - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131195"
+    },
+    "ibm:131205": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "131205",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "DURHAM, United States"
+      ],
+      "posted": null,
+      "title": "SW Developer Intern | Enterprise Platform-as-a-Service - Durham, NC - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131205"
+    },
+    "ibm:131292": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "131292",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Austin, United States"
+      ],
+      "posted": null,
+      "title": "Cloud Developer Intern - Network - Austin, TX - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131292"
+    },
+    "ibm:131364": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "131364",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Austin, United States"
+      ],
+      "posted": null,
+      "title": "Back End Developer Intern 2027 - Austin",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131364"
+    },
+    "ibm:131367": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "131367",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Dallas, United States"
+      ],
+      "posted": null,
+      "title": "Back End Developer Intern 2027 - Dallas",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131367"
+    },
+    "ibm:131545": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "131545",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "RESEARCH TRIANGLE PARK, United States"
+      ],
+      "posted": null,
+      "title": "Software Engineering Intern 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131545"
+    },
+    "ibm:131598": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "131598",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "IBM Research Intern 2027: AI Systems",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131598"
+    },
+    "ibm:131649": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "131649",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Tokyo, Japan"
+      ],
+      "posted": null,
+      "title": "[AI Foundation]Research Student Intern",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131649"
+    },
+    "ibm:131810": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "131810",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Austin, United States"
+      ],
+      "posted": null,
+      "title": "Site Reliability Engineering Professional Intern - Austin, TX - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131810"
+    },
+    "ibm:131827": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "131827",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "AI Foundations - Research Scientist - Research Internship - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131827"
+    },
+    "ibm:131988": {
+      "active": true,
+      "category": "Security",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "131988",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Yorktown Heights, United States"
+      ],
+      "posted": null,
+      "title": "Software Developer - Security - Intern 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131988"
+    },
+    "ibm:131999": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "131999",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Markham, Canada"
+      ],
+      "posted": null,
+      "title": "SW Developer Intern | AI Center of Excellence",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=131999"
+    },
+    "ibm:132000": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "132000",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Markham, Canada"
+      ],
+      "posted": null,
+      "title": "SW Developer Intern | Enterprise Platform-as-a-Service",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132000"
+    },
+    "ibm:132407": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "132407",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "Silicon Technology Research and Development Software Engineering Intern - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132407"
+    },
+    "ibm:132416": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "132416",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Yorktown Heights, United States"
+      ],
+      "posted": null,
+      "title": "Microarchitecture / Software Intern  2027 - AI Accelerators Research",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132416"
+    },
+    "ibm:132423": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "132423",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Yorktown Heights, United States"
+      ],
+      "posted": null,
+      "title": "AI Native Systems Research Scientist Intern 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132423"
+    },
+    "ibm:132430": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "132430",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "Silicon Technology Research and Development Research Scientist Intern - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132430"
+    },
+    "ibm:132433": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "132433",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Chicago, United States"
+      ],
+      "posted": null,
+      "title": "Quantum Algorithms and Quantum Machine Learning Intern 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132433"
+    },
+    "ibm:132434": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "132434",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Yorktown Heights, United States"
+      ],
+      "posted": null,
+      "title": "Research Intern \u2014 AI and Quantum Algorithms for Optimization 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132434"
+    },
+    "ibm:132569": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "132569",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Yorktown Heights, United States"
+      ],
+      "posted": null,
+      "title": "Research AI Engineer Intern 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132569"
+    },
+    "ibm:132699": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "132699",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Yorktown Heights, United States"
+      ],
+      "posted": null,
+      "title": "Quantum Cloud Services Software Development Intern - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132699"
+    },
+    "ibm:132704": {
+      "active": true,
+      "category": "Security",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "132704",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Yorktown Heights, United States"
+      ],
+      "posted": null,
+      "title": "AI-Native Security Research Intern 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132704"
+    },
+    "ibm:132708": {
+      "active": true,
+      "category": "Security",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "132708",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Yorktown Heights, United States"
+      ],
+      "posted": null,
+      "title": "Quantum Security Intern 2027 - Cloud Compliance & Security Tooling",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132708"
+    },
+    "ibm:132725": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "132725",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "AI Native Hardware & Software Codesign internship 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132725"
+    },
+    "ibm:132776": {
+      "active": true,
+      "category": "Data",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "132776",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Yorktown Heights, United States"
+      ],
+      "posted": null,
+      "title": "Quantum Data Scientist Intern - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132776"
+    },
+    "ibm:132806": {
+      "active": true,
+      "category": "Data",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "132806",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "POUGHKEEPSIE, United States"
+      ],
+      "posted": null,
+      "title": "Data Scientist Intern - OneIT - Poughkeepsie, NY",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132806"
+    },
+    "ibm:132822": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "132822",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "ROCHESTER, United States"
+      ],
+      "posted": null,
+      "title": "Site Reliability Engineer Intern - OneIT - Rochester, MN",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132822"
+    },
+    "ibm:132886": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "132886",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Austin, United States"
+      ],
+      "posted": null,
+      "title": "Site Reliability Engineer Network Intern - OneIT - Austin, TX",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=132886"
+    },
+    "ibm:133042": {
+      "active": true,
+      "category": "Data",
+      "company": "IBM",
+      "degrees": [
+        "BS"
+      ],
+      "external_id": "133042",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Ehningen, Germany"
+      ],
+      "posted": null,
+      "title": "Duales Studium 2027 Bachelor@IBM: Wirtschaftsinformatik - Data Science (f/m/x)",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133042"
+    },
+    "ibm:133062": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "133062",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Markham, Canada"
+      ],
+      "posted": null,
+      "title": "Site Reliability Engineer Intern 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133062"
+    },
+    "ibm:133067": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "133067",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Markham, Canada"
+      ],
+      "posted": null,
+      "title": "Site Reliability Engineer Intern 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133067"
+    },
+    "ibm:133140": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "133140",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Yorktown Heights, United States"
+      ],
+      "posted": null,
+      "title": "Quantum Control Systems FPGA Developer Internship 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133140"
+    },
+    "ibm:133145": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "133145",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "Quantum Control Distributed Runtime Internship 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133145"
+    },
+    "ibm:133430": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "133430",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Yorktown Heights, United States"
+      ],
+      "posted": null,
+      "title": "Research internship: Quantum computing and AI for partial differential equations 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133430"
+    },
+    "ibm:133462": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "133462",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "New York, United States"
+      ],
+      "posted": null,
+      "title": "2027 Intern \u2014 Software Developer, AI & Marketing Platforms",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133462"
+    },
+    "ibm:133782": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "133782",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "Quantum Control Pulse-Level Compiler Intern 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133782"
+    },
+    "ibm:133801": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "133801",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Yorktown Heights, United States"
+      ],
+      "posted": null,
+      "title": "Design Engineer Intern 2027 - Design and Build AI-Native Interfaces",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133801"
+    },
+    "ibm:133909": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "133909",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "New York, United States"
+      ],
+      "posted": null,
+      "title": "AI-First Transformation \u2013 Strategy Consultant Intern",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133909"
+    },
+    "ibm:134050": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "134050",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Ehningen, Germany"
+      ],
+      "posted": null,
+      "title": "Praktika im Bereich z/OS Softwareentwicklung (f/m/x)",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134050"
+    },
+    "ibm:134091": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "134091",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "San Jose, United States"
+      ],
+      "posted": null,
+      "title": "AI/ML Engineer Spring Co-op",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134091"
+    },
+    "ibm:134098": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "134098",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Bangalore, India"
+      ],
+      "posted": null,
+      "title": "Software Developer Intern",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134098"
+    },
+    "ibm:134121": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "134121",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Austin, United States"
+      ],
+      "posted": null,
+      "title": "Backend Developer Intern - Austin, TX - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134121"
+    },
+    "ibm:134417": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "134417",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "BUENOS AIRES, Argentina"
+      ],
+      "posted": null,
+      "title": "Intern Application Developer - Full Stack",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134417"
+    },
+    "ibm:134486": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "134486",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "Quantum Information Software Intern 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134486"
+    },
+    "ibm:134568": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "134568",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "TUCSON, United States"
+      ],
+      "posted": null,
+      "title": "Back End Developer Intern 2027 - Tucson",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134568"
+    },
+    "ibm:134679": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "134679",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Ehningen, Germany"
+      ],
+      "posted": null,
+      "title": "Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134679"
+    },
+    "ibm:134708": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "134708",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "POUGHKEEPSIE, United States"
+      ],
+      "posted": null,
+      "title": "2027 Software Developer Intern",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134708"
+    },
+    "ibm:134827": {
+      "active": true,
+      "category": "Security",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "134827",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Dublin, Ireland"
+      ],
+      "posted": null,
+      "title": "Research Intern 2027 (3 months)  - Security & Privacy",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134827"
+    },
+    "ibm:134934": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "134934",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Cambridge, United States"
+      ],
+      "posted": null,
+      "title": "Software Developer Intern 2027 - CAMBRIDGE",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134934"
+    },
+    "ibm:134939": {
+      "active": true,
+      "category": "Data",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "134939",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "RESEARCH TRIANGLE PARK, United States"
+      ],
+      "posted": null,
+      "title": "Data Scientist Intern 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134939"
+    },
+    "ibm:134974": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "134974",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Cambridge, United States"
+      ],
+      "posted": null,
+      "title": "Software Developer - Spring Co-Op 2027 - Cambridge",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134974"
+    },
+    "ibm:135235": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "135235",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Austin, United States"
+      ],
+      "posted": null,
+      "title": "Cloud Infrastructure Network Monitoring and Automation Software Engineer Intern - Austin, TX - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=135235"
+    },
+    "ibm:135256": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "135256",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Bellevue, United States"
+      ],
+      "posted": null,
+      "title": "Software Developer Spring Co-Op 2027 (Bellevue)",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=135256"
+    },
+    "ibm:135456": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [
+        "MS"
+      ],
+      "external_id": "135456",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Ehningen, Germany"
+      ],
+      "posted": null,
+      "title": "Master@IBM Werkstudent - Software Developer (f/m/x)",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=135456"
+    },
+    "ibm:135502": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "135502",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Ehningen, Germany"
+      ],
+      "posted": null,
+      "title": "Internship - Software Developer (f/m/x)",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=135502"
+    },
+    "ibm:135597": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "135597",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "San Jose, United States"
+      ],
+      "posted": null,
+      "title": "AI/ML Engineer Intern 2027 - SAN JOSE",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=135597"
+    },
+    "ibm:136549": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "136549",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Bogota, Colombia"
+      ],
+      "posted": null,
+      "title": "Application Developer - Estudiante",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=136549"
+    },
+    "ibm:136630": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "136630",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "Research Engineer - R&D Internship \u2013 2027 Yorktown Heights & Cambridge",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=136630"
+    },
+    "ibm:136727": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "136727",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "ROCHESTER, United States"
+      ],
+      "posted": null,
+      "title": "Hardware Developer Intern - Poughkeepsie, NY - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=136727"
+    },
+    "ibm:136983": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "136983",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "ROCHESTER, United States"
+      ],
+      "posted": null,
+      "title": "Hardware Developer Intern - Rochester, MN - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=136983"
+    },
+    "ibm:137066": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "137066",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "Research Scientist - R&D Internship \u2013 2027 Yorktown Heights & Cambridge",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=137066"
+    },
+    "ibm:137070": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "137070",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "Applied AI Research Intern - R&D Internship \u2013 2027 Yorktown Heights & Cambridge",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=137070"
+    },
+    "ibm:137214": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "137214",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Multiple Cities"
+      ],
+      "posted": null,
+      "title": "AI Software Engineer Intern",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=137214"
+    },
+    "ibm:137250": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "137250",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Austin, United States"
+      ],
+      "posted": null,
+      "title": "Hardware Developer Intern - Austin, TX - 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=137250"
     },
     "intel:JR0282639": {
       "active": false,
@@ -14240,5 +16562,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8279620"
     }
   },
-  "updated_at": "2026-10-15T04:50:35Z"
+  "updated_at": "2026-10-15T05:25:29Z"
 }

@@ -5,8 +5,9 @@ opens a `scraper-health` issue automatically — see .github/workflows/update.ym
 
 """
 from .adapters import (amazon, apple, ashby, bloomberg, eightfold,
-                       github_careers, google, greenhouse, janestreet, meta,
-                       microsoft, oracle_hcm, phenom, spotify, uber, workday)
+                       github_careers, google, greenhouse, ibm, janestreet,
+                       meta, microsoft, oracle_hcm, phenom, spotify, uber,
+                       workday)
 
 # Companies we can't cover, and why — rendered into the README summary table.
 UNSUPPORTED = {
@@ -51,6 +52,12 @@ COMPANIES = [
      "host": "paypal.wd1.myworkdayjobs.com", "site": "jobs"},
     {"name": "Snap", "fetch": workday.fetch,
      "host": "snapchat.wd1.myworkdayjobs.com", "tenant": "snapchat", "site": "snap"},
+    # Mastercard tags interns with a workerSubType facet, so filter on it
+    # instead of the fuzzy "intern" text search (which matches ~700 postings).
+    {"name": "Mastercard", "fetch": workday.fetch,
+     "host": "mastercard.wd1.myworkdayjobs.com", "site": "CorporateCareers",
+     "search_text": "",
+     "applied_facets": {"workerSubType": ["cfba33fac07f49c9b6d3d53336c6a291"]}},
 
     # --- Eightfold -----------------------------------------------------------
     {"name": "Netflix", "fetch": eightfold.fetch,
@@ -76,4 +83,5 @@ COMPANIES = [
     {"name": "Oracle", "fetch": oracle_hcm.fetch},
     {"name": "Spotify", "fetch": spotify.fetch},
     {"name": "Bloomberg", "fetch": bloomberg.fetch},
+    {"name": "IBM", "fetch": ibm.fetch},
 ]
