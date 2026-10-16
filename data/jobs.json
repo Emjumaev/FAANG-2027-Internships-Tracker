@@ -5917,7 +5917,7 @@
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369"
     },
     "ibm:123742": {
-      "active": true,
+      "active": false,
       "category": "Frontend",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -5995,9 +5995,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128506"
     },
     "ibm:128510": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-15",
+      "closed": "2026-10-16",
       "company": "IBM",
       "degrees": [],
       "external_id": "128510",
@@ -6026,7 +6026,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128513"
     },
     "ibm:128540": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -6121,7 +6121,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128591"
     },
     "ibm:128649": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -6214,7 +6214,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128770"
     },
     "ibm:128771": {
-      "active": false,
+      "active": true,
       "category": "Security",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -6276,7 +6276,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128792"
     },
     "ibm:128797": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -6323,7 +6323,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128815"
     },
     "ibm:128816": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -6434,7 +6434,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129227"
     },
     "ibm:129258": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -6450,7 +6450,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129258"
     },
     "ibm:129628": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -6466,7 +6466,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129628"
     },
     "ibm:129661": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -6561,7 +6561,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129787"
     },
     "ibm:129894": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -6607,7 +6607,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129907"
     },
     "ibm:129926": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -6639,7 +6639,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129929"
     },
     "ibm:129936": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -6655,7 +6655,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129936"
     },
     "ibm:130026": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -6686,7 +6686,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130031"
     },
     "ibm:130043": {
-      "active": false,
+      "active": true,
       "category": "QA",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -6826,7 +6826,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130110"
     },
     "ibm:130114": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -7000,7 +7000,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130787"
     },
     "ibm:130788": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -7110,7 +7110,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131081"
     },
     "ibm:131158": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -7157,7 +7157,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131192"
     },
     "ibm:131195": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -7173,7 +7173,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131195"
     },
     "ibm:131205": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -7204,9 +7204,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131292"
     },
     "ibm:131307": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-15",
+      "closed": "2026-10-16",
       "company": "IBM",
       "degrees": [],
       "external_id": "131307",
@@ -7220,7 +7220,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131307"
     },
     "ibm:131364": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -7314,9 +7314,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131810"
     },
     "ibm:131816": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-15",
+      "closed": "2026-10-16",
       "company": "IBM",
       "degrees": [],
       "external_id": "131816",
@@ -7423,7 +7423,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132407"
     },
     "ibm:132416": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -7470,9 +7470,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132430"
     },
     "ibm:132431": {
-      "active": true,
+      "active": false,
       "category": "Data",
-      "closed": "2026-10-15",
+      "closed": "2026-10-16",
       "company": "IBM",
       "degrees": [],
       "external_id": "132431",
@@ -7486,7 +7486,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132431"
     },
     "ibm:132433": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -7517,9 +7517,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132434"
     },
     "ibm:132567": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-15",
+      "closed": "2026-10-16",
       "company": "IBM",
       "degrees": [],
       "external_id": "132567",
@@ -7641,7 +7641,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132806"
     },
     "ibm:132822": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -7751,7 +7751,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133140"
     },
     "ibm:133145": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -7813,7 +7813,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133782"
     },
     "ibm:133801": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -7845,7 +7845,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133909"
     },
     "ibm:134050": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -7924,9 +7924,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134417"
     },
     "ibm:134474": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-15",
+      "closed": "2026-10-16",
       "company": "IBM",
       "degrees": [],
       "external_id": "134474",
@@ -8049,7 +8049,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134939"
     },
     "ibm:134974": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -8130,8 +8130,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=135502"
     },
     "ibm:135565": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-16",
       "company": "IBM",
       "degrees": [],
       "external_id": "135565",
@@ -8222,9 +8223,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=136727"
     },
     "ibm:136943": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-15",
+      "closed": "2026-10-16",
       "company": "IBM",
       "degrees": [],
       "external_id": "136943",
@@ -8347,7 +8348,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137098"
     },
     "ibm:137105": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -8396,7 +8397,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137214"
     },
     "ibm:137250": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -9531,7 +9532,7 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538"
     },
     "intel:JR0287539": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-16",
       "company": "Intel",
@@ -9540,11 +9541,11 @@
       ],
       "external_id": "JR0287539",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "locations": [
         "Canada, Toronto"
       ],
-      "posted": "2026-10-02",
+      "posted": "2026-10-16",
       "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539"
     },
@@ -12695,8 +12696,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557037856"
     },
     "microsoft:1970393557038773": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-16",
       "company": "Microsoft",
       "degrees": [],
       "external_id": "1970393557038773",
@@ -12755,7 +12757,7 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557040333"
     },
     "microsoft:1970393557040344": {
-      "active": false,
+      "active": true,
       "category": "Data",
       "closed": "2026-10-16",
       "company": "Microsoft",
@@ -12766,7 +12768,7 @@
       "locations": [
         "United States, Washington, Redmond"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-16",
       "title": "Research Intern - Agentic Data Memory",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557040344"
     },
@@ -12815,6 +12817,38 @@
       "posted": "2026-10-15",
       "title": "Research Intern - Efficient AI Software Systems",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731"
+    },
+    "microsoft:1970393557042145": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "degrees": [],
+      "external_id": "1970393557042145",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "United States, Massachusetts, Cambridge",
+        "United States, New York, New York"
+      ],
+      "posted": "2026-10-16",
+      "title": "Research Intern - Machine Learning at MSR NYC",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145"
+    },
+    "microsoft:1970393557042156": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "degrees": [],
+      "external_id": "1970393557042156",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "United States, New York, New York",
+        "United States, Washington, Redmond"
+      ],
+      "posted": "2026-10-16",
+      "title": "Research Intern - MSR AI Interaction and Learning",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042156"
     },
     "mongodb:8258279": {
       "active": true,
@@ -17235,5 +17269,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8279620"
     }
   },
-  "updated_at": "2026-10-16T18:12:39Z"
+  "updated_at": "2026-10-16T21:20:17Z"
 }
