@@ -6014,14 +6014,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128506"
     },
     "ibm:128510": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-16",
       "company": "IBM",
       "degrees": [],
       "external_id": "128510",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-10-17",
       "locations": [
         "Multiple Cities"
       ],
@@ -6093,14 +6093,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128551"
     },
     "ibm:128560": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "128560",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-10-17",
       "locations": [
         "Chicago, United States"
       ],
@@ -6171,8 +6171,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128711"
     },
     "ibm:128716": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "128716",
@@ -6218,8 +6219,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128765"
     },
     "ibm:128770": {
-      "active": true,
+      "active": false,
       "category": "Security",
+      "closed": "2026-10-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "128770",
@@ -6249,8 +6251,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128771"
     },
     "ibm:128784": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "128784",
@@ -6311,8 +6314,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128797"
     },
     "ibm:128807": {
-      "active": true,
+      "active": false,
       "category": "Security",
+      "closed": "2026-10-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "128807",
@@ -6358,14 +6362,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128816"
     },
     "ibm:128818": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "128818",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-10-17",
       "locations": [
         "BATON ROUGE, United States"
       ],
@@ -6642,14 +6646,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129926"
     },
     "ibm:129929": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "129929",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-10-17",
       "locations": [
         "POUGHKEEPSIE, United States"
       ],
@@ -6830,8 +6834,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130107"
     },
     "ibm:130110": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "130110",
@@ -7114,8 +7119,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131076"
     },
     "ibm:131081": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "131081",
@@ -7223,14 +7229,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131292"
     },
     "ibm:131307": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-16",
       "company": "IBM",
       "degrees": [],
       "external_id": "131307",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-10-17",
       "locations": [
         "Multiple Cities"
       ],
@@ -7271,8 +7277,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131367"
     },
     "ibm:131545": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "131545",
@@ -7286,8 +7293,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131545"
     },
     "ibm:131598": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "131598",
@@ -7333,14 +7341,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131810"
     },
     "ibm:131816": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-16",
       "company": "IBM",
       "degrees": [],
       "external_id": "131816",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-10-17",
       "locations": [
         "Chicago, United States"
       ],
@@ -7365,8 +7373,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131827"
     },
     "ibm:131988": {
-      "active": true,
+      "active": false,
       "category": "Security",
+      "closed": "2026-10-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "131988",
@@ -7412,8 +7421,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132000"
     },
     "ibm:132016": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "132016",
@@ -7489,14 +7499,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132430"
     },
     "ibm:132431": {
-      "active": false,
+      "active": true,
       "category": "Data",
       "closed": "2026-10-16",
       "company": "IBM",
       "degrees": [],
       "external_id": "132431",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-10-17",
       "locations": [
         "Multiple Cities"
       ],
@@ -7521,8 +7531,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132433"
     },
     "ibm:132434": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "132434",
@@ -7536,14 +7547,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132434"
     },
     "ibm:132567": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-16",
       "company": "IBM",
       "degrees": [],
       "external_id": "132567",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-10-17",
       "locations": [
         "San Jose, United States"
       ],
@@ -7552,8 +7563,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132567"
     },
     "ibm:132569": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "132569",
@@ -7567,8 +7579,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132569"
     },
     "ibm:132699": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-10-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "132699",
@@ -7943,14 +7956,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134417"
     },
     "ibm:134474": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-16",
       "company": "IBM",
       "degrees": [],
       "external_id": "134474",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-10-17",
       "locations": [
         "Yorktown Heights, United States"
       ],
@@ -7959,8 +7972,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134474"
     },
     "ibm:134486": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "134486",
@@ -8021,9 +8035,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134708"
     },
     "ibm:134827": {
-      "active": true,
+      "active": false,
       "category": "Security",
-      "closed": "2026-10-15",
+      "closed": "2026-10-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "134827",
@@ -8242,14 +8256,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=136727"
     },
     "ibm:136943": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-16",
       "company": "IBM",
       "degrees": [],
       "external_id": "136943",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-10-17",
       "locations": [
         "Multiple Cities"
       ],
@@ -8401,8 +8415,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137106"
     },
     "ibm:137214": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "137214",
@@ -17318,5 +17333,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8279620"
     }
   },
-  "updated_at": "2026-10-17T00:38:23Z"
+  "updated_at": "2026-10-17T07:04:49Z"
 }
