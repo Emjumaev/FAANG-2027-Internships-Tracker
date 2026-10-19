@@ -6260,7 +6260,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128551"
     },
     "ibm:128560": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-19",
       "company": "IBM",
@@ -6354,7 +6354,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128716"
     },
     "ibm:128737": {
-      "active": true,
+      "active": false,
       "category": "Security",
       "closed": "2026-10-19",
       "company": "IBM",
@@ -6530,7 +6530,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128816"
     },
     "ibm:128818": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-19",
       "company": "IBM",
@@ -6673,8 +6673,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129661"
     },
     "ibm:129778": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "129778",
@@ -6815,7 +6816,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129926"
     },
     "ibm:129929": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-19",
       "company": "IBM",
@@ -7019,6 +7020,21 @@
       "title": "Hardware and Systems Developer Intern 2027 -Austin, TX",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130110"
     },
+    "ibm:130113": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130113",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "locations": [
+        "POUGHKEEPSIE, United States"
+      ],
+      "posted": null,
+      "title": "Software Developer Intern-Poughkeepsie, NY",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130113"
+    },
     "ibm:130114": {
       "active": true,
       "category": "Software",
@@ -7099,7 +7115,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130758"
     },
     "ibm:130759": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "closed": "2026-10-19",
       "company": "IBM",
@@ -7178,7 +7194,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130774"
     },
     "ibm:130787": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
       "closed": "2026-10-19",
       "company": "IBM",
@@ -7653,7 +7669,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132423"
     },
     "ibm:132430": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
       "closed": "2026-10-19",
       "company": "IBM",
@@ -7669,7 +7685,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132430"
     },
     "ibm:132431": {
-      "active": false,
+      "active": true,
       "category": "Data",
       "closed": "2026-10-19",
       "company": "IBM",
@@ -7861,7 +7877,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132822"
     },
     "ibm:132880": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-19",
       "company": "IBM",
@@ -8061,7 +8077,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133504"
     },
     "ibm:133782": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
       "closed": "2026-10-19",
       "company": "IBM",
@@ -8093,7 +8109,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133801"
     },
     "ibm:133909": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
       "closed": "2026-10-19",
       "company": "IBM",
@@ -8236,9 +8252,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134486"
     },
     "ibm:134568": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-18",
+      "closed": "2026-10-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "134568",
@@ -8252,7 +8268,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134568"
     },
     "ibm:134679": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
       "closed": "2026-10-19",
       "company": "IBM",
@@ -8363,7 +8379,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=135235"
     },
     "ibm:135256": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "closed": "2026-10-19",
       "company": "IBM",
@@ -8727,6 +8743,21 @@
       "posted": null,
       "title": "AI Software Engineer Spring Co-op 2027",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137269"
+    },
+    "ibm:137400": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "137400",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "locations": [
+        "Markham, Canada"
+      ],
+      "posted": null,
+      "title": "AI Software Engineer Intern 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=137400"
     },
     "ibm:137428": {
       "active": true,
@@ -10298,6 +10329,23 @@
       "title": "AI Software Development Engineer Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/AI-Software-Development-Engineer-Intern_JR0288056"
     },
+    "intel:JR0288170": {
+      "active": true,
+      "category": "Data",
+      "company": "Intel",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "JR0288170",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "locations": [
+        "US, Oregon, Hillsboro"
+      ],
+      "posted": "2026-10-19",
+      "title": "Cloud Analytics - Application PhD Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Cloud-Analytics---Application-PhD-Intern_JR0288170"
+    },
     "intel:JR0288193": {
       "active": true,
       "category": "Software",
@@ -11137,6 +11185,24 @@
       "title": "Research Scientist Intern, Applied Vision and Image Quality (PhD)",
       "url": "https://www.metacareers.com/jobs/1422892385992613"
     },
+    "meta:1584033410435097": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1584033410435097",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "locations": [
+        "Burlingame, CA",
+        "Menlo Park, CA"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Smart Glasses in Wearables AI (PhD)",
+      "url": "https://www.metacareers.com/jobs/1584033410435097"
+    },
     "meta:1633096478817942": {
       "active": true,
       "category": "Data",
@@ -11257,9 +11323,9 @@
       "url": "https://www.metacareers.com/jobs/1782902493113620"
     },
     "meta:1796691991338568": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-09-12",
+      "closed": "2026-10-19",
       "company": "Meta",
       "degrees": [
         "PhD"
@@ -11320,7 +11386,8 @@
       "first_seen": "2026-10-13",
       "last_seen": "2026-10-19",
       "locations": [
-        "Menlo Park, CA"
+        "Menlo Park, CA",
+        "New York, NY"
       ],
       "posted": null,
       "title": "Research Scientist Intern, AI & Compute Foundation - MTIA SW (PhD)",
@@ -11771,6 +11838,24 @@
       "posted": null,
       "title": "Research Scientist Intern, Audio-Visual Conversation Scene Generation (PhD)",
       "url": "https://www.metacareers.com/jobs/3364701000388712"
+    },
+    "meta:4455569504707135": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "4455569504707135",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "locations": [
+        "Burlingame, CA",
+        "Menlo Park, CA"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, On-Device AI Model Optimization (PhD)",
+      "url": "https://www.metacareers.com/jobs/4455569504707135"
     },
     "meta:4723409617931131": {
       "active": true,
@@ -13281,6 +13366,23 @@
       "title": "Data Science INTERN",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557042485"
     },
+    "microsoft:1970393557042487": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1970393557042487",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "locations": [
+        "United Kingdom, Berkshire, Reading"
+      ],
+      "posted": "2026-10-19",
+      "title": "Applied Science PhD Internship",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042487"
+    },
     "microsoft:1970393557042488": {
       "active": true,
       "category": "Security",
@@ -13295,6 +13397,36 @@
       "posted": "2026-10-18",
       "title": "Security Research Internship Opportunities",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557042488"
+    },
+    "microsoft:1970393557043740": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "degrees": [],
+      "external_id": "1970393557043740",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "posted": "2026-10-19",
+      "title": "Research Intern - Algorithms Group: Generative Modeling",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557043740"
+    },
+    "microsoft:1970393557043754": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "degrees": [],
+      "external_id": "1970393557043754",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "posted": "2026-10-19",
+      "title": "Research Intern - Extended Perception Interaction Cognition (EPIC)",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557043754"
     },
     "mongodb:8258279": {
       "active": true,
@@ -13382,6 +13514,21 @@
       "posted": "2026-08-19",
       "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
       "url": "https://explore.jobs.netflix.net/careers/job/790317917022"
+    },
+    "netflix:790318904468": {
+      "active": true,
+      "category": "Software",
+      "company": "Netflix",
+      "degrees": [],
+      "external_id": "790318904468",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "locations": [
+        "Los Gatos,California,United States of America"
+      ],
+      "posted": "2026-10-13",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://explore.jobs.netflix.net/careers/job/790318904468"
     },
     "nvidia:JR2006824": {
       "active": false,
@@ -17851,6 +17998,23 @@
       "title": "2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8279620"
     },
+    "waymo:8283558": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "8283558",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "locations": [
+        "Mountain View, California, United States"
+      ],
+      "posted": "2026-10-19",
+      "title": "2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8283558"
+    },
     "waymo:8292367": {
       "active": true,
       "category": "AI/ML",
@@ -17867,6 +18031,23 @@
       "posted": "2026-10-19",
       "title": "2027 Summer Intern, PhD, Research Scientist, Visual Reasoning",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8292367"
+    },
+    "waymo:8301804": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "8301804",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-10-19",
+      "title": "2027 Summer Intern, PhD, Research, Perception Foundation Models",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8301804"
     },
     "wise:4352": {
       "active": true,
@@ -17914,5 +18095,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-10-19T20:04:44Z"
+  "updated_at": "2026-10-19T23:51:42Z"
 }
