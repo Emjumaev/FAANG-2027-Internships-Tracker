@@ -133,7 +133,7 @@
       "locations": [
         "Basel"
       ],
-      "posted": "2026-10-19",
+      "posted": "2026-10-20",
       "title": "2027 Intern- Software Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015"
     },
@@ -6195,9 +6195,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128497"
     },
     "ibm:128506": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-18",
+      "closed": "2026-10-20",
       "company": "IBM",
       "degrees": [],
       "external_id": "128506",
@@ -6258,7 +6258,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128540"
     },
     "ibm:128549": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-20",
       "company": "IBM",
@@ -6274,7 +6274,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128549"
     },
     "ibm:128551": {
-      "active": false,
+      "active": true,
       "category": "Security",
       "closed": "2026-10-20",
       "company": "IBM",
@@ -6368,7 +6368,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128711"
     },
     "ibm:128716": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-20",
       "company": "IBM",
@@ -6528,9 +6528,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128807"
     },
     "ibm:128815": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-18",
+      "closed": "2026-10-20",
       "company": "IBM",
       "degrees": [],
       "external_id": "128815",
@@ -6878,7 +6878,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129936"
     },
     "ibm:130026": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-20",
       "company": "IBM",
@@ -6956,9 +6956,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130074"
     },
     "ibm:130092": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-18",
+      "closed": "2026-10-20",
       "company": "IBM",
       "degrees": [],
       "external_id": "130092",
@@ -7351,7 +7351,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131081"
     },
     "ibm:131158": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-20",
       "company": "IBM",
@@ -7414,7 +7414,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131195"
     },
     "ibm:131205": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-20",
       "company": "IBM",
@@ -7461,7 +7461,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131307"
     },
     "ibm:131364": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-20",
       "company": "IBM",
@@ -7477,9 +7477,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131364"
     },
     "ibm:131367": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-18",
+      "closed": "2026-10-20",
       "company": "IBM",
       "degrees": [],
       "external_id": "131367",
@@ -7589,7 +7589,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131827"
     },
     "ibm:131988": {
-      "active": false,
+      "active": true,
       "category": "Security",
       "closed": "2026-10-20",
       "company": "IBM",
@@ -7621,9 +7621,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131999"
     },
     "ibm:132000": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-18",
+      "closed": "2026-10-20",
       "company": "IBM",
       "degrees": [],
       "external_id": "132000",
@@ -7779,7 +7779,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132567"
     },
     "ibm:132569": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-20",
       "company": "IBM",
@@ -7859,9 +7859,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132725"
     },
     "ibm:132776": {
-      "active": true,
+      "active": false,
       "category": "Data",
-      "closed": "2026-10-18",
+      "closed": "2026-10-20",
       "company": "IBM",
       "degrees": [],
       "external_id": "132776",
@@ -8063,8 +8063,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133430"
     },
     "ibm:133462": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-20",
       "company": "IBM",
       "degrees": [],
       "external_id": "133462",
@@ -8267,7 +8268,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134474"
     },
     "ibm:134486": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-20",
       "company": "IBM",
@@ -8460,7 +8461,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=135502"
     },
     "ibm:135536": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-20",
       "company": "IBM",
@@ -8730,7 +8731,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137106"
     },
     "ibm:137214": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-20",
       "company": "IBM",
@@ -10265,8 +10266,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Beijing/AI-GPU-Arch-Perf-Analysis-Intern_JR0287928"
     },
     "intel:JR0287931": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-20",
       "company": "Intel",
       "degrees": [
         "BS"
@@ -10363,8 +10365,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/AI-Software-Development-Engineer-Intern_JR0288056"
     },
     "intel:JR0288170": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-10-20",
       "company": "Intel",
       "degrees": [
         "PhD"
@@ -10408,6 +10411,36 @@
       "posted": "2026-10-19",
       "title": "Development Tools Software Engineer Intern (m/f/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205"
+    },
+    "intel:JR0288210": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Intel",
+      "degrees": [],
+      "external_id": "JR0288210",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-20",
+      "title": "DevOps Software Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288210"
+    },
+    "intel:JR0288213": {
+      "active": true,
+      "category": "Software",
+      "company": "Intel",
+      "degrees": [],
+      "external_id": "JR0288213",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-20",
+      "title": "Middleware Software Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0288213"
     },
     "intel:JR0288217": {
       "active": true,
@@ -10453,6 +10486,21 @@
       "posted": "2026-10-16",
       "title": "AI Application Development Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/AI-Application-Development-Intern_JR0288222-1"
+    },
+    "intel:JR0288225": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Intel",
+      "degrees": [],
+      "external_id": "JR0288225",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-20",
+      "title": "AI Software Development Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Development-Intern_JR0288225"
     },
     "intel:JR0288261": {
       "active": true,
@@ -11653,6 +11701,7 @@
       "last_seen": "2026-10-20",
       "locations": [
         "Burlingame, CA",
+        "New York, NY",
         "Redmond, WA"
       ],
       "posted": null,
@@ -12030,6 +12079,21 @@
       "posted": null,
       "title": "Software Engineer Intern, Systems and Infrastructure (PhD)",
       "url": "https://www.metacareers.com/jobs/945520495299801"
+    },
+    "meta:994737396214791": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [],
+      "external_id": "994737396214791",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "locations": [
+        "London, UK"
+      ],
+      "posted": null,
+      "title": "Research Intern - Self-Improving Agentic Systems and AI Research Agents",
+      "url": "https://www.metacareers.com/jobs/994737396214791"
     },
     "microsoft:1970393556625311": {
       "active": false,
@@ -15496,8 +15560,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/GPU-Compiler-LLVM-Backend-Intern---2027_JR2026567"
     },
     "nvidia:JR2026569": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-10-20",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2026569",
@@ -15719,9 +15784,9 @@
       "first_seen": "2026-10-05",
       "last_seen": "2026-10-20",
       "locations": [
-        "2 Locations"
+        "Switzerland, Zurich"
       ],
-      "posted": "2026-10-05",
+      "posted": "2026-10-20",
       "title": "AI Compiler Formal Verification Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025"
     },
@@ -15849,6 +15914,21 @@
       "title": "Deep Learning Performance Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Intern---2027_JR2027348"
     },
+    "nvidia:JR2027377": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "degrees": [],
+      "external_id": "JR2027377",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "locations": [
+        "2 Locations"
+      ],
+      "posted": "2026-10-20",
+      "title": "GenAI Algorithms Intern \u2013 Model Optimization for Inference",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2027377"
+    },
     "nvidia:JR2027468": {
       "active": true,
       "category": "AI/ML",
@@ -15955,8 +16035,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--DGX-Cloud-Test-Development---2027_JR2027480-1"
     },
     "nvidia:JR2027497": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-20",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2027497",
@@ -18221,5 +18302,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-10-20T11:51:01Z"
+  "updated_at": "2026-10-20T17:18:41Z"
 }
