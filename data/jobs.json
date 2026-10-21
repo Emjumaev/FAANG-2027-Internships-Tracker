@@ -2016,6 +2016,23 @@
       "title": "Business Intelligence Intern Spain",
       "url": "https://www.amazon.jobs/en/jobs/10582415/business-intelligence-intern-spain"
     },
+    "amazon:10584990": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "degrees": [
+        "MS"
+      ],
+      "external_id": "10584990",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "locations": [
+        "Tel Aviv-Yafo, Tel Aviv, ISR"
+      ],
+      "posted": "2026-10-21",
+      "title": "2027 Applied Scientist Internship \u2013 Masters, Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/10584990/2027-applied-scientist-internship-masters-amazon-university-talent-acquisition"
+    },
     "amazon:3063220": {
       "active": false,
       "category": "Software",
@@ -3140,8 +3157,9 @@
       "url": "https://jobs.apple.com/en-us/details/200687171/information-security-internship"
     },
     "apple:200687209": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-21",
       "company": "Apple",
       "degrees": [],
       "external_id": "200687209",
@@ -3304,6 +3322,21 @@
       "posted": "2026-10-19",
       "title": "Internship - Software Engineering - On-Demand Agent Provisioning in Cellular Test",
       "url": "https://jobs.apple.com/en-us/details/200689729/internship-software-engineering-on-demand-agent-provisioning-in-cellular-test"
+    },
+    "apple:200690125": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Apple",
+      "degrees": [],
+      "external_id": "200690125",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "locations": [
+        "Cambridge"
+      ],
+      "posted": "2026-10-21",
+      "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
+      "url": "https://jobs.apple.com/en-us/details/200690125/internship-machine-learning-research-speech-to-speech-translation"
     },
     "apple:200690139": {
       "active": true,
@@ -6267,9 +6300,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128513"
     },
     "ibm:128540": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-20",
+      "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "128540",
@@ -6362,7 +6395,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128591"
     },
     "ibm:128649": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-21",
       "company": "IBM",
@@ -6393,14 +6426,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128711"
     },
     "ibm:128716": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "128716",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "locations": [
         "New York, United States"
       ],
@@ -6457,9 +6490,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128770"
     },
     "ibm:128771": {
-      "active": true,
+      "active": false,
       "category": "Security",
-      "closed": "2026-10-16",
+      "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "128771",
@@ -6473,14 +6506,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128771"
     },
     "ibm:128784": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "128784",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "locations": [
         "BATON ROUGE, United States"
       ],
@@ -6569,7 +6602,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128815"
     },
     "ibm:128816": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-21",
       "company": "IBM",
@@ -6665,7 +6698,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128910"
     },
     "ibm:129227": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-21",
       "company": "IBM",
@@ -6681,9 +6714,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129227"
     },
     "ibm:129258": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-20",
+      "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "129258",
@@ -6697,7 +6730,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129258"
     },
     "ibm:129628": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-21",
       "company": "IBM",
@@ -6745,9 +6778,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129778"
     },
     "ibm:129780": {
-      "active": true,
+      "active": false,
       "category": "QA",
-      "closed": "2026-10-20",
+      "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "129780",
@@ -6809,9 +6842,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129787"
     },
     "ibm:129894": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-16",
+      "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "129894",
@@ -6904,7 +6937,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129929"
     },
     "ibm:129936": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-21",
       "company": "IBM",
@@ -7174,7 +7207,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130735"
     },
     "ibm:130758": {
-      "active": false,
+      "active": true,
       "category": "QA",
       "closed": "2026-10-21",
       "company": "IBM",
@@ -7302,7 +7335,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130788"
     },
     "ibm:130876": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-21",
       "company": "IBM",
@@ -7445,9 +7478,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131192"
     },
     "ibm:131195": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-16",
+      "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "131195",
@@ -7604,9 +7637,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131810"
     },
     "ibm:131816": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-20",
+      "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "131816",
@@ -7620,9 +7653,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131816"
     },
     "ibm:131827": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-20",
+      "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "131827",
@@ -7636,14 +7669,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131827"
     },
     "ibm:131988": {
-      "active": false,
+      "active": true,
       "category": "Security",
       "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "131988",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "locations": [
         "Yorktown Heights, United States"
       ],
@@ -7715,7 +7748,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132407"
     },
     "ibm:132416": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-21",
       "company": "IBM",
@@ -7763,9 +7796,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132430"
     },
     "ibm:132431": {
-      "active": true,
+      "active": false,
       "category": "Data",
-      "closed": "2026-10-19",
+      "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "132431",
@@ -7811,9 +7844,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132434"
     },
     "ibm:132567": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-20",
+      "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "132567",
@@ -7827,14 +7860,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132567"
     },
     "ibm:132569": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "132569",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "locations": [
         "Yorktown Heights, United States"
       ],
@@ -7923,9 +7956,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132776"
     },
     "ibm:132806": {
-      "active": true,
+      "active": false,
       "category": "Data",
-      "closed": "2026-10-20",
+      "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "132806",
@@ -8082,8 +8115,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133145"
     },
     "ibm:133146": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "133146",
@@ -8143,7 +8177,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133470"
     },
     "ibm:133504": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-21",
       "company": "IBM",
@@ -8207,7 +8241,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133909"
     },
     "ibm:134050": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-21",
       "company": "IBM",
@@ -8303,9 +8337,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134417"
     },
     "ibm:134474": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-18",
+      "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "134474",
@@ -8319,14 +8353,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134474"
     },
     "ibm:134486": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "134486",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "locations": [
         "Multiple Cities"
       ],
@@ -8430,7 +8464,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134939"
     },
     "ibm:134974": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-21",
       "company": "IBM",
@@ -8496,7 +8530,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=135456"
     },
     "ibm:135502": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-21",
       "company": "IBM",
@@ -8623,9 +8657,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=136727"
     },
     "ibm:136943": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-20",
+      "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "136943",
@@ -8767,9 +8801,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137105"
     },
     "ibm:137106": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-20",
+      "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "137106",
@@ -8783,14 +8817,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137106"
     },
     "ibm:137214": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "137214",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "locations": [
         "Multiple Cities"
       ],
@@ -8815,9 +8849,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137250"
     },
     "ibm:137269": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-20",
+      "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "137269",
@@ -8862,9 +8896,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137400"
     },
     "ibm:137428": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-20",
+      "closed": "2026-10-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "137428",
@@ -9678,9 +9712,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286937"
     },
     "intel:JR0286944": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-09-22",
+      "closed": "2026-10-21",
       "company": "Intel",
       "degrees": [
         "PhD"
@@ -10548,6 +10582,21 @@
       "title": "Development Tools Software Engineer Intern (m/f/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205"
     },
+    "intel:JR0288207": {
+      "active": true,
+      "category": "Software",
+      "company": "Intel",
+      "degrees": [],
+      "external_id": "JR0288207",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-21",
+      "title": "System Software Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0288207"
+    },
     "intel:JR0288210": {
       "active": true,
       "category": "Backend/Infra",
@@ -10578,6 +10627,21 @@
       "title": "Middleware Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0288213"
     },
+    "intel:JR0288216": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Intel",
+      "degrees": [],
+      "external_id": "JR0288216",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-21",
+      "title": "Media AI Software Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Media-AI-Software-Intern_JR0288216"
+    },
     "intel:JR0288217": {
       "active": true,
       "category": "AI/ML",
@@ -10592,6 +10656,21 @@
       "posted": "2026-10-14",
       "title": "AI Frameworks Engineer - Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Mexico-Guadalajara/AI-Frameworks-Engineer---Intern_JR0288217"
+    },
+    "intel:JR0288220": {
+      "active": true,
+      "category": "QA",
+      "company": "Intel",
+      "degrees": [],
+      "external_id": "JR0288220",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-21",
+      "title": "Intern Software QA Test Engineer",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Intern-Software-QA-Test-Engineer_JR0288220"
     },
     "intel:JR0288221": {
       "active": true,
@@ -11350,6 +11429,23 @@
       "title": "Enterprise Security Engineer, Intern (Summer 2027)",
       "url": "https://www.metacareers.com/jobs/1079627324896327"
     },
+    "meta:1085375117813817": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1085375117813817",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "locations": [
+        "Zurich, Switzerland"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Robotics Foundation Models (PhD)",
+      "url": "https://www.metacareers.com/jobs/1085375117813817"
+    },
     "meta:1139865145249047": {
       "active": true,
       "category": "AI/ML",
@@ -11449,6 +11545,23 @@
       "title": "Research Scientist Intern, NMR Analysis Automation",
       "url": "https://www.metacareers.com/jobs/1418337243438665"
     },
+    "meta:1420325362923811": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1420325362923811",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "locations": [
+        "Zurich, Switzerland"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Robotics - Meta Reality Labs Research (PhD)",
+      "url": "https://www.metacareers.com/jobs/1420325362923811"
+    },
     "meta:1422892385992613": {
       "active": false,
       "category": "AI/ML",
@@ -11512,7 +11625,6 @@
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-21",
       "locations": [
-        "Cambridge, UK",
         "Zurich, Switzerland"
       ],
       "posted": null,
@@ -11580,9 +11692,7 @@
       "external_id": "1642811797633951",
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-21",
-      "locations": [
-        "Cambridge, UK"
-      ],
+      "locations": [],
       "posted": null,
       "title": "Research Scientist Intern, Audio, Numerical Acoustics (PhD)",
       "url": "https://www.metacareers.com/jobs/1642811797633951"
@@ -11945,6 +12055,23 @@
       "title": "Software Engineer Intern, Machine Learning (PhD)",
       "url": "https://www.metacareers.com/jobs/2180490782513668"
     },
+    "meta:2188224482038078": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "2188224482038078",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "locations": [
+        "Cambridge, UK"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Audio, Numerical Acoustics (PhD)",
+      "url": "https://www.metacareers.com/jobs/2188224482038078"
+    },
     "meta:2192664358300823": {
       "active": true,
       "category": "AI/ML",
@@ -12015,6 +12142,23 @@
       "title": "Research Scientist Intern, 3D-grounded Generalist Model for Robotics (PhD)",
       "url": "https://www.metacareers.com/jobs/2267351860492630"
     },
+    "meta:2281070982817094": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "2281070982817094",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "locations": [
+        "London, UK"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern \u2013 Robotics, World Models & Embodied AI (PhD)",
+      "url": "https://www.metacareers.com/jobs/2281070982817094"
+    },
     "meta:2281218542616482": {
       "active": false,
       "category": "AI/ML",
@@ -12032,6 +12176,23 @@
       "posted": null,
       "title": "Research Scientist Intern, Monetization Computer Vision (PhD)",
       "url": "https://www.metacareers.com/jobs/2281218542616482"
+    },
+    "meta:2288012098648243": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "2288012098648243",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "locations": [
+        "Cambridge, UK"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)",
+      "url": "https://www.metacareers.com/jobs/2288012098648243"
     },
     "meta:2374839409720164": {
       "active": true,
@@ -12222,6 +12383,23 @@
       "posted": null,
       "title": "Research Scientist Intern, Monetization Generative AI - LLM (PhD)",
       "url": "https://www.metacareers.com/jobs/2916726525182155"
+    },
+    "meta:29859210493681744": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "29859210493681744",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "locations": [
+        "Cambridge, UK"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)",
+      "url": "https://www.metacareers.com/jobs/29859210493681744"
     },
     "meta:2988199118196184": {
       "active": true,
@@ -15913,6 +16091,21 @@
       "title": "MLOps Physical AI Data Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/MLOps-Physical-AI-Data-Intern---2027_JR2026544"
     },
+    "nvidia:JR2026546": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "degrees": [],
+      "external_id": "JR2026546",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "locations": [
+        "2 Locations"
+      ],
+      "posted": "2026-10-21",
+      "title": "GPU Computing Software Engineering Intern, Autonomous Driving - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/GPU-Computing-Software-Engineering-Intern--Autonomous-Driving---2027_JR2026546"
+    },
     "nvidia:JR2026567": {
       "active": true,
       "category": "Backend/Infra",
@@ -16143,6 +16336,21 @@
       "posted": "2026-10-05",
       "title": "AI Agent Development Engineer (RDSS Intern)",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Agent-Development-Engineer--RDSS-Intern-_JR2026971"
+    },
+    "nvidia:JR2026972": {
+      "active": true,
+      "category": "Software",
+      "company": "NVIDIA",
+      "degrees": [],
+      "external_id": "JR2026972",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "locations": [
+        "China, Shanghai"
+      ],
+      "posted": "2026-10-21",
+      "title": "Software Engineering Intern - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern---2027_JR2026972"
     },
     "nvidia:JR2027025": {
       "active": true,
@@ -16585,6 +16793,21 @@
       "posted": "2026-10-20",
       "title": "Developer Technology Engineering Intern - Compute Performance",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2028210"
+    },
+    "nvidia:JR2028274": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "NVIDIA",
+      "degrees": [],
+      "external_id": "JR2028274",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "locations": [
+        "UK, Bristol"
+      ],
+      "posted": "2026-10-21",
+      "title": "Software Intern - Embedded Systems 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1"
     },
     "oracle:334325": {
       "active": false,
@@ -18688,5 +18911,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-10-21T07:49:09Z"
+  "updated_at": "2026-10-21T13:57:57Z"
 }
