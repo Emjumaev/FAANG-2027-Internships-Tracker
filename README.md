@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-10-21 13:57:57 UTC** · 📌 **745** open internships
+> 🕐 Last updated: **2026-10-21 18:49:05 UTC** · 📌 **759** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -31,7 +31,7 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 38 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [IBM](#ibm) | 125 |
+| [IBM](#ibm) | 141 |
 | [Intel](#intel) | 56 |
 | [Jane Street](#jane-street) | 17 |
 | [Lyft](#lyft) | 16 |
@@ -55,7 +55,7 @@ GitHub Actions.
 | [Stripe](#stripe) | 13 |
 | Uber | — |
 | [Visa](#visa) | 4 |
-| [Waymo](#waymo) | 46 |
+| [Waymo](#waymo) | 44 |
 | [Wise](#wise) | 3 |
 | ByteDance | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* |
 | Revolut | *revolut.com serves a 'quick security check' browser challenge to every non-browser client, careers pages and sitemaps included; needs a headless browser* |
@@ -89,6 +89,7 @@ GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10585292/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) 🆕 | AI/ML | PhD | Bucharest, ROU | 2026-10-21 |
 | [2027 Applied Scientist Internship – Masters, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10584990/2027-applied-scientist-internship-masters-amazon-university-talent-acquisition) 🆕 | AI/ML | MS | Tel Aviv-Yafo, Tel Aviv, ISR | 2026-10-21 |
 | [Business Intelligence Intern Spain](https://www.amazon.jobs/en/jobs/10582415/business-intelligence-intern-spain) 🆕 | Data | — | Madrid, Community of Madrid, ESP | 2026-10-19 |
 | [Business Intelligence Intern Italy](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) 🆕 | Data | — | Milan, Lombardy, ITA | 2026-10-15 |
@@ -152,7 +153,6 @@ GitHub Actions.
 | [DC Security Specialist Intern, DC Security](https://www.amazon.jobs/en/jobs/10551506/dc-security-specialist-intern-dc-security) | Security | — | SGP | 2026-09-17 |
 | [2027 Applied Science Internship - Automated Reasoning - United States, PhD Student Science Recruiting, Automated Reasoning](https://www.amazon.jobs/en/jobs/10552930/2027-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting-automated-reasoning) | AI/ML | PhD | Seattle, Washington, USA | 2026-09-17 |
 | [Software Developer Intern, Field Innovation, Security Search and Observability (SSO)](https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso) | Security | — | SGP | 2026-09-16 |
-| [Business Developer Intern - 2027 - 6 months](https://www.amazon.jobs/en/jobs/10544726/business-developer-intern-2027-6-months) | Software | — | Munich, Bavaria, DEU | 2026-09-16 |
 | [ML Systems Software Development Engineer Intern, Annapurna Labs - 2027](https://www.amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027) | AI/ML | — | Toronto, Ontario, CAN | 2026-09-11 |
 | [Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027](https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027) | AI/ML | — | North Reading, Massachusetts, USA | 2026-09-10 |
 | [Software Development Engineer Intern, ROBOTICS - 2027](https://www.amazon.jobs/en/jobs/10535280/software-development-engineer-intern-robotics-2027) | AI/ML | — | Toronto, Ontario, CAN | 2026-09-09 |
@@ -341,21 +341,29 @@ GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [2027 Software Engineering Intern – Agentic AI & Workflow Automation](https://careers.ibm.com/careers/JobDetail?jobId=129919) 🆕 | AI/ML | — | Armonk, United States | — |
 | [AI Engineer Intern](https://careers.ibm.com/careers/JobDetail?jobId=137390) 🆕 | AI/ML | — | MONTEVIDEO, Uruguay | — |
 | [Software Developer Intern-Poughkeepsie, NY](https://careers.ibm.com/careers/JobDetail?jobId=130113) 🆕 | Software | — | POUGHKEEPSIE, United States | — |
 | [Quantum Network Engineer Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=133470) 🆕 | Backend/Infra | — | Yorktown Heights, United States | — |
 | [Quantum Infrastructure Intern 2027 - SRE](https://careers.ibm.com/careers/JobDetail?jobId=133504) 🆕 | Backend/Infra | — | Yorktown Heights, United States | — |
-| [Quantum Infrastructure Intern 2027 - Platform Automation](https://careers.ibm.com/careers/JobDetail?jobId=133127) 🆕 | Backend/Infra | — | Yorktown Heights, United States | — |
 | [Quantum Hardware Test Engineering Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=134130) 🆕 | QA | — | POUGHKEEPSIE, United States | — |
 | [Network and Computer Systems Administrator Apprenticeship](https://careers.ibm.com/careers/JobDetail?jobId=135536) 🆕 | Backend/Infra | — | Austin, United States | — |
 | [AI Software Engineer Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=137400) 🆕 | AI/ML | — | Markham, Canada | — |
+| [Quantum Infrastructure Intern 2027 - Networking automation](https://careers.ibm.com/careers/JobDetail?jobId=133146) 🆕 | Backend/Infra | — | Yorktown Heights, United States | — |
+| [AI Software Engineer Spring Co-op 2027](https://careers.ibm.com/careers/JobDetail?jobId=137269) 🆕 | AI/ML | — | Multiple Cities | — |
+| [z/OS Core Technologies Back End Developer Intern 2027 - Poughkeepsie](https://careers.ibm.com/careers/JobDetail?jobId=137428) 🆕 | Backend/Infra | — | POUGHKEEPSIE, United States | — |
 | [Praktikum – Firmware Development, Test Analytics & Firmware Tooling (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=137019) 🆕 | Data | — | Ehningen, Germany | — |
 | [[AI Foundation]Research Student Intern](https://careers.ibm.com/careers/JobDetail?jobId=131649) 🆕 | AI/ML | — | Tokyo, Japan | — |
+| [ZOS QA Test Developer Intern 2027 - Poughkeepsie](https://careers.ibm.com/careers/JobDetail?jobId=129780) 🆕 | QA | — | POUGHKEEPSIE, United States | — |
 | [Threat Intelligence Consultant-Threat Analysis](https://careers.ibm.com/careers/JobDetail?jobId=123754) 🆕 | Security | — | ABU DHABI, United Arab Emirates | — |
+| [Summer Research Intern 2027 - Edge communications processing with AI accelerators](https://careers.ibm.com/careers/JobDetail?jobId=134474) 🆕 | AI/ML | — | Yorktown Heights, United States | — |
+| [Storage Systems Research Scientist Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=132567) 🆕 | AI/ML | — | San Jose, United States | — |
 | [Software Strategy and M&A Summer Intern](https://careers.ibm.com/careers/JobDetail?jobId=130031) 🆕 | Software | — | Cambridge, United States | — |
+| [Software Engineer Intern - Entry Level Sales Program 2027](https://careers.ibm.com/careers/JobDetail?jobId=129258) 🆕 | Software | — | Austin, United States | — |
+| [Software Developer Spring Co-op 2027](https://careers.ibm.com/careers/JobDetail?jobId=128506) 🆕 | Software | — | Multiple Cities | — |
 | [Software Developer Spring Co-op 2027](https://careers.ibm.com/careers/JobDetail?jobId=129787) 🆕 | Software | — | POUGHKEEPSIE, United States | — |
 | [Software Developer Spring Co-Op 2027 (Bellevue)](https://careers.ibm.com/careers/JobDetail?jobId=135256) 🆕 | Software | — | Bellevue, United States | — |
-| [Software Developer Intern-Rochester, MN](https://careers.ibm.com/careers/JobDetail?jobId=130103) 🆕 | Software | — | ROCHESTER, United States | — |
+| [Software Developer Intern/Tucson-AZ](https://careers.ibm.com/careers/JobDetail?jobId=130092) 🆕 | Software | — | TUCSON, United States | — |
 | [Software Developer Intern 2027 - CAMBRIDGE](https://careers.ibm.com/careers/JobDetail?jobId=134934) 🆕 | Software | — | Cambridge, United States | — |
 | [Software Developer Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=128497) 🆕 | Software | — | Multiple Cities | — |
 | [Software Developer Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=129661) 🆕 | Software | — | Markham, Canada | — |
@@ -370,23 +378,26 @@ GitHub Actions.
 | [Site Reliability Engineer Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=133062) 🆕 | Backend/Infra | — | Markham, Canada | — |
 | [Site Reliability Engineer Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=133067) 🆕 | Backend/Infra | — | Markham, Canada | — |
 | [Site Reliability Engineer Intern -Tucson, AZ](https://careers.ibm.com/careers/JobDetail?jobId=130927) 🆕 | Backend/Infra | — | TUCSON, United States | — |
-| [Site Reliability Engineer Intern - OneIT - Rochester, MN](https://careers.ibm.com/careers/JobDetail?jobId=132822) 🆕 | Backend/Infra | — | ROCHESTER, United States | — |
 | [Site Reliability Engineer Intern - OneIT - Poughkeepsie, NY](https://careers.ibm.com/careers/JobDetail?jobId=132880) 🆕 | Backend/Infra | — | POUGHKEEPSIE, United States | — |
 | [Silicon Technology Research and Development Software Engineering Intern - 2027](https://careers.ibm.com/careers/JobDetail?jobId=132407) 🆕 | Software | — | Multiple Cities | — |
 | [Silicon Technology Research and Development Research Scientist Intern - 2027](https://careers.ibm.com/careers/JobDetail?jobId=132430) 🆕 | AI/ML | — | Multiple Cities | — |
 | [SW Developer Intern: Systems Assurance - Austin, TX & Rochester, MN - 2027](https://careers.ibm.com/careers/JobDetail?jobId=130762) 🆕 | Software | — | Multiple Cities | — |
 | [SW Developer Intern \| Enterprise Platform-as-a-Service - Durham, NC - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131205) 🆕 | Backend/Infra | — | DURHAM, United States | — |
+| [SW Developer Intern \| Enterprise Platform-as-a-Service - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131195) 🆕 | Backend/Infra | — | Austin, United States | — |
+| [SW Developer Intern \| Enterprise Platform-as-a-Service](https://careers.ibm.com/careers/JobDetail?jobId=132000) 🆕 | Backend/Infra | — | Markham, Canada | — |
 | [SW Developer Intern \| AI Center of Excellence - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131176) 🆕 | AI/ML | — | Austin, United States | — |
 | [SW Developer Intern \| AI Center of Excellence](https://careers.ibm.com/careers/JobDetail?jobId=131999) 🆕 | AI/ML | — | Markham, Canada | — |
 | [Research internship: Quantum computing and AI for partial differential equations 2027](https://careers.ibm.com/careers/JobDetail?jobId=133430) 🆕 | AI/ML | — | Yorktown Heights, United States | — |
+| [Research Scientist - R&D Internship – 2027 Yorktown Heights & Cambridge](https://careers.ibm.com/careers/JobDetail?jobId=137066) 🆕 | AI/ML | — | Multiple Cities | — |
 | [Research Intern — AI and Quantum Algorithms for Optimization 2027](https://careers.ibm.com/careers/JobDetail?jobId=132434) 🆕 | AI/ML | — | Yorktown Heights, United States | — |
+| [Research Engineer - R&D Internship – 2027 Yorktown Heights & Cambridge](https://careers.ibm.com/careers/JobDetail?jobId=136630) 🆕 | AI/ML | — | Multiple Cities | — |
 | [Research AI Engineer Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=132569) 🆕 | AI/ML | — | Yorktown Heights, United States | — |
 | [Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134679) 🆕 | Backend/Infra | — | Ehningen, Germany | — |
 | [Quantum Security Intern 2027 - Cloud Compliance & Security Tooling](https://careers.ibm.com/careers/JobDetail?jobId=132708) 🆕 | Security | — | Yorktown Heights, United States | — |
 | [Quantum Information Software Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=134486) 🆕 | Software | — | Multiple Cities | — |
-| [Quantum Control Systems FPGA Developer Internship 2027](https://careers.ibm.com/careers/JobDetail?jobId=133140) 🆕 | Software | — | Yorktown Heights, United States | — |
+| [Quantum Data Scientist Intern - 2027](https://careers.ibm.com/careers/JobDetail?jobId=132776) 🆕 | Data | — | Yorktown Heights, United States | — |
+| [Quantum Data Analyst Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=132431) 🆕 | Data | — | Multiple Cities | — |
 | [Quantum Control Pulse-Level Compiler Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=133782) 🆕 | Backend/Infra | — | Multiple Cities | — |
-| [Quantum Control Distributed Runtime Internship 2027](https://careers.ibm.com/careers/JobDetail?jobId=133145) 🆕 | Backend/Infra | — | Multiple Cities | — |
 | [Quantum Cloud Services Software Development Intern - 2027](https://careers.ibm.com/careers/JobDetail?jobId=132699) 🆕 | Backend/Infra | — | Yorktown Heights, United States | — |
 | [Quantum Algorithms and Quantum Machine Learning Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=132433) 🆕 | AI/ML | — | Chicago, United States | — |
 | [QA/Test Engineer Intern-Tucson, AZ](https://careers.ibm.com/careers/JobDetail?jobId=130074) 🆕 | QA | — | TUCSON, United States | — |
@@ -398,14 +409,12 @@ GitHub Actions.
 | [Power Backend Developer Intern - Rochester, MN & Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=130787) 🆕 | Backend/Infra | — | Multiple Cities | — |
 | [Microarchitecture / Software Intern  2027 - AI Accelerators Research](https://careers.ibm.com/careers/JobDetail?jobId=132416) 🆕 | AI/ML | — | Yorktown Heights, United States | — |
 | [Master@IBM Werkstudent - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135456) 🆕 | Software | MS | Ehningen, Germany | — |
-| [Internship - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135502) 🆕 | Software | — | Ehningen, Germany | — |
+| [Internship Cloud FullStack Developer](https://careers.ibm.com/careers/JobDetail?jobId=136943) 🆕 | Backend/Infra | — | Multiple Cities | — |
 | [Intern Software Engineer / Agent Engineer - EDA - Austin 2027](https://careers.ibm.com/careers/JobDetail?jobId=130735) 🆕 | Software | — | Austin, United States | — |
 | [Intern Security Consultant - Cyber Strategy & Risk 2027](https://careers.ibm.com/careers/JobDetail?jobId=128551) 🆕 | Security | — | Chicago, United States | — |
 | [Intern Oracle Cloud 2027](https://careers.ibm.com/careers/JobDetail?jobId=128591) 🆕 | Backend/Infra | — | Dallas, United States | — |
-| [Intern Oracle Cloud - 2027](https://careers.ibm.com/careers/JobDetail?jobId=128560) 🆕 | Backend/Infra | — | Chicago, United States | — |
 | [Intern Developer – Adobe 2027](https://careers.ibm.com/careers/JobDetail?jobId=128716) 🆕 | Software | — | New York, United States | — |
 | [Intern Data Specialist 2027 - AI & Analytics](https://careers.ibm.com/careers/JobDetail?jobId=128792) 🆕 | AI/ML | — | Lansing, United States | — |
-| [Intern Data Engineers - AI & Analytics - 2027](https://careers.ibm.com/careers/JobDetail?jobId=128818) 🆕 | AI/ML | — | BATON ROUGE, United States | — |
 | [Intern Data Engineer - Data Services - 2027](https://careers.ibm.com/careers/JobDetail?jobId=128823) 🆕 | Data | — | MONROE, United States | — |
 | [Intern Data Engineer - Data Services - 2027](https://careers.ibm.com/careers/JobDetail?jobId=128824) 🆕 | Data | — | BATON ROUGE, United States | — |
 | [Intern Data Engineer - AI & Analytics - 2027](https://careers.ibm.com/careers/JobDetail?jobId=129628) 🆕 | AI/ML | — | MONROE, United States | — |
@@ -417,9 +426,9 @@ GitHub Actions.
 | [Intern Application Developer 2027-ServiceNow](https://careers.ibm.com/careers/JobDetail?jobId=128816) 🆕 | Software | — | Chicago, United States | — |
 | [Intern Application Developer 2027 – DPE](https://careers.ibm.com/careers/JobDetail?jobId=128825) 🆕 | Software | — | Chicago, United States | — |
 | [Intern Application Developer 2027 - ServiceNow](https://careers.ibm.com/careers/JobDetail?jobId=131081) 🆕 | Software | — | BATON ROUGE, United States | — |
-| [Intern Application Developer - Full Stack](https://careers.ibm.com/careers/JobDetail?jobId=134417) 🆕 | Software | — | BUENOS AIRES, Argentina | — |
+| [Intern Application Developer - ServiceNow 2027](https://careers.ibm.com/careers/JobDetail?jobId=128540) 🆕 | Software | — | Dallas, United States | — |
+| [Intern Application Developer - Oracle - 2027](https://careers.ibm.com/careers/JobDetail?jobId=128815) 🆕 | Software | — | BATON ROUGE, United States | — |
 | [IBM Z Engineering System Test Hardware Developer - Poughkeepsie, NY - Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=129926) 🆕 | Software | — | POUGHKEEPSIE, United States | — |
-| [IBM Z Engineering System Test Back-End Developer - Systems Assurance Kernel (SAK) Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=129929) 🆕 | Backend/Infra | — | POUGHKEEPSIE, United States | — |
 | [IBM System Test SW Developer Intern - Poughkeepsie, NY - 2027](https://careers.ibm.com/careers/JobDetail?jobId=130049) 🆕 | Software | — | POUGHKEEPSIE, United States | — |
 | [Hardware and Systems Developer Intern 2027 -New York](https://careers.ibm.com/careers/JobDetail?jobId=130114) 🆕 | Software | — | Multiple Cities | — |
 | [Hardware and Systems Developer Intern 2027 -Austin, TX](https://careers.ibm.com/careers/JobDetail?jobId=130110) 🆕 | Software | — | Austin, United States | — |
@@ -433,30 +442,36 @@ GitHub Actions.
 | [Hardware Developer Intern - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=137250) 🆕 | Software | — | Austin, United States | — |
 | [Firmware Developer Intern - Poughkeepsie - 2027](https://careers.ibm.com/careers/JobDetail?jobId=129907) 🆕 | Backend/Infra | — | POUGHKEEPSIE, United States | — |
 | [Duales Studium 2027 Bachelor@IBM: Wirtschaftsinformatik - Data Science (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=133042) 🆕 | Data | BS | Ehningen, Germany | — |
-| [Design Engineer Intern 2027 - Design and Build AI-Native Interfaces](https://careers.ibm.com/careers/JobDetail?jobId=133801) 🆕 | AI/ML | — | Yorktown Heights, United States | — |
 | [Data Scientist-Artificial Intelligence](https://careers.ibm.com/careers/JobDetail?jobId=123753) 🆕 | AI/ML | — | ABU DHABI, United Arab Emirates | — |
+| [Data Scientist Intern - OneIT - Poughkeepsie, NY](https://careers.ibm.com/careers/JobDetail?jobId=132806) 🆕 | Data | — | POUGHKEEPSIE, United States | — |
 | [Data Science and AI Intern - RTP 2027](https://careers.ibm.com/careers/JobDetail?jobId=129906) 🆕 | AI/ML | — | Multiple Cities | — |
 | [Cost & Asset Optimization - Data Science Analyst Intern - Poughkeepsie, NY - 2027](https://careers.ibm.com/careers/JobDetail?jobId=130104) 🆕 | Data | — | POUGHKEEPSIE, United States | — |
 | [Content Designer (Artificial Intelligence) Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=136570) 🆕 | AI/ML | — | Markham, Canada | — |
 | [Compliance SW Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027](https://careers.ibm.com/careers/JobDetail?jobId=130759) 🆕 | Software | — | POUGHKEEPSIE, United States | — |
 | [Co-Op Security Consultant - Strategy, Risk & Compliance 2027](https://careers.ibm.com/careers/JobDetail?jobId=128770) 🆕 | Security | — | University Park, United States | — |
+| [Co-Op Security Consultant - Strategy, Risk & Compliance 2027](https://careers.ibm.com/careers/JobDetail?jobId=128771) 🆕 | Security | — | University Park, United States | — |
 | [Co-Op Security Consultant - CyberDefend 2027](https://careers.ibm.com/careers/JobDetail?jobId=128765) 🆕 | Security | — | University Park, United States | — |
 | [Co-Op Security Consultant - Cyber Strategy & Risk 2027](https://careers.ibm.com/careers/JobDetail?jobId=128737) 🆕 | Security | — | University Park, United States | — |
+| [Co-Op Package Specialist - Oracle Finance Cloud 2027](https://careers.ibm.com/careers/JobDetail?jobId=129894) 🆕 | Backend/Infra | — | University Park, United States | — |
 | [Co-Op Developer – Adobe 2027](https://careers.ibm.com/careers/JobDetail?jobId=128711) 🆕 | Software | — | University Park, United States | — |
 | [Co-Op Developer - Digital Product 2027](https://careers.ibm.com/careers/JobDetail?jobId=129227) 🆕 | Software | — | University Park, United States | — |
 | [Co-Op Data Scientist - AI & Analytics 2027](https://careers.ibm.com/careers/JobDetail?jobId=128649) 🆕 | AI/ML | — | University Park, United States | — |
 | [Cloud Developer Intern - Network - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131292) 🆕 | Backend/Infra | — | Austin, United States | — |
+| [Cloud Developer Intern - Chicago, IL - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131816) 🆕 | Backend/Infra | — | Chicago, United States | — |
 | [Backend Developer Intern - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=134121) 🆕 | Backend/Infra | — | Austin, United States | — |
 | [Back-End Developer Intern 2027 -Tucson, AZ](https://careers.ibm.com/careers/JobDetail?jobId=131072) 🆕 | Backend/Infra | — | TUCSON, United States | — |
 | [Back-End Developer Intern 2027 -Houston, TX](https://careers.ibm.com/careers/JobDetail?jobId=131076) 🆕 | Backend/Infra | — | Houston, United States | — |
 | [Back End Developer Intern 2027 - RTP](https://careers.ibm.com/careers/JobDetail?jobId=129782) 🆕 | Backend/Infra | — | Multiple Cities | — |
 | [Back End Developer Intern 2027 - Poughkeepsie](https://careers.ibm.com/careers/JobDetail?jobId=129781) 🆕 | Backend/Infra | — | POUGHKEEPSIE, United States | — |
+| [Back End Developer Intern 2027 - Dallas](https://careers.ibm.com/careers/JobDetail?jobId=131367) 🆕 | Backend/Infra | — | Dallas, United States | — |
 | [Back End Developer Intern 2027 - Austin](https://careers.ibm.com/careers/JobDetail?jobId=131364) 🆕 | Backend/Infra | — | Austin, United States | — |
 | [Back End Developer Intern - Poughkeepsie, NY - 2027](https://careers.ibm.com/careers/JobDetail?jobId=130876) 🆕 | Backend/Infra | — | POUGHKEEPSIE, United States | — |
 | [Back End Developer Intern - NY POK RK - 2027](https://careers.ibm.com/careers/JobDetail?jobId=137098) 🆕 | Backend/Infra | — | POUGHKEEPSIE, United States | — |
+| [Back End Developer Intern - NY POK JS - 2027](https://careers.ibm.com/careers/JobDetail?jobId=137106) 🆕 | Backend/Infra | — | POUGHKEEPSIE, United States | — |
 | [Back End Developer Intern - NY POK JO - 2027](https://careers.ibm.com/careers/JobDetail?jobId=137086) 🆕 | Backend/Infra | — | POUGHKEEPSIE, United States | — |
 | [Back End Developer Intern - NY POK CC - 2027](https://careers.ibm.com/careers/JobDetail?jobId=137095) 🆕 | Backend/Infra | — | POUGHKEEPSIE, United States | — |
 | [Back End Developer Intern - NY POK BS - 2027](https://careers.ibm.com/careers/JobDetail?jobId=137105) 🆕 | Backend/Infra | BS | POUGHKEEPSIE, United States | — |
+| [Applied AI Research Intern - R&D Internship – 2027 Yorktown Heights & Cambridge](https://careers.ibm.com/careers/JobDetail?jobId=137070) 🆕 | AI/ML | — | Multiple Cities | — |
 | [AI/ML Engineer Spring Co-op](https://careers.ibm.com/careers/JobDetail?jobId=134091) 🆕 | AI/ML | — | San Jose, United States | — |
 | [AI/ML Engineer Intern 2027 - SAN JOSE](https://careers.ibm.com/careers/JobDetail?jobId=135597) 🆕 | AI/ML | — | San Jose, United States | — |
 | [AI-Native Security Research Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=132704) 🆕 | Security | — | Yorktown Heights, United States | — |
@@ -465,6 +480,7 @@ GitHub Actions.
 | [AI Native Systems Research Scientist Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=132423) 🆕 | AI/ML | — | Yorktown Heights, United States | — |
 | [AI Native Hardware & Software Codesign internship 2027](https://careers.ibm.com/careers/JobDetail?jobId=132725) 🆕 | AI/ML | — | Multiple Cities | — |
 | [AI Foundations - Software Engineer - Research Internship 2027](https://careers.ibm.com/careers/JobDetail?jobId=131307) 🆕 | AI/ML | — | Multiple Cities | — |
+| [AI Foundations - Research Scientist - Research Internship - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131827) 🆕 | AI/ML | — | Multiple Cities | — |
 | [2027 Software Developer Intern](https://careers.ibm.com/careers/JobDetail?jobId=134708) 🆕 | Software | — | POUGHKEEPSIE, United States | — |
 
 ## Intel
@@ -681,6 +697,7 @@ GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [System Software Engineer - Base OS (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948) 🆕 | Software | — | Taiwan, Taipei | 2026-10-21 |
 | [Software Intern - Embedded Systems 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1) 🆕 | Backend/Infra | — | UK, Bristol | 2026-10-21 |
 | [Software Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern---2027_JR2026972) 🆕 | Software | — | China, Shanghai | 2026-10-21 |
 | [GPU Computing Software Engineering Intern, Autonomous Driving - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/GPU-Computing-Software-Engineering-Intern--Autonomous-Driving---2027_JR2026546) 🆕 | AI/ML | — | 2 Locations | 2026-10-21 |
@@ -699,7 +716,6 @@ GitHub Actions.
 | [Developer Tools DevOps Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826) 🆕 | Backend/Infra | — | Poland, Warsaw | 2026-10-16 |
 | [Relational Foundation Model Intern, Modern Data Stack – 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Relational-Foundation-Model-Intern--Modern-Data-Stack---2027_JR2027829) 🆕 | Data | — | 2 Locations | 2026-10-15 |
 | [Developer Technology Engineering Intern - Compute Performance](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949) 🆕 | Software | — | 2 Locations | 2026-10-15 |
-| [System Software Engineer - Base OS (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948) 🆕 | Software | — | Taiwan, Taipei | 2026-10-14 |
 | [PhD Research Intern, Security and Privacy - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096) 🆕 | Security | PhD | 2 Locations | 2026-10-14 |
 | [Data Processing Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948) 🆕 | Data | — | 2 Locations | 2026-10-14 |
 | [Software Engineering Intern, Multi-Agent Systems - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Multi-Agent-Systems---2027_JR2027701-1) | Software | — | China, Shanghai | 2026-10-13 |
@@ -925,7 +941,6 @@ GitHub Actions.
 | [2027 Summer Intern, MS/PhD, Perception, Robotics](https://careers.withwaymo.com/jobs?gh_jid=8227633) | AI/ML | MS/PhD | Mountain View, CA, USA | 2026-10-07 |
 | [2027 Summer Intern, MS/PhD,  Research, Perception Foundation Models](https://careers.withwaymo.com/jobs?gh_jid=8257801) | AI/ML | MS/PhD | Mountain View, CA, USA | 2026-10-07 |
 | [2027 Summer Intern, MS, PhD, Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8250220) | Software | MS/PhD | Mountain View, California, United States | 2026-10-06 |
-| [2027 Summer Intern, BS, Software Engineer, Model Eval](https://careers.withwaymo.com/jobs?gh_jid=8257660) | Software | BS | Mountain View, CA, USA | 2026-10-06 |
 | [2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra](https://careers.withwaymo.com/jobs?gh_jid=8257205) | Data | MS/PhD | Mountain View, CA, USA | 2026-10-05 |
 | [2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery](https://careers.withwaymo.com/jobs?gh_jid=8257159) | AI/ML | MS/PhD | Mountain View, CA, USA | 2026-10-05 |
 | [2027 Summer Intern, MS/PhD, Perception, Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8248327) | AI/ML | MS/PhD | Mountain View, CA, USA | 2026-10-02 |
@@ -939,7 +954,6 @@ GitHub Actions.
 | [2027 Summer Intern, MS/PhD, Software Engineering, Onboard Software Integrity](https://careers.withwaymo.com/jobs?gh_jid=8234161) | Software | MS/PhD | Mountain View, CA, USA | 2026-09-25 |
 | [2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning](https://careers.withwaymo.com/jobs?gh_jid=8233746) | AI/ML | MS/PhD | Mountain View, CA, USA | 2026-09-25 |
 | [2027 Summer Intern, MS/PhD, Perception, Machine Learning](https://careers.withwaymo.com/jobs?gh_jid=8227411) | AI/ML | MS/PhD | Mountain View, CA, USA | 2026-09-25 |
-| [2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations](https://careers.withwaymo.com/jobs?gh_jid=8224900) | Software | BS | Mountain View, CA, USA | 2026-09-25 |
 | [2027 Summer Intern, PhD, Software Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=8227640) | Software | PhD | Mountain View, CA, USA | 2026-09-24 |
 | [2027 Summer Intern, PhD, Perception/Road Understanding, ML Engineer](https://careers.withwaymo.com/jobs?gh_jid=8224746) | AI/ML | PhD | Mountain View, California | 2026-09-23 |
 | [2027 Summer Intern, MS/PhD, Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8224729) | Software | MS/PhD | Mountain View, California | 2026-09-23 |
