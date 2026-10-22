@@ -3343,9 +3343,25 @@
       "title": "Internship - Software Engineering - On-Demand Agent Provisioning in Cellular Test",
       "url": "https://jobs.apple.com/en-us/details/200689729/internship-software-engineering-on-demand-agent-provisioning-in-cellular-test"
     },
-    "apple:200690125": {
+    "apple:200690044": {
       "active": true,
+      "category": "Backend/Infra",
+      "company": "Apple",
+      "degrees": [],
+      "external_id": "200690044",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "locations": [
+        "London"
+      ],
+      "posted": "2026-10-22",
+      "title": "Software Engineer Intern, iCloud Platform",
+      "url": "https://jobs.apple.com/en-us/details/200690044/software-engineer-intern-icloud-platform"
+    },
+    "apple:200690125": {
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-22",
       "company": "Apple",
       "degrees": [],
       "external_id": "200690125",
@@ -6241,9 +6257,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=123742"
     },
     "ibm:123753": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-21",
+      "closed": "2026-10-22",
       "company": "IBM",
       "degrees": [],
       "external_id": "123753",
@@ -6335,7 +6351,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128513"
     },
     "ibm:128540": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-22",
       "company": "IBM",
@@ -6383,7 +6399,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128551"
     },
     "ibm:128560": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-22",
       "company": "IBM",
@@ -6415,7 +6431,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128562"
     },
     "ibm:128591": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-22",
       "company": "IBM",
@@ -6526,7 +6542,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128770"
     },
     "ibm:128771": {
-      "active": false,
+      "active": true,
       "category": "Security",
       "closed": "2026-10-22",
       "company": "IBM",
@@ -6558,9 +6574,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128784"
     },
     "ibm:128790": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-21",
+      "closed": "2026-10-22",
       "company": "IBM",
       "degrees": [],
       "external_id": "128790",
@@ -6606,9 +6622,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128797"
     },
     "ibm:128807": {
-      "active": true,
+      "active": false,
       "category": "Security",
-      "closed": "2026-10-21",
+      "closed": "2026-10-22",
       "company": "IBM",
       "degrees": [],
       "external_id": "128807",
@@ -6654,7 +6670,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128816"
     },
     "ibm:128818": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-22",
       "company": "IBM",
@@ -6750,7 +6766,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129227"
     },
     "ibm:129258": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-22",
       "company": "IBM",
@@ -6878,7 +6894,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129787"
     },
     "ibm:129894": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-22",
       "company": "IBM",
@@ -6957,7 +6973,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129926"
     },
     "ibm:129929": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-22",
       "company": "IBM",
@@ -7021,7 +7037,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130031"
     },
     "ibm:130043": {
-      "active": false,
+      "active": true,
       "category": "QA",
       "closed": "2026-10-22",
       "company": "IBM",
@@ -7515,7 +7531,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131192"
     },
     "ibm:131195": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-22",
       "company": "IBM",
@@ -8025,7 +8041,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132822"
     },
     "ibm:132880": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-22",
       "company": "IBM",
@@ -8074,8 +8090,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133042"
     },
     "ibm:133062": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-10-22",
       "company": "IBM",
       "degrees": [],
       "external_id": "133062",
@@ -8152,7 +8169,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133145"
     },
     "ibm:133146": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-22",
       "company": "IBM",
@@ -8870,7 +8887,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137214"
     },
     "ibm:137250": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-22",
       "company": "IBM",
@@ -8918,7 +8935,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137390"
     },
     "ibm:137400": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-22",
       "company": "IBM",
@@ -10653,6 +10670,21 @@
       "title": "System Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0288207"
     },
+    "intel:JR0288209": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Intel",
+      "degrees": [],
+      "external_id": "JR0288209",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-22",
+      "title": "DevOps Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288209"
+    },
     "intel:JR0288210": {
       "active": true,
       "category": "Backend/Infra",
@@ -10682,6 +10714,21 @@
       "posted": "2026-10-20",
       "title": "Middleware Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0288213"
+    },
+    "intel:JR0288215": {
+      "active": true,
+      "category": "Software",
+      "company": "Intel",
+      "degrees": [],
+      "external_id": "JR0288215",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "locations": [
+        "Germany, Munich"
+      ],
+      "posted": "2026-10-22",
+      "title": "Software Development Intern (m/f/d)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215"
     },
     "intel:JR0288216": {
       "active": true,
@@ -11738,6 +11785,24 @@
       "title": "Research Scientist Intern, PhD \u2014 Meta Superintelligence Labs",
       "url": "https://www.metacareers.com/jobs/1510576574212840"
     },
+    "meta:1582569213186235": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1582569213186235",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "locations": [
+        "Menlo Park, CA",
+        "New York, NY"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Central Applied Science (PhD)",
+      "url": "https://www.metacareers.com/jobs/1582569213186235"
+    },
     "meta:1584033410435097": {
       "active": true,
       "category": "AI/ML",
@@ -12021,10 +12086,7 @@
       "first_seen": "2026-10-06",
       "last_seen": "2026-10-22",
       "locations": [
-        "Bellevue, WA",
-        "Menlo Park, CA",
-        "New York, NY",
-        "Seattle, WA"
+        "Menlo Park, CA"
       ],
       "posted": null,
       "title": "Software Engineering Intern",
@@ -12301,6 +12363,25 @@
       "posted": null,
       "title": "Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)",
       "url": "https://www.metacareers.com/jobs/2288012098648243"
+    },
+    "meta:2356892281747003": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [],
+      "external_id": "2356892281747003",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "locations": [
+        "Boston, MA",
+        "Menlo Park, CA",
+        "New York, NY",
+        "San Francisco, CA",
+        "Seattle, WA"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, AI Alignment",
+      "url": "https://www.metacareers.com/jobs/2356892281747003"
     },
     "meta:2374839409720164": {
       "active": true,
@@ -18254,6 +18335,7 @@
       "category": "Software",
       "company": "Waymo",
       "degrees": [
+        "MS",
         "PhD"
       ],
       "external_id": "8197554",
@@ -18263,7 +18345,7 @@
         "Mountain View, California, United States | San Francisco, California, United States"
       ],
       "posted": "2026-09-16",
-      "title": "2027 Summer Intern, PhD, Quantitative Software Engineer",
+      "title": "2027 Summer Intern, MS, PhD, Quantitative Software Engineer",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8197554"
     },
     "waymo:8197899": {
@@ -19149,5 +19231,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-10-22T12:04:34Z"
+  "updated_at": "2026-10-22T17:21:19Z"
 }
