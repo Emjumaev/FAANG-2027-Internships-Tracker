@@ -1,6 +1,6 @@
 {
   "failed": {
-    "Microsoft": "request failed after 3 attempts: GET https://apply.careers.microsoft.com/api/pcsx/search (HTTP 429)",
+    "Spotify": "request failed after 3 attempts: GET https://api.lifeatspotify.com/wp-json/animal/v1/job/search (403 Client Error: Forbidden for url: https://api.lifeatspotify.com/wp-json/animal/v1/job/search?c=&l=&j=internship)",
     "Uber": "request failed after 3 attempts: POST https://www.uber.com/api/loadSearchJobsResults?localeCode=en (404 Client Error: Not Found for url: https://www.uber.com/api/loadSearchJobsResults?localeCode=en)"
   },
   "succeeded": [
@@ -26,6 +26,7 @@
     "Lyft",
     "Mastercard",
     "Meta",
+    "Microsoft",
     "MongoDB",
     "NVIDIA",
     "Netflix",
@@ -39,7 +40,6 @@
     "Scale AI",
     "Snap",
     "Snowflake",
-    "Spotify",
     "Stripe",
     "Visa",
     "Waymo",
