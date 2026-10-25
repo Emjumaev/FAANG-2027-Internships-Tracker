@@ -6636,9 +6636,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128711"
     },
     "ibm:128716": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-21",
+      "closed": "2026-10-25",
       "company": "IBM",
       "degrees": [],
       "external_id": "128716",
@@ -6716,9 +6716,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128771"
     },
     "ibm:128784": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-21",
+      "closed": "2026-10-25",
       "company": "IBM",
       "degrees": [],
       "external_id": "128784",
@@ -7884,9 +7884,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131827"
     },
     "ibm:131988": {
-      "active": true,
+      "active": false,
       "category": "Security",
-      "closed": "2026-10-21",
+      "closed": "2026-10-25",
       "company": "IBM",
       "degrees": [],
       "external_id": "131988",
@@ -8075,9 +8075,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132567"
     },
     "ibm:132569": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-21",
+      "closed": "2026-10-25",
       "company": "IBM",
       "degrees": [],
       "external_id": "132569",
@@ -8570,9 +8570,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134474"
     },
     "ibm:134486": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-21",
+      "closed": "2026-10-25",
       "company": "IBM",
       "degrees": [],
       "external_id": "134486",
@@ -9018,7 +9018,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137105"
     },
     "ibm:137106": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-25",
       "company": "IBM",
@@ -9034,9 +9034,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137106"
     },
     "ibm:137214": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-21",
+      "closed": "2026-10-25",
       "company": "IBM",
       "degrees": [],
       "external_id": "137214",
@@ -9066,7 +9066,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137250"
     },
     "ibm:137269": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-25",
       "company": "IBM",
@@ -13500,7 +13500,7 @@
       "degrees": [],
       "external_id": "1970393556641091",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "India, Multiple Locations, Multiple Locations"
       ],
@@ -13532,7 +13532,7 @@
       "degrees": [],
       "external_id": "1970393556768751",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "Israel, Multiple Locations, Multiple Locations"
       ],
@@ -13680,7 +13680,7 @@
       "degrees": [],
       "external_id": "1970393556922922",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -13776,7 +13776,7 @@
       "degrees": [],
       "external_id": "1970393556942310",
       "first_seen": "2026-07-31",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "Qatar, Ad Daw\u1e29ah, Doha"
       ],
@@ -14016,7 +14016,7 @@
       "degrees": [],
       "external_id": "1970393556972877",
       "first_seen": "2026-08-20",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "Japan, Tokyo-to, Tokyo"
       ],
@@ -14139,7 +14139,7 @@
       ],
       "external_id": "1970393556982928",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -14154,7 +14154,7 @@
       "degrees": [],
       "external_id": "1970393556983221",
       "first_seen": "2026-09-11",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -14169,7 +14169,7 @@
       "degrees": [],
       "external_id": "1970393556983223",
       "first_seen": "2026-09-11",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "United States, Virginia, Reston"
       ],
@@ -14205,7 +14205,7 @@
       ],
       "external_id": "1970393556986140",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "United States, California, Mountain View",
         "United States, Washington, Redmond"
@@ -14222,7 +14222,7 @@
       "degrees": [],
       "external_id": "1970393556986141",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -14253,7 +14253,7 @@
       "degrees": [],
       "external_id": "1970393556988203",
       "first_seen": "2026-09-11",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -14333,7 +14333,7 @@
       "degrees": [],
       "external_id": "1970393556998387",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "Belgium, Brussels Region, Brussels"
       ],
@@ -14365,7 +14365,7 @@
       "degrees": [],
       "external_id": "1970393556999316",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "Mexico, Multiple Locations, Multiple Locations"
       ],
@@ -14462,7 +14462,7 @@
       "degrees": [],
       "external_id": "1970393557008574",
       "first_seen": "2026-09-26",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -14541,7 +14541,7 @@
       "degrees": [],
       "external_id": "1970393557022480",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -14668,7 +14668,7 @@
       "degrees": [],
       "external_id": "1970393557040080",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "Israel, Tel Aviv, Herzliya"
       ],
@@ -14699,7 +14699,7 @@
       "degrees": [],
       "external_id": "1970393557040333",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "United States, Massachusetts, Cambridge"
       ],
@@ -14715,7 +14715,7 @@
       "degrees": [],
       "external_id": "1970393557040344",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -14730,7 +14730,7 @@
       "degrees": [],
       "external_id": "1970393557040502",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "United States, Massachusetts, Cambridge",
         "United States, Washington, Redmond"
@@ -14746,7 +14746,7 @@
       "degrees": [],
       "external_id": "1970393557040927",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "Canada, Qu\u00e9bec, Montreal"
       ],
@@ -14763,7 +14763,7 @@
       ],
       "external_id": "1970393557040991",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -14778,7 +14778,7 @@
       "degrees": [],
       "external_id": "1970393557041731",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -14793,7 +14793,7 @@
       "degrees": [],
       "external_id": "1970393557042145",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "United States, Massachusetts, Cambridge",
         "United States, New York, New York"
@@ -14809,7 +14809,7 @@
       "degrees": [],
       "external_id": "1970393557042156",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "United States, New York, New York",
         "United States, Washington, Redmond"
@@ -14825,7 +14825,7 @@
       "degrees": [],
       "external_id": "1970393557042485",
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "Israel, Tel Aviv, Herzliya"
       ],
@@ -14842,7 +14842,7 @@
       ],
       "external_id": "1970393557042487",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "United Kingdom, Berkshire, Reading"
       ],
@@ -14857,7 +14857,7 @@
       "degrees": [],
       "external_id": "1970393557042488",
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "Israel, Tel Aviv, Herzliya"
       ],
@@ -14872,7 +14872,7 @@
       "degrees": [],
       "external_id": "1970393557043380",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "India, Multiple Locations, Multiple Locations"
       ],
@@ -14887,7 +14887,7 @@
       "degrees": [],
       "external_id": "1970393557043457",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "Israel, Tel Aviv, Herzliya"
       ],
@@ -14902,7 +14902,7 @@
       "degrees": [],
       "external_id": "1970393557043465",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "Israel, Tel Aviv, Tel Aviv"
       ],
@@ -14917,7 +14917,7 @@
       "degrees": [],
       "external_id": "1970393557043740",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -14932,7 +14932,7 @@
       "degrees": [],
       "external_id": "1970393557043754",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -14947,7 +14947,7 @@
       "degrees": [],
       "external_id": "1970393557044765",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "United States, Massachusetts, Cambridge"
       ],
@@ -14962,7 +14962,7 @@
       "degrees": [],
       "external_id": "1970393557044769",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -14977,7 +14977,7 @@
       "degrees": [],
       "external_id": "1970393557044771",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24",
+      "last_seen": "2026-10-25",
       "locations": [
         "United States, Oklahoma, Tulsa"
       ],
@@ -20083,5 +20083,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-10-25T16:32:57Z"
+  "updated_at": "2026-10-25T21:01:09Z"
 }
