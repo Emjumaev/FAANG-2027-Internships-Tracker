@@ -1805,6 +1805,21 @@
       "title": "(Physical) Security Specialist Intern -  2027 Internship",
       "url": "https://www.amazon.jobs/en/jobs/10573018/physical-security-specialist-intern-2027-internship"
     },
+    "amazon:10573267": {
+      "active": true,
+      "category": "Security",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10573267",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "Frankfurt, Hesse, DEU"
+      ],
+      "posted": "2026-10-08",
+      "title": "(Physical) Security Specialist Intern - 2027 Internship",
+      "url": "https://www.amazon.jobs/en/jobs/10573267/physical-security-specialist-intern-2027-internship"
+    },
     "amazon:10573570": {
       "active": true,
       "category": "AI/ML",
@@ -2003,6 +2018,36 @@
       "posted": "2026-10-15",
       "title": "Business Intelligence Intern Italy",
       "url": "https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy"
+    },
+    "amazon:10581054": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10581054",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "Zurich, Zurich, CHE"
+      ],
+      "posted": "2026-10-23",
+      "title": "Applied Scientist Intern",
+      "url": "https://www.amazon.jobs/en/jobs/10581054/applied-scientist-intern"
+    },
+    "amazon:10581056": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10581056",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "Zurich, Zurich, CHE"
+      ],
+      "posted": "2026-10-23",
+      "title": "Applied Scientist Intern, RIVR",
+      "url": "https://www.amazon.jobs/en/jobs/10581056/applied-scientist-intern-rivr"
     },
     "amazon:10581332": {
       "active": false,
@@ -6530,14 +6575,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=123754"
     },
     "ibm:128230": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "128230",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-27",
       "locations": [
         "Hursley, United Kingdom"
       ],
@@ -6562,14 +6607,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128497"
     },
     "ibm:128506": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-26",
       "company": "IBM",
       "degrees": [],
       "external_id": "128506",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-27",
       "locations": [
         "Multiple Cities"
       ],
@@ -6752,9 +6797,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128716"
     },
     "ibm:128737": {
-      "active": true,
+      "active": false,
       "category": "Security",
-      "closed": "2026-10-26",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "128737",
@@ -6800,9 +6845,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128770"
     },
     "ibm:128771": {
-      "active": true,
+      "active": false,
       "category": "Security",
-      "closed": "2026-10-26",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "128771",
@@ -6896,14 +6941,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128807"
     },
     "ibm:128815": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-26",
       "company": "IBM",
       "degrees": [],
       "external_id": "128815",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-27",
       "locations": [
         "BATON ROUGE, United States"
       ],
@@ -6944,9 +6989,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128818"
     },
     "ibm:128823": {
-      "active": true,
+      "active": false,
       "category": "Data",
-      "closed": "2026-10-23",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "128823",
@@ -7024,9 +7069,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129227"
     },
     "ibm:129258": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-26",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "129258",
@@ -7056,14 +7101,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129628"
     },
     "ibm:129661": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-26",
       "company": "IBM",
       "degrees": [],
       "external_id": "129661",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-27",
       "locations": [
         "Markham, Canada"
       ],
@@ -7072,9 +7117,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129661"
     },
     "ibm:129778": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-23",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "129778",
@@ -7152,9 +7197,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129787"
     },
     "ibm:129894": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-26",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "129894",
@@ -7200,14 +7245,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129907"
     },
     "ibm:129919": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-26",
       "company": "IBM",
       "degrees": [],
       "external_id": "129919",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-27",
       "locations": [
         "Armonk, United States"
       ],
@@ -7280,9 +7325,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130026"
     },
     "ibm:130031": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-23",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "130031",
@@ -7312,9 +7357,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130043"
     },
     "ibm:130049": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-23",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "130049",
@@ -7503,6 +7548,21 @@
       "title": "Machine Learning Developer Intern / Stagiaire d\u00e9veloppeur en apprentissage automatique",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130140"
     },
+    "ibm:130716": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130716",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "POUGHKEEPSIE, United States"
+      ],
+      "posted": null,
+      "title": "Intern Software Engineer / Agent Engineer - EDA - Poughkeepsie 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130716"
+    },
     "ibm:130735": {
       "active": false,
       "category": "Software",
@@ -7536,9 +7596,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130758"
     },
     "ibm:130759": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-26",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "130759",
@@ -7616,9 +7676,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130774"
     },
     "ibm:130787": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-26",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "130787",
@@ -7696,9 +7756,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130927"
     },
     "ibm:131072": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-24",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "131072",
@@ -7792,9 +7852,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131192"
     },
     "ibm:131195": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-26",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "131195",
@@ -8016,14 +8076,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131999"
     },
     "ibm:132000": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-26",
       "company": "IBM",
       "degrees": [],
       "external_id": "132000",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-27",
       "locations": [
         "Markham, Canada"
       ],
@@ -8079,9 +8139,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132416"
     },
     "ibm:132423": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-23",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "132423",
@@ -8095,9 +8155,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132423"
     },
     "ibm:132430": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-26",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "132430",
@@ -8255,14 +8315,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132725"
     },
     "ibm:132776": {
-      "active": false,
+      "active": true,
       "category": "Data",
       "closed": "2026-10-26",
       "company": "IBM",
       "degrees": [],
       "external_id": "132776",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-27",
       "locations": [
         "Yorktown Heights, United States"
       ],
@@ -8432,9 +8492,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133145"
     },
     "ibm:133146": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-26",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "133146",
@@ -8511,9 +8571,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133504"
     },
     "ibm:133782": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-26",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "133782",
@@ -8543,9 +8603,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133801"
     },
     "ibm:133909": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-26",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "133909",
@@ -8623,9 +8683,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134121"
     },
     "ibm:134130": {
-      "active": true,
+      "active": false,
       "category": "QA",
-      "closed": "2026-10-23",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "134130",
@@ -8703,9 +8763,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134568"
     },
     "ibm:134679": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-26",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "134679",
@@ -8735,14 +8795,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134708"
     },
     "ibm:134827": {
-      "active": false,
+      "active": true,
       "category": "Security",
       "closed": "2026-10-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "134827",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-27",
       "locations": [
         "Dublin, Ireland"
       ],
@@ -8814,9 +8874,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=135235"
     },
     "ibm:135256": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-26",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "135256",
@@ -8959,9 +9019,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=136630"
     },
     "ibm:136727": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-23",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "136727",
@@ -9054,9 +9114,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137070"
     },
     "ibm:137086": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-24",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "137086",
@@ -9135,14 +9195,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137106"
     },
     "ibm:137214": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "137214",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-26",
+      "last_seen": "2026-10-27",
       "locations": [
         "Multiple Cities"
       ],
@@ -9151,9 +9211,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137214"
     },
     "ibm:137250": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-26",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "137250",
@@ -9199,9 +9259,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137390"
     },
     "ibm:137400": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-26",
+      "closed": "2026-10-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "137400",
@@ -18106,6 +18166,36 @@
       "title": "Relational Foundation Model Intern, Modern Data Stack \u2013 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Relational-Foundation-Model-Intern--Modern-Data-Stack---2027_JR2027829"
     },
+    "nvidia:JR2027939": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "degrees": [],
+      "external_id": "JR2027939",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "4 Locations"
+      ],
+      "posted": "2026-10-27",
+      "title": "Software Engineering Intern, AI Agents and Backend Infrastructure \u2013 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939"
+    },
+    "nvidia:JR2027942": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "degrees": [],
+      "external_id": "JR2027942",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "6 Locations"
+      ],
+      "posted": "2026-10-27",
+      "title": "Software Engineering Intern, AI Agents & Backend Infrastructure \u2013 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Software-Engineering-Intern--AI-Agents---Backend-Infrastructure---2027_JR2027942"
+    },
     "nvidia:JR2027948": {
       "active": true,
       "category": "Data",
@@ -19068,6 +19158,21 @@
       "title": "Software Engineer Intern (Database Engineering) - Spring 2027",
       "url": "https://careers.snowflake.com/us/en/job/c3cfbee9-0bdd-4320-b540-44ee31d945a0"
     },
+    "snowflake:e11c70eb-0800-4363-b609-264610878dce": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Snowflake",
+      "degrees": [],
+      "external_id": "e11c70eb-0800-4363-b609-264610878dce",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "Warsaw, Poland"
+      ],
+      "posted": "2026-10-12",
+      "title": "Software Engineer Intern AI/ML - Warsaw (2027)",
+      "url": "https://careers.snowflake.com/us/en/job/e11c70eb-0800-4363-b609-264610878dce"
+    },
     "snowflake:e70a0f78-05d9-4adc-873e-0ac43bf549d2": {
       "active": false,
       "category": "AI/ML",
@@ -19416,6 +19521,96 @@
       "title": "Staff Research Scientist, Intern - PhD Agentic AI",
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Staff-Research-Scientist--Intern---PhD-Agentic-AI_REF088582W-1"
     },
+    "visa:REF089778W": {
+      "active": true,
+      "category": "Security",
+      "company": "Visa",
+      "degrees": [],
+      "external_id": "REF089778W",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "US - Ashburn, VA"
+      ],
+      "posted": "2026-10-27",
+      "title": "Network and Security Engineering Intern - 2027, Ashburn, VA",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Ashburn-VA/Network-and-Security-Engineering-Intern---2027--Ashburn--VA_REF089778W"
+    },
+    "visa:REF089779W": {
+      "active": true,
+      "category": "Security",
+      "company": "Visa",
+      "degrees": [],
+      "external_id": "REF089779W",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "US - Denver, CO"
+      ],
+      "posted": "2026-10-27",
+      "title": "Network and Security Engineering Intern - 2027, Highlands Ranch, CO",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Denver-CO/Network-and-Security-Engineering-Intern---2027--Highlands-Ranch--CO_REF089779W-1"
+    },
+    "visa:REF089875W": {
+      "active": true,
+      "category": "Software",
+      "company": "Visa",
+      "degrees": [],
+      "external_id": "REF089875W",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "US - Foster City, CA"
+      ],
+      "posted": "2026-10-27",
+      "title": "Software Engineer, Intern - Foster City 2027",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1"
+    },
+    "visa:REF089878W": {
+      "active": true,
+      "category": "Software",
+      "company": "Visa",
+      "degrees": [],
+      "external_id": "REF089878W",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "US - Ashburn, VA"
+      ],
+      "posted": "2026-10-27",
+      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Ashburn",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1"
+    },
+    "visa:REF089879W": {
+      "active": true,
+      "category": "Software",
+      "company": "Visa",
+      "degrees": [],
+      "external_id": "REF089879W",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "US - Ashburn, VA"
+      ],
+      "posted": "2026-10-27",
+      "title": "Software Engineer, Intern - 2027 Ashburn, VA",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1"
+    },
+    "visa:REF089880W": {
+      "active": true,
+      "category": "Software",
+      "company": "Visa",
+      "degrees": [],
+      "external_id": "REF089880W",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "US - Denver, CO"
+      ],
+      "posted": "2026-10-27",
+      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1"
+    },
     "visa:REF089881W": {
       "active": true,
       "category": "AI/ML",
@@ -19430,6 +19625,21 @@
       "posted": "2026-10-27",
       "title": "Product Management Intern, Data and AI Team - Summer 2027",
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1"
+    },
+    "visa:REF089882W": {
+      "active": true,
+      "category": "Software",
+      "company": "Visa",
+      "degrees": [],
+      "external_id": "REF089882W",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "US - Austin, TX"
+      ],
+      "posted": "2026-10-27",
+      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Austin, TX - 2027",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1"
     },
     "visa:REF089883W": {
       "active": true,
@@ -19475,6 +19685,66 @@
       "posted": "2026-10-27",
       "title": "Consulting & Analytics Intern - Summer 2027",
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Atlanta-GA/Consulting---Analytics-Intern---Summer-2027_REF089900W"
+    },
+    "visa:REF089917W": {
+      "active": true,
+      "category": "Data",
+      "company": "Visa",
+      "degrees": [],
+      "external_id": "REF089917W",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "ES - Madrid, Spain"
+      ],
+      "posted": "2026-10-27",
+      "title": "Consulting & Analytics Summer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/ES---Madrid-Spain/Consulting---Analytics-Summer-Intern_REF089917W-1"
+    },
+    "visa:REF089918W": {
+      "active": true,
+      "category": "Software",
+      "company": "Visa",
+      "degrees": [],
+      "external_id": "REF089918W",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "US - Austin, TX"
+      ],
+      "posted": "2026-10-27",
+      "title": "Software Engineer, Intern - 2027 Austin, TX",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1"
+    },
+    "visa:REF089919W": {
+      "active": true,
+      "category": "Software",
+      "company": "Visa",
+      "degrees": [],
+      "external_id": "REF089919W",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "US - Foster City, CA"
+      ],
+      "posted": "2026-10-27",
+      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Foster City",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1"
+    },
+    "visa:REF089920W": {
+      "active": true,
+      "category": "Software",
+      "company": "Visa",
+      "degrees": [],
+      "external_id": "REF089920W",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "US - Bellevue, WA"
+      ],
+      "posted": "2026-10-27",
+      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Bellevue",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-2"
     },
     "waymo:8167323": {
       "active": false,
@@ -20543,5 +20813,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-10-27T08:02:25Z"
+  "updated_at": "2026-10-27T14:41:11Z"
 }
