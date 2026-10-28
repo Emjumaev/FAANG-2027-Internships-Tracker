@@ -2020,8 +2020,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy"
     },
     "amazon:10581054": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-28",
       "company": "Amazon",
       "degrees": [],
       "external_id": "10581054",
@@ -2035,8 +2036,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10581054/applied-scientist-intern"
     },
     "amazon:10581056": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-28",
       "company": "Amazon",
       "degrees": [],
       "external_id": "10581056",
@@ -6209,6 +6211,23 @@
       "title": "Student Researcher, 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/86733690079453894"
     },
+    "google:87534302853505734": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Google",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "87534302853505734",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "locations": [
+        "Hyderabad, Telangana, India"
+      ],
+      "posted": "2026-10-28",
+      "title": "Research Scientist PhD Intern, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/87534302853505734"
+    },
     "google:88486192428786374": {
       "active": true,
       "category": "AI/ML",
@@ -6573,6 +6592,21 @@
       "title": "Application Developer-Experience Front End - Internship",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=123742"
     },
+    "ibm:123744": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "123744",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "locations": [
+        "Doha, Qatar"
+      ],
+      "posted": null,
+      "title": "Data Scientist-Artificial Intelligence - Internship",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=123744"
+    },
     "ibm:123753": {
       "active": true,
       "category": "AI/ML",
@@ -6733,7 +6767,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128551"
     },
     "ibm:128560": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-28",
       "company": "IBM",
@@ -6972,9 +7006,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128807"
     },
     "ibm:128815": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-26",
+      "closed": "2026-10-28",
       "company": "IBM",
       "degrees": [],
       "external_id": "128815",
@@ -7004,7 +7038,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128816"
     },
     "ibm:128818": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-28",
       "company": "IBM",
@@ -7308,7 +7342,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129926"
     },
     "ibm:129929": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-28",
       "company": "IBM",
@@ -7580,8 +7614,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130140"
     },
     "ibm:130716": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-28",
       "company": "IBM",
       "degrees": [],
       "external_id": "130716",
@@ -7851,14 +7886,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131158"
     },
     "ibm:131176": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-23",
       "company": "IBM",
       "degrees": [],
       "external_id": "131176",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-28",
       "locations": [
         "Austin, United States"
       ],
@@ -8107,9 +8142,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131999"
     },
     "ibm:132000": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-26",
+      "closed": "2026-10-28",
       "company": "IBM",
       "degrees": [],
       "external_id": "132000",
@@ -8346,9 +8381,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132725"
     },
     "ibm:132776": {
-      "active": true,
+      "active": false,
       "category": "Data",
-      "closed": "2026-10-26",
+      "closed": "2026-10-28",
       "company": "IBM",
       "degrees": [],
       "external_id": "132776",
@@ -8378,14 +8413,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132806"
     },
     "ibm:132822": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-23",
       "company": "IBM",
       "degrees": [],
       "external_id": "132822",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-28",
       "locations": [
         "ROCHESTER, United States"
       ],
@@ -8666,9 +8701,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134050"
     },
     "ibm:134091": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-18",
+      "closed": "2026-10-28",
       "company": "IBM",
       "degrees": [],
       "external_id": "134091",
@@ -8826,9 +8861,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134708"
     },
     "ibm:134827": {
-      "active": true,
+      "active": false,
       "category": "Security",
-      "closed": "2026-10-27",
+      "closed": "2026-10-28",
       "company": "IBM",
       "degrees": [],
       "external_id": "134827",
@@ -8905,9 +8940,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=135235"
     },
     "ibm:135256": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-27",
+      "closed": "2026-10-28",
       "company": "IBM",
       "degrees": [],
       "external_id": "135256",
@@ -9226,9 +9261,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137106"
     },
     "ibm:137214": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-27",
+      "closed": "2026-10-28",
       "company": "IBM",
       "degrees": [],
       "external_id": "137214",
@@ -9322,9 +9357,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137428"
     },
     "ibm:137471": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-26",
+      "closed": "2026-10-28",
       "company": "IBM",
       "degrees": [],
       "external_id": "137471",
@@ -10547,8 +10582,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Firmware-and-Development-Tools-Intern_JR0287536"
     },
     "intel:JR0287538": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-28",
       "company": "Intel",
       "degrees": [
         "PhD"
@@ -10888,8 +10924,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/AI-Software-Engineering-Graduate-Intern_JR0287917"
     },
     "intel:JR0287923": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-28",
       "company": "Intel",
       "degrees": [
         "BS"
@@ -11519,6 +11556,21 @@
       "posted": null,
       "title": "Machine Learning Researcher (Summer Internship)",
       "url": "https://www.janestreet.com/join-jane-street/position/8594416002/"
+    },
+    "jane-street:8596771002": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Jane Street",
+      "degrees": [],
+      "external_id": "8596771002",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "locations": [
+        "HKG"
+      ],
+      "posted": null,
+      "title": "Machine Learning Researcher (Summer Internship)",
+      "url": "https://www.janestreet.com/join-jane-street/position/8596771002/"
     },
     "jane-street:8599644002": {
       "active": true,
@@ -17682,9 +17734,9 @@
       "first_seen": "2026-09-29",
       "last_seen": "2026-10-28",
       "locations": [
-        "2 Locations"
+        "Poland, Warsaw"
       ],
-      "posted": "2026-09-29",
+      "posted": "2026-10-28",
       "title": "Image and Data Processing Libraries Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517"
     },
@@ -18605,6 +18657,21 @@
       "posted": "2026-10-23",
       "title": "System Software Engineer Intern, Embedded - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Engineer-Intern--Embedded---2027_JR2028298"
+    },
+    "nvidia:JR2028299": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "degrees": [],
+      "external_id": "JR2028299",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "locations": [
+        "China, Shanghai"
+      ],
+      "posted": "2026-10-28",
+      "title": "Performance Engineering Intern, Deep Learning and HPC - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Engineering-Intern--Deep-Learning-and-HPC---2027_JR2028299"
     },
     "nvidia:JR2028498": {
       "active": true,
@@ -19972,7 +20039,7 @@
       "locations": [
         "ES - Madrid, Spain"
       ],
-      "posted": "2026-10-27",
+      "posted": "2026-10-28",
       "title": "Consulting & Analytics Summer Intern",
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/ES---Madrid-Spain/Consulting---Analytics-Summer-Intern_REF089917W-1"
     },
@@ -21088,5 +21155,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-10-28T08:44:47Z"
+  "updated_at": "2026-10-28T16:47:16Z"
 }
