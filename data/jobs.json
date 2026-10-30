@@ -2330,6 +2330,21 @@
       "title": "2027 Software Dev Engineer Intern - Haifa, Israel",
       "url": "https://www.amazon.jobs/en/jobs/10592105/2027-software-dev-engineer-intern-haifa-israel"
     },
+    "amazon:10592140": {
+      "active": true,
+      "category": "Data",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10592140",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "locations": [
+        "Sao Paulo, Sao Paulo, BRA"
+      ],
+      "posted": "2026-10-29",
+      "title": "Amazon Intern Program 2027 | Data & Analytics",
+      "url": "https://www.amazon.jobs/en/jobs/10592140/amazon-intern-program-2027-data-analytics"
+    },
     "amazon:10592306": {
       "active": true,
       "category": "AI/ML",
@@ -6779,8 +6794,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=123742"
     },
     "ibm:123744": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-30",
       "company": "IBM",
       "degrees": [],
       "external_id": "123744",
@@ -6937,9 +6953,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128549"
     },
     "ibm:128551": {
-      "active": true,
+      "active": false,
       "category": "Security",
-      "closed": "2026-10-28",
+      "closed": "2026-10-30",
       "company": "IBM",
       "degrees": [],
       "external_id": "128551",
@@ -7048,7 +7064,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128716"
     },
     "ibm:128737": {
-      "active": true,
+      "active": false,
       "category": "Security",
       "closed": "2026-10-30",
       "company": "IBM",
@@ -7064,9 +7080,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128737"
     },
     "ibm:128765": {
-      "active": true,
+      "active": false,
       "category": "Security",
-      "closed": "2026-10-28",
+      "closed": "2026-10-30",
       "company": "IBM",
       "degrees": [],
       "external_id": "128765",
@@ -7096,7 +7112,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128770"
     },
     "ibm:128771": {
-      "active": false,
+      "active": true,
       "category": "Security",
       "closed": "2026-10-30",
       "company": "IBM",
@@ -7256,9 +7272,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128823"
     },
     "ibm:128824": {
-      "active": true,
+      "active": false,
       "category": "Data",
-      "closed": "2026-10-28",
+      "closed": "2026-10-30",
       "company": "IBM",
       "degrees": [],
       "external_id": "128824",
@@ -7304,7 +7320,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128910"
     },
     "ibm:129227": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-30",
       "company": "IBM",
@@ -7351,9 +7367,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129258"
     },
     "ibm:129628": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-25",
+      "closed": "2026-10-30",
       "company": "IBM",
       "degrees": [],
       "external_id": "129628",
@@ -7863,9 +7879,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130758"
     },
     "ibm:130759": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-27",
+      "closed": "2026-10-30",
       "company": "IBM",
       "degrees": [],
       "external_id": "130759",
@@ -7911,9 +7927,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130762"
     },
     "ibm:130772": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-28",
+      "closed": "2026-10-30",
       "company": "IBM",
       "degrees": [],
       "external_id": "130772",
@@ -7943,9 +7959,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130774"
     },
     "ibm:130787": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-28",
+      "closed": "2026-10-30",
       "company": "IBM",
       "degrees": [],
       "external_id": "130787",
@@ -8022,10 +8038,25 @@
       "title": "Site Reliability Engineer Intern -Tucson, AZ",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130927"
     },
-    "ibm:131072": {
+    "ibm:130928": {
       "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "130928",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "locations": [
+        "TUCSON, United States"
+      ],
+      "posted": null,
+      "title": "Hardware Developer Intern 2027 -Tucson, AZ",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=130928"
+    },
+    "ibm:131072": {
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-28",
+      "closed": "2026-10-30",
       "company": "IBM",
       "degrees": [],
       "external_id": "131072",
@@ -8119,7 +8150,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131192"
     },
     "ibm:131195": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-30",
       "company": "IBM",
@@ -8422,9 +8453,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132423"
     },
     "ibm:132430": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-27",
+      "closed": "2026-10-30",
       "company": "IBM",
       "degrees": [],
       "external_id": "132430",
@@ -8614,7 +8645,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132806"
     },
     "ibm:132822": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-30",
       "company": "IBM",
@@ -8711,7 +8742,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133067"
     },
     "ibm:133127": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-30",
       "company": "IBM",
@@ -8727,7 +8758,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133127"
     },
     "ibm:133140": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-30",
       "company": "IBM",
@@ -8743,7 +8774,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133140"
     },
     "ibm:133145": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-30",
       "company": "IBM",
@@ -8759,7 +8790,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133145"
     },
     "ibm:133146": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-30",
       "company": "IBM",
@@ -8838,9 +8869,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133504"
     },
     "ibm:133782": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-27",
+      "closed": "2026-10-30",
       "company": "IBM",
       "degrees": [],
       "external_id": "133782",
@@ -8854,7 +8885,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133782"
     },
     "ibm:133801": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-30",
       "company": "IBM",
@@ -8870,9 +8901,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133801"
     },
     "ibm:133909": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-27",
+      "closed": "2026-10-30",
       "company": "IBM",
       "degrees": [],
       "external_id": "133909",
@@ -8902,14 +8933,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134050"
     },
     "ibm:134091": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-28",
       "company": "IBM",
       "degrees": [],
       "external_id": "134091",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-30",
       "locations": [
         "San Jose, United States"
       ],
@@ -9030,7 +9061,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134568"
     },
     "ibm:134679": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
       "closed": "2026-10-30",
       "company": "IBM",
@@ -9255,9 +9286,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=136549"
     },
     "ibm:136570": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-28",
+      "closed": "2026-10-30",
       "company": "IBM",
       "degrees": [],
       "external_id": "136570",
@@ -9303,7 +9334,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=136727"
     },
     "ibm:136943": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
       "closed": "2026-10-30",
       "company": "IBM",
@@ -9480,7 +9511,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137214"
     },
     "ibm:137250": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-30",
       "company": "IBM",
@@ -9607,9 +9638,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137677"
     },
     "ibm:137919": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-28",
+      "closed": "2026-10-30",
       "company": "IBM",
       "degrees": [],
       "external_id": "137919",
@@ -9670,7 +9701,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=138755"
     },
     "ibm:138776": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-30",
       "company": "IBM",
@@ -9701,7 +9732,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=138967"
     },
     "ibm:138998": {
-      "active": false,
+      "active": true,
       "category": "Data",
       "closed": "2026-10-30",
       "company": "IBM",
@@ -12527,6 +12558,24 @@
       "title": "Research Scientist Intern, Integrity (Trust and Safety) AI (PhD)",
       "url": "https://www.metacareers.com/jobs/1105933535765181"
     },
+    "meta:1126899676481179": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1126899676481179",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "locations": [
+        "Bellevue, WA",
+        "Menlo Park, CA"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Computer Vision - Video Intelligence (PhD)",
+      "url": "https://www.metacareers.com/jobs/1126899676481179"
+    },
     "meta:1127102149763705": {
       "active": true,
       "category": "AI/ML",
@@ -12980,6 +13029,23 @@
       "posted": null,
       "title": "Research Scientist Intern, PhD \u2014 Meta Superintelligence Labs",
       "url": "https://www.metacareers.com/jobs/1510576574212840"
+    },
+    "meta:1553890293163197": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1553890293163197",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Video RecSys (PhD)",
+      "url": "https://www.metacareers.com/jobs/1553890293163197"
     },
     "meta:1567168005156007": {
       "active": true,
@@ -16432,8 +16498,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Engineer-Intern--Systems-Infrastructure--Summer-2026_JR2006824"
     },
     "nvidia:JR2007248": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2007248",
@@ -16541,7 +16608,7 @@
       "locations": [
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-12",
+      "posted": "2026-10-30",
       "title": "Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398"
     },
@@ -16606,7 +16673,7 @@
       "locations": [
         "US, CA, Santa Clara"
       ],
-      "posted": "2026-10-12",
+      "posted": "2026-10-30",
       "title": "PhD Research Intern, Generative AI - 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035"
     },
@@ -16905,8 +16972,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475"
     },
     "nvidia:JR2023491": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2023491",
@@ -16920,8 +16988,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491"
     },
     "nvidia:JR2023492": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2023492",
@@ -16935,8 +17004,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492"
     },
     "nvidia:JR2023495": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2023495",
@@ -16950,8 +17020,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495"
     },
     "nvidia:JR2023496": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2023496",
@@ -16965,8 +17036,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496"
     },
     "nvidia:JR2023497": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2023497",
@@ -16980,8 +17052,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1"
     },
     "nvidia:JR2023499": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2023499",
@@ -17458,8 +17531,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122"
     },
     "nvidia:JR2024171": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [
         "PhD"
@@ -17584,8 +17658,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1"
     },
     "nvidia:JR2024708": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2024708",
@@ -17644,8 +17719,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Circuit-Validation-Engineer-Intern---2027_JR2024949"
     },
     "nvidia:JR2024997": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [
         "PhD"
@@ -17661,9 +17737,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997"
     },
     "nvidia:JR2025025": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-09-23",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [
         "PhD"
@@ -17709,8 +17785,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Post-Silicon-Validation-Intern---2027_JR2025052"
     },
     "nvidia:JR2025096": {
-      "active": true,
+      "active": false,
       "category": "Security",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [
         "PhD"
@@ -17726,8 +17803,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096"
     },
     "nvidia:JR2025098": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [
         "PhD"
@@ -17774,8 +17852,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
     },
     "nvidia:JR2025405": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [
         "PhD"
@@ -17791,8 +17870,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405"
     },
     "nvidia:JR2025406": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [
         "PhD"
@@ -17808,8 +17888,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406"
     },
     "nvidia:JR2025478": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [
         "PhD"
@@ -17915,8 +17996,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Data-Center-Compute-Software-Tools--RDSS-Intern-_JR2025645"
     },
     "nvidia:JR2025647": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [
         "PhD"
@@ -17978,8 +18060,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Design-Intern--AI-Infrastructure---Summer-2027_JR2025784"
     },
     "nvidia:JR2025792": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [
         "PhD"
@@ -18055,8 +18138,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Software-Intern---2027_JR2025966"
     },
     "nvidia:JR2026004": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [
         "PhD"
@@ -18300,8 +18384,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Managed-Language-Compiler-Engineering-Intern---2027_JR2026437"
     },
     "nvidia:JR2026517": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2026517",
@@ -18315,8 +18400,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517"
     },
     "nvidia:JR2026530": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2026530",
@@ -18375,9 +18461,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/GPU-Compiler-LLVM-Backend-Intern---2027_JR2026567"
     },
     "nvidia:JR2026569": {
-      "active": true,
+      "active": false,
       "category": "Data",
-      "closed": "2026-10-20",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2026569",
@@ -18391,8 +18477,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026569"
     },
     "nvidia:JR2026584": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [
         "PhD"
@@ -18408,8 +18495,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1"
     },
     "nvidia:JR2026707": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2026707",
@@ -18453,8 +18541,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Validation-Engineer--RDSS-Intern-_JR2026767"
     },
     "nvidia:JR2026775": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2026775",
@@ -18468,8 +18557,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775"
     },
     "nvidia:JR2026799": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2026799",
@@ -18483,8 +18573,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799"
     },
     "nvidia:JR2026839": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2026839",
@@ -18543,8 +18634,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Intern---2027_JR2026880"
     },
     "nvidia:JR2026940": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [
         "PhD"
@@ -18560,8 +18652,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940"
     },
     "nvidia:JR2026949": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [
         "PhD"
@@ -18593,8 +18686,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958"
     },
     "nvidia:JR2026962": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2026962",
@@ -18683,8 +18777,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/APAC-Ecommerce-Backend-Intern---2027_JR2027030"
     },
     "nvidia:JR2027089": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [
         "PhD"
@@ -18710,7 +18805,7 @@
       "locations": [
         "US, TX, Austin"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-30",
       "title": "AI Systems Software Engineering Intern \u2013 Summer 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170"
     },
@@ -18824,8 +18919,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Intern---2027_JR2027348"
     },
     "nvidia:JR2027377": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2027377",
@@ -18944,9 +19040,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--DGX-Cloud-Test-Development---2027_JR2027480-1"
     },
     "nvidia:JR2027497": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-20",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2027497",
@@ -19067,8 +19163,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Model-and-System-Optimization-Engineering-Intern---2027_JR2027784"
     },
     "nvidia:JR2027826": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2027826",
@@ -19082,8 +19179,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826"
     },
     "nvidia:JR2027829": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2027829",
@@ -19220,8 +19318,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209"
     },
     "nvidia:JR2028210": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2028210",
@@ -19356,8 +19455,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597"
     },
     "nvidia:JR2028607": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2028607",
@@ -19371,8 +19471,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607"
     },
     "nvidia:JR2028642": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2028642",
@@ -21849,6 +21950,23 @@
       "title": "2027 Summer Intern, MS/PhD, Weather Perception",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8335511"
     },
+    "waymo:8337719": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "8337719",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-10-30",
+      "title": "2027 Summer Intern, PhD, Research Scientist Intern",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8337719"
+    },
     "wise:4352": {
       "active": false,
       "category": "Data",
@@ -21898,5 +22016,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-10-30T19:35:08Z"
+  "updated_at": "2026-10-30T23:56:48Z"
 }
