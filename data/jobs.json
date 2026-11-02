@@ -2407,6 +2407,21 @@
       "title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027",
       "url": "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027"
     },
+    "amazon:10594714": {
+      "active": true,
+      "category": "Security",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10594714",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "locations": [
+        "Arlington, Virginia, USA"
+      ],
+      "posted": "2026-11-02",
+      "title": "Associate Engagement Manager Intern- National Security, AWS Professional Services",
+      "url": "https://www.amazon.jobs/en/jobs/10594714/associate-engagement-manager-intern-national-security-aws-professional-services"
+    },
     "amazon:3063220": {
       "active": false,
       "category": "Software",
@@ -4098,9 +4113,9 @@
       "url": "https://careers.cisco.com/global/en/job/2024810"
     },
     "cisco:2024817": {
-      "active": true,
+      "active": false,
       "category": "Security",
-      "closed": "2026-10-23",
+      "closed": "2026-11-02",
       "company": "Cisco",
       "degrees": [],
       "external_id": "2024817",
@@ -7341,7 +7356,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128824"
     },
     "ibm:128825": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-02",
       "company": "IBM",
@@ -7484,14 +7499,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129780"
     },
     "ibm:129781": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-28",
       "company": "IBM",
       "degrees": [],
       "external_id": "129781",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-11-02",
       "locations": [
         "POUGHKEEPSIE, United States"
       ],
@@ -7772,7 +7787,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130103"
     },
     "ibm:130104": {
-      "active": false,
+      "active": true,
       "category": "Data",
       "closed": "2026-11-02",
       "company": "IBM",
@@ -8650,14 +8665,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132708"
     },
     "ibm:132725": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-11-02",
       "company": "IBM",
       "degrees": [],
       "external_id": "132725",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-02",
       "locations": [
         "Multiple Cities"
       ],
@@ -8780,9 +8795,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133062"
     },
     "ibm:133067": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-29",
+      "closed": "2026-11-02",
       "company": "IBM",
       "degrees": [],
       "external_id": "133067",
@@ -9067,14 +9082,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134417"
     },
     "ibm:134474": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-31",
       "company": "IBM",
       "degrees": [],
       "external_id": "134474",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-11-02",
       "locations": [
         "Yorktown Heights, United States"
       ],
@@ -9083,14 +9098,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134474"
     },
     "ibm:134486": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-31",
       "company": "IBM",
       "degrees": [],
       "external_id": "134486",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-11-02",
       "locations": [
         "Multiple Cities"
       ],
@@ -9629,14 +9644,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137400"
     },
     "ibm:137428": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-30",
       "company": "IBM",
       "degrees": [],
       "external_id": "137428",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-02",
       "locations": [
         "POUGHKEEPSIE, United States"
       ],
@@ -9770,6 +9785,23 @@
       "posted": null,
       "title": "Est\u00e1gio - Desenvolvedor de Software",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=138776"
+    },
+    "ibm:138790": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [
+        "MS"
+      ],
+      "external_id": "138790",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "locations": [
+        "Ehningen, Germany"
+      ],
+      "posted": null,
+      "title": "Master@IBM - Werkstudent Linux Kernel Developer (f/m/x)",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=138790"
     },
     "ibm:138967": {
       "active": true,
@@ -10958,7 +10990,7 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538"
     },
     "intel:JR0287539": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-31",
       "company": "Intel",
@@ -10967,11 +10999,11 @@
       ],
       "external_id": "JR0287539",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-11-02",
       "locations": [
         "Canada, Toronto"
       ],
-      "posted": "2026-10-27",
+      "posted": "2026-11-02",
       "title": "GPU & AI Accelerator Hardware Design Undergraduate Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539"
     },
@@ -12600,8 +12632,9 @@
       "url": "https://www.metacareers.com/jobs/1085375117813817"
     },
     "meta:1097992326377524": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-11-02",
       "company": "Meta",
       "degrees": [
         "PhD"
@@ -12720,8 +12753,9 @@
       "url": "https://www.metacareers.com/jobs/1136354555738164"
     },
     "meta:1137225375529389": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-11-02",
       "company": "Meta",
       "degrees": [],
       "external_id": "1137225375529389",
@@ -12746,8 +12780,7 @@
       "last_seen": "2026-11-02",
       "locations": [
         "Menlo Park, CA",
-        "Redmond, WA",
-        "Sunnyvale, CA"
+        "Redmond, WA"
       ],
       "posted": null,
       "title": "Research Scientist Intern, Multimodal Generative AI and Robotics (PhD)",
@@ -12769,6 +12802,23 @@
       "posted": null,
       "title": "Research Scientist Intern, Multimodal Behavioral Modeling, Hearing Science (PhD)",
       "url": "https://www.metacareers.com/jobs/1141752241867684"
+    },
+    "meta:1143164681833409": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1143164681833409",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Interactive Physics Simulation for Robotics (PhD)",
+      "url": "https://www.metacareers.com/jobs/1143164681833409"
     },
     "meta:1155292783739299": {
       "active": true,
@@ -12822,6 +12872,24 @@
       "title": "Research Scientist Intern,  Generative AI & Computational Photography (PhD)",
       "url": "https://www.metacareers.com/jobs/1163507972671947"
     },
+    "meta:1272664685039241": {
+      "active": true,
+      "category": "Security",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1272664685039241",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "locations": [
+        "Menlo Park, CA",
+        "New York, NY"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern PhD, PAR Safety Evals and Red Teaming",
+      "url": "https://www.metacareers.com/jobs/1272664685039241"
+    },
     "meta:1358944629494375": {
       "active": true,
       "category": "AI/ML",
@@ -12871,6 +12939,23 @@
       "posted": null,
       "title": "Data Engineer Intern, Product Analytics (Summer 2027)",
       "url": "https://www.metacareers.com/jobs/1373603594867455"
+    },
+    "meta:1406585275871250": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1406585275871250",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "locations": [
+        "Montreal, Canada"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, FAIR - World Model Foundations (PhD) | Stagiaire chercheur\u00b7se scientifique, FAIR - World Model Foundations (Doctorat)",
+      "url": "https://www.metacareers.com/jobs/1406585275871250"
     },
     "meta:1412139847020398": {
       "active": true,
@@ -12971,8 +13056,9 @@
       "url": "https://www.metacareers.com/jobs/1422892385992613"
     },
     "meta:1423049949381658": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-11-02",
       "company": "Meta",
       "degrees": [
         "PhD"
@@ -13090,8 +13176,9 @@
       "url": "https://www.metacareers.com/jobs/1471718241508516"
     },
     "meta:1476285977740386": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-11-02",
       "company": "Meta",
       "degrees": [
         "PhD"
@@ -13134,7 +13221,7 @@
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-02",
       "locations": [
-        "Menlo Park, CA"
+        "Bellevue, WA"
       ],
       "posted": null,
       "title": "Research Scientist Intern, Video RecSys (PhD)",
@@ -13274,6 +13361,7 @@
       "last_seen": "2026-11-02",
       "locations": [
         "Bellevue, WA",
+        "Menlo Park, CA",
         "Seattle, WA",
         "Sunnyvale, CA"
       ],
@@ -13616,9 +13704,7 @@
       "first_seen": "2026-10-13",
       "last_seen": "2026-11-02",
       "locations": [
-        "Burlingame, CA",
-        "Redmond, WA",
-        "Sunnyvale, CA"
+        "Redmond, WA"
       ],
       "posted": null,
       "title": "Research Scientist Intern, 3D World Modeling, Robotics and Generative AI (PhD)",
@@ -13674,6 +13760,23 @@
       "title": "Research Scientist Intern, AI & Compute Foundation - MTIA SW (PhD)",
       "url": "https://www.metacareers.com/jobs/1866761794487684"
     },
+    "meta:1872420890835857": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1872420890835857",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Robotic Control Policy (PhD)",
+      "url": "https://www.metacareers.com/jobs/1872420890835857"
+    },
     "meta:1886039392386822": {
       "active": true,
       "category": "AI/ML",
@@ -13690,6 +13793,23 @@
       "posted": null,
       "title": "Research Scientist Intern, FAIR - Multimodal Foundations (PhD)",
       "url": "https://www.metacareers.com/jobs/1886039392386822"
+    },
+    "meta:1886852912490515": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1886852912490515",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "locations": [
+        "Zurich, Switzerland"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Human Sensing for Wearables, AR and VR (PhD)",
+      "url": "https://www.metacareers.com/jobs/1886852912490515"
     },
     "meta:1940312740718917": {
       "active": true,
@@ -13811,8 +13931,7 @@
       "first_seen": "2026-10-13",
       "last_seen": "2026-11-02",
       "locations": [
-        "Redmond, WA",
-        "Sunnyvale, CA"
+        "Redmond, WA"
       ],
       "posted": null,
       "title": "Research Scientist Intern, Egocentric Vision-Language Models (PhD)",
@@ -13946,8 +14065,9 @@
       "url": "https://www.metacareers.com/jobs/2180490782513668"
     },
     "meta:2188224482038078": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-11-02",
       "company": "Meta",
       "degrees": [
         "PhD"
@@ -13991,7 +14111,6 @@
       "last_seen": "2026-11-02",
       "locations": [
         "Burlingame, CA",
-        "New York, NY",
         "Redmond, WA"
       ],
       "posted": null,
@@ -14016,8 +14135,9 @@
       "url": "https://www.metacareers.com/jobs/2237519230439134"
     },
     "meta:2267351860492630": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-11-02",
       "company": "Meta",
       "degrees": [
         "PhD"
@@ -14370,8 +14490,9 @@
       "url": "https://www.metacareers.com/jobs/2839011673109571"
     },
     "meta:2857194467985784": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-11-02",
       "company": "Meta",
       "degrees": [
         "PhD"
@@ -14491,8 +14612,9 @@
       "url": "https://www.metacareers.com/jobs/3265378000517806"
     },
     "meta:3364701000388712": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-11-02",
       "company": "Meta",
       "degrees": [
         "PhD"
@@ -19275,18 +19397,18 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826"
     },
     "nvidia:JR2027829": {
-      "active": false,
+      "active": true,
       "category": "Data",
       "closed": "2026-10-30",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2027829",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-11-02",
       "locations": [
         "2 Locations"
       ],
-      "posted": "2026-10-15",
+      "posted": "2026-11-02",
       "title": "Relational Foundation Model Intern, Modern Data Stack \u2013 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Relational-Foundation-Model-Intern--Modern-Data-Stack---2027_JR2027829"
     },
@@ -22112,5 +22234,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-02T16:08:01Z"
+  "updated_at": "2026-11-02T23:41:38Z"
 }
