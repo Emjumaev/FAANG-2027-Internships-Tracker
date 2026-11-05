@@ -988,8 +988,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa"
     },
     "amazon:10553707": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-11-05",
       "company": "Amazon",
       "degrees": [],
       "external_id": "10553707",
@@ -4511,18 +4512,18 @@
       "url": "https://careers.cisco.com/global/en/job/2026805"
     },
     "cisco:2029145": {
-      "active": false,
+      "active": true,
       "category": "QA",
       "closed": "2026-10-27",
       "company": "Cisco",
       "degrees": [],
       "external_id": "2029145",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-11-05",
       "locations": [
         "Guadalajara, Mexico"
       ],
-      "posted": "2026-10-22",
+      "posted": "2026-11-05",
       "title": "Quality Engineer I (Intern) - Mexico",
       "url": "https://careers.cisco.com/global/en/job/2029145"
     },
@@ -7470,7 +7471,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128818"
     },
     "ibm:128823": {
-      "active": true,
+      "active": false,
       "category": "Data",
       "closed": "2026-11-05",
       "company": "IBM",
@@ -7502,14 +7503,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128824"
     },
     "ibm:128825": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-05",
       "company": "IBM",
       "degrees": [],
       "external_id": "128825",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "Chicago, United States"
       ],
@@ -7597,9 +7598,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129628"
     },
     "ibm:129661": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-04",
+      "closed": "2026-11-05",
       "company": "IBM",
       "degrees": [],
       "external_id": "129661",
@@ -7645,14 +7646,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129780"
     },
     "ibm:129781": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-11-05",
       "company": "IBM",
       "degrees": [],
       "external_id": "129781",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "locations": [
         "POUGHKEEPSIE, United States"
       ],
@@ -7853,7 +7854,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130043"
     },
     "ibm:130049": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "closed": "2026-11-05",
       "company": "IBM",
@@ -7949,7 +7950,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130103"
     },
     "ibm:130104": {
-      "active": false,
+      "active": true,
       "category": "Data",
       "closed": "2026-11-05",
       "company": "IBM",
@@ -8077,7 +8078,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130716"
     },
     "ibm:130735": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "closed": "2026-11-05",
       "company": "IBM",
@@ -8301,7 +8302,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131072"
     },
     "ibm:131076": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
       "closed": "2026-11-05",
       "company": "IBM",
@@ -8397,7 +8398,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131195"
     },
     "ibm:131205": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-11-05",
       "company": "IBM",
@@ -8605,7 +8606,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131999"
     },
     "ibm:132000": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
       "closed": "2026-11-05",
       "company": "IBM",
@@ -8668,7 +8669,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132416"
     },
     "ibm:132423": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
       "closed": "2026-11-05",
       "company": "IBM",
@@ -9214,7 +9215,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134121"
     },
     "ibm:134130": {
-      "active": true,
+      "active": false,
       "category": "QA",
       "closed": "2026-11-05",
       "company": "IBM",
@@ -9422,7 +9423,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=135256"
     },
     "ibm:135456": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-05",
       "company": "IBM",
@@ -9714,7 +9715,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137105"
     },
     "ibm:137106": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-11-05",
       "company": "IBM",
@@ -9762,7 +9763,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137250"
     },
     "ibm:137269": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-11-05",
       "company": "IBM",
@@ -9810,7 +9811,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137400"
     },
     "ibm:137428": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-11-05",
       "company": "IBM",
@@ -9826,7 +9827,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137428"
     },
     "ibm:137471": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-05",
       "company": "IBM",
@@ -9858,7 +9859,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137674"
     },
     "ibm:137677": {
-      "active": false,
+      "active": true,
       "category": "Data",
       "closed": "2026-11-05",
       "company": "IBM",
@@ -9954,7 +9955,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=138776"
     },
     "ibm:138790": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-11-05",
       "company": "IBM",
@@ -10017,6 +10018,21 @@
       "posted": null,
       "title": "Internship: AI Enablement for Embedded Firmware Development (f/m/x)",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=139192"
+    },
+    "ibm:139670": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "139670",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "locations": [
+        "GUADALAJARA, Mexico"
+      ],
+      "posted": null,
+      "title": "Oportunidad de Pasant\u00eda: Ingeniero/a de DevOps",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=139670"
     },
     "ibm:139797": {
       "active": false,
@@ -10095,7 +10111,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=140606"
     },
     "ibm:140610": {
-      "active": false,
+      "active": true,
       "category": "Data",
       "closed": "2026-11-05",
       "company": "IBM",
@@ -11182,7 +11198,7 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533"
     },
     "intel:JR0287535": {
-      "active": false,
+      "active": true,
       "category": "QA",
       "closed": "2026-10-31",
       "company": "Intel",
@@ -11191,11 +11207,11 @@
       ],
       "external_id": "JR0287535",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-11-05",
       "locations": [
         "Canada, Toronto"
       ],
-      "posted": "2026-10-01",
+      "posted": "2026-11-05",
       "title": "Graphics Hardware Validation Undergraduate Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535"
     },
@@ -13090,6 +13106,7 @@
       "first_seen": "2026-10-13",
       "last_seen": "2026-11-05",
       "locations": [
+        "Menlo Park, CA",
         "Redmond, WA"
       ],
       "posted": null,
@@ -13235,8 +13252,9 @@
       "url": "https://www.metacareers.com/jobs/1218542847568705"
     },
     "meta:1272664685039241": {
-      "active": true,
+      "active": false,
       "category": "Security",
+      "closed": "2026-11-05",
       "company": "Meta",
       "degrees": [
         "PhD"
@@ -13454,8 +13472,9 @@
       "url": "https://www.metacareers.com/jobs/1428978125312655"
     },
     "meta:1435245618154892": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-11-05",
       "company": "Meta",
       "degrees": [
         "PhD"
@@ -13762,8 +13781,9 @@
       "url": "https://www.metacareers.com/jobs/1656954472496223"
     },
     "meta:1658187582680157": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-11-05",
       "company": "Meta",
       "degrees": [
         "PhD"
@@ -13830,8 +13850,9 @@
       "url": "https://www.metacareers.com/jobs/1691709792593561"
     },
     "meta:1694337262064234": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-11-05",
       "company": "Meta",
       "degrees": [
         "PhD"
@@ -14228,6 +14249,7 @@
       "first_seen": "2026-11-03",
       "last_seen": "2026-11-05",
       "locations": [
+        "Bellevue, WA",
         "Menlo Park, CA",
         "New York, NY"
       ],
@@ -14246,6 +14268,7 @@
       "first_seen": "2026-11-05",
       "last_seen": "2026-11-05",
       "locations": [
+        "Bellevue, WA",
         "Menlo Park, CA",
         "Sunnyvale, CA"
       ],
@@ -23074,5 +23097,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-05T18:10:25Z"
+  "updated_at": "2026-11-05T23:47:14Z"
 }
