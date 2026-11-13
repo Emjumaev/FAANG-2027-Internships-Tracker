@@ -1,10 +1,12 @@
 {
   "failed": {
+    "Adobe": "request failed after 3 attempts: POST https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs (521 Server Error: <none> for url: https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs)",
     "Microsoft": "request failed after 3 attempts: GET https://apply.careers.microsoft.com/api/pcsx/search (HTTP 429)",
-    "Uber": "request failed after 3 attempts: POST https://www.uber.com/api/loadSearchJobsResults?localeCode=en (404 Client Error: Not Found for url: https://www.uber.com/api/loadSearchJobsResults?localeCode=en)"
+    "NVIDIA": "request failed after 3 attempts: POST https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs (521 Server Error: <none> for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs)",
+    "Uber": "request failed after 3 attempts: POST https://www.uber.com/api/loadSearchJobsResults?localeCode=en (404 Client Error: Not Found for url: https://www.uber.com/api/loadSearchJobsResults?localeCode=en)",
+    "Visa": "request failed after 3 attempts: POST https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs (521 Server Error: <none> for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs)"
   },
   "succeeded": [
-    "Adobe",
     "Airbnb",
     "Amazon",
     "Anthropic",
@@ -27,7 +29,6 @@
     "Mastercard",
     "Meta",
     "MongoDB",
-    "NVIDIA",
     "Netflix",
     "OpenAI",
     "Oracle",
@@ -41,7 +42,6 @@
     "Snowflake",
     "Spotify",
     "Stripe",
-    "Visa",
     "Waymo",
     "Wise"
   ]
