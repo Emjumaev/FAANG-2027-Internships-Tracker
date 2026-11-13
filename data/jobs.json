@@ -3775,8 +3775,9 @@
       "url": "https://jobs.apple.com/en-us/details/200686707/mac-hardware-system-design-engineer-intern-ai-tools-for-hardware-engineering"
     },
     "apple:200686742": {
-      "active": true,
+      "active": false,
       "category": "QA",
+      "closed": "2026-11-13",
       "company": "Apple",
       "degrees": [],
       "external_id": "200686742",
@@ -5115,8 +5116,9 @@
       "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441"
     },
     "coinbase:8175459": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-11-13",
       "company": "Coinbase",
       "degrees": [],
       "external_id": "8175459",
@@ -5130,8 +5132,9 @@
       "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459"
     },
     "coinbase:8175462": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-11-13",
       "company": "Coinbase",
       "degrees": [],
       "external_id": "8175462",
@@ -7759,7 +7762,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128807"
     },
     "ibm:128815": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-13",
       "company": "IBM",
@@ -8094,9 +8097,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129919"
     },
     "ibm:129926": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-11",
+      "closed": "2026-11-13",
       "company": "IBM",
       "degrees": [],
       "external_id": "129926",
@@ -8253,7 +8256,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130074"
     },
     "ibm:130092": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-13",
       "company": "IBM",
@@ -9004,7 +9007,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132407"
     },
     "ibm:132416": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-11-13",
       "company": "IBM",
@@ -9196,7 +9199,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132725"
     },
     "ibm:132776": {
-      "active": false,
+      "active": true,
       "category": "Data",
       "closed": "2026-11-13",
       "company": "IBM",
@@ -9228,9 +9231,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132806"
     },
     "ibm:132822": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-10-31",
+      "closed": "2026-11-13",
       "company": "IBM",
       "degrees": [],
       "external_id": "132822",
@@ -9342,9 +9345,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133127"
     },
     "ibm:133140": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-31",
+      "closed": "2026-11-13",
       "company": "IBM",
       "degrees": [],
       "external_id": "133140",
@@ -9390,9 +9393,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133146"
     },
     "ibm:133430": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-03",
+      "closed": "2026-11-13",
       "company": "IBM",
       "degrees": [],
       "external_id": "133430",
@@ -9438,9 +9441,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133470"
     },
     "ibm:133504": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-11-12",
+      "closed": "2026-11-13",
       "company": "IBM",
       "degrees": [],
       "external_id": "133504",
@@ -9470,9 +9473,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133782"
     },
     "ibm:133801": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-31",
+      "closed": "2026-11-13",
       "company": "IBM",
       "degrees": [],
       "external_id": "133801",
@@ -10388,7 +10391,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=139192"
     },
     "ibm:139618": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-13",
       "company": "IBM",
@@ -10704,8 +10707,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=141838"
     },
     "ibm:141858": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-11-13",
       "company": "IBM",
       "degrees": [],
       "external_id": "141858",
@@ -10750,7 +10754,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=142059"
     },
     "ibm:142175": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-11-13",
       "company": "IBM",
@@ -10779,6 +10783,21 @@
       "posted": null,
       "title": "QA/Test Automation Developer Intern - Tucson, AZ",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=142564"
+    },
+    "ibm:143000": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "143000",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "locations": [
+        "Yorktown Heights, United States"
+      ],
+      "posted": null,
+      "title": "Applied AI Research Intern - R&D Internship \u2013 2027 - YORKTOWN HEIGHTS",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=143000"
     },
     "intel:JR0282639": {
       "active": false,
@@ -14513,7 +14532,8 @@
       "locations": [
         "Burlingame, CA",
         "Menlo Park, CA",
-        "New York, NY"
+        "New York, NY",
+        "Redmond, WA"
       ],
       "posted": null,
       "title": "Research Scientist Intern, Smart Glasses in Wearables AI (PhD)",
@@ -14692,6 +14712,23 @@
       "posted": null,
       "title": "Research Scientist Intern, Computational Photography & Computer Vision (PhD)",
       "url": "https://www.metacareers.com/jobs/1670489511324528"
+    },
+    "meta:1674297360998408": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1674297360998408",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Materials Architecture & Device Integration (PhD)",
+      "url": "https://www.metacareers.com/jobs/1674297360998408"
     },
     "meta:1674394627579563": {
       "active": true,
@@ -16077,6 +16114,23 @@
       "posted": null,
       "title": "Research Scientist Intern, Generative AI & Computational Photography (PhD)",
       "url": "https://www.metacareers.com/jobs/2862704290847533"
+    },
+    "meta:29034450339514945": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "29034450339514945",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "locations": [
+        "Singapore"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Video Recommendations (PhD)",
+      "url": "https://www.metacareers.com/jobs/29034450339514945"
     },
     "meta:29044546168568671": {
       "active": true,
@@ -21678,6 +21732,21 @@
       "title": "AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2029468"
     },
+    "nvidia:JR2029488": {
+      "active": true,
+      "category": "Software",
+      "company": "NVIDIA",
+      "degrees": [],
+      "external_id": "JR2029488",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "locations": [
+        "2 Locations"
+      ],
+      "posted": "2026-11-13",
+      "title": "Software Engineering Intern, NCCL - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2027_JR2029488"
+    },
     "nvidia:JR2029541": {
       "active": true,
       "category": "Backend/Infra",
@@ -21752,6 +21821,21 @@
       "posted": "2026-11-11",
       "title": "System Software Engineering Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Finland-Helsinki/System-Software-Engineering-Intern---2027_JR2029780"
+    },
+    "nvidia:JR2029925": {
+      "active": true,
+      "category": "Software",
+      "company": "NVIDIA",
+      "degrees": [],
+      "external_id": "JR2029925",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "locations": [
+        "China, Shanghai"
+      ],
+      "posted": "2026-11-13",
+      "title": "Software Engineering Intern, Neural Reconstruction and Rendering - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Neural-Reconstruction-and-Rendering---2027_JR2029925"
     },
     "oracle:334325": {
       "active": false,
@@ -22627,19 +22711,19 @@
       "url": "https://careers.snowflake.com/us/en/job/8f474d88-1b9a-4957-b018-9633a5434752"
     },
     "snowflake:a92a900c-56c2-4cf6-8c2e-fcd183a84e58": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-05",
       "company": "Snowflake",
       "degrees": [],
       "external_id": "a92a900c-56c2-4cf6-8c2e-fcd183a84e58",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-13",
       "locations": [
         "Zurich, Switzerland"
       ],
-      "posted": "2026-10-12",
-      "title": "Software Engineer Intern - Zurich (2026)",
+      "posted": "2026-11-13",
+      "title": "Software Engineer Intern - Zurich (2027)",
       "url": "https://careers.snowflake.com/us/en/job/a92a900c-56c2-4cf6-8c2e-fcd183a84e58"
     },
     "snowflake:b497fa45-a044-49c9-a9b8-2749beb58e69": {
@@ -24572,5 +24656,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-13T09:42:21Z"
+  "updated_at": "2026-11-13T17:53:14Z"
 }
