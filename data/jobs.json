@@ -7586,9 +7586,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128591"
     },
     "ibm:128649": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-12",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "128649",
@@ -7714,9 +7714,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128784"
     },
     "ibm:128790": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-13",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "128790",
@@ -7746,9 +7746,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128792"
     },
     "ibm:128797": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-13",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "128797",
@@ -7794,9 +7794,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128815"
     },
     "ibm:128816": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-12",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "128816",
@@ -7826,9 +7826,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128818"
     },
     "ibm:128823": {
-      "active": true,
+      "active": false,
       "category": "Data",
-      "closed": "2026-11-13",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "128823",
@@ -7858,9 +7858,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128824"
     },
     "ibm:128825": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-10",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "128825",
@@ -7890,14 +7890,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128910"
     },
     "ibm:129227": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "129227",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "University Park, United States"
       ],
@@ -7937,9 +7937,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129258"
     },
     "ibm:129628": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-11",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "129628",
@@ -8001,9 +8001,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129780"
     },
     "ibm:129781": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-11-11",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "129781",
@@ -8113,9 +8113,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129919"
     },
     "ibm:129926": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-13",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "129926",
@@ -8304,9 +8304,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130095"
     },
     "ibm:130103": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-23",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "130103",
@@ -8320,9 +8320,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130103"
     },
     "ibm:130104": {
-      "active": true,
+      "active": false,
       "category": "Data",
-      "closed": "2026-11-10",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "130104",
@@ -8352,9 +8352,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130107"
     },
     "ibm:130110": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-13",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "130110",
@@ -8768,9 +8768,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131195"
     },
     "ibm:131205": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-11-13",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "131205",
@@ -8880,14 +8880,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131598"
     },
     "ibm:131649": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "131649",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Tokyo, Japan"
       ],
@@ -9023,9 +9023,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132407"
     },
     "ibm:132416": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-13",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "132416",
@@ -9087,9 +9087,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132431"
     },
     "ibm:132433": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-13",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "132433",
@@ -9103,9 +9103,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132433"
     },
     "ibm:132434": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-13",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "132434",
@@ -9457,9 +9457,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133470"
     },
     "ibm:133504": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-11-13",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "133504",
@@ -9585,9 +9585,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134121"
     },
     "ibm:134130": {
-      "active": true,
+      "active": false,
       "category": "QA",
-      "closed": "2026-11-13",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "134130",
@@ -9793,9 +9793,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=135256"
     },
     "ibm:135456": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-11",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [
         "MS"
@@ -9971,9 +9971,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=136983"
     },
     "ibm:137019": {
-      "active": true,
+      "active": false,
       "category": "Data",
-      "closed": "2026-11-05",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "137019",
@@ -10051,9 +10051,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137095"
     },
     "ibm:137098": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-11-12",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "137098",
@@ -10149,9 +10149,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137269"
     },
     "ibm:137390": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-12",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "137390",
@@ -10197,9 +10197,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137428"
     },
     "ibm:137471": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-12",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "137471",
@@ -10657,9 +10657,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=140606"
     },
     "ibm:140610": {
-      "active": true,
+      "active": false,
       "category": "Data",
-      "closed": "2026-11-11",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "140610",
@@ -10673,9 +10673,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=140610"
     },
     "ibm:141091": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-13",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "141091",
@@ -10689,9 +10689,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=141091"
     },
     "ibm:141131": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-12",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "141131",
@@ -22542,7 +22542,7 @@
       "locations": [
         "2 Locations"
       ],
-      "posted": "2026-10-31",
+      "posted": "2026-10-30",
       "title": "Summer 2027 Intern - Software Engineer (Security/Government)",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1"
     },
@@ -22557,7 +22557,7 @@
       "locations": [
         "California - Palo Alto"
       ],
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "title": "Summer 2027 Intern - AI Research",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1"
     },
@@ -22572,7 +22572,7 @@
       "locations": [
         "2 Locations"
       ],
-      "posted": "2026-11-11",
+      "posted": "2026-11-10",
       "title": "Summer 2027 Intern - AI Research Incubator",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655"
     },
@@ -22587,7 +22587,7 @@
       "locations": [
         "California - San Francisco"
       ],
-      "posted": "2026-11-11",
+      "posted": "2026-11-10",
       "title": "Summer 2027 Intern - Applied AI Strategy & Research",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Applied-AI-Strategy---Research_JR367516-1"
     },
@@ -23250,7 +23250,7 @@
       ],
       "external_id": "REF088578W",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US - Foster City, CA"
       ],
@@ -23477,7 +23477,7 @@
       "degrees": [],
       "external_id": "REF089917W",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "ES - Madrid, Spain"
       ],
@@ -23540,7 +23540,7 @@
       "degrees": [],
       "external_id": "REF090466W",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "GB - Reading, United Kingdom"
       ],
@@ -23555,7 +23555,7 @@
       "degrees": [],
       "external_id": "REF090467W",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "GB - Cambridge, United Kingdom"
       ],
@@ -23570,7 +23570,7 @@
       "degrees": [],
       "external_id": "REF090469W",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "GB - London, United Kingdom"
       ],
@@ -24743,5 +24743,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-14T06:34:27Z"
+  "updated_at": "2026-11-14T15:12:55Z"
 }
