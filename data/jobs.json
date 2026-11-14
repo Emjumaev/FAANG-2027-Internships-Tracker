@@ -39,7 +39,7 @@
       "degrees": [],
       "external_id": "R171519",
       "first_seen": "2026-08-31",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "7 Locations"
       ],
@@ -54,7 +54,7 @@
       "degrees": [],
       "external_id": "R171666",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "7 Locations"
       ],
@@ -69,7 +69,7 @@
       "degrees": [],
       "external_id": "R172064",
       "first_seen": "2026-10-05",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "6 Locations"
       ],
@@ -84,7 +84,7 @@
       "degrees": [],
       "external_id": "R172468",
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Bucharest"
       ],
@@ -115,7 +115,7 @@
       "degrees": [],
       "external_id": "R172998",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "San Jose"
       ],
@@ -130,7 +130,7 @@
       "degrees": [],
       "external_id": "R173000",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Lehi"
       ],
@@ -145,7 +145,7 @@
       "degrees": [],
       "external_id": "R173001",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "San Jose"
       ],
@@ -160,7 +160,7 @@
       "degrees": [],
       "external_id": "R173015",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Basel"
       ],
@@ -175,7 +175,7 @@
       "degrees": [],
       "external_id": "R173018",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Bucharest"
       ],
@@ -190,7 +190,7 @@
       "degrees": [],
       "external_id": "R173019",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Yerevan"
       ],
@@ -205,7 +205,7 @@
       "degrees": [],
       "external_id": "R173345",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "London"
       ],
@@ -7586,7 +7586,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128591"
     },
     "ibm:128649": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-11-14",
       "company": "IBM",
@@ -7666,14 +7666,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128765"
     },
     "ibm:128770": {
-      "active": false,
+      "active": true,
       "category": "Security",
       "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "128770",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "University Park, United States"
       ],
@@ -7714,7 +7714,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128784"
     },
     "ibm:128790": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-14",
       "company": "IBM",
@@ -7746,7 +7746,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128792"
     },
     "ibm:128797": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-14",
       "company": "IBM",
@@ -7794,7 +7794,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128815"
     },
     "ibm:128816": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-14",
       "company": "IBM",
@@ -7826,7 +7826,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128818"
     },
     "ibm:128823": {
-      "active": false,
+      "active": true,
       "category": "Data",
       "closed": "2026-11-14",
       "company": "IBM",
@@ -7858,7 +7858,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128824"
     },
     "ibm:128825": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-14",
       "company": "IBM",
@@ -7906,8 +7906,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129227"
     },
     "ibm:129244": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "129244",
@@ -7937,7 +7938,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129258"
     },
     "ibm:129628": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-11-14",
       "company": "IBM",
@@ -8001,7 +8002,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129780"
     },
     "ibm:129781": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-11-14",
       "company": "IBM",
@@ -8113,7 +8114,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129919"
     },
     "ibm:129926": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-14",
       "company": "IBM",
@@ -8304,7 +8305,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130095"
     },
     "ibm:130103": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-14",
       "company": "IBM",
@@ -8320,7 +8321,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130103"
     },
     "ibm:130104": {
-      "active": false,
+      "active": true,
       "category": "Data",
       "closed": "2026-11-14",
       "company": "IBM",
@@ -8768,7 +8769,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131195"
     },
     "ibm:131205": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-11-14",
       "company": "IBM",
@@ -8928,9 +8929,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131816"
     },
     "ibm:131827": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-01",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "131827",
@@ -9023,7 +9024,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132407"
     },
     "ibm:132416": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-11-14",
       "company": "IBM",
@@ -9087,7 +9088,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132431"
     },
     "ibm:132433": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-11-14",
       "company": "IBM",
@@ -9151,14 +9152,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132569"
     },
     "ibm:132699": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "132699",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Yorktown Heights, United States"
       ],
@@ -9457,7 +9458,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133470"
     },
     "ibm:133504": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-11-14",
       "company": "IBM",
@@ -9585,7 +9586,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134121"
     },
     "ibm:134130": {
-      "active": false,
+      "active": true,
       "category": "QA",
       "closed": "2026-11-14",
       "company": "IBM",
@@ -9793,7 +9794,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=135256"
     },
     "ibm:135456": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-14",
       "company": "IBM",
@@ -10085,9 +10086,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137105"
     },
     "ibm:137106": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-11-05",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "137106",
@@ -10133,9 +10134,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137250"
     },
     "ibm:137269": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-05",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "137269",
@@ -10181,9 +10182,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137400"
     },
     "ibm:137428": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-11-07",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "137428",
@@ -10197,7 +10198,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137428"
     },
     "ibm:137471": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-14",
       "company": "IBM",
@@ -10325,9 +10326,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=138776"
     },
     "ibm:138790": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-11-05",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [
         "MS"
@@ -10423,8 +10424,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=139618"
     },
     "ibm:139670": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "139670",
@@ -10657,7 +10659,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=140606"
     },
     "ibm:140610": {
-      "active": false,
+      "active": true,
       "category": "Data",
       "closed": "2026-11-14",
       "company": "IBM",
@@ -10673,7 +10675,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=140610"
     },
     "ibm:141091": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-11-14",
       "company": "IBM",
@@ -10705,8 +10707,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=141131"
     },
     "ibm:141838": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [
         "MS",
@@ -11581,7 +11584,7 @@
       "degrees": [],
       "external_id": "JR0286935",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Malaysia, Kulim"
       ],
@@ -11696,7 +11699,7 @@
       ],
       "external_id": "JR0287000",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "3 Locations"
       ],
@@ -11714,7 +11717,7 @@
       ],
       "external_id": "JR0287019",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, Oregon, Hillsboro"
       ],
@@ -11765,7 +11768,7 @@
       ],
       "external_id": "JR0287314",
       "first_seen": "2026-09-25",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, Oregon, Hillsboro"
       ],
@@ -11782,7 +11785,7 @@
       ],
       "external_id": "JR0287457",
       "first_seen": "2026-09-25",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, Oregon, Hillsboro"
       ],
@@ -11799,7 +11802,7 @@
       ],
       "external_id": "JR0287458",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, Oregon, Hillsboro"
       ],
@@ -11833,7 +11836,7 @@
       "degrees": [],
       "external_id": "JR0287525",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Virtual US"
       ],
@@ -11885,7 +11888,7 @@
       "degrees": [],
       "external_id": "JR0287533",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -12042,7 +12045,7 @@
       ],
       "external_id": "JR0287661",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "5 Locations"
       ],
@@ -12109,7 +12112,7 @@
       ],
       "external_id": "JR0287859",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, Oregon, Hillsboro"
       ],
@@ -12156,7 +12159,7 @@
       "degrees": [],
       "external_id": "JR0287886",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Poland, Gdansk"
       ],
@@ -12171,7 +12174,7 @@
       "degrees": [],
       "external_id": "JR0287890",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Poland, Gdansk"
       ],
@@ -12186,7 +12189,7 @@
       "degrees": [],
       "external_id": "JR0287893",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Poland, Gdansk"
       ],
@@ -12201,7 +12204,7 @@
       "degrees": [],
       "external_id": "JR0287894",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Poland, Gdansk"
       ],
@@ -12232,7 +12235,7 @@
       "degrees": [],
       "external_id": "JR0287897",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Poland, Gdansk"
       ],
@@ -12285,7 +12288,7 @@
       ],
       "external_id": "JR0287923",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Germany, Munich"
       ],
@@ -12353,7 +12356,7 @@
       ],
       "external_id": "JR0287933",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Canada, Toronto"
       ],
@@ -12368,7 +12371,7 @@
       "degrees": [],
       "external_id": "JR0287934",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Canada, Toronto"
       ],
@@ -12383,7 +12386,7 @@
       "degrees": [],
       "external_id": "JR0287941",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "PRC, Shanghai"
       ],
@@ -12400,7 +12403,7 @@
       ],
       "external_id": "JR0287942",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Germany, Munich"
       ],
@@ -12418,7 +12421,7 @@
       ],
       "external_id": "JR0287943",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Germany, Munich"
       ],
@@ -12451,7 +12454,7 @@
       ],
       "external_id": "JR0288136",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, Oregon, Hillsboro"
       ],
@@ -12468,7 +12471,7 @@
       ],
       "external_id": "JR0288138",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, California, Santa Clara"
       ],
@@ -12485,7 +12488,7 @@
       ],
       "external_id": "JR0288139",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, Oregon, Hillsboro"
       ],
@@ -12502,7 +12505,7 @@
       ],
       "external_id": "JR0288140",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, Oregon, Hillsboro"
       ],
@@ -12551,7 +12554,7 @@
       "degrees": [],
       "external_id": "JR0288205",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Germany, Munich"
       ],
@@ -12566,7 +12569,7 @@
       "degrees": [],
       "external_id": "JR0288207",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Poland, Gdansk"
       ],
@@ -12597,7 +12600,7 @@
       "degrees": [],
       "external_id": "JR0288210",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Poland, Gdansk"
       ],
@@ -12612,7 +12615,7 @@
       "degrees": [],
       "external_id": "JR0288213",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Poland, Gdansk"
       ],
@@ -12643,7 +12646,7 @@
       "degrees": [],
       "external_id": "JR0288216",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Poland, Gdansk"
       ],
@@ -12674,7 +12677,7 @@
       "degrees": [],
       "external_id": "JR0288220",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Poland, Gdansk"
       ],
@@ -12737,7 +12740,7 @@
       "degrees": [],
       "external_id": "JR0288261",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "PRC, Shanghai"
       ],
@@ -12768,7 +12771,7 @@
       "degrees": [],
       "external_id": "JR0288633",
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Poland, Gdansk"
       ],
@@ -12783,7 +12786,7 @@
       "degrees": [],
       "external_id": "JR0288635",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Germany, Munich"
       ],
@@ -12798,7 +12801,7 @@
       "degrees": [],
       "external_id": "JR0288637",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Costa Rica, San Jose"
       ],
@@ -12829,7 +12832,7 @@
       "degrees": [],
       "external_id": "JR0288820",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Malaysia, Penang"
       ],
@@ -12846,7 +12849,7 @@
       ],
       "external_id": "JR0288833",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -12877,7 +12880,7 @@
       "degrees": [],
       "external_id": "JR0288937",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Germany, Munich"
       ],
@@ -12892,7 +12895,7 @@
       "degrees": [],
       "external_id": "JR0288972",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "PRC, Beijing"
       ],
@@ -18746,7 +18749,7 @@
       ],
       "external_id": "JR2012398",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -18811,7 +18814,7 @@
       ],
       "external_id": "JR2016035",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -19008,7 +19011,7 @@
       "degrees": [],
       "external_id": "JR2021301",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -19122,7 +19125,7 @@
       "degrees": [],
       "external_id": "JR2023491",
       "first_seen": "2026-08-19",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -19138,7 +19141,7 @@
       "degrees": [],
       "external_id": "JR2023492",
       "first_seen": "2026-08-19",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -19154,7 +19157,7 @@
       "degrees": [],
       "external_id": "JR2023495",
       "first_seen": "2026-08-19",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -19170,7 +19173,7 @@
       "degrees": [],
       "external_id": "JR2023496",
       "first_seen": "2026-08-19",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -19186,7 +19189,7 @@
       "degrees": [],
       "external_id": "JR2023497",
       "first_seen": "2026-08-19",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -19202,7 +19205,7 @@
       "degrees": [],
       "external_id": "JR2023499",
       "first_seen": "2026-08-19",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -19217,7 +19220,7 @@
       "degrees": [],
       "external_id": "JR2023628",
       "first_seen": "2026-08-19",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -19232,7 +19235,7 @@
       "degrees": [],
       "external_id": "JR2023632",
       "first_seen": "2026-08-21",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -19247,7 +19250,7 @@
       "degrees": [],
       "external_id": "JR2023639",
       "first_seen": "2026-08-21",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -19262,7 +19265,7 @@
       "degrees": [],
       "external_id": "JR2023641",
       "first_seen": "2026-08-21",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -19293,7 +19296,7 @@
       "degrees": [],
       "external_id": "JR2023645",
       "first_seen": "2026-08-20",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -19308,7 +19311,7 @@
       "degrees": [],
       "external_id": "JR2023646",
       "first_seen": "2026-08-19",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -19323,7 +19326,7 @@
       "degrees": [],
       "external_id": "JR2023648",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -19338,7 +19341,7 @@
       "degrees": [],
       "external_id": "JR2023649",
       "first_seen": "2026-08-23",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -19353,7 +19356,7 @@
       "degrees": [],
       "external_id": "JR2023652",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -19368,7 +19371,7 @@
       "degrees": [],
       "external_id": "JR2023654",
       "first_seen": "2026-08-20",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -19383,7 +19386,7 @@
       "degrees": [],
       "external_id": "JR2023655",
       "first_seen": "2026-08-20",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -19398,7 +19401,7 @@
       "degrees": [],
       "external_id": "JR2023656",
       "first_seen": "2026-08-20",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -19413,7 +19416,7 @@
       "degrees": [],
       "external_id": "JR2023658",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -19428,7 +19431,7 @@
       "degrees": [],
       "external_id": "JR2023666",
       "first_seen": "2026-08-21",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -19497,7 +19500,7 @@
       "degrees": [],
       "external_id": "JR2023852",
       "first_seen": "2026-08-20",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -19512,7 +19515,7 @@
       "degrees": [],
       "external_id": "JR2023889",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -19543,7 +19546,7 @@
       "degrees": [],
       "external_id": "JR2023913",
       "first_seen": "2026-08-21",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -19558,7 +19561,7 @@
       "degrees": [],
       "external_id": "JR2023920",
       "first_seen": "2026-08-25",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -19573,7 +19576,7 @@
       "degrees": [],
       "external_id": "JR2023967",
       "first_seen": "2026-08-24",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -19588,7 +19591,7 @@
       "degrees": [],
       "external_id": "JR2023971",
       "first_seen": "2026-09-13",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -19635,7 +19638,7 @@
       "degrees": [],
       "external_id": "JR2024002",
       "first_seen": "2026-08-24",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -19650,7 +19653,7 @@
       "degrees": [],
       "external_id": "JR2024054",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -19665,7 +19668,7 @@
       "degrees": [],
       "external_id": "JR2024122",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -19683,7 +19686,7 @@
       ],
       "external_id": "JR2024171",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -19698,7 +19701,7 @@
       "degrees": [],
       "external_id": "JR2024258",
       "first_seen": "2026-08-26",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -19713,7 +19716,7 @@
       "degrees": [],
       "external_id": "JR2024300",
       "first_seen": "2026-08-27",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -19728,7 +19731,7 @@
       "degrees": [],
       "external_id": "JR2024408",
       "first_seen": "2026-08-28",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -19745,7 +19748,7 @@
       ],
       "external_id": "JR2024423",
       "first_seen": "2026-08-31",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "India, Bengaluru"
       ],
@@ -19760,7 +19763,7 @@
       "degrees": [],
       "external_id": "JR2024500",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -19775,7 +19778,7 @@
       "degrees": [],
       "external_id": "JR2024509",
       "first_seen": "2026-09-01",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -19792,7 +19795,7 @@
       ],
       "external_id": "JR2024606",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Switzerland, Zurich"
       ],
@@ -19824,7 +19827,7 @@
       "degrees": [],
       "external_id": "JR2024818",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "3 Locations"
       ],
@@ -19839,7 +19842,7 @@
       "degrees": [],
       "external_id": "JR2024884",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -19854,7 +19857,7 @@
       "degrees": [],
       "external_id": "JR2024949",
       "first_seen": "2026-09-06",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -19872,7 +19875,7 @@
       ],
       "external_id": "JR2024997",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Canada, Toronto"
       ],
@@ -19890,7 +19893,7 @@
       ],
       "external_id": "JR2025025",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -19905,7 +19908,7 @@
       "degrees": [],
       "external_id": "JR2025040",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -19920,7 +19923,7 @@
       "degrees": [],
       "external_id": "JR2025052",
       "first_seen": "2026-09-04",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -19938,7 +19941,7 @@
       ],
       "external_id": "JR2025096",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -19956,7 +19959,7 @@
       ],
       "external_id": "JR2025098",
       "first_seen": "2026-09-21",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -19971,7 +19974,7 @@
       "degrees": [],
       "external_id": "JR2025179",
       "first_seen": "2026-09-09",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -20005,7 +20008,7 @@
       ],
       "external_id": "JR2025405",
       "first_seen": "2026-09-22",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -20023,7 +20026,7 @@
       ],
       "external_id": "JR2025406",
       "first_seen": "2026-09-15",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -20041,7 +20044,7 @@
       ],
       "external_id": "JR2025478",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -20056,7 +20059,7 @@
       "degrees": [],
       "external_id": "JR2025538",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -20071,7 +20074,7 @@
       "degrees": [],
       "external_id": "JR2025554",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Hsinchu"
       ],
@@ -20086,7 +20089,7 @@
       "degrees": [],
       "external_id": "JR2025558",
       "first_seen": "2026-09-16",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -20101,7 +20104,7 @@
       "degrees": [],
       "external_id": "JR2025559",
       "first_seen": "2026-09-17",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "3 Locations"
       ],
@@ -20116,7 +20119,7 @@
       "degrees": [],
       "external_id": "JR2025560",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -20131,7 +20134,7 @@
       "degrees": [],
       "external_id": "JR2025645",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -20149,7 +20152,7 @@
       ],
       "external_id": "JR2025647",
       "first_seen": "2026-09-21",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -20164,7 +20167,7 @@
       "degrees": [],
       "external_id": "JR2025701",
       "first_seen": "2026-09-20",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "3 Locations"
       ],
@@ -20179,7 +20182,7 @@
       "degrees": [],
       "external_id": "JR2025783",
       "first_seen": "2026-09-21",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -20213,7 +20216,7 @@
       ],
       "external_id": "JR2025792",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -20228,7 +20231,7 @@
       "degrees": [],
       "external_id": "JR2025834",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Beijing"
       ],
@@ -20243,7 +20246,7 @@
       "degrees": [],
       "external_id": "JR2025914",
       "first_seen": "2026-09-22",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -20258,7 +20261,7 @@
       "degrees": [],
       "external_id": "JR2025948",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -20292,7 +20295,7 @@
       ],
       "external_id": "JR2026004",
       "first_seen": "2026-09-23",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -20307,7 +20310,7 @@
       "degrees": [],
       "external_id": "JR2026055",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -20322,7 +20325,7 @@
       "degrees": [],
       "external_id": "JR2026160",
       "first_seen": "2026-09-23",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -20337,7 +20340,7 @@
       "degrees": [],
       "external_id": "JR2026164",
       "first_seen": "2026-09-23",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -20352,7 +20355,7 @@
       "degrees": [],
       "external_id": "JR2026170",
       "first_seen": "2026-09-23",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -20367,7 +20370,7 @@
       "degrees": [],
       "external_id": "JR2026171",
       "first_seen": "2026-09-23",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -20382,7 +20385,7 @@
       "degrees": [],
       "external_id": "JR2026173",
       "first_seen": "2026-09-23",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -20397,7 +20400,7 @@
       "degrees": [],
       "external_id": "JR2026177",
       "first_seen": "2026-09-23",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -20412,7 +20415,7 @@
       "degrees": [],
       "external_id": "JR2026181",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -20427,7 +20430,7 @@
       "degrees": [],
       "external_id": "JR2026262",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -20442,7 +20445,7 @@
       "degrees": [],
       "external_id": "JR2026298",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -20457,7 +20460,7 @@
       "degrees": [],
       "external_id": "JR2026307",
       "first_seen": "2026-09-30",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -20490,7 +20493,7 @@
       "degrees": [],
       "external_id": "JR2026402",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -20505,7 +20508,7 @@
       "degrees": [],
       "external_id": "JR2026406",
       "first_seen": "2026-10-12",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -20520,7 +20523,7 @@
       "degrees": [],
       "external_id": "JR2026437",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -20536,7 +20539,7 @@
       "degrees": [],
       "external_id": "JR2026517",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Poland, Warsaw"
       ],
@@ -20567,7 +20570,7 @@
       "degrees": [],
       "external_id": "JR2026544",
       "first_seen": "2026-10-12",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -20582,7 +20585,7 @@
       "degrees": [],
       "external_id": "JR2026546",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -20597,7 +20600,7 @@
       "degrees": [],
       "external_id": "JR2026567",
       "first_seen": "2026-10-05",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -20613,7 +20616,7 @@
       "degrees": [],
       "external_id": "JR2026569",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -20631,7 +20634,7 @@
       ],
       "external_id": "JR2026584",
       "first_seen": "2026-09-29",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -20647,7 +20650,7 @@
       "degrees": [],
       "external_id": "JR2026707",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -20662,7 +20665,7 @@
       "degrees": [],
       "external_id": "JR2026758",
       "first_seen": "2026-10-12",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -20677,7 +20680,7 @@
       "degrees": [],
       "external_id": "JR2026767",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -20709,7 +20712,7 @@
       "degrees": [],
       "external_id": "JR2026799",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -20725,7 +20728,7 @@
       "degrees": [],
       "external_id": "JR2026839",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -20740,7 +20743,7 @@
       "degrees": [],
       "external_id": "JR2026869",
       "first_seen": "2026-10-12",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -20755,7 +20758,7 @@
       "degrees": [],
       "external_id": "JR2026878",
       "first_seen": "2026-10-05",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -20770,7 +20773,7 @@
       "degrees": [],
       "external_id": "JR2026880",
       "first_seen": "2026-10-12",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -20788,7 +20791,7 @@
       ],
       "external_id": "JR2026940",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -20806,7 +20809,7 @@
       ],
       "external_id": "JR2026949",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -20838,7 +20841,7 @@
       "degrees": [],
       "external_id": "JR2026962",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -20853,7 +20856,7 @@
       "degrees": [],
       "external_id": "JR2026965",
       "first_seen": "2026-10-05",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -20868,7 +20871,7 @@
       "degrees": [],
       "external_id": "JR2026971",
       "first_seen": "2026-10-05",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -20883,7 +20886,7 @@
       "degrees": [],
       "external_id": "JR2026972",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -20898,7 +20901,7 @@
       "degrees": [],
       "external_id": "JR2027025",
       "first_seen": "2026-10-05",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Switzerland, Zurich"
       ],
@@ -20913,7 +20916,7 @@
       "degrees": [],
       "external_id": "JR2027030",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -20931,7 +20934,7 @@
       ],
       "external_id": "JR2027089",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "3 Locations"
       ],
@@ -20962,7 +20965,7 @@
       "degrees": [],
       "external_id": "JR2027181",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -20977,7 +20980,7 @@
       "degrees": [],
       "external_id": "JR2027182",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -21026,7 +21029,7 @@
       ],
       "external_id": "JR2027294",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Switzerland, Zurich"
       ],
@@ -21057,7 +21060,7 @@
       "degrees": [],
       "external_id": "JR2027348",
       "first_seen": "2026-10-12",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -21088,7 +21091,7 @@
       "degrees": [],
       "external_id": "JR2027468",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -21103,7 +21106,7 @@
       "degrees": [],
       "external_id": "JR2027472",
       "first_seen": "2026-10-12",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -21118,7 +21121,7 @@
       "degrees": [],
       "external_id": "JR2027476",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -21133,7 +21136,7 @@
       "degrees": [],
       "external_id": "JR2027477",
       "first_seen": "2026-10-12",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -21148,7 +21151,7 @@
       "degrees": [],
       "external_id": "JR2027478",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -21163,7 +21166,7 @@
       "degrees": [],
       "external_id": "JR2027479",
       "first_seen": "2026-10-12",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -21178,7 +21181,7 @@
       "degrees": [],
       "external_id": "JR2027480",
       "first_seen": "2026-10-12",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -21211,7 +21214,7 @@
       ],
       "external_id": "JR2027531",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Switzerland, Zurich"
       ],
@@ -21226,7 +21229,7 @@
       "degrees": [],
       "external_id": "JR2027548",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -21241,7 +21244,7 @@
       "degrees": [],
       "external_id": "JR2027596",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -21256,7 +21259,7 @@
       "degrees": [],
       "external_id": "JR2027624",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -21271,7 +21274,7 @@
       "degrees": [],
       "external_id": "JR2027628",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -21286,7 +21289,7 @@
       "degrees": [],
       "external_id": "JR2027630",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -21301,7 +21304,7 @@
       "degrees": [],
       "external_id": "JR2027701",
       "first_seen": "2026-10-13",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -21316,7 +21319,7 @@
       "degrees": [],
       "external_id": "JR2027707",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -21331,7 +21334,7 @@
       "degrees": [],
       "external_id": "JR2027784",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -21347,7 +21350,7 @@
       "degrees": [],
       "external_id": "JR2027826",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Poland, Warsaw"
       ],
@@ -21363,7 +21366,7 @@
       "degrees": [],
       "external_id": "JR2027829",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -21442,7 +21445,7 @@
       "degrees": [],
       "external_id": "JR2028022",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -21457,7 +21460,7 @@
       "degrees": [],
       "external_id": "JR2028135",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -21472,7 +21475,7 @@
       "degrees": [],
       "external_id": "JR2028148",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -21487,7 +21490,7 @@
       "degrees": [],
       "external_id": "JR2028172",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -21502,7 +21505,7 @@
       "degrees": [],
       "external_id": "JR2028186",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Beijing"
       ],
@@ -21517,7 +21520,7 @@
       "degrees": [],
       "external_id": "JR2028205",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -21549,7 +21552,7 @@
       "degrees": [],
       "external_id": "JR2028210",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "3 Locations"
       ],
@@ -21580,7 +21583,7 @@
       "degrees": [],
       "external_id": "JR2028298",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -21595,7 +21598,7 @@
       "degrees": [],
       "external_id": "JR2028299",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -21610,7 +21613,7 @@
       "degrees": [],
       "external_id": "JR2028481",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Armenia, Yerevan"
       ],
@@ -21625,7 +21628,7 @@
       "degrees": [],
       "external_id": "JR2028498",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Singapore, Pasir Panjang"
       ],
@@ -21640,7 +21643,7 @@
       "degrees": [],
       "external_id": "JR2028499",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Singapore, Pasir Panjang"
       ],
@@ -21655,7 +21658,7 @@
       "degrees": [],
       "external_id": "JR2028570",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -21670,7 +21673,7 @@
       "degrees": [],
       "external_id": "JR2028597",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Switzerland, Zurich"
       ],
@@ -21686,7 +21689,7 @@
       "degrees": [],
       "external_id": "JR2028607",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, WA, Redmond"
       ],
@@ -21717,7 +21720,7 @@
       "degrees": [],
       "external_id": "JR2029066",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Switzerland, Zurich"
       ],
@@ -21732,7 +21735,7 @@
       "degrees": [],
       "external_id": "JR2029069",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Switzerland, Zurich"
       ],
@@ -21747,7 +21750,7 @@
       "degrees": [],
       "external_id": "JR2029119",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -21762,7 +21765,7 @@
       "degrees": [],
       "external_id": "JR2029153",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -21793,7 +21796,7 @@
       "degrees": [],
       "external_id": "JR2029220",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, TX, Austin"
       ],
@@ -21808,7 +21811,7 @@
       "degrees": [],
       "external_id": "JR2029468",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -21823,7 +21826,7 @@
       "degrees": [],
       "external_id": "JR2029488",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -21838,7 +21841,7 @@
       "degrees": [],
       "external_id": "JR2029541",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "US, CA, Santa Clara"
       ],
@@ -21853,7 +21856,7 @@
       "degrees": [],
       "external_id": "JR2029575",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Japan, Tokyo"
       ],
@@ -21868,7 +21871,7 @@
       "degrees": [],
       "external_id": "JR2029595",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Taiwan, Taipei"
       ],
@@ -21883,7 +21886,7 @@
       "degrees": [],
       "external_id": "JR2029779",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Switzerland, Zurich"
       ],
@@ -21898,7 +21901,7 @@
       "degrees": [],
       "external_id": "JR2029780",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Finland, Helsinki"
       ],
@@ -21913,7 +21916,7 @@
       "degrees": [],
       "external_id": "JR2029925",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "China, Shanghai"
       ],
@@ -22070,7 +22073,7 @@
       ],
       "external_id": "R0138579",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "San Jose, California, United States of America"
       ],
@@ -22085,7 +22088,7 @@
       "degrees": [],
       "external_id": "R0138581",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "San Jose, California, United States of America"
       ],
@@ -22100,7 +22103,7 @@
       "degrees": [],
       "external_id": "R0138582",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "San Jose, California, United States of America"
       ],
@@ -22115,7 +22118,7 @@
       "degrees": [],
       "external_id": "R0138583",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "5 Locations"
       ],
@@ -22130,7 +22133,7 @@
       "degrees": [],
       "external_id": "R0138586",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "5 Locations"
       ],
@@ -22145,7 +22148,7 @@
       "degrees": [],
       "external_id": "R0138587",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "4 Locations"
       ],
@@ -22160,7 +22163,7 @@
       "degrees": [],
       "external_id": "R0138921",
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "2 Locations"
       ],
@@ -22659,7 +22662,7 @@
       "degrees": [],
       "external_id": "R0047179",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Los Angeles, California"
       ],
@@ -24743,5 +24746,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-14T15:12:55Z"
+  "updated_at": "2026-11-14T20:51:20Z"
 }
