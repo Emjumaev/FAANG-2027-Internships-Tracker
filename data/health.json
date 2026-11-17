@@ -8,7 +8,8 @@
     "PayPal": "request failed after 3 attempts: POST https://paypal.wd1.myworkdayjobs.com/wday/cxs/paypal/jobs/jobs (HTTP 429)",
     "Salesforce": "request failed after 3 attempts: POST https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs (HTTP 429)",
     "Snap": "request failed after 3 attempts: POST https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs (HTTP 429)",
-    "Uber": "request failed after 3 attempts: POST https://www.uber.com/api/loadSearchJobsResults?localeCode=en (404 Client Error: Not Found for url: https://www.uber.com/api/loadSearchJobsResults?localeCode=en)"
+    "Uber": "request failed after 3 attempts: POST https://www.uber.com/api/loadSearchJobsResults?localeCode=en (404 Client Error: Not Found for url: https://www.uber.com/api/loadSearchJobsResults?localeCode=en)",
+    "Visa": "request failed after 3 attempts: POST https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs (HTTP 429)"
   },
   "succeeded": [
     "Airbnb",
@@ -41,7 +42,6 @@
     "Snowflake",
     "Spotify",
     "Stripe",
-    "Visa",
     "Waymo",
     "Wise"
   ]
