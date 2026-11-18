@@ -2693,8 +2693,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship"
     },
     "amazon:10603649": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-11-18",
       "company": "Amazon",
       "degrees": [],
       "external_id": "10603649",
@@ -2721,6 +2722,21 @@
       "posted": "2026-11-13",
       "title": "2027 Applied Science Internship - Robotics - United States",
       "url": "https://www.amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states"
+    },
+    "amazon:10608081": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10608081",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "locations": [
+        "Amsterdam, North Holland, NLD"
+      ],
+      "posted": "2026-11-18",
+      "title": "Professional Services Cloud Consultant Intern",
+      "url": "https://www.amazon.jobs/en/jobs/10608081/professional-services-cloud-consultant-intern"
     },
     "amazon:3063220": {
       "active": false,
@@ -4014,9 +4030,9 @@
       "url": "https://jobs.apple.com/en-us/details/200689651/subject-matter-expert-data-science-intern"
     },
     "apple:200689695": {
-      "active": true,
+      "active": false,
       "category": "Security",
-      "closed": "2026-11-09",
+      "closed": "2026-11-18",
       "company": "Apple",
       "degrees": [],
       "external_id": "200689695",
@@ -4378,6 +4394,21 @@
       "posted": "2026-11-17",
       "title": "QA Automation Test Engineering Intern - Dublin, Ireland",
       "url": "https://jobs.apple.com/en-us/details/200695155/qa-automation-test-engineering-intern-dublin-ireland"
+    },
+    "apple:200695667": {
+      "active": true,
+      "category": "Software",
+      "company": "Apple",
+      "degrees": [],
+      "external_id": "200695667",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "locations": [
+        "Dublin"
+      ],
+      "posted": "2026-11-18",
+      "title": "Software Engineering Intern, Apple Services - Dublin, Ireland",
+      "url": "https://jobs.apple.com/en-us/details/200695667/software-engineering-intern-apple-services-dublin-ireland"
     },
     "cisco:2005347": {
       "active": false,
@@ -7736,14 +7767,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128711"
     },
     "ibm:128716": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-18",
       "company": "IBM",
       "degrees": [],
       "external_id": "128716",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "New York, United States"
       ],
@@ -7784,14 +7815,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128765"
     },
     "ibm:128770": {
-      "active": false,
+      "active": true,
       "category": "Security",
       "closed": "2026-11-18",
       "company": "IBM",
       "degrees": [],
       "external_id": "128770",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "University Park, United States"
       ],
@@ -7816,14 +7847,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128771"
     },
     "ibm:128784": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-18",
       "company": "IBM",
       "degrees": [],
       "external_id": "128784",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "BATON ROUGE, United States"
       ],
@@ -7832,14 +7863,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128784"
     },
     "ibm:128790": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-18",
       "company": "IBM",
       "degrees": [],
       "external_id": "128790",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "BATON ROUGE, United States"
       ],
@@ -7896,9 +7927,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128807"
     },
     "ibm:128815": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-17",
+      "closed": "2026-11-18",
       "company": "IBM",
       "degrees": [],
       "external_id": "128815",
@@ -8008,14 +8039,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128910"
     },
     "ibm:129227": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-18",
       "company": "IBM",
       "degrees": [],
       "external_id": "129227",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "University Park, United States"
       ],
@@ -8391,9 +8422,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130074"
     },
     "ibm:130092": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-17",
+      "closed": "2026-11-18",
       "company": "IBM",
       "degrees": [],
       "external_id": "130092",
@@ -8471,14 +8502,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130107"
     },
     "ibm:130110": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-18",
       "company": "IBM",
       "degrees": [],
       "external_id": "130110",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "Austin, United States"
       ],
@@ -8775,14 +8806,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130928"
     },
     "ibm:131072": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-11-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "131072",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "TUCSON, United States"
       ],
@@ -9222,14 +9253,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132433"
     },
     "ibm:132434": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-11-18",
       "company": "IBM",
       "degrees": [],
       "external_id": "132434",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "Yorktown Heights, United States"
       ],
@@ -9254,14 +9285,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132567"
     },
     "ibm:132569": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-11-18",
       "company": "IBM",
       "degrees": [],
       "external_id": "132569",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "Yorktown Heights, United States"
       ],
@@ -9270,14 +9301,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132569"
     },
     "ibm:132699": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-11-18",
       "company": "IBM",
       "degrees": [],
       "external_id": "132699",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "Yorktown Heights, United States"
       ],
@@ -9334,9 +9365,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132725"
     },
     "ibm:132776": {
-      "active": true,
+      "active": false,
       "category": "Data",
-      "closed": "2026-11-17",
+      "closed": "2026-11-18",
       "company": "IBM",
       "degrees": [],
       "external_id": "132776",
@@ -9752,14 +9783,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134474"
     },
     "ibm:134486": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "134486",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "Multiple Cities"
       ],
@@ -9930,14 +9961,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=135456"
     },
     "ibm:135502": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-18",
       "company": "IBM",
       "degrees": [],
       "external_id": "135502",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "Ehningen, Germany"
       ],
@@ -10170,14 +10201,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137095"
     },
     "ibm:137098": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-11-18",
       "company": "IBM",
       "degrees": [],
       "external_id": "137098",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "POUGHKEEPSIE, United States"
       ],
@@ -10220,14 +10251,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137106"
     },
     "ibm:137214": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-11-18",
       "company": "IBM",
       "degrees": [],
       "external_id": "137214",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "Multiple Cities"
       ],
@@ -10268,14 +10299,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137269"
     },
     "ibm:137390": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-11-18",
       "company": "IBM",
       "degrees": [],
       "external_id": "137390",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "MONTEVIDEO, Uruguay"
       ],
@@ -10526,9 +10557,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=139192"
     },
     "ibm:139618": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-17",
+      "closed": "2026-11-18",
       "company": "IBM",
       "degrees": [],
       "external_id": "139618",
@@ -10763,14 +10794,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=140170"
     },
     "ibm:140606": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-18",
       "company": "IBM",
       "degrees": [],
       "external_id": "140606",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "Markham, Canada"
       ],
@@ -10811,14 +10842,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=141091"
     },
     "ibm:141131": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-18",
       "company": "IBM",
       "degrees": [],
       "external_id": "141131",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "GUADALAJARA, Mexico"
       ],
@@ -10862,14 +10893,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=141858"
     },
     "ibm:141863": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-11-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "141863",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "Giza, Egypt"
       ],
@@ -10909,14 +10940,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=142175"
     },
     "ibm:142564": {
-      "active": false,
+      "active": true,
       "category": "QA",
       "closed": "2026-11-18",
       "company": "IBM",
       "degrees": [],
       "external_id": "142564",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "TUCSON, United States"
       ],
@@ -10925,14 +10956,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=142564"
     },
     "ibm:143000": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-11-18",
       "company": "IBM",
       "degrees": [],
       "external_id": "143000",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "Yorktown Heights, United States"
       ],
@@ -24988,5 +25019,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-18T07:38:24Z"
+  "updated_at": "2026-11-18T17:22:54Z"
 }
