@@ -2738,6 +2738,21 @@
       "title": "Professional Services Cloud Consultant Intern",
       "url": "https://www.amazon.jobs/en/jobs/10608081/professional-services-cloud-consultant-intern"
     },
+    "amazon:10609138": {
+      "active": true,
+      "category": "Data",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10609138",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "locations": [
+        "Luxembourg, LUX"
+      ],
+      "posted": "2026-11-19",
+      "title": "Business Intelligence Intern Luxembourg",
+      "url": "https://www.amazon.jobs/en/jobs/10609138/business-intelligence-intern-luxembourg"
+    },
     "amazon:3063220": {
       "active": false,
       "category": "Software",
@@ -7686,14 +7701,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128549"
     },
     "ibm:128551": {
-      "active": false,
+      "active": true,
       "category": "Security",
       "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "128551",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "Chicago, United States"
       ],
@@ -7814,14 +7829,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128737"
     },
     "ibm:128765": {
-      "active": false,
+      "active": true,
       "category": "Security",
       "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "128765",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "University Park, United States"
       ],
@@ -7910,9 +7925,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128792"
     },
     "ibm:128797": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-15",
+      "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "128797",
@@ -7990,9 +8005,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128818"
     },
     "ibm:128823": {
-      "active": true,
+      "active": false,
       "category": "Data",
-      "closed": "2026-11-14",
+      "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "128823",
@@ -8006,14 +8021,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128823"
     },
     "ibm:128824": {
-      "active": false,
+      "active": true,
       "category": "Data",
       "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "128824",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "BATON ROUGE, United States"
       ],
@@ -8070,9 +8085,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129227"
     },
     "ibm:129244": {
-      "active": true,
+      "active": false,
       "category": "Data",
-      "closed": "2026-11-14",
+      "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "129244",
@@ -8278,9 +8293,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129919"
     },
     "ibm:129926": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-15",
+      "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "129926",
@@ -8549,14 +8564,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130113"
     },
     "ibm:130114": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "130114",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "Multiple Cities"
       ],
@@ -8613,9 +8628,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130716"
     },
     "ibm:130735": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-13",
+      "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "130735",
@@ -8677,14 +8692,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130760"
     },
     "ibm:130762": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "130762",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "Multiple Cities"
       ],
@@ -8933,9 +8948,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131195"
     },
     "ibm:131205": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-11-15",
+      "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "131205",
@@ -9093,9 +9108,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=131816"
     },
     "ibm:131827": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-14",
+      "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "131827",
@@ -9204,9 +9219,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132416"
     },
     "ibm:132423": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-13",
+      "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "132423",
@@ -9252,9 +9267,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132431"
     },
     "ibm:132433": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-15",
+      "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "132433",
@@ -9606,14 +9621,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133462"
     },
     "ibm:133470": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "133470",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "Yorktown Heights, United States"
       ],
@@ -9750,9 +9765,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134121"
     },
     "ibm:134130": {
-      "active": true,
+      "active": false,
       "category": "QA",
-      "closed": "2026-11-14",
+      "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "134130",
@@ -10184,14 +10199,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137070"
     },
     "ibm:137086": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "137086",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "POUGHKEEPSIE, United States"
       ],
@@ -10232,7 +10247,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137098"
     },
     "ibm:137105": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-11-19",
       "company": "IBM",
@@ -10241,7 +10256,7 @@
       ],
       "external_id": "137105",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "POUGHKEEPSIE, United States"
       ],
@@ -10250,9 +10265,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137105"
     },
     "ibm:137106": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-11-15",
+      "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "137106",
@@ -10298,9 +10313,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137250"
     },
     "ibm:137269": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-15",
+      "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "137269",
@@ -10346,9 +10361,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137400"
     },
     "ibm:137428": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-11-15",
+      "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "137428",
@@ -10410,14 +10425,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137677"
     },
     "ibm:137919": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "137919",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "Armonk, United States"
       ],
@@ -10490,9 +10505,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=138776"
     },
     "ibm:138790": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-11-15",
+      "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [
         "MS"
@@ -10540,14 +10555,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=138998"
     },
     "ibm:139034": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "139034",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "Singapore, Singapore"
       ],
@@ -10588,9 +10603,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=139618"
     },
     "ibm:139670": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-11-15",
+      "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "139670",
@@ -10650,14 +10665,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=139968"
     },
     "ibm:140053": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "140053",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "Singapore, Singapore"
       ],
@@ -10666,14 +10681,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=140053"
     },
     "ibm:140056": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "140056",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "Singapore, Singapore"
       ],
@@ -10841,9 +10856,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=140610"
     },
     "ibm:141091": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-14",
+      "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "141091",
@@ -10873,9 +10888,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=141131"
     },
     "ibm:141838": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-14",
+      "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [
         "MS",
@@ -10924,14 +10939,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=141863"
     },
     "ibm:142059": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "142059",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "locations": [
         "GUADALAJARA, Mexico"
       ],
@@ -17136,7 +17151,7 @@
       "degrees": [],
       "external_id": "1970393556917519",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "India, Multiple Locations, Multiple Locations"
       ],
@@ -17209,9 +17224,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929"
     },
     "microsoft:1970393556922930": {
-      "active": true,
+      "active": false,
       "category": "Security",
-      "closed": "2026-10-08",
+      "closed": "2026-11-19",
       "company": "Microsoft",
       "degrees": [],
       "external_id": "1970393556922930",
@@ -17264,7 +17279,7 @@
       "degrees": [],
       "external_id": "1970393556942310",
       "first_seen": "2026-07-31",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "Qatar, Ad Daw\u1e29ah, Doha"
       ],
@@ -17504,7 +17519,7 @@
       "degrees": [],
       "external_id": "1970393556972877",
       "first_seen": "2026-08-20",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "Japan, Tokyo-to, Tokyo"
       ],
@@ -17627,7 +17642,7 @@
       ],
       "external_id": "1970393556982928",
       "first_seen": "2026-09-02",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -17642,7 +17657,7 @@
       "degrees": [],
       "external_id": "1970393556983221",
       "first_seen": "2026-09-11",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -17657,7 +17672,7 @@
       "degrees": [],
       "external_id": "1970393556983223",
       "first_seen": "2026-09-11",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, Virginia, Reston"
       ],
@@ -17693,7 +17708,7 @@
       ],
       "external_id": "1970393556986140",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, California, Mountain View",
         "United States, Washington, Redmond"
@@ -17710,7 +17725,7 @@
       "degrees": [],
       "external_id": "1970393556986141",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -17822,7 +17837,7 @@
       "degrees": [],
       "external_id": "1970393556998387",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "Belgium, Brussels Region, Brussels"
       ],
@@ -17847,9 +17862,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556999315"
     },
     "microsoft:1970393556999316": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-18",
+      "closed": "2026-11-19",
       "company": "Microsoft",
       "degrees": [],
       "external_id": "1970393556999316",
@@ -17951,7 +17966,7 @@
       "degrees": [],
       "external_id": "1970393557008574",
       "first_seen": "2026-09-26",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -18030,7 +18045,7 @@
       "degrees": [],
       "external_id": "1970393557022480",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -18141,7 +18156,7 @@
       "degrees": [],
       "external_id": "1970393557037859",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -18204,7 +18219,7 @@
       "degrees": [],
       "external_id": "1970393557040333",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, Massachusetts, Cambridge"
       ],
@@ -18220,7 +18235,7 @@
       "degrees": [],
       "external_id": "1970393557040344",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -18235,7 +18250,7 @@
       "degrees": [],
       "external_id": "1970393557040502",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, Massachusetts, Cambridge",
         "United States, Washington, Redmond"
@@ -18251,7 +18266,7 @@
       "degrees": [],
       "external_id": "1970393557040927",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "Canada, Qu\u00e9bec, Montreal"
       ],
@@ -18284,7 +18299,7 @@
       "degrees": [],
       "external_id": "1970393557041284",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "Netherlands, Noord-Holland, Schiphol"
       ],
@@ -18299,7 +18314,7 @@
       "degrees": [],
       "external_id": "1970393557041287",
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "Germany, Multiple Locations, Multiple Locations"
       ],
@@ -18314,7 +18329,7 @@
       "degrees": [],
       "external_id": "1970393557041731",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -18329,7 +18344,7 @@
       "degrees": [],
       "external_id": "1970393557042145",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, Massachusetts, Cambridge",
         "United States, New York, New York"
@@ -18345,7 +18360,7 @@
       "degrees": [],
       "external_id": "1970393557042156",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, New York, New York",
         "United States, Washington, Redmond"
@@ -18361,7 +18376,7 @@
       "degrees": [],
       "external_id": "1970393557042485",
       "first_seen": "2026-10-18",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "Israel, Tel Aviv, Herzliya"
       ],
@@ -18395,7 +18410,7 @@
       "degrees": [],
       "external_id": "1970393557042488",
       "first_seen": "2026-10-18",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "Israel, Tel Aviv, Herzliya"
       ],
@@ -18410,7 +18425,7 @@
       "degrees": [],
       "external_id": "1970393557043380",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "India, Multiple Locations, Multiple Locations"
       ],
@@ -18441,7 +18456,7 @@
       "degrees": [],
       "external_id": "1970393557043465",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "Israel, Tel Aviv, Tel Aviv"
       ],
@@ -18456,7 +18471,7 @@
       "degrees": [],
       "external_id": "1970393557043740",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -18471,7 +18486,7 @@
       "degrees": [],
       "external_id": "1970393557043754",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -18512,8 +18527,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557044764"
     },
     "microsoft:1970393557044765": {
-      "active": true,
+      "active": false,
       "category": "Security",
+      "closed": "2026-11-19",
       "company": "Microsoft",
       "degrees": [],
       "external_id": "1970393557044765",
@@ -18565,7 +18581,7 @@
       "degrees": [],
       "external_id": "1970393557049981",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -18580,7 +18596,7 @@
       "degrees": [],
       "external_id": "1970393557050102",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United Kingdom, Cambridgeshire, Cambridge"
       ],
@@ -18595,7 +18611,7 @@
       "degrees": [],
       "external_id": "1970393557050150",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -18612,7 +18628,7 @@
       ],
       "external_id": "1970393557050154",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -18643,7 +18659,7 @@
       "degrees": [],
       "external_id": "1970393557054069",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -18658,7 +18674,7 @@
       "degrees": [],
       "external_id": "1970393557056017",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, Massachusetts, Cambridge",
         "United States, New York, New York"
@@ -18674,7 +18690,7 @@
       "degrees": [],
       "external_id": "1970393557070079",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -18689,13 +18705,30 @@
       "degrees": [],
       "external_id": "1970393557070382",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United Kingdom, Cambridgeshire, Cambridge"
       ],
       "posted": "2026-11-11",
       "title": "Cambridge Internship Program: MSRC AI Security Research",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557070382"
+    },
+    "microsoft:1970393557072640": {
+      "active": true,
+      "category": "Data",
+      "company": "Microsoft",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1970393557072640",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "locations": [
+        "Switzerland, Z\u00fcrich, Z\u00fcrich"
+      ],
+      "posted": "2026-11-19",
+      "title": "Data Science - PhD Internship Opportunities",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557072640"
     },
     "microsoft:1970393557073162": {
       "active": true,
@@ -18704,7 +18737,7 @@
       "degrees": [],
       "external_id": "1970393557073162",
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "Egypt, Cairo, Cairo"
       ],
@@ -18719,7 +18752,7 @@
       "degrees": [],
       "external_id": "1970393557073416",
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -18734,13 +18767,90 @@
       "degrees": [],
       "external_id": "1970393557073455",
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-19",
       "locations": [
         "United States, Washington, Redmond"
       ],
       "posted": "2026-11-13",
       "title": "Research Intern - MSR Software-Hardware Co-design",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455"
+    },
+    "microsoft:1970393557074642": {
+      "active": true,
+      "category": "Security",
+      "company": "Microsoft",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1970393557074642",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "posted": "2026-11-17",
+      "title": "Security Research: PhD Internship Opportunities",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557074642"
+    },
+    "microsoft:1970393557075136": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "degrees": [],
+      "external_id": "1970393557075136",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "posted": "2026-11-18",
+      "title": "Research Intern - Self-Improving & Secure AI Agents - Microsoft Research",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557075136"
+    },
+    "microsoft:1970393557075140": {
+      "active": true,
+      "category": "Security",
+      "company": "Microsoft",
+      "degrees": [],
+      "external_id": "1970393557075140",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "posted": "2026-11-17",
+      "title": "Research Intern - Firmware Security",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140"
+    },
+    "microsoft:1970393557075490": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "degrees": [],
+      "external_id": "1970393557075490",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "posted": "2026-11-18",
+      "title": "Research Intern - Computer Vision and Deep Learning",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557075490"
+    },
+    "microsoft:1970393557075527": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "degrees": [],
+      "external_id": "1970393557075527",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "posted": "2026-11-18",
+      "title": "Research Intern - AI Software Systems",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557075527"
     },
     "mongodb:8209134": {
       "active": true,
@@ -23301,8 +23411,9 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130883"
     },
     "stripe:8186442": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-11-19",
       "company": "Stripe",
       "degrees": [],
       "external_id": "8186442",
@@ -25068,5 +25179,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-19T00:31:06Z"
+  "updated_at": "2026-11-19T10:30:09Z"
 }
