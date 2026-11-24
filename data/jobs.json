@@ -759,6 +759,21 @@
       "title": "2026 Fall Quantum Applied Science Internship, Center for Quantum Computing",
       "url": "https://www.amazon.jobs/en/jobs/10419240/2026-fall-quantum-applied-science-internship-center-for-quantum-computing"
     },
+    "amazon:10443572": {
+      "active": true,
+      "category": "Data",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10443572",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "locations": [
+        "Chennai, Tamil Nadu, IND"
+      ],
+      "posted": "2026-11-24",
+      "title": "Data Scientist I 6M Intern",
+      "url": "https://www.amazon.jobs/en/jobs/10443572/data-scientist-i-6m-intern"
+    },
     "amazon:10456239": {
       "active": true,
       "category": "AI/ML",
@@ -2770,6 +2785,21 @@
       "title": "Business Intelligence Intern Luxembourg",
       "url": "https://www.amazon.jobs/en/jobs/10609138/business-intelligence-intern-luxembourg"
     },
+    "amazon:10612415": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10612415",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "locations": [
+        "Beijing, CHN"
+      ],
+      "posted": "2026-11-24",
+      "title": "Software Development Engineer Intern - 2027, Beijing",
+      "url": "https://www.amazon.jobs/en/jobs/10612415/software-development-engineer-intern-2027-beijing"
+    },
     "amazon:3063220": {
       "active": false,
       "category": "Software",
@@ -4078,8 +4108,9 @@
       "url": "https://jobs.apple.com/en-us/details/200689695/ai-ml-internship-self-improving-ai-agents-for-cybersecurity-sear"
     },
     "apple:200689711": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-11-24",
       "company": "Apple",
       "degrees": [],
       "external_id": "200689711",
@@ -4243,7 +4274,7 @@
       "locations": [
         "Aachen"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-11-24",
       "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
       "url": "https://jobs.apple.com/en-us/details/200692236/internship-machine-learning-research-speech-to-speech-translation"
     },
@@ -4445,8 +4476,9 @@
       "url": "https://jobs.apple.com/en-us/details/200695373/software-engineering-intern-full-stack-ai-integration-shanghai"
     },
     "apple:200695667": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-11-24",
       "company": "Apple",
       "degrees": [],
       "external_id": "200695667",
@@ -5030,8 +5062,9 @@
       "url": "https://careers.cisco.com/global/en/job/2032589"
     },
     "cisco:2032691": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-11-24",
       "company": "Cisco",
       "degrees": [],
       "external_id": "2032691",
@@ -7593,14 +7626,14 @@
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369"
     },
     "ibm:123742": {
-      "active": false,
+      "active": true,
       "category": "Frontend",
       "closed": "2026-10-19",
       "company": "IBM",
       "degrees": [],
       "external_id": "123742",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-19",
+      "last_seen": "2026-11-24",
       "locations": [
         "Doha, Qatar"
       ],
@@ -7655,6 +7688,36 @@
       "posted": null,
       "title": "Threat Intelligence Consultant-Threat Analysis",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=123754"
+    },
+    "ibm:125540": {
+      "active": true,
+      "category": "Security",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "125540",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "locations": [
+        "Doha, Qatar"
+      ],
+      "posted": null,
+      "title": "Security Consultant-Security Strategy, Risk & Compliance Services - Internship",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=125540"
+    },
+    "ibm:125547": {
+      "active": true,
+      "category": "Security",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "125547",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "locations": [
+        "Doha, Qatar"
+      ],
+      "posted": null,
+      "title": "Security Consultant-Security Strategy, Risk & Compliance Services - Internship",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=125547"
     },
     "ibm:128230": {
       "active": false,
@@ -8056,9 +8119,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128815"
     },
     "ibm:128816": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-17",
+      "closed": "2026-11-24",
       "company": "IBM",
       "degrees": [],
       "external_id": "128816",
@@ -8200,9 +8263,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=129258"
     },
     "ibm:129628": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-23",
+      "closed": "2026-11-24",
       "company": "IBM",
       "degrees": [],
       "external_id": "129628",
@@ -8760,9 +8823,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130758"
     },
     "ibm:130759": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-20",
+      "closed": "2026-11-24",
       "company": "IBM",
       "degrees": [],
       "external_id": "130759",
@@ -8792,14 +8855,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130760"
     },
     "ibm:130762": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-24",
       "company": "IBM",
       "degrees": [],
       "external_id": "130762",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "Multiple Cities"
       ],
@@ -8936,9 +8999,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130928"
     },
     "ibm:131072": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-11-20",
+      "closed": "2026-11-24",
       "company": "IBM",
       "degrees": [],
       "external_id": "131072",
@@ -9303,9 +9366,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132407"
     },
     "ibm:132416": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-23",
+      "closed": "2026-11-24",
       "company": "IBM",
       "degrees": [],
       "external_id": "132416",
@@ -9319,9 +9382,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132416"
     },
     "ibm:132423": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-22",
+      "closed": "2026-11-24",
       "company": "IBM",
       "degrees": [],
       "external_id": "132423",
@@ -9399,14 +9462,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132434"
     },
     "ibm:132567": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-11-24",
       "company": "IBM",
       "degrees": [],
       "external_id": "132567",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "San Jose, United States"
       ],
@@ -9737,14 +9800,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133462"
     },
     "ibm:133470": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-11-23",
       "company": "IBM",
       "degrees": [],
       "external_id": "133470",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "Yorktown Heights, United States"
       ],
@@ -9817,9 +9880,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133909"
     },
     "ibm:134050": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-23",
+      "closed": "2026-11-24",
       "company": "IBM",
       "degrees": [],
       "external_id": "134050",
@@ -10235,14 +10298,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=136727"
     },
     "ibm:136943": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-11-24",
       "company": "IBM",
       "degrees": [],
       "external_id": "136943",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "Multiple Cities"
       ],
@@ -10363,7 +10426,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137098"
     },
     "ibm:137105": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-11-23",
       "company": "IBM",
@@ -10372,7 +10435,7 @@
       ],
       "external_id": "137105",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-24",
       "locations": [
         "POUGHKEEPSIE, United States"
       ],
@@ -10689,14 +10752,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=139034"
     },
     "ibm:139192": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-11-20",
       "company": "IBM",
       "degrees": [],
       "external_id": "139192",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-24",
       "locations": [
         "Ehningen, Germany"
       ],
@@ -10751,6 +10814,23 @@
       "posted": null,
       "title": "Supply Chain Software Engineer Intern",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=139797"
+    },
+    "ibm:139801": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "IBM",
+      "degrees": [
+        "MS"
+      ],
+      "external_id": "139801",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "locations": [
+        "Ehningen, Germany"
+      ],
+      "posted": null,
+      "title": "Masterthesis: AI-Driven Performance Analysis of Linux / KVM (f/m/x)",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=139801"
     },
     "ibm:139849": {
       "active": false,
@@ -10976,9 +11056,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=140610"
     },
     "ibm:141091": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-20",
+      "closed": "2026-11-24",
       "company": "IBM",
       "degrees": [],
       "external_id": "141091",
@@ -11214,6 +11294,21 @@
       "posted": null,
       "title": "IBM Internship AI Engineer",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=145783"
+    },
+    "ibm:146219": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "146219",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "locations": [
+        "Krakow, Poland"
+      ],
+      "posted": null,
+      "title": "Software Developer Intern 2027",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=146219"
     },
     "intel:JR0282639": {
       "active": false,
@@ -14373,7 +14468,8 @@
       "first_seen": "2026-10-30",
       "last_seen": "2026-11-24",
       "locations": [
-        "Menlo Park, CA"
+        "Menlo Park, CA",
+        "New York, NY"
       ],
       "posted": null,
       "title": "Research Scientist Intern, MSL - Agentic Post-Training (PhD)",
@@ -25776,5 +25872,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-24T04:56:29Z"
+  "updated_at": "2026-11-24T17:55:42Z"
 }
