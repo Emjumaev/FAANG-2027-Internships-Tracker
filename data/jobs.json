@@ -5075,8 +5075,9 @@
       "url": "https://careers.cisco.com/global/en/job/2029145"
     },
     "cisco:2030295": {
-      "active": true,
+      "active": false,
       "category": "Security",
+      "closed": "2026-11-26",
       "company": "Cisco",
       "degrees": [],
       "external_id": "2030295",
@@ -8165,14 +8166,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128807"
     },
     "ibm:128815": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-25",
       "company": "IBM",
       "degrees": [],
       "external_id": "128815",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "BATON ROUGE, United States"
       ],
@@ -8661,14 +8662,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130074"
     },
     "ibm:130092": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-25",
       "company": "IBM",
       "degrees": [],
       "external_id": "130092",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "TUCSON, United States"
       ],
@@ -9620,14 +9621,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132725"
     },
     "ibm:132776": {
-      "active": false,
+      "active": true,
       "category": "Data",
       "closed": "2026-11-25",
       "company": "IBM",
       "degrees": [],
       "external_id": "132776",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "Yorktown Heights, United States"
       ],
@@ -23141,11 +23142,11 @@
       ],
       "external_id": "R0138579",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-26",
       "locations": [
         "San Jose, California, United States of America"
       ],
-      "posted": "2026-11-06",
+      "posted": "2026-11-05",
       "title": "Machine Learning Engineer PhD Intern - Summer 2027",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-PhD-Intern---Summer-2027_R0138579"
     },
@@ -23156,11 +23157,11 @@
       "degrees": [],
       "external_id": "R0138581",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-26",
       "locations": [
         "San Jose, California, United States of America"
       ],
-      "posted": "2026-11-06",
+      "posted": "2026-11-05",
       "title": "Machine Learning Engineer Intern - Summer 2027",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-Intern---Summer-2027_R0138581"
     },
@@ -23171,11 +23172,11 @@
       "degrees": [],
       "external_id": "R0138582",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-26",
       "locations": [
         "San Jose, California, United States of America"
       ],
-      "posted": "2026-11-06",
+      "posted": "2026-11-05",
       "title": "Data Scientist Intern - Summer 2027",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist-Intern---Summer-2027_R0138582"
     },
@@ -23186,11 +23187,11 @@
       "degrees": [],
       "external_id": "R0138583",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-26",
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-11-06",
+      "posted": "2026-11-05",
       "title": "Mobile Engineer Intern - Summer 2027",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Mobile-Engineer-Intern---Summer-2027_R0138583"
     },
@@ -23201,11 +23202,11 @@
       "degrees": [],
       "external_id": "R0138586",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-26",
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-11-06",
+      "posted": "2026-11-05",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern---Summer-2027_R0138586"
     },
@@ -23216,17 +23217,18 @@
       "degrees": [],
       "external_id": "R0138587",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-26",
       "locations": [
         "4 Locations"
       ],
-      "posted": "2026-11-06",
+      "posted": "2026-11-05",
       "title": "Cybersecurity Intern - Summer 2027",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Cybersecurity-Intern---Summer-2027_R0138587"
     },
     "paypal:R0138730": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-11-26",
       "company": "PayPal",
       "degrees": [],
       "external_id": "R0138730",
@@ -23240,8 +23242,9 @@
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Tel-Aviv-Tel-Aviv-District-Israel/Software-Engineer-Intern_R0138730"
     },
     "paypal:R0138921": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-11-26",
       "company": "PayPal",
       "degrees": [],
       "external_id": "R0138921",
@@ -23253,6 +23256,66 @@
       "posted": "2026-11-10",
       "title": "Software Engineer Intern",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Software-Engineer-Intern_R0138921"
+    },
+    "paypal:R0138930": {
+      "active": true,
+      "category": "Software",
+      "company": "PayPal",
+      "degrees": [],
+      "external_id": "R0138930",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "locations": [
+        "Central Singapore, Singapore"
+      ],
+      "posted": "2026-11-18",
+      "title": "Full Stack Software Engineer Intern",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Full-Stack-Software-Engineer-Intern_R0138930"
+    },
+    "paypal:R0138931": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "PayPal",
+      "degrees": [],
+      "external_id": "R0138931",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "locations": [
+        "Central Singapore, Singapore"
+      ],
+      "posted": "2026-11-18",
+      "title": "Software Engineer Intern - Backend",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Software-Engineer-Intern---Backend_R0138931"
+    },
+    "paypal:R0138932": {
+      "active": true,
+      "category": "Security",
+      "company": "PayPal",
+      "degrees": [],
+      "external_id": "R0138932",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "locations": [
+        "Central Singapore, Singapore"
+      ],
+      "posted": "2026-11-18",
+      "title": "Cyber Defense Intern",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Cyber-Defense-Intern_R0138932"
+    },
+    "paypal:R0138933": {
+      "active": true,
+      "category": "Security",
+      "company": "PayPal",
+      "degrees": [],
+      "external_id": "R0138933",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "locations": [
+        "Central Singapore, Singapore"
+      ],
+      "posted": "2026-11-18",
+      "title": "Cybersecurity Risk Intern",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Cybersecurity-Risk-Intern_R0138933"
     },
     "perplexity-ai:71168628-1998-47d3-87a9-be7bc56a430d": {
       "active": true,
@@ -24391,7 +24454,7 @@
       ],
       "external_id": "REF088578W",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "US - Foster City, CA"
       ],
@@ -24442,11 +24505,11 @@
       "degrees": [],
       "external_id": "REF089622W",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "NL - Amsterdam, Netherlands"
       ],
-      "posted": "2026-11-19",
+      "posted": "2026-11-18",
       "title": "Consulting & Analytics Summer Intern (Dutch Speakers)",
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/NL---Amsterdam-Netherlands/Consulting---Analytics-Summer-Intern_REF089622W-2"
     },
@@ -24457,11 +24520,11 @@
       "degrees": [],
       "external_id": "REF089625W",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "DE - Frankfurt, Germany"
       ],
-      "posted": "2026-11-19",
+      "posted": "2026-11-26",
       "title": "Consulting & Analytics Summer Intern",
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/DE---Frankfurt-Germany/Consulting---Analytics-Summer-Intern_REF089625W-2"
     },
@@ -24472,11 +24535,11 @@
       "degrees": [],
       "external_id": "REF089675W",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "PL - Warsaw, Poland"
       ],
-      "posted": "2026-11-18",
+      "posted": "2026-11-17",
       "title": "Software Engineer Intern",
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/PL---Warsaw-Poland/Software-Engineer-Intern_REF089675W-2"
     },
@@ -24663,11 +24726,11 @@
       "degrees": [],
       "external_id": "REF089917W",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "ES - Madrid, Spain"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Consulting & Analytics Summer Intern",
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/ES---Madrid-Spain/Consulting---Analytics-Summer-Intern_REF089917W-1"
     },
@@ -24726,17 +24789,18 @@
       "degrees": [],
       "external_id": "REF090118W",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "PT - Lisbon, Portugal"
       ],
-      "posted": "2026-11-19",
+      "posted": "2026-11-18",
       "title": "Consulting & Analytics Summer Intern",
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/PT---Lisbon-Portugal/Consulting---Analytics-Summer-Intern_REF090118W-2"
     },
     "visa:REF090466W": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-11-26",
       "company": "Visa",
       "degrees": [],
       "external_id": "REF090466W",
@@ -24756,11 +24820,11 @@
       "degrees": [],
       "external_id": "REF090467W",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "GB - Cambridge, United Kingdom"
       ],
-      "posted": "2026-11-13",
+      "posted": "2026-11-12",
       "title": "Software Engineer Intern",
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1"
     },
@@ -25972,5 +26036,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-26T00:29:00Z"
+  "updated_at": "2026-11-26T11:02:50Z"
 }
