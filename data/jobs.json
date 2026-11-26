@@ -928,6 +928,21 @@
       "title": "2026 Software Dev Engineer Intern - Spain",
       "url": "https://www.amazon.jobs/en/jobs/10531760/2026-software-dev-engineer-intern-spain"
     },
+    "amazon:10535149": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10535149",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "locations": [
+        "Cambridge, England, GBR"
+      ],
+      "posted": "2026-11-14",
+      "title": "System Dev Engineer Internship 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10535149/system-dev-engineer-internship-2027"
+    },
     "amazon:10535280": {
       "active": true,
       "category": "AI/ML",
@@ -2091,8 +2106,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10579683/business-intelligence-engineer-internship-turkey"
     },
     "amazon:10579727": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-11-26",
       "company": "Amazon",
       "degrees": [],
       "external_id": "10579727",
@@ -2814,6 +2830,21 @@
       "posted": "2026-11-24",
       "title": "Software Development Engineer Intern - 2027, Beijing",
       "url": "https://www.amazon.jobs/en/jobs/10612415/software-development-engineer-intern-2027-beijing"
+    },
+    "amazon:10615428": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10615428",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "locations": [
+        "Berlin, Berlin, DEU"
+      ],
+      "posted": "2026-11-26",
+      "title": "2027 Software Dev Engineer Internship, AWS EC2",
+      "url": "https://www.amazon.jobs/en/jobs/10615428/2027-software-dev-engineer-internship-aws-ec2"
     },
     "amazon:3063220": {
       "active": false,
@@ -3751,8 +3782,9 @@
       "url": "https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture"
     },
     "apple:200682900": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-11-26",
       "company": "Apple",
       "degrees": [],
       "external_id": "200682900",
@@ -4263,6 +4295,21 @@
       "title": "Machine Learning Research Intern",
       "url": "https://jobs.apple.com/en-us/details/200691169/machine-learning-research-intern"
     },
+    "apple:200691508": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Apple",
+      "degrees": [],
+      "external_id": "200691508",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "locations": [
+        "Shanghai"
+      ],
+      "posted": "2026-11-06",
+      "title": "Apple Applied AI & Software Engineering Intern (Finance GBS) - Shanghai",
+      "url": "https://jobs.apple.com/en-us/details/200691508/apple-applied-ai-software-engineering-intern-finance-gbs-shanghai"
+    },
     "apple:200691892": {
       "active": false,
       "category": "Backend/Infra",
@@ -4430,8 +4477,9 @@
       "url": "https://jobs.apple.com/en-us/details/200694477/camera-software-intern"
     },
     "apple:200694490": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-11-26",
       "company": "Apple",
       "degrees": [],
       "external_id": "200694490",
@@ -10361,9 +10409,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=136727"
     },
     "ibm:136943": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-11-24",
+      "closed": "2026-11-26",
       "company": "IBM",
       "degrees": [],
       "external_id": "136943",
@@ -11298,8 +11346,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=145216"
     },
     "ibm:145236": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-11-26",
       "company": "IBM",
       "degrees": [],
       "external_id": "145236",
@@ -16282,9 +16331,9 @@
       "url": "https://www.metacareers.com/jobs/2171476533578976"
     },
     "meta:2180490782513668": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-20",
+      "closed": "2026-11-26",
       "company": "Meta",
       "degrees": [
         "PhD"
@@ -17686,11 +17735,11 @@
       "degrees": [],
       "external_id": "1970393556917519",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "India, Multiple Locations, Multiple Locations"
       ],
-      "posted": "2026-10-26",
+      "posted": "2026-11-23",
       "title": "Applied Sciences INTERN",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556917519"
     },
@@ -17814,7 +17863,7 @@
       "degrees": [],
       "external_id": "1970393556942310",
       "first_seen": "2026-07-31",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "Qatar, Ad Daw\u1e29ah, Doha"
       ],
@@ -18054,7 +18103,7 @@
       "degrees": [],
       "external_id": "1970393556972877",
       "first_seen": "2026-08-20",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "Japan, Tokyo-to, Tokyo"
       ],
@@ -18192,7 +18241,7 @@
       "degrees": [],
       "external_id": "1970393556983221",
       "first_seen": "2026-09-11",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -18207,7 +18256,7 @@
       "degrees": [],
       "external_id": "1970393556983223",
       "first_seen": "2026-09-11",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Virginia, Reston"
       ],
@@ -18243,7 +18292,7 @@
       ],
       "external_id": "1970393556986140",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, California, Mountain View",
         "United States, Washington, Redmond"
@@ -18260,7 +18309,7 @@
       "degrees": [],
       "external_id": "1970393556986141",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -18372,7 +18421,7 @@
       "degrees": [],
       "external_id": "1970393556998387",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "Belgium, Brussels Region, Brussels"
       ],
@@ -18501,7 +18550,7 @@
       "degrees": [],
       "external_id": "1970393557008574",
       "first_seen": "2026-09-26",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -18580,7 +18629,7 @@
       "degrees": [],
       "external_id": "1970393557022480",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -18691,7 +18740,7 @@
       "degrees": [],
       "external_id": "1970393557037859",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -18754,7 +18803,7 @@
       "degrees": [],
       "external_id": "1970393557040333",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Massachusetts, Cambridge"
       ],
@@ -18770,7 +18819,7 @@
       "degrees": [],
       "external_id": "1970393557040344",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -18785,7 +18834,7 @@
       "degrees": [],
       "external_id": "1970393557040502",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Massachusetts, Cambridge",
         "United States, Washington, Redmond"
@@ -18801,7 +18850,7 @@
       "degrees": [],
       "external_id": "1970393557040927",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "Canada, Qu\u00e9bec, Montreal"
       ],
@@ -18819,7 +18868,7 @@
       ],
       "external_id": "1970393557040991",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -18834,7 +18883,7 @@
       "degrees": [],
       "external_id": "1970393557041284",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "Netherlands, Noord-Holland, Schiphol"
       ],
@@ -18849,7 +18898,7 @@
       "degrees": [],
       "external_id": "1970393557041287",
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "Germany, Multiple Locations, Multiple Locations"
       ],
@@ -18864,7 +18913,7 @@
       "degrees": [],
       "external_id": "1970393557041731",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -18879,7 +18928,7 @@
       "degrees": [],
       "external_id": "1970393557042145",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Massachusetts, Cambridge",
         "United States, New York, New York"
@@ -18895,7 +18944,7 @@
       "degrees": [],
       "external_id": "1970393557042156",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, New York, New York",
         "United States, Washington, Redmond"
@@ -18905,8 +18954,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557042156"
     },
     "microsoft:1970393557042485": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-11-26",
       "company": "Microsoft",
       "degrees": [],
       "external_id": "1970393557042485",
@@ -18945,7 +18995,7 @@
       "degrees": [],
       "external_id": "1970393557042488",
       "first_seen": "2026-10-18",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "Israel, Tel Aviv, Herzliya"
       ],
@@ -18960,7 +19010,7 @@
       "degrees": [],
       "external_id": "1970393557043380",
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "India, Multiple Locations, Multiple Locations"
       ],
@@ -18991,7 +19041,7 @@
       "degrees": [],
       "external_id": "1970393557043465",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "Israel, Tel Aviv, Tel Aviv"
       ],
@@ -19006,7 +19056,7 @@
       "degrees": [],
       "external_id": "1970393557043740",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -19021,7 +19071,7 @@
       "degrees": [],
       "external_id": "1970393557043754",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -19037,7 +19087,7 @@
       "degrees": [],
       "external_id": "1970393557044053",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "Finland, Satakunta, Tampere"
       ],
@@ -19116,7 +19166,7 @@
       "degrees": [],
       "external_id": "1970393557049981",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -19131,7 +19181,7 @@
       "degrees": [],
       "external_id": "1970393557050102",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United Kingdom, Cambridgeshire, Cambridge"
       ],
@@ -19146,7 +19196,7 @@
       "degrees": [],
       "external_id": "1970393557050150",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -19163,7 +19213,7 @@
       ],
       "external_id": "1970393557050154",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -19194,7 +19244,7 @@
       "degrees": [],
       "external_id": "1970393557054069",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -19209,7 +19259,7 @@
       "degrees": [],
       "external_id": "1970393557056017",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Massachusetts, Cambridge",
         "United States, New York, New York"
@@ -19225,7 +19275,7 @@
       "degrees": [],
       "external_id": "1970393557070079",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -19240,7 +19290,7 @@
       "degrees": [],
       "external_id": "1970393557070382",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United Kingdom, Cambridgeshire, Cambridge"
       ],
@@ -19257,7 +19307,7 @@
       ],
       "external_id": "1970393557072640",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "Switzerland, Z\u00fcrich, Z\u00fcrich"
       ],
@@ -19272,7 +19322,7 @@
       "degrees": [],
       "external_id": "1970393557073162",
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "Egypt, Cairo, Cairo"
       ],
@@ -19287,7 +19337,7 @@
       "degrees": [],
       "external_id": "1970393557073416",
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -19302,7 +19352,7 @@
       "degrees": [],
       "external_id": "1970393557073455",
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -19319,7 +19369,7 @@
       ],
       "external_id": "1970393557074642",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -19334,7 +19384,7 @@
       "degrees": [],
       "external_id": "1970393557075136",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -19349,7 +19399,7 @@
       "degrees": [],
       "external_id": "1970393557075140",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -19364,7 +19414,7 @@
       "degrees": [],
       "external_id": "1970393557075448",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United Kingdom, Cambridgeshire, Cambridge"
       ],
@@ -19379,7 +19429,7 @@
       "degrees": [],
       "external_id": "1970393557075490",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -19394,7 +19444,7 @@
       "degrees": [],
       "external_id": "1970393557075527",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -19409,7 +19459,7 @@
       "degrees": [],
       "external_id": "1970393557076037",
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "Germany, Baden-W\u00fcrttemberg, Stuttgart"
       ],
@@ -19424,7 +19474,7 @@
       "degrees": [],
       "external_id": "1970393557076095",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Washington, Redmond"
       ],
@@ -19439,7 +19489,7 @@
       "degrees": [],
       "external_id": "1970393557076142",
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, California, Mountain View",
         "United States, Washington, Redmond"
@@ -19455,7 +19505,7 @@
       "degrees": [],
       "external_id": "1970393557076159",
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, California, Mountain View",
         "United States, Washington, Redmond"
@@ -19471,7 +19521,7 @@
       "degrees": [],
       "external_id": "1970393557076203",
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "Canada, British Columbia, Vancouver"
       ],
@@ -19486,7 +19536,7 @@
       "degrees": [],
       "external_id": "1970393557076215",
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, California, Mountain View",
         "United States, Washington, Redmond"
@@ -19502,13 +19552,43 @@
       "degrees": [],
       "external_id": "1970393557077583",
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-26",
       "locations": [
         "United States, Oregon, Hillsboro"
       ],
       "posted": "2026-11-20",
       "title": "Research Intern - AI System Architecture Modeling and Performance",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557077583"
+    },
+    "microsoft:1970393557079428": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "degrees": [],
+      "external_id": "1970393557079428",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "posted": "2026-11-24",
+      "title": "Research Intern - AI Systems Architecture and Efficient LLM Inference",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557079428"
+    },
+    "microsoft:1970393557097217": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "degrees": [],
+      "external_id": "1970393557097217",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "locations": [
+        "United States, Washington, Redmond"
+      ],
+      "posted": "2026-11-25",
+      "title": "Research Intern - Machine Learning for Biology and Healthcare",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557097217"
     },
     "mongodb:8209134": {
       "active": true,
@@ -23810,11 +23890,11 @@
       "degrees": [],
       "external_id": "R0047179",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "Los Angeles, California"
       ],
-      "posted": "2026-11-11",
+      "posted": "2026-11-10",
       "title": "2027 Generative Media Research Intern",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179"
     },
@@ -24814,8 +24894,9 @@
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W"
     },
     "visa:REF090467W": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-11-26",
       "company": "Visa",
       "degrees": [],
       "external_id": "REF090467W",
@@ -26036,5 +26117,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-26T11:02:50Z"
+  "updated_at": "2026-11-26T21:42:38Z"
 }
