@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-11-26 00:29:00 UTC** · 📌 **827** open internships
+> 🕐 Last updated: **2026-11-26 11:02:50 UTC** · 📌 **830** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -21,7 +21,7 @@ GitHub Actions.
 | Anthropic | — |
 | [Apple](#apple) | 43 |
 | Bloomberg | — |
-| [Cisco](#cisco) | 8 |
+| [Cisco](#cisco) | 7 |
 | [Cloudflare](#cloudflare) | 3 |
 | [Coinbase](#coinbase) | 7 |
 | [Databricks](#databricks) | 8 |
@@ -31,7 +31,7 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 34 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [IBM](#ibm) | 74 |
+| [IBM](#ibm) | 77 |
 | [Intel](#intel) | 39 |
 | [Jane Street](#jane-street) | 18 |
 | [Lyft](#lyft) | 15 |
@@ -43,7 +43,7 @@ GitHub Actions.
 | [Netflix](#netflix) | 1 |
 | OpenAI | — |
 | [Oracle](#oracle) | 1 |
-| [PayPal](#paypal) | 8 |
+| [PayPal](#paypal) | 10 |
 | [Perplexity AI](#perplexity-ai) | 3 |
 | [Pinterest](#pinterest) | 11 |
 | Reddit | — |
@@ -54,7 +54,7 @@ GitHub Actions.
 | Spotify | — |
 | [Stripe](#stripe) | 16 |
 | Uber | — |
-| [Visa](#visa) | 8 |
+| [Visa](#visa) | 7 |
 | [Waymo](#waymo) | 34 |
 | Wise | — |
 | ByteDance | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* |
@@ -254,7 +254,6 @@ GitHub Actions.
 |---|---|---|---|---|---|
 | [Security Engineer I (Intern) - United States](https://careers.cisco.com/global/en/job/2025885) | Security | — | Research Triangle Park, North Carolina, United States of America | 2026-11-25 |
 | [Software Engineer Data & AI PhD (Intern) - United States](https://careers.cisco.com/global/en/job/2025611) | AI/ML | PhD | Chicago, Illinois, United States of America; San Jose, California, United States of America; Santa Monica, California, United States of America | 2026-11-20 |
-| [AI Cybersecurity Engineer I (Intern) – United States](https://careers.cisco.com/global/en/job/2030295) 🆕 | Security | — | Research Triangle Park, North Carolina, United States of America | 2026-11-20 |
 | [Software Engineer Embedded Systems I (Intern) - United States](https://careers.cisco.com/global/en/job/2024641) | Backend/Infra | — | Austin, Texas, United States of America; Research Triangle Park, North Carolina, United States of America; San Jose, California, United States of America | 2026-11-10 |
 | [Software Consulting Engineer I (Intern) United States](https://careers.cisco.com/global/en/job/2025180) | Software | — | RESEARCH_TRIANGLE_PARK, North Carolina, United States of America | 2026-10-01 |
 | [Software Engineer Intern](https://careers.cisco.com/global/en/job/2024810) | Software | — | Galway, Ireland | 2026-09-04 |
@@ -395,6 +394,7 @@ GitHub Actions.
 | [[AI Foundation]Research Student Intern](https://careers.ibm.com/careers/JobDetail?jobId=131649) | AI/ML | — | Tokyo, Japan | — |
 | [Summer Research Intern 2027 - Edge communications processing with AI accelerators](https://careers.ibm.com/careers/JobDetail?jobId=134474) | AI/ML | — | Yorktown Heights, United States | — |
 | [Storage Systems Research Scientist Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=132567) | AI/ML | — | San Jose, United States | — |
+| [Software Developer Intern/Tucson-AZ](https://careers.ibm.com/careers/JobDetail?jobId=130092) | Software | — | TUCSON, United States | — |
 | [Software Developer Intern-Rochester, MN](https://careers.ibm.com/careers/JobDetail?jobId=130103) | Software | — | ROCHESTER, United States | — |
 | [Site Reliability Engineer Intern - OneIT - Rochester, MN](https://careers.ibm.com/careers/JobDetail?jobId=132822) | Backend/Infra | — | ROCHESTER, United States | — |
 | [Site Reliability Engineer Intern - OneIT - Poughkeepsie, NY](https://careers.ibm.com/careers/JobDetail?jobId=132880) | Backend/Infra | — | POUGHKEEPSIE, United States | — |
@@ -404,6 +404,7 @@ GitHub Actions.
 | [Research AI Engineer Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=132569) | AI/ML | — | Yorktown Heights, United States | — |
 | [Quantum Security Intern 2027 - Cloud Compliance & Security Tooling](https://careers.ibm.com/careers/JobDetail?jobId=132708) | Security | — | Yorktown Heights, United States | — |
 | [Quantum Information Software Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=134486) | Software | — | Multiple Cities | — |
+| [Quantum Data Scientist Intern - 2027](https://careers.ibm.com/careers/JobDetail?jobId=132776) | Data | — | Yorktown Heights, United States | — |
 | [Quantum Data Analyst Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=132431) | Data | — | Multiple Cities | — |
 | [Quantum Control Systems FPGA Developer Internship 2027](https://careers.ibm.com/careers/JobDetail?jobId=133140) | Software | — | Yorktown Heights, United States | — |
 | [Quantum Control Distributed Runtime Internship 2027](https://careers.ibm.com/careers/JobDetail?jobId=133145) | Backend/Infra | — | Multiple Cities | — |
@@ -425,6 +426,7 @@ GitHub Actions.
 | [Intern Application Developer – Oracle - 2027](https://careers.ibm.com/careers/JobDetail?jobId=128790) | Software | — | BATON ROUGE, United States | — |
 | [Intern Application Developer – Adobe - 2027](https://careers.ibm.com/careers/JobDetail?jobId=128797) | Software | — | Buffalo, United States | — |
 | [Intern Application Developer 2027 – DPE](https://careers.ibm.com/careers/JobDetail?jobId=128825) | Software | — | Chicago, United States | — |
+| [Intern Application Developer - Oracle - 2027](https://careers.ibm.com/careers/JobDetail?jobId=128815) | Software | — | BATON ROUGE, United States | — |
 | [Design Engineer Intern 2027 - Design and Build AI-Native Interfaces](https://careers.ibm.com/careers/JobDetail?jobId=133801) | AI/ML | — | Yorktown Heights, United States | — |
 | [Data Scientist-Artificial Intelligence Internship](https://careers.ibm.com/careers/JobDetail?jobId=123753) | AI/ML | — | ABU DHABI, United Arab Emirates | — |
 | [Back End Developer Intern - Poughkeepsie, NY - 2027](https://careers.ibm.com/careers/JobDetail?jobId=130876) | Backend/Infra | — | POUGHKEEPSIE, United States | — |
@@ -912,14 +914,16 @@ GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Software Engineer Intern](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Tel-Aviv-Tel-Aviv-District-Israel/Software-Engineer-Intern_R0138730) | Software | — | Tel Aviv, Tel Aviv District, Israel | 2026-11-16 |
-| [Software Engineer Intern](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Software-Engineer-Intern_R0138921) | Software | — | 2 Locations | 2026-11-10 |
-| [Software Engineer Intern - Summer 2027](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern---Summer-2027_R0138586) | Software | — | 5 Locations | 2026-11-06 |
-| [Mobile Engineer Intern - Summer 2027](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Mobile-Engineer-Intern---Summer-2027_R0138583) | Mobile | — | 5 Locations | 2026-11-06 |
-| [Machine Learning Engineer PhD Intern - Summer 2027](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-PhD-Intern---Summer-2027_R0138579) | AI/ML | PhD | San Jose, California, United States of America | 2026-11-06 |
-| [Machine Learning Engineer Intern - Summer 2027](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-Intern---Summer-2027_R0138581) | AI/ML | — | San Jose, California, United States of America | 2026-11-06 |
-| [Data Scientist Intern - Summer 2027](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist-Intern---Summer-2027_R0138582) | Data | — | San Jose, California, United States of America | 2026-11-06 |
-| [Cybersecurity Intern - Summer 2027](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Cybersecurity-Intern---Summer-2027_R0138587) | Security | — | 4 Locations | 2026-11-06 |
+| [Software Engineer Intern - Backend](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Software-Engineer-Intern---Backend_R0138931) 🆕 | Backend/Infra | — | Central Singapore, Singapore | 2026-11-18 |
+| [Full Stack Software Engineer Intern](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Full-Stack-Software-Engineer-Intern_R0138930) 🆕 | Software | — | Central Singapore, Singapore | 2026-11-18 |
+| [Cybersecurity Risk Intern](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Cybersecurity-Risk-Intern_R0138933) 🆕 | Security | — | Central Singapore, Singapore | 2026-11-18 |
+| [Cyber Defense Intern](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Cyber-Defense-Intern_R0138932) 🆕 | Security | — | Central Singapore, Singapore | 2026-11-18 |
+| [Software Engineer Intern - Summer 2027](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern---Summer-2027_R0138586) | Software | — | 5 Locations | 2026-11-05 |
+| [Mobile Engineer Intern - Summer 2027](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Mobile-Engineer-Intern---Summer-2027_R0138583) | Mobile | — | 5 Locations | 2026-11-05 |
+| [Machine Learning Engineer PhD Intern - Summer 2027](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-PhD-Intern---Summer-2027_R0138579) | AI/ML | PhD | San Jose, California, United States of America | 2026-11-05 |
+| [Machine Learning Engineer Intern - Summer 2027](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-Intern---Summer-2027_R0138581) | AI/ML | — | San Jose, California, United States of America | 2026-11-05 |
+| [Data Scientist Intern - Summer 2027](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist-Intern---Summer-2027_R0138582) | Data | — | San Jose, California, United States of America | 2026-11-05 |
+| [Cybersecurity Intern - Summer 2027](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Cybersecurity-Intern---Summer-2027_R0138587) | Security | — | 4 Locations | 2026-11-05 |
 
 ## Perplexity AI
 
@@ -1003,13 +1007,12 @@ GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Consulting & Analytics Summer Intern (Dutch Speakers)](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/NL---Amsterdam-Netherlands/Consulting---Analytics-Summer-Intern_REF089622W-2) 🆕 | Data | — | NL - Amsterdam, Netherlands | 2026-11-19 |
-| [Consulting & Analytics Summer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/DE---Frankfurt-Germany/Consulting---Analytics-Summer-Intern_REF089625W-2) | Data | — | DE - Frankfurt, Germany | 2026-11-19 |
-| [Consulting & Analytics Summer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/PT---Lisbon-Portugal/Consulting---Analytics-Summer-Intern_REF090118W-2) 🆕 | Data | — | PT - Lisbon, Portugal | 2026-11-19 |
-| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/PL---Warsaw-Poland/Software-Engineer-Intern_REF089675W-2) | Software | — | PL - Warsaw, Poland | 2026-11-18 |
-| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W) | Software | — | GB - Reading, United Kingdom | 2026-11-13 |
-| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1) | Software | — | GB - Cambridge, United Kingdom | 2026-11-13 |
-| [Consulting & Analytics Summer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/ES---Madrid-Spain/Consulting---Analytics-Summer-Intern_REF089917W-1) | Data | — | ES - Madrid, Spain | 2026-10-29 |
+| [Consulting & Analytics Summer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/DE---Frankfurt-Germany/Consulting---Analytics-Summer-Intern_REF089625W-2) | Data | — | DE - Frankfurt, Germany | 2026-11-26 |
+| [Consulting & Analytics Summer Intern (Dutch Speakers)](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/NL---Amsterdam-Netherlands/Consulting---Analytics-Summer-Intern_REF089622W-2) 🆕 | Data | — | NL - Amsterdam, Netherlands | 2026-11-18 |
+| [Consulting & Analytics Summer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/PT---Lisbon-Portugal/Consulting---Analytics-Summer-Intern_REF090118W-2) 🆕 | Data | — | PT - Lisbon, Portugal | 2026-11-18 |
+| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/PL---Warsaw-Poland/Software-Engineer-Intern_REF089675W-2) | Software | — | PL - Warsaw, Poland | 2026-11-17 |
+| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1) | Software | — | GB - Cambridge, United Kingdom | 2026-11-12 |
+| [Consulting & Analytics Summer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/ES---Madrid-Spain/Consulting---Analytics-Summer-Intern_REF089917W-1) | Data | — | ES - Madrid, Spain | 2026-10-28 |
 | [Staff Research Scientist, Intern - PhD Quantum](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Staff-Research-Scientist--Intern---PhD-Quantum_REF088578W-2) | AI/ML | PhD | US - Foster City, CA | 2026-09-18 |
 
 ## Waymo
