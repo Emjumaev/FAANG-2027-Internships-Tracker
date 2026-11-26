@@ -7,7 +7,7 @@ GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker](https://emjumaev.github.io/FAANG-2027-Internships-Tracker/)**
 
-> 🕐 Last updated: **2026-11-26 11:02:50 UTC** · 📌 **830** open internships
+> 🕐 Last updated: **2026-11-26 21:42:38 UTC** · 📌 **827** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -17,9 +17,9 @@ GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 11 |
 | [Airbnb](#airbnb) | 1 |
-| [Amazon](#amazon) | 109 |
+| [Amazon](#amazon) | 110 |
 | Anthropic | — |
-| [Apple](#apple) | 43 |
+| [Apple](#apple) | 42 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 7 |
 | [Cloudflare](#cloudflare) | 3 |
@@ -31,13 +31,13 @@ GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 34 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [IBM](#ibm) | 77 |
+| [IBM](#ibm) | 75 |
 | [Intel](#intel) | 39 |
 | [Jane Street](#jane-street) | 18 |
 | [Lyft](#lyft) | 15 |
 | Mastercard | — |
-| [Meta](#meta) | 137 |
-| [Microsoft](#microsoft) | 53 |
+| [Meta](#meta) | 136 |
+| [Microsoft](#microsoft) | 54 |
 | [MongoDB](#mongodb) | 4 |
 | [NVIDIA](#nvidia) | 154 |
 | [Netflix](#netflix) | 1 |
@@ -54,7 +54,7 @@ GitHub Actions.
 | Spotify | — |
 | [Stripe](#stripe) | 16 |
 | Uber | — |
-| [Visa](#visa) | 7 |
+| [Visa](#visa) | 6 |
 | [Waymo](#waymo) | 34 |
 | Wise | — |
 | ByteDance | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* |
@@ -90,11 +90,13 @@ GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [2027 Software Dev Engineer Internship, AWS EC2](https://www.amazon.jobs/en/jobs/10615428/2027-software-dev-engineer-internship-aws-ec2) 🆕 | Software | — | Berlin, Berlin, DEU | 2026-11-26 |
 | [Software Development Engineer Intern - 2027, Beijing](https://www.amazon.jobs/en/jobs/10612415/software-development-engineer-intern-2027-beijing) 🆕 | Software | — | Beijing, CHN | 2026-11-24 |
 | [Data Scientist I 6M Intern](https://www.amazon.jobs/en/jobs/10443572/data-scientist-i-6m-intern) 🆕 | Data | — | Chennai, Tamil Nadu, IND | 2026-11-24 |
 | [Front-End Engineer Internship – 2027 (US)](https://www.amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us) 🆕 | Frontend | — | Seattle, Washington, USA | 2026-11-20 |
 | [Business Intelligence Intern Luxembourg](https://www.amazon.jobs/en/jobs/10609138/business-intelligence-intern-luxembourg) 🆕 | Data | — | Luxembourg, LUX | 2026-11-19 |
 | [Software Development Engineer Intern - Artificial General Intelligence (Summer 2027)](https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027) 🆕 | Software | — | Sunnyvale, California, USA | 2026-11-17 |
+| [System Dev Engineer Internship 2027](https://www.amazon.jobs/en/jobs/10535149/system-dev-engineer-internship-2027) 🆕 | Software | — | Cambridge, England, GBR | 2026-11-14 |
 | [2027 Applied Science Internship - Robotics - United States](https://www.amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states) | AI/ML | — | North Reading, Massachusetts, USA | 2026-11-13 |
 | [Data Engineer Internship](https://www.amazon.jobs/en/jobs/10602204/data-engineer-internship) | Data | — | Luxembourg, LUX | 2026-11-11 |
 | [Data Engineer Internship](https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship) | Data | — | London, England, GBR | 2026-11-11 |
@@ -126,7 +128,6 @@ GitHub Actions.
 | [Business Intelligence Intern Spain](https://www.amazon.jobs/en/jobs/10582415/business-intelligence-intern-spain) | Data | — | Madrid, Community of Madrid, ESP | 2026-10-19 |
 | [Business Intelligence Intern Italy](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) | Data | — | Milan, Lombardy, ITA | 2026-10-15 |
 | [Business Intelligence Engineer Internship Turkey](https://www.amazon.jobs/en/jobs/10579683/business-intelligence-engineer-internship-turkey) | Data | — | Istanbul, TUR | 2026-10-15 |
-| [Business Intelligence Engineer Internship France](https://www.amazon.jobs/en/jobs/10579727/business-intelligence-engineer-internship-france) | Data | — | Clichy, Ile-de-France, FRA | 2026-10-15 |
 | [2027 Software Dev Engineer Intern - ZAF](https://www.amazon.jobs/en/jobs/10576864/2027-software-dev-engineer-intern-zaf) | Software | — | Cape Town, Western Cape, ZAF | 2026-10-13 |
 | [2027 Business Developer Intern, Amazon Payments](https://www.amazon.jobs/en/jobs/10576785/2027-business-developer-intern-amazon-payments) | Software | — | Cape Town, Western Cape, ZAF | 2026-10-13 |
 | [(Physical) Security Specialist Intern - 2027 Internship, DUB West](https://www.amazon.jobs/en/jobs/10576777/physical-security-specialist-intern-2027-internship-dub-west) | Security | — | Dublin, IRL | 2026-10-13 |
@@ -211,10 +212,10 @@ GitHub Actions.
 | [Software Engineering Intern (Full-Stack & AI Integration) - Shanghai](https://jobs.apple.com/en-us/details/200695373/software-engineering-intern-full-stack-ai-integration-shanghai) 🆕 | AI/ML | — | Shanghai | 2026-11-18 |
 | [Generative AI Intern - Camera Algorithms](https://jobs.apple.com/en-us/details/200694225/generative-ai-intern-camera-algorithms) | AI/ML | — | Beijing | 2026-11-16 |
 | [Internship - Software Development Intern - Core OS](https://jobs.apple.com/en-us/details/200694476/internship-software-development-intern-core-os) | Software | — | Prague | 2026-11-12 |
-| [Internship - Pro Apps Machine Learning Ecosystem Engineer](https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer) | AI/ML | — | London | 2026-11-12 |
 | [Camera Software (Intern)](https://jobs.apple.com/en-us/details/200694477/camera-software-intern) | Software | — | Cambridge | 2026-11-12 |
 | [Virtualization Software Engineering Internship, CoreOS](https://jobs.apple.com/en-us/details/200694316/virtualization-software-engineering-internship-coreos) | Backend/Infra | — | London | 2026-11-10 |
 | [Machine Learning Engineering Intern, Personal Agentic Search](https://jobs.apple.com/en-us/details/200694037/machine-learning-engineering-intern-personal-agentic-search) | AI/ML | — | Cambridge | 2026-11-10 |
+| [Apple Applied AI & Software Engineering Intern (Finance GBS) - Shanghai](https://jobs.apple.com/en-us/details/200691508/apple-applied-ai-software-engineering-intern-finance-gbs-shanghai) 🆕 | AI/ML | — | Shanghai | 2026-11-06 |
 | [Cellular Baseband Security Research Intern](https://jobs.apple.com/en-us/details/200693660/cellular-baseband-security-research-intern) | Security | — | Paris | 2026-11-05 |
 | [Software Engineer Intern (Full-Stack & AI Agents) - Shanghai](https://jobs.apple.com/en-us/details/200690042/software-engineer-intern-full-stack-ai-agents-shanghai) | AI/ML | — | Shanghai | 2026-11-04 |
 | [Internship -  Machine Learning Research (recurrent models \| generative models \|  interpretability)](https://jobs.apple.com/en-us/details/200692642/internship-machine-learning-research-recurrent-models-generative-models-interpretability) | AI/ML | — | Barcelona | 2026-11-02 |
@@ -233,7 +234,6 @@ GitHub Actions.
 | [AI & Project Operations Intern – Managing Director Office, Greater China](https://jobs.apple.com/en-us/details/200682902/ai-project-operations-intern-managing-director-office-greater-china) | AI/ML | — | Shanghai | 2026-10-09 |
 | [Mac Hardware System Design Engineer Intern (AI Tools for Hardware Engineering)](https://jobs.apple.com/en-us/details/200686707/mac-hardware-system-design-engineer-intern-ai-tools-for-hardware-engineering) | AI/ML | — | Shanghai | 2026-10-08 |
 | [PMU Silicon Validation Intern (m/f/d)](https://jobs.apple.com/en-us/details/200687726/pmu-silicon-validation-intern-m-f-d) | QA | — | Nabern | 2026-10-07 |
-| [AI & Project Operations Intern – Managing Director Office, Greater China](https://jobs.apple.com/en-us/details/200682900/ai-project-operations-intern-managing-director-office-greater-china) | AI/ML | — | Shanghai | 2026-09-29 |
 | [Information Security Internship Program (FY27 Summer Intake)](https://jobs.apple.com/en-us/details/200684585/information-security-internship-program-fy27-summer-intake) | Security | — | Singapore | 2026-09-18 |
 | [Display Supply Quality Engineer Intern](https://jobs.apple.com/en-us/details/200679405/display-supply-quality-engineer-intern) | QA | — | Shenzhen | 2026-08-28 |
 | [Secure Kernel Engineering Intern, Sydney](https://jobs.apple.com/en-us/details/200680345/secure-kernel-engineering-intern-sydney) | Backend/Infra | — | Sydney | 2026-08-27 |
@@ -373,7 +373,6 @@ GitHub Actions.
 | [Software Developer Intern 2027 - Austin](https://careers.ibm.com/careers/JobDetail?jobId=133131) 🆕 | Software | — | Austin, United States | — |
 | [QA/Test Developer ELH - Return Intern](https://careers.ibm.com/careers/JobDetail?jobId=141093) 🆕 | QA | — | Multiple Cities | — |
 | [IBM internship Cloud Fullstack](https://careers.ibm.com/careers/JobDetail?jobId=145216) 🆕 | Backend/Infra | — | Bucharest, Romania | — |
-| [IBM Internship Oracle Application Developer](https://careers.ibm.com/careers/JobDetail?jobId=145236) 🆕 | Software | — | Bucharest, Romania | — |
 | [Hardware Developer Intern - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=130094) 🆕 | Software | — | Austin, United States | — |
 | [Applied AI Research Intern - R&D Internship – 2027 - YORKTOWN HEIGHTS](https://careers.ibm.com/careers/JobDetail?jobId=143000) | AI/ML | — | Yorktown Heights, United States | — |
 | [Oportunidad de Pasantía: Desarrollador(a) de Software](https://careers.ibm.com/careers/JobDetail?jobId=142059) | Software | — | GUADALAJARA, Mexico | — |
@@ -415,7 +414,6 @@ GitHub Actions.
 | [Praktika im Bereich z/OS Softwareentwicklung (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134050) | Software | — | Ehningen, Germany | — |
 | [Microarchitecture / Software Intern  2027 - AI Accelerators Research](https://careers.ibm.com/careers/JobDetail?jobId=132416) | AI/ML | — | Yorktown Heights, United States | — |
 | [Master@IBM Werkstudent - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135456) | Software | MS | Ehningen, Germany | — |
-| [Internship Cloud FullStack Developer](https://careers.ibm.com/careers/JobDetail?jobId=136943) | Backend/Infra | — | Multiple Cities | — |
 | [Internship - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135502) | Software | — | Ehningen, Germany | — |
 | [Intern Data Engineers - AI & Analytics - 2027](https://careers.ibm.com/careers/JobDetail?jobId=128818) | AI/ML | — | BATON ROUGE, United States | — |
 | [Intern Data Engineer - Data Services - 2027](https://careers.ibm.com/careers/JobDetail?jobId=128823) | Data | — | MONROE, United States | — |
@@ -667,7 +665,6 @@ GitHub Actions.
 | [Data Scientist Intern, Product Analytics (PhD) (Summer 2027)](https://www.metacareers.com/jobs/929757023499411) | Data | PhD | Menlo Park, CA | — |
 | [Software Engineering Intern](https://www.metacareers.com/jobs/1952991802037374) | Software | — | Bellevue, WA; Menlo Park, CA; New York, NY *(+1 more)* | — |
 | [Software Engineer Intern, Systems and Infrastructure (PhD)](https://www.metacareers.com/jobs/945520495299801) | Backend/Infra | PhD | Bellevue, WA; Burlingame, CA; Menlo Park, CA *(+4 more)* | — |
-| [Software Engineer Intern, Machine Learning (PhD)](https://www.metacareers.com/jobs/2180490782513668) | AI/ML | PhD | Menlo Park, CA; New York, NY | — |
 | [Data Scientist Intern, Product Analytics (Summer 2027)](https://www.metacareers.com/jobs/1633096478817942) | Data | — | Menlo Park, CA; New York, NY | — |
 | [Research Scientist Intern, Robotics - Meta Superintelligence Labs (PhD)](https://www.metacareers.com/jobs/1940312740718917) | AI/ML | PhD | Menlo Park, CA | — |
 | [Data Engineer Intern, Product Analytics (Summer 2027)](https://www.metacareers.com/jobs/1373603594867455) | Data | — | Menlo Park, CA; New York, NY; Seattle, WA | — |
@@ -676,6 +673,9 @@ GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Research Intern - Machine Learning for Biology and Healthcare](https://apply.careers.microsoft.com/careers/job/1970393557097217) 🆕 | AI/ML | — | United States, Washington, Redmond | 2026-11-25 |
+| [Research Intern - AI Systems Architecture and Efficient LLM Inference](https://apply.careers.microsoft.com/careers/job/1970393557079428) 🆕 | AI/ML | — | United States, Washington, Redmond | 2026-11-24 |
+| [Applied Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556917519) | AI/ML | — | India, Multiple Locations, Multiple Locations | 2026-11-23 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557044053) | Software | — | Finland, Satakunta, Tampere | 2026-11-22 |
 | [Research Intern - AI System Architecture Modeling and Performance](https://apply.careers.microsoft.com/careers/job/1970393557077583) 🆕 | AI/ML | — | United States, Oregon, Hillsboro | 2026-11-20 |
 | [Research Intern - AI /Machine Learning Numerics & Efficiency](https://apply.careers.microsoft.com/careers/job/1970393557076215) 🆕 | AI/ML | — | United States, California, Mountain View; United States, Washington, Redmond | 2026-11-20 |
@@ -709,12 +709,10 @@ GitHub Actions.
 | [Applied Scientist: Internship Opportunities, Turing](https://apply.careers.microsoft.com/careers/job/1970393557050150) | AI/ML | — | United States, Washington, Redmond | 2026-10-29 |
 | [Applied Science: PhD Internship Opportunities, Turing](https://apply.careers.microsoft.com/careers/job/1970393557050154) | AI/ML | PhD | United States, Washington, Redmond | 2026-10-29 |
 | [Research Intern - Machine Learning and Optimization - Redmond](https://apply.careers.microsoft.com/careers/job/1970393557049981) | AI/ML | — | United States, Washington, Redmond | 2026-10-28 |
-| [Applied Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393556917519) | AI/ML | — | India, Multiple Locations, Multiple Locations | 2026-10-26 |
 | [Security Research INTERN](https://apply.careers.microsoft.com/careers/job/1970393557043380) | Security | — | India, Multiple Locations, Multiple Locations | 2026-10-23 |
 | [Applied Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393557043465) | AI/ML | — | Israel, Tel Aviv, Tel Aviv | 2026-10-21 |
 | [Research Intern - Extended Perception Interaction Cognition (EPIC)](https://apply.careers.microsoft.com/careers/job/1970393557043754) | AI/ML | — | United States, Washington, Redmond | 2026-10-19 |
 | [Research Intern - Algorithms Group: Generative Modeling](https://apply.careers.microsoft.com/careers/job/1970393557043740) | AI/ML | — | United States, Washington, Redmond | 2026-10-19 |
-| [Data Science INTERN](https://apply.careers.microsoft.com/careers/job/1970393557042485) | Data | — | Israel, Tel Aviv, Herzliya | 2026-10-18 |
 | [Research Intern - Machine Learning at MSR NYC](https://apply.careers.microsoft.com/careers/job/1970393557042145) | AI/ML | — | United States, Massachusetts, Cambridge; United States, New York, New York | 2026-10-16 |
 | [Research Intern - MSR AI Interaction and Learning](https://apply.careers.microsoft.com/careers/job/1970393557042156) | AI/ML | — | United States, New York, New York; United States, Washington, Redmond | 2026-10-16 |
 | [Research Intern - Agentic Data Memory](https://apply.careers.microsoft.com/careers/job/1970393557040344) | Data | — | United States, Washington, Redmond | 2026-10-16 |
@@ -970,7 +968,7 @@ GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [2027 Generative Media Research Intern](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179) | AI/ML | — | Los Angeles, California | 2026-11-11 |
+| [2027 Generative Media Research Intern](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179) | AI/ML | — | Los Angeles, California | 2026-11-10 |
 
 ## Snowflake
 
@@ -1011,7 +1009,6 @@ GitHub Actions.
 | [Consulting & Analytics Summer Intern (Dutch Speakers)](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/NL---Amsterdam-Netherlands/Consulting---Analytics-Summer-Intern_REF089622W-2) 🆕 | Data | — | NL - Amsterdam, Netherlands | 2026-11-18 |
 | [Consulting & Analytics Summer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/PT---Lisbon-Portugal/Consulting---Analytics-Summer-Intern_REF090118W-2) 🆕 | Data | — | PT - Lisbon, Portugal | 2026-11-18 |
 | [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/PL---Warsaw-Poland/Software-Engineer-Intern_REF089675W-2) | Software | — | PL - Warsaw, Poland | 2026-11-17 |
-| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1) | Software | — | GB - Cambridge, United Kingdom | 2026-11-12 |
 | [Consulting & Analytics Summer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/ES---Madrid-Spain/Consulting---Analytics-Summer-Intern_REF089917W-1) | Data | — | ES - Madrid, Spain | 2026-10-28 |
 | [Staff Research Scientist, Intern - PhD Quantum](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Staff-Research-Scientist--Intern---PhD-Quantum_REF088578W-2) | AI/ML | PhD | US - Foster City, CA | 2026-09-18 |
 
