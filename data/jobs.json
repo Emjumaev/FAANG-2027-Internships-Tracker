@@ -4540,9 +4540,9 @@
       "url": "https://jobs.apple.com/en-us/details/200695373/software-engineering-intern-full-stack-ai-integration-shanghai"
     },
     "apple:200695667": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-24",
+      "closed": "2026-11-27",
       "company": "Apple",
       "degrees": [],
       "external_id": "200695667",
@@ -7768,14 +7768,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=123744"
     },
     "ibm:123753": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-11-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "123753",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "locations": [
         "ABU DHABI, United Arab Emirates"
       ],
@@ -8150,14 +8150,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128784"
     },
     "ibm:128790": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "128790",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "locations": [
         "BATON ROUGE, United States"
       ],
@@ -8214,9 +8214,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128807"
     },
     "ibm:128815": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-25",
+      "closed": "2026-11-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "128815",
@@ -8710,9 +8710,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130074"
     },
     "ibm:130092": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-25",
+      "closed": "2026-11-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "130092",
@@ -8918,9 +8918,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130735"
     },
     "ibm:130758": {
-      "active": true,
+      "active": false,
       "category": "QA",
-      "closed": "2026-11-20",
+      "closed": "2026-11-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "130758",
@@ -9557,14 +9557,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132433"
     },
     "ibm:132434": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-11-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "132434",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "locations": [
         "Yorktown Heights, United States"
       ],
@@ -9605,14 +9605,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132569"
     },
     "ibm:132699": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-11-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "132699",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "locations": [
         "Yorktown Heights, United States"
       ],
@@ -9637,9 +9637,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132704"
     },
     "ibm:132708": {
-      "active": true,
+      "active": false,
       "category": "Security",
-      "closed": "2026-11-22",
+      "closed": "2026-11-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "132708",
@@ -9669,9 +9669,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132725"
     },
     "ibm:132776": {
-      "active": true,
+      "active": false,
       "category": "Data",
-      "closed": "2026-11-25",
+      "closed": "2026-11-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "132776",
@@ -26117,5 +26117,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-27T04:23:11Z"
+  "updated_at": "2026-11-27T14:05:19Z"
 }
