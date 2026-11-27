@@ -8918,7 +8918,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130735"
     },
     "ibm:130758": {
-      "active": false,
+      "active": true,
       "category": "QA",
       "closed": "2026-11-27",
       "company": "IBM",
@@ -9637,7 +9637,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132704"
     },
     "ibm:132708": {
-      "active": false,
+      "active": true,
       "category": "Security",
       "closed": "2026-11-27",
       "company": "IBM",
@@ -26117,5 +26117,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-27T14:05:19Z"
+  "updated_at": "2026-11-27T22:49:35Z"
 }
