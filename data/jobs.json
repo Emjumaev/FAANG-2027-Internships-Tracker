@@ -8214,14 +8214,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=128807"
     },
     "ibm:128815": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "128815",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "BATON ROUGE, United States"
       ],
@@ -8710,14 +8710,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130074"
     },
     "ibm:130092": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "130092",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "TUCSON, United States"
       ],
@@ -8758,9 +8758,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=130095"
     },
     "ibm:130103": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-25",
+      "closed": "2026-11-28",
       "company": "IBM",
       "degrees": [],
       "external_id": "130103",
@@ -9684,14 +9684,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132725"
     },
     "ibm:132776": {
-      "active": false,
+      "active": true,
       "category": "Data",
       "closed": "2026-11-27",
       "company": "IBM",
       "degrees": [],
       "external_id": "132776",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-27",
+      "last_seen": "2026-11-28",
       "locations": [
         "Yorktown Heights, United States"
       ],
@@ -9716,9 +9716,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=132806"
     },
     "ibm:132822": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-11-25",
+      "closed": "2026-11-28",
       "company": "IBM",
       "degrees": [],
       "external_id": "132822",
@@ -9814,9 +9814,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133067"
     },
     "ibm:133127": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-11-25",
+      "closed": "2026-11-28",
       "company": "IBM",
       "degrees": [],
       "external_id": "133127",
@@ -9974,9 +9974,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133782"
     },
     "ibm:133801": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-25",
+      "closed": "2026-11-28",
       "company": "IBM",
       "degrees": [],
       "external_id": "133801",
@@ -10570,9 +10570,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137105"
     },
     "ibm:137106": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-11-22",
+      "closed": "2026-11-28",
       "company": "IBM",
       "degrees": [],
       "external_id": "137106",
@@ -11546,8 +11546,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=146757"
     },
     "ibm:146898": {
-      "active": true,
+      "active": false,
       "category": "Frontend",
+      "closed": "2026-11-28",
       "company": "IBM",
       "degrees": [],
       "external_id": "146898",
@@ -24027,7 +24028,7 @@
       "degrees": [],
       "external_id": "R0047179",
       "first_seen": "2026-10-14",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-28",
       "locations": [
         "Los Angeles, California"
       ],
@@ -24671,7 +24672,7 @@
       ],
       "external_id": "REF088578W",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-28",
       "locations": [
         "US - Foster City, CA"
       ],
@@ -24722,7 +24723,7 @@
       "degrees": [],
       "external_id": "REF089622W",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-28",
       "locations": [
         "NL - Amsterdam, Netherlands"
       ],
@@ -24737,7 +24738,7 @@
       "degrees": [],
       "external_id": "REF089625W",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-28",
       "locations": [
         "DE - Frankfurt, Germany"
       ],
@@ -24752,7 +24753,7 @@
       "degrees": [],
       "external_id": "REF089675W",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-28",
       "locations": [
         "PL - Warsaw, Poland"
       ],
@@ -24943,7 +24944,7 @@
       "degrees": [],
       "external_id": "REF089917W",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-28",
       "locations": [
         "ES - Madrid, Spain"
       ],
@@ -25006,7 +25007,7 @@
       "degrees": [],
       "external_id": "REF090118W",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-28",
       "locations": [
         "PT - Lisbon, Portugal"
       ],
@@ -26254,5 +26255,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-28T07:59:05Z"
+  "updated_at": "2026-11-28T16:59:39Z"
 }
